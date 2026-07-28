@@ -1,0 +1,4338 @@
+{
+  "e9eb2351": {
+    "user_id": "1160878200176513034",
+    "username": "haeun_110908",
+    "name": "여기서 맞짱을 뜨면 어캄;",
+    "description": "Bleeding Hearts 모드로 서로를 3번 이상 죽이세요.",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-04-18T09:35:29.898447",
+    "challenge_id": "529"
+  },
+  "3f13af73": {
+    "user_id": "1160878200176513034",
+    "username": "haeun_110908",
+    "name": "오.얗로베 다이아몬드.야잏썸터끼븐갓댐😎",
+    "description": "I미노 9개를 세워서 쌓은 다음 테트리스를 하세요.",
+    "expected_difficulty": "P8",
+    "status": "registered",
+    "submitted_at": "2026-04-18T09:41:56.144063",
+    "challenge_id": "530"
+  },
+  "5ff5e1a5": {
+    "user_id": "1493750010775605449",
+    "username": "team.pongduo",
+    "name": "hello universe",
+    "description": "reach 4000m in volatile mode. since the original “reach 4000m” challenge was u1, this one’s even harder now.",
+    "expected_difficulty": "Q0",
+    "status": "registered",
+    "submitted_at": "2026-04-18T23:11:54.446534",
+    "challenge_id": "531"
+  },
+  "96d91571": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "ㅆㅂ니뭐하는새기야😡",
+    "description": "듀오모드에서 95% 이상의 기여도로 10층을 가세요.",
+    "expected_difficulty": "G6",
+    "status": "registered",
+    "submitted_at": "2026-04-19T11:00:14.435801",
+    "challenge_id": "532"
+  },
+  "0f8b811c": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "ㅆㅂ니뭐하는새기야😡(EX)",
+    "description": "익스퍼트 모드를 끼고 97.5% 이상의 기여도로 10층에 도달하세요.",
+    "expected_difficulty": "Q3",
+    "status": "registered",
+    "submitted_at": "2026-04-19T11:41:56.915631",
+    "challenge_id": "534"
+  },
+  "0aae1b4d": {
+    "user_id": "1445061268691095678",
+    "username": "minjirno_loharei",
+    "name": "챌린지는 강평ㅋㅋ",
+    "description": "강평이랑 듀오모드를 하세요.",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-04-19T12:17:39.627445",
+    "challenge_id": "533"
+  },
+  "8fce1fca": {
+    "user_id": "1445061268691095678",
+    "username": "minjirno_loharei",
+    "name": "나좀쩌는사람이야ㅋ",
+    "description": "테트리오 베타테스터가 되세요.",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-04-19T12:21:14.803979",
+    "challenge_id": "535"
+  },
+  "730c4a3e": {
+    "user_id": "1468283317723074797",
+    "username": "fffffeew344_85681",
+    "name": "TEMU : 억만장자처럼 쇼핑하기",
+    "description": "테무에서 산 电脑로 泰特里奥를 플레이하세요.",
+    "expected_difficulty": "Q4",
+    "status": "registered",
+    "submitted_at": "2026-04-19T12:26:44.758696",
+    "challenge_id": "536"
+  },
+  "3ac7c07e": {
+    "user_id": "1468283317723074797",
+    "username": "fffffeew344_85681",
+    "name": "嘿，你们这些骗子！",
+    "description": "챌린지 클리어를 조작하세요.",
+    "expected_difficulty": "censored",
+    "status": "registered",
+    "submitted_at": "2026-04-19T12:28:49.086696",
+    "challenge_id": "537"
+  },
+  "4d79e14a": {
+    "user_id": "1468283317723074797",
+    "username": "fffffeew344_85681",
+    "name": "만. 푸는 사실 우리 : 중국의 것!",
+    "description": "<@1264967714095497268> 와 같이.를해 서 빠른 하다 8 Floor를 도moon!",
+    "expected_difficulty": "R2",
+    "status": "pending",
+    "submitted_at": "2026-04-19T12:30:52.415158"
+  },
+  "df2cf9b9": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "최고급 전문가",
+    "description": "퀵플레이에서 『Volatile Garbage』, 『Expert』 모드를 켠 상태로 2000미터에 도달하세요.",
+    "expected_difficulty": "Q0",
+    "status": "registered",
+    "submitted_at": "2026-04-19T12:31:55.919104",
+    "challenge_id": "538"
+  },
+  "bda23bef": {
+    "user_id": "1160878200176513034",
+    "username": "haeun_110908",
+    "name": "정상적인걸만들어주새요ㅠㅠㅠㅠ",
+    "description": "검열 챌린지를 20개 이상 만드세요.",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-04-19T12:32:54.202737",
+    "challenge_id": "539"
+  },
+  "b8d92ac7": {
+    "user_id": "1160878200176513034",
+    "username": "haeun_110908",
+    "name": "我绝不会突然消失。我也支持民主，并且了解天安门事件。",
+    "description": "중국에서 테트리오를 플레이하다가 공산당에게 붙잡히세요.",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-04-19T12:34:58.949992",
+    "challenge_id": "540"
+  },
+  "1445794f": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "비효율",
+    "description": "퀵플레이에서 줄을 깎을때 모든 스핀과 테트리스를 하지 않고 10층에 도달하세요.",
+    "expected_difficulty": "R3",
+    "status": "registered",
+    "submitted_at": "2026-04-19T12:36:27.939566",
+    "challenge_id": "541"
+  },
+  "03ef8cf4": {
+    "user_id": "1160878200176513034",
+    "username": "haeun_110908",
+    "name": "투사주법",
+    "description": "중력 모드를 키고 퀵플레이 1800m에 도달하세요. (단, 3pps 이상이어야 함)",
+    "expected_difficulty": "R3",
+    "status": "registered",
+    "submitted_at": "2026-04-19T12:38:13.194091",
+    "challenge_id": "542"
+  },
+  "224d55c0": {
+    "user_id": "1160878200176513034",
+    "username": "haeun_110908",
+    "name": "아라하시 타비",
+    "description": "눕힌 I만 써서 블리츠 1만점에 도달하세요.",
+    "expected_difficulty": "P9",
+    "status": "registered",
+    "submitted_at": "2026-04-19T12:39:36.561918",
+    "challenge_id": "543"
+  },
+  "03fe310e": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "눈이 먼 마법사",
+    "description": "퀵플레이에서 『Invisible』, 『All Spin』 모드를 켜고 10층에 도달하세요.",
+    "expected_difficulty": "R4",
+    "status": "registered",
+    "submitted_at": "2026-04-19T12:39:49.800749",
+    "challenge_id": "544"
+  },
+  "b633b114": {
+    "user_id": "1160878200176513034",
+    "username": "haeun_110908",
+    "name": "너무 고지식해!",
+    "description": "이론만 빠삭한 이론충이 되세요.",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-04-19T12:40:44.525332",
+    "challenge_id": "545"
+  },
+  "f7e58727": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "에베레스트산 등반 성공!",
+    "description": "퀵플레이에서 에베레스트 산의 높이인 8848m에 도달하세요.",
+    "expected_difficulty": "Q4",
+    "status": "registered",
+    "submitted_at": "2026-04-19T12:41:22.519423",
+    "challenge_id": "546"
+  },
+  "4a3b5135": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "심연의 정복자",
+    "description": "스왐프 워터 모드를 키고 9층에 도달하세요.",
+    "expected_difficulty": "Q4",
+    "status": "registered",
+    "submitted_at": "2026-04-19T12:43:13.365364",
+    "challenge_id": "547"
+  },
+  "f1691bcb": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "Xtreme Survival Mode",
+    "description": "퀵플레이에서 『No Hold』, 『MEssier Garbage』,『Double Hole』, 『Volatile Garbage』 모드를 켜고 10층에 도달하세요.",
+    "expected_difficulty": "Q2",
+    "status": "registered",
+    "submitted_at": "2026-04-19T12:47:24.570494",
+    "challenge_id": "548"
+  },
+  "18cc5d39": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "마리아나 해구 탐험가",
+    "description": "퀵플레이에서 11092m 등반에 성공하세요.",
+    "expected_difficulty": "Q4",
+    "status": "registered",
+    "submitted_at": "2026-04-19T12:58:34.420640",
+    "challenge_id": "549"
+  },
+  "d1a45d88": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "하드하게두구멍에꽂아줄게",
+    "description": "더블홀 가비지 모드를 킨 다음, 구멍 2개에 i미노를 넣어 테트리스를 하세요.",
+    "expected_difficulty": "P6",
+    "status": "registered",
+    "submitted_at": "2026-04-19T12:58:53.961099",
+    "challenge_id": "550"
+  },
+  "7e9159b4": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "그건 '1초 전의 나'다.",
+    "description": "모니터와 키보드 사이에 1초 딜레이를 만들고 40라인을 1분 이내에 완주하세요.",
+    "expected_difficulty": "P13",
+    "status": "registered",
+    "submitted_at": "2026-04-19T13:06:52.736927",
+    "challenge_id": "551"
+  },
+  "e206d7f1": {
+    "user_id": "1493750010775605449",
+    "username": "team.pongduo",
+    "name": "휠체어킹",
+    "description": "휠체어를 만드세요! (Zen ㄱㄴ, 객관적인 기준으로 휠체어라고 인식해야함)",
+    "expected_difficulty": "P4",
+    "status": "registered",
+    "submitted_at": "2026-04-19T13:07:36.300313",
+    "challenge_id": "552"
+  },
+  "c36a2bf4": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "왕관의 무게",
+    "description": "퀵플레이에서 『Expeert』, 『Gravity』 모드를 켜고 2000미터에 도달하세요.",
+    "expected_difficulty": "Q0",
+    "status": "registered",
+    "submitted_at": "2026-04-19T13:07:42.897011",
+    "challenge_id": "553"
+  },
+  "e458d116": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "난입",
+    "description": "테트리오 하는 사람의 집에 쳐들어가서 패작을 하세요.",
+    "expected_difficulty": "censored",
+    "status": "registered",
+    "submitted_at": "2026-04-19T13:08:50.050310",
+    "challenge_id": "554"
+  },
+  "c6975b73": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "볼드모트",
+    "description": "삭발을 하고 올스핀 모드를 킨 다음 10층에 도달하세요.",
+    "expected_difficulty": "R3",
+    "status": "registered",
+    "submitted_at": "2026-04-19T13:12:23.729790",
+    "challenge_id": "555"
+  },
+  "93f05d48": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "과충전 v8",
+    "description": "퀵플레이에서 서지를 450 이상 채우고 끊으세요.",
+    "expected_difficulty": "Q3",
+    "status": "registered",
+    "submitted_at": "2026-04-19T13:13:44.948144",
+    "challenge_id": "556"
+  },
+  "aaccb9f3": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "과충전 v9",
+    "description": "퀵플레이에서 서지를 500 이상 채우고 끊으세요.",
+    "expected_difficulty": "Q4",
+    "status": "registered",
+    "submitted_at": "2026-04-19T13:13:52.839183",
+    "challenge_id": "557"
+  },
+  "2f802883": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "배터리 0%",
+    "description": "퀵플레이에서 서지를 5 채우고 끊으세요.",
+    "expected_difficulty": "P8",
+    "status": "registered",
+    "submitted_at": "2026-04-19T13:15:21.604691",
+    "challenge_id": "558"
+  },
+  "7bf3e2f5": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "초고속 충전기",
+    "description": "퀵플레이에서 서지 100을 7층에 도달하기 전에 달성하세요.",
+    "expected_difficulty": "R3",
+    "status": "registered",
+    "submitted_at": "2026-04-19T13:18:01.867087",
+    "challenge_id": "559"
+  },
+  "3203ab3d": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "과충전 v69",
+    "description": "서지를 6974 채우세요.",
+    "expected_difficulty": "T4",
+    "status": "registered",
+    "submitted_at": "2026-04-19T13:18:42.239386",
+    "challenge_id": "560"
+  },
+  "e55a5ff8": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "소음공해(Ex)",
+    "description": "테트리오 소리만으로 120데시벨을 달성하세요.",
+    "expected_difficulty": "gimmick",
+    "status": "registered",
+    "submitted_at": "2026-04-19T13:21:42.013743",
+    "challenge_id": "561"
+  },
+  "1539ceb7": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "PJSK is that way.",
+    "description": "퀵플레이에서 3939m를 정확히 달성하세요.(오차범위 +-10m)",
+    "expected_difficulty": "Q0",
+    "status": "registered",
+    "submitted_at": "2026-04-19T13:26:26.503781",
+    "challenge_id": "562"
+  },
+  "5936ec14": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "OMG 100,000 DOLLAR!! OH NO ZIMBABWE DOLLAR!!!!",
+    "description": "테트리오 서포터를 6개월 이상 선물하세요.",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-04-19T13:27:52.163720",
+    "challenge_id": "563"
+  },
+  "9ff73f04": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "순간이동",
+    "description": "퀵플레이에서 1층에서 7층까지 2분 이내로 달성하세요.",
+    "expected_difficulty": "R2",
+    "status": "registered",
+    "submitted_at": "2026-04-19T13:29:13.288066",
+    "challenge_id": "564"
+  },
+  "a9f1d448": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "이쌰갈내랭크ㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠ",
+    "description": "강등전에서 인터넷 문제로 판정패 당해서 강등당하세요.",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-04-19T13:34:40.542890",
+    "challenge_id": "565"
+  },
+  "878dbc33": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "강기분 수강",
+    "description": "강평ㅋㅋ에게 테트리오 강좌를 받으세요.",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-04-19T13:39:34.801341",
+    "challenge_id": "566"
+  },
+  "2ccc05f9": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "천상연분",
+    "description": "퀵플레이에서 듀오 모드를 켜고 3000m를 도달하세요.",
+    "expected_difficulty": "Q0",
+    "status": "registered",
+    "submitted_at": "2026-04-19T13:41:34.863653",
+    "challenge_id": "567"
+  },
+  "ee49c0ce": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "지퍼(Jipper)가 되고싶어!",
+    "description": "솔로 커스텀 모드에서 지퍼(Zipper) 모양의 구멍을 18칸 이상 만드세요.",
+    "expected_difficulty": "P16",
+    "status": "registered",
+    "submitted_at": "2026-04-19T13:43:07.281705",
+    "challenge_id": "572"
+  },
+  "47c6a68d": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "Q. 혹시 어떤 리듬게임을 하시나요? A. 테트리스요.",
+    "description": "테트리스 리듬게임을 구매하고 플레이하세요!",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-04-19T13:45:35.532138",
+    "challenge_id": "568"
+  },
+  "b3265c6a": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "모짜렐라 치즈",
+    "description": "퀵플레이에서 『Messier Garbage』, 『Double Hole Garbage』 모드를 켜고 10층에 도달하세요.",
+    "expected_difficulty": "R2",
+    "status": "registered",
+    "submitted_at": "2026-04-19T13:53:13.072214",
+    "challenge_id": "569"
+  },
+  "f6a5ac39": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "절대군주",
+    "description": "퀵플레이에서 엑스퍼트 모드로 2000m를 달성하세요.",
+    "expected_difficulty": "R4",
+    "status": "registered",
+    "submitted_at": "2026-04-21T13:16:01.119179",
+    "challenge_id": "570"
+  },
+  "aa036b15": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "불가능을 가능으로",
+    "description": "impossible 챌린지를 깨세요.",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-04-21T13:19:55.702486",
+    "challenge_id": "571"
+  },
+  "bfad638b": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "아카네 리제",
+    "description": "z미노 만으로로 블리츠 2만점을 달성하세요.",
+    "expected_difficulty": "P15",
+    "status": "registered",
+    "submitted_at": "2026-04-21T13:40:49.574912",
+    "challenge_id": "574"
+  },
+  "0c50f94d": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "아이리 칸나",
+    "description": "블리츠 100만점을 찍고 블리츠를 졸업하세요.",
+    "expected_difficulty": "G4",
+    "status": "registered",
+    "submitted_at": "2026-04-21T13:46:00.628062",
+    "challenge_id": "573"
+  },
+  "471142a9": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "김블루 강지 우결 bro what??",
+    "description": "파란색 계열 미노만 쓰고 블리츠 20만점을 달성하세요.",
+    "expected_difficulty": "P20",
+    "status": "registered",
+    "submitted_at": "2026-04-21T13:48:46.864243",
+    "challenge_id": "575"
+  },
+  "dffeed85": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "OMG I HIT THE JACKPOT!!!!!!!!!!!!!!!",
+    "description": "퀵플레이에서 7777m를 정확히 달성하세요.",
+    "expected_difficulty": "Q2",
+    "status": "registered",
+    "submitted_at": "2026-04-21T14:35:40.850092",
+    "challenge_id": "576"
+  },
+  "6903f66b": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "Powerful",
+    "description": "퀵플레이에서 3분 이상 90apm을 유지하세요.",
+    "expected_difficulty": "R1",
+    "status": "registered",
+    "submitted_at": "2026-04-21T14:59:24.810143",
+    "challenge_id": "577"
+  },
+  "0b7d9058": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "name": "과충전 (Feet Only)",
+    "description": "퀵플레이에서 발로만 조작해 서지 24를 모으세요!",
+    "expected_difficulty": "R3",
+    "status": "registered",
+    "submitted_at": "2026-04-22T10:52:05.602003",
+    "challenge_id": "578"
+  },
+  "962a3879": {
+    "user_id": "1493750010775605449",
+    "username": "team.pongduo_34677",
+    "name": "무회전 장인",
+    "description": "회전 키 사용 10회 이하로 40라인 완주",
+    "expected_difficulty": "P15",
+    "status": "registered",
+    "submitted_at": "2026-04-22T13:59:56.371677",
+    "challenge_id": "579"
+  },
+  "aa1c4d74": {
+    "user_id": "1493750010775605449",
+    "username": "team.pongduo_34677",
+    "name": "700m의 벽",
+    "description": "퀵플레이에서 게임 내내 20apm 이하로 700m 가기",
+    "expected_difficulty": "R1",
+    "status": "registered",
+    "submitted_at": "2026-04-22T14:01:34.484601",
+    "challenge_id": "580"
+  },
+  "ab30eac1": {
+    "user_id": "1493750010775605449",
+    "username": "team.pongduo_34677",
+    "name": "리듬 테트리오",
+    "description": "음악 BPM 120 기준으로 블록을 정확히 박자에 맞춰 500m 가기 (오차 ±0.1초)",
+    "expected_difficulty": "R0",
+    "status": "registered",
+    "submitted_at": "2026-04-22T14:04:49.792774",
+    "challenge_id": "581"
+  },
+  "5957b82c": {
+    "user_id": "1493750010775605449",
+    "username": "team.pongduo_34677",
+    "name": "차별주의자",
+    "description": "Z/S 미노가 뜰 때만 즉시 하드드롭 (0.3초 이내)해서 라운드 이기기",
+    "expected_difficulty": "gimmick",
+    "status": "registered",
+    "submitted_at": "2026-04-22T14:05:46.467896",
+    "challenge_id": "582"
+  },
+  "1a722a65": {
+    "user_id": "1493750010775605449",
+    "username": "team.pongduo_34677",
+    "name": "THE WORLD",
+    "description": "7번째 미노가 나올 때마다 1초 정지 후 둬서 10층 가기",
+    "expected_difficulty": "R1",
+    "status": "registered",
+    "submitted_at": "2026-04-22T14:07:36.134495",
+    "challenge_id": "583"
+  },
+  "9d7599bf": {
+    "user_id": "1493750010775605449",
+    "username": "team.pongduo_34677",
+    "name": "81",
+    "description": "81스태킹만 해서 10층에 도달하세요!",
+    "expected_difficulty": "R4",
+    "status": "registered",
+    "submitted_at": "2026-04-22T14:09:47.116484",
+    "challenge_id": "584"
+  },
+  "8efd4330": {
+    "user_id": "1493750010775605449",
+    "username": "team.pongduo_34677",
+    "name": "역피네스",
+    "description": "최악의 피네스로만 미노를 둬서 40l 1분 이내에 완주하기 (ex. J미노 왼쪽 키 1번 대신 오른쪽 키 3번 누르기)",
+    "expected_difficulty": "gimmick",
+    "status": "registered",
+    "submitted_at": "2026-04-22T14:11:06.923615",
+    "challenge_id": "585"
+  },
+  "7b68c1ac": {
+    "user_id": "840063640681054228",
+    "username": "justicedragon4",
+    "name": "공허 추종자",
+    "description": "올스핀 리버스 모드로 백투백을 잇지 않고 10층을 가세요.",
+    "expected_difficulty": "Q1",
+    "status": "registered",
+    "submitted_at": "2026-04-23T09:11:06.235842",
+    "challenge_id": "586"
+  },
+  "5b29d656": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "Retro Classic",
+    "description": "퀵플레이에서 『No Hold』, 『Gravity』 모드를 켜고 10층에 도달하세요.",
+    "expected_difficulty": "Q0",
+    "status": "pending",
+    "submitted_at": "2026-04-23T10:31:32.717126"
+  },
+  "62942f0c": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "name": "검지 봉인",
+    "description": "검지 손가락 없이 조작해 퀵플레이 500m를 가세요! (손캠 필요)",
+    "expected_difficulty": "P17",
+    "status": "registered",
+    "submitted_at": "2026-04-23T14:20:23.250016",
+    "challenge_id": "587"
+  },
+  "3ad187ad": {
+    "user_id": "1493750010775605449",
+    "username": "team.pongduo_34677",
+    "name": "무소음 드롭",
+    "description": "하드드랍 없이 2층 가기",
+    "expected_difficulty": "P3",
+    "status": "registered",
+    "submitted_at": "2026-04-23T16:29:26.866936",
+    "challenge_id": "588"
+  },
+  "f66d05ec": {
+    "user_id": "1493750010775605449",
+    "username": "team.pongduo_34677",
+    "name": "1회",
+    "description": "라인 클리어를 딱 한번만 해서 2층 가기",
+    "expected_difficulty": "P9",
+    "status": "registered",
+    "submitted_at": "2026-04-23T16:30:44.627250",
+    "challenge_id": "589"
+  },
+  "ed65a956": {
+    "user_id": "1493750010775605449",
+    "username": "team.pongduo_34677",
+    "name": "하자 있는 플레이",
+    "description": "c3w 혹은 s3w로만 2층 가기",
+    "expected_difficulty": "P3",
+    "status": "registered",
+    "submitted_at": "2026-04-23T16:31:42.865595",
+    "challenge_id": "590"
+  },
+  "ac9ea8fa": {
+    "user_id": "1493750010775605449",
+    "username": "team.pongduo_34677",
+    "name": "트리플 매니아",
+    "description": "트리플만 해서 3층 가기",
+    "expected_difficulty": "P6",
+    "status": "registered",
+    "submitted_at": "2026-04-23T16:34:29.331373",
+    "challenge_id": "591"
+  },
+  "32be2db0": {
+    "user_id": "1493750010775605449",
+    "username": "team.pongduo_34677",
+    "name": "TIDAL WAVE",
+    "description": "10층을 가면 됩니다! 다만 매 층마다 조건이 있습니다. / 1층: F8을 키고있으세요! / 2층: 백투백을 끊지 마세요! / 3층: 백투백을 잇지 마세요! / 4층: 깎기만 하세요! / 5층: 올스핀을 쓰지 마세요! / 6층: I를 쓰지 마세요! / 7층: 등반속도 7 이하를 유지하세요! / 8층: 8층부터 백투백 10을 모으고 끊으세요! / 9층: 어떠한 스핀도 쓰지 마세요!",
+    "expected_difficulty": "R2",
+    "status": "registered",
+    "submitted_at": "2026-04-24T09:14:08.775144",
+    "challenge_id": "592"
+  },
+  "348a53fa": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "우릴 과연 막을 수 있을까?",
+    "description": "퀵플레이에서 『The Lover』 모드를 켜고 5분 안에 3000미터에 도달하세요.",
+    "expected_difficulty": "Q0",
+    "status": "registered",
+    "submitted_at": "2026-04-24T09:18:16.074549",
+    "challenge_id": "593"
+  },
+  "3aa6a6f3": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "모두에게 존경받는 듀오",
+    "description": "퀵플레이에서 『The Lover』 모드를 켜고 5분 이내에 5000미터를 달성하세요.",
+    "expected_difficulty": "Q4",
+    "status": "registered",
+    "submitted_at": "2026-04-24T09:19:38.985479",
+    "challenge_id": "594"
+  },
+  "f0b87474": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "치즈 그리고 치즈",
+    "description": "퀵플레이에서 『Messier Garbage』, 『Double Hole Garbage』 모드를 켜고 2300미터에 도달하세요.",
+    "expected_difficulty": "R3",
+    "status": "registered",
+    "submitted_at": "2026-04-24T09:25:05.206405",
+    "challenge_id": "595"
+  },
+  "751f5ff9": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "깎기 장인",
+    "description": "퀵플레이에서 『Messier Garbage』, 『Double Hole Garbage』 모드를 켜고 T미노와 I미노를 제외한 미노로만 줄을 지워서 10층에 도달하세요.",
+    "expected_difficulty": "R4",
+    "status": "registered",
+    "submitted_at": "2026-04-24T09:26:34.404654",
+    "challenge_id": "596"
+  },
+  "41368d36": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "강한 한방이군요!",
+    "description": "퀵플레이에서 아무런 모드와 오프너 빌드를 사용하지 않고 5콤보 이상에서의 멀티플라이어 테트리스를 성공하세요.",
+    "expected_difficulty": "R2",
+    "status": "registered",
+    "submitted_at": "2026-04-24T09:29:23.533880",
+    "challenge_id": "597"
+  },
+  "6e07149b": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "아쉬운거죠 뭐...",
+    "description": "퀵플레이에서 10층 직전(배경이 하얗게 변하는 부분)에서 죽으세요.",
+    "expected_difficulty": "P20",
+    "status": "registered",
+    "submitted_at": "2026-04-24T09:40:14.511622",
+    "challenge_id": "598"
+  },
+  "ec443e0e": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "이건 좀 아니지 않나요?",
+    "description": "퀵플레이에서 시작하자마자 하드드랍을 10번을 누르고 시작해서 10층에 도달하세요.",
+    "expected_difficulty": "G1",
+    "status": "registered",
+    "submitted_at": "2026-04-24T09:41:57.231734",
+    "challenge_id": "599"
+  },
+  "b673e8dc": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "제니스 타워의 붕괴",
+    "description": "제니스 타워를 지탱하던 보석에 담겨있는 힘이 사라지면서 붕괴될 위험에 처했습니다. 보석의 힘은 약 2시간 안에 소진될 예정이며, 힘을 되찾기 위해서는 여러 임무를 수행해야 합니다. ① 제니스 타워 10층에 3번 도달하세요. 정상에 위치한 보석을 확보해야 합니다. ② 『Expert』, 『No Hold』, 『Double Hole Garbage』 모드를 켜고 10층에 도달하세요. 힘을 되찾은 보석을 원래 위치에 다시 비치해둬야 합니다. ③ 『All Spin』 모드를 켜고 2222m에 도달하세요. 보석을 보호할 결계를 생성하려면 마법사의 도움이 필요합니다. 모든 것은 여러분에게 달렸습니다. 행운을 빕니다.",
+    "expected_difficulty": "Q2",
+    "status": "registered",
+    "submitted_at": "2026-04-24T09:43:33.721508",
+    "challenge_id": "600"
+  },
+  "e055ce2b": {
+    "user_id": "1493750010775605449",
+    "username": "team.pongduo_34677",
+    "name": "저 하늘의 별",
+    "description": "퀵플레이에서 10층 이후에 보이는 배경의 별을 보고 실제 사망처리가 되세요..?",
+    "expected_difficulty": "censored",
+    "status": "registered",
+    "submitted_at": "2026-04-24T15:53:21.126085",
+    "challenge_id": "601"
+  },
+  "4141c45b": {
+    "user_id": "1493750010775605449",
+    "username": "team.pongduo_34677",
+    "name": "위쪽 공기 좋은데?",
+    "description": "10판 연속으로 10층을 가세요!",
+    "expected_difficulty": "R1",
+    "status": "registered",
+    "submitted_at": "2026-04-25T00:34:30.164347",
+    "challenge_id": "602"
+  },
+  "b631b3f9": {
+    "user_id": "840063640681054228",
+    "username": "justicedragon4",
+    "name": "유사 디아오",
+    "description": "테트라 리그에서 순간 vs 500을 넘기세요.",
+    "expected_difficulty": "R2",
+    "status": "registered",
+    "submitted_at": "2026-04-25T02:07:59.970507",
+    "challenge_id": "603"
+  },
+  "4d86b67d": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "하지만 빨랐죠?",
+    "description": "상대보다 높은 pps로 리그를 패배하세요.",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-04-25T15:41:24.444164",
+    "challenge_id": "604"
+  },
+  "871ce9d2": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "뭐하는 애임?",
+    "description": "40라인에서 45초 안에 싱글을 40번 하세요.",
+    "expected_difficulty": "R0",
+    "status": "registered",
+    "submitted_at": "2026-04-25T15:42:59.589247",
+    "challenge_id": "605"
+  },
+  "21f7321f": {
+    "user_id": "1445061268691095678",
+    "username": "minjirno_loharei",
+    "name": "Earth",
+    "description": "퀵 플레이에서 오프너 없이 4층에 도달하세요.",
+    "expected_difficulty": "P9",
+    "status": "registered",
+    "submitted_at": "2026-04-25T16:02:04.849846",
+    "challenge_id": "606"
+  },
+  "ebf61ef1": {
+    "user_id": "1445061268691095678",
+    "username": "minjirno_loharei",
+    "name": "Moon",
+    "description": "퀵 플레이에서 385m를 달성하세요.",
+    "expected_difficulty": "P7",
+    "status": "registered",
+    "submitted_at": "2026-04-25T16:05:03.240748",
+    "challenge_id": "607"
+  },
+  "3aef10a0": {
+    "user_id": "1445061268691095678",
+    "username": "minjirno_loharei",
+    "name": "Mercury",
+    "description": "스왐프 워터로 25m를 달성하세요.",
+    "expected_difficulty": "P13",
+    "status": "registered",
+    "submitted_at": "2026-04-25T16:07:23.920374",
+    "challenge_id": "609"
+  },
+  "56f7b9df": {
+    "user_id": "1445061268691095678",
+    "username": "minjirno_loharei",
+    "name": "Venus",
+    "description": "퀵 플레이에서 홀드를 10번 이하로 쓰고 5층에 도달하세요.",
+    "expected_difficulty": "P16",
+    "status": "registered",
+    "submitted_at": "2026-04-25T16:08:41.317430",
+    "challenge_id": "608"
+  },
+  "0323afb2": {
+    "user_id": "1493750010775605449",
+    "username": "team.pongduo_34677",
+    "name": "옆집은 G1 여긴 epic",
+    "description": "얼불춤 sns my beloved를 깨세요!",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-04-26T02:03:33.124709",
+    "challenge_id": "610"
+  },
+  "76b72337": {
+    "user_id": "1493750010775605449",
+    "username": "team.pongduo_34677",
+    "name": "U9같은에픽",
+    "description": "얼불춤 Eternal SubconsciencƎ를 플레이하세요! 안깨도됨",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-04-26T02:31:58.953007",
+    "challenge_id": "611"
+  },
+  "0825d67c": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "name": "도망칠 수 없는 결계",
+    "description": "\"the escape artist\" 모드로 1000m를 달성하세요!",
+    "expected_difficulty": "G1",
+    "status": "registered",
+    "submitted_at": "2026-04-26T10:27:01.290748",
+    "challenge_id": "612"
+  },
+  "5b855e90": {
+    "user_id": "1493750010775605449",
+    "username": "team.pongduo_34677",
+    "name": "beyond the reaches (SS)",
+    "description": "얼불 beyond the reaches (g1) 맵을 99.8% 이상으로 깨세요!",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-04-30T10:35:32.028131",
+    "challenge_id": "613"
+  },
+  "8e1561dc": {
+    "user_id": "1493750010775605449",
+    "username": "team.pongduo_34677",
+    "name": "beyond the reaches (blind)",
+    "description": "얼불 beyond the reaches(g1)맵을 블라인드로 깨세요",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-04-30T10:40:52.961925",
+    "challenge_id": "614"
+  },
+  "5c9b9016": {
+    "user_id": "840063640681054228",
+    "username": "justicedragon4",
+    "name": "빅나티를변기에넣고내려",
+    "description": "패작을 하세요.",
+    "expected_difficulty": "censored",
+    "status": "registered",
+    "submitted_at": "2026-05-02T08:12:39.076648",
+    "challenge_id": "615"
+  },
+  "48a9f95c": {
+    "user_id": "840063640681054228",
+    "username": "justicedragon4",
+    "name": "<:darkmatterflamingo:1494960891576189159>",
+    "description": "매그너스 칼슨을 상대로 이기세요.",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-05-02T08:13:51.245383",
+    "challenge_id": "616"
+  },
+  "3be23ce7": {
+    "user_id": "840063640681054228",
+    "username": "justicedragon4",
+    "name": "챌린지좀깨😡 😡 😡 😡 😡 😡",
+    "description": "챌린지를 1년동안 안깨세요.",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-05-02T08:15:11.181832",
+    "challenge_id": "617"
+  },
+  "6f4ec73f": {
+    "user_id": "840063640681054228",
+    "username": "justicedragon4",
+    "name": "혹시펨돔좋아하세요??",
+    "description": "이성끼리 듀오모드를 해서 여성 쪽이 기여도 80% 이상을 달성하세요.",
+    "expected_difficulty": "censored",
+    "status": "registered",
+    "submitted_at": "2026-05-02T08:18:53.798475",
+    "challenge_id": "618"
+  },
+  "566856da": {
+    "user_id": "840063640681054228",
+    "username": "justicedragon4",
+    "name": "bro 나 앞이 안보여",
+    "description": "모니터를 가리고 Invisible 모드 리버스를 킨 다음 10층을 가세요.",
+    "expected_difficulty": "Q0",
+    "status": "registered",
+    "submitted_at": "2026-05-02T08:20:11.676324",
+    "challenge_id": "619"
+  },
+  "ad324eef": {
+    "user_id": "840063640681054228",
+    "username": "justicedragon4",
+    "name": "왕과 사는 남자",
+    "description": "엑스퍼트 모드랑 듀오 모드를 끼고 버스를 받으세요.",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-05-02T08:21:33.860914",
+    "challenge_id": "620"
+  },
+  "0ddebab3": {
+    "user_id": "840063640681054228",
+    "username": "justicedragon4",
+    "name": "이건걍핵이잔아😡",
+    "description": "순간 apm 400 이상을 달성하세요.",
+    "expected_difficulty": "Q0",
+    "status": "registered",
+    "submitted_at": "2026-05-02T08:26:17.039834",
+    "challenge_id": "621"
+  },
+  "fc147793": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "세피르 카드의 힘",
+    "description": "swamp water lite로 2층에 도달하세요!",
+    "expected_difficulty": "P19",
+    "status": "registered",
+    "submitted_at": "2026-05-03T16:18:22.731311",
+    "challenge_id": "622"
+  },
+  "616d8acf": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "불순한 t미노",
+    "description": "t미노를 ㅗ 모양으로만 둬서 10층 가기",
+    "expected_difficulty": "R2",
+    "status": "registered",
+    "submitted_at": "2026-05-03T16:29:38.581052",
+    "challenge_id": "623"
+  },
+  "bb98dc29": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "로미오와 줄리엣",
+    "description": "끝까지 사랑을 유지하기 위해 서로 한번도 안죽고 5층에 도달하세요!",
+    "expected_difficulty": "P11",
+    "status": "registered",
+    "submitted_at": "2026-05-03T16:32:02.488230",
+    "challenge_id": "624"
+  },
+  "32208e97": {
+    "user_id": "1493750010775605449",
+    "username": "team.pongduo_34677",
+    "name": "기만 pro",
+    "description": "채팅에 뉴비라고 해서 욕먹으세요!",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-05-03T23:52:31.764208",
+    "challenge_id": "625"
+  },
+  "5bea1779": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "name": "그리고, 다시금 타오르리라.",
+    "description": "5pps로 포와이드 100콤보를 달성하세요!",
+    "expected_difficulty": "G8",
+    "status": "registered",
+    "submitted_at": "2026-05-04T06:35:29.506062",
+    "challenge_id": "626"
+  },
+  "272a8535": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "name": "이윽고, 마음을 불태워라.",
+    "description": "5pps로 포와이드 200콤보를 달성하세요!",
+    "expected_difficulty": "G15",
+    "status": "registered",
+    "submitted_at": "2026-05-04T06:36:41.203647",
+    "challenge_id": "627"
+  },
+  "277a5bf7": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[포와이드: ???]",
+    "description": "포와이드에서 4000콤보를 이으세요.",
+    "expected_difficulty": "Q3",
+    "status": "registered",
+    "submitted_at": "2026-05-07T06:07:13.349193",
+    "challenge_id": "628"
+  },
+  "233308ec": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[포와이드: 허무(虛無)]",
+    "description": "포와이드에서 5000콤보를 이으세요.",
+    "expected_difficulty": "Q4",
+    "status": "registered",
+    "submitted_at": "2026-05-07T06:08:55.617780",
+    "challenge_id": "629"
+  },
+  "1a569d67": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "마법(물리)",
+    "description": "warlock 모드로 백투백 10을 달성하세요!",
+    "expected_difficulty": "P17",
+    "status": "registered",
+    "submitted_at": "2026-05-09T09:59:38.115937",
+    "challenge_id": "630"
+  },
+  "f7143934": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "한국인 특",
+    "description": "누군가가 세계기록을 깼을 때 gg 대신 ㅎㅎ를 치세요!",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-05-09T13:43:40.603441",
+    "challenge_id": "632"
+  },
+  "ca59ebbc": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "name": "우주 포와 퍼클 왕",
+    "description": "솔로 커스텀 모드에서 포와이드로 2분안에 퍼클을 125번 이상 하세요!",
+    "expected_difficulty": "G19",
+    "status": "registered",
+    "submitted_at": "2026-05-10T08:54:14.599832",
+    "challenge_id": "631"
+  },
+  "66bc3b97": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "name": "다중차원 포와 퍼클 왕",
+    "description": "솔로 커스텀 모드에서 포와이드로 2분안에 퍼클을 150번 이상 하세요!",
+    "expected_difficulty": "U1",
+    "status": "registered",
+    "submitted_at": "2026-05-10T08:58:35.735532",
+    "challenge_id": "633"
+  },
+  "681a2195": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "name": "주님 또 한명 갑니다",
+    "description": "포와이드로 정확히 999콤을 하세요!",
+    "expected_difficulty": "G15",
+    "status": "registered",
+    "submitted_at": "2026-05-10T09:05:38.164394",
+    "challenge_id": "634"
+  },
+  "266c0794": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "sillyshark",
+    "description": "finish 40l at 6pps or more",
+    "expected_difficulty": "Q1",
+    "status": "registered",
+    "submitted_at": "2026-05-10T09:24:05.077113",
+    "challenge_id": "635"
+  },
+  "2c761395": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "키보드 부자",
+    "description": "왼손은 커세어 k70, 오른손은 m1 pro max 2로 스프린트를 완주하세요.",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-05-10T15:09:50.543550",
+    "challenge_id": "636"
+  },
+  "f3d14108": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "name": "오프너메인 폐관수련",
+    "description": "3가방 퍼클 빌드(TDpc, SDPC 등)와 DPC만을 사용하여 블리츠 70만점 이상을 달성하세요!",
+    "expected_difficulty": "R3",
+    "status": "registered",
+    "submitted_at": "2026-05-12T20:44:04.167785",
+    "challenge_id": "637"
+  },
+  "41dc75b6": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "name": "실전에서도 이렇게 됐으면...",
+    "description": "블리츠에서 15번 이상의 퍼클을 성공후 클리어하세요!",
+    "expected_difficulty": "G10",
+    "status": "registered",
+    "submitted_at": "2026-05-12T20:45:47.775543",
+    "challenge_id": "638"
+  },
+  "14fb15fc": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "name": "나도 이제 블리츠 전문가",
+    "description": "블리츠 국내 랭킹 100위안에 드세요!",
+    "expected_difficulty": "R2",
+    "status": "registered",
+    "submitted_at": "2026-05-12T20:46:43.626017",
+    "challenge_id": "639"
+  },
+  "def59f63": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "name": "오프너메인 기초다지기",
+    "description": "3가방 퍼클 빌드(TDpc, SDPC 등)와 DPC만을 사용하여 블리츠 40만점 이상을 달성하세요!",
+    "expected_difficulty": "G8",
+    "status": "registered",
+    "submitted_at": "2026-05-13T07:28:35.620376",
+    "challenge_id": "640"
+  },
+  "94dc8514": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "name": "실전에서도 이렇게 될까?",
+    "description": "블리츠에서 10번 이상의 퍼클을 성공후 클리어하세요!",
+    "expected_difficulty": "G1",
+    "status": "registered",
+    "submitted_at": "2026-05-13T07:29:48.302995",
+    "challenge_id": "641"
+  },
+  "92e923e7": {
+    "user_id": "1218889894659625070",
+    "username": "pongiscute",
+    "name": "I can",
+    "description": "첫번째 판엔 2,000~2,050m 사이에서 죽고 두번째 판에 expert모드로 첫번째 판 기록의 절반만큼 가기 (연속이여야 함, 영상필요)",
+    "expected_difficulty": "G6",
+    "status": "registered",
+    "submitted_at": "2026-05-14T00:44:14.329594",
+    "challenge_id": "642"
+  },
+  "3a67b7e9": {
+    "user_id": "1218889894659625070",
+    "username": "pongiscute",
+    "name": "살상 무기 ( QUAD )",
+    "description": "퀵플에서 한판에 quad를 10번 하세요!",
+    "expected_difficulty": "P6",
+    "status": "registered",
+    "submitted_at": "2026-05-14T03:12:33.334914",
+    "challenge_id": "643"
+  },
+  "05cdd006": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "T미노의 시련",
+    "description": "퀵플레이에서 아무런 모드를 켜지 않은 상태로 미노 350개를 사용해 T스핀 더블을 40번 이상 성공하세요.",
+    "expected_difficulty": "R3",
+    "status": "registered",
+    "submitted_at": "2026-05-14T03:35:28.157610",
+    "challenge_id": "644"
+  },
+  "45763873": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "𝓝𝓮𝓸𝓭𝓚𝓪",
+    "description": "\"두 인물이 되어 빛을 내리라.\" - 첫번째에는 1.0m, 두번째에는 2999.9m를 간 뒤 마지막은 듀오모드로 1,500.0m를 가세요! (연속플레이 요구, 영상 자료 요구, 마지막 듀오 제외 다른 모드 금지)",
+    "expected_difficulty": "R3",
+    "status": "registered",
+    "submitted_at": "2026-05-14T13:53:55.829703",
+    "challenge_id": "645"
+  },
+  "a1e7befb": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "무시",
+    "description": "퀵플레이에서 4대미지 이상을 상쇄하세요!",
+    "expected_difficulty": "P2",
+    "status": "registered",
+    "submitted_at": "2026-05-14T14:00:41.448651",
+    "challenge_id": "646"
+  },
+  "a8878384": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "막대그래프",
+    "description": "1열, 5열, 10열에 I미노를 꽂으세요! (꽂은 I미노가 사라지면 안됨)",
+    "expected_difficulty": "P4",
+    "status": "registered",
+    "submitted_at": "2026-05-14T14:04:12.380675",
+    "challenge_id": "647"
+  },
+  "348743c7": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "치유",
+    "description": "흉터를 없애세요! (흉터->일반방해줄)",
+    "expected_difficulty": "P2",
+    "status": "registered",
+    "submitted_at": "2026-05-14T14:05:16.896989",
+    "challenge_id": "648"
+  },
+  "c556e366": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "name": "올스핀 하드버전",
+    "description": "asceticism 모드로 백투백 1 달성하기",
+    "expected_difficulty": "P12",
+    "status": "registered",
+    "submitted_at": "2026-05-15T17:21:35.636110",
+    "challenge_id": "649"
+  },
+  "52f45e21": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "아픈 마법사",
+    "description": "퀵플레이에서 『Volatile』, 『All Spin』 모드를 켜고 서지 100 이상을 모은 뒤 터뜨리세요.",
+    "expected_difficulty": "R3",
+    "status": "registered",
+    "submitted_at": "2026-05-16T04:11:32.447376",
+    "challenge_id": "650"
+  },
+  "648ab869": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "name": "오프너, 그 모든것의 첫걸음",
+    "description": "블리츠에서 1번 이상의 퍼클을 성공하세요!",
+    "expected_difficulty": "P5",
+    "status": "registered",
+    "submitted_at": "2026-05-16T06:29:04.298218",
+    "challenge_id": "651"
+  },
+  "20296db3": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "name": "숭고함, 그 빛을 잃지 말지어다.",
+    "description": "블리츠 국내 랭킹 50위안에 드세요!",
+    "expected_difficulty": "R4",
+    "status": "registered",
+    "submitted_at": "2026-05-16T06:34:47.164066",
+    "challenge_id": "652"
+  },
+  "5a12ad25": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "name": "한판승부",
+    "description": "리그에서 타이브레이커를 만드세요!",
+    "expected_difficulty": "P6",
+    "status": "registered",
+    "submitted_at": "2026-05-16T06:41:40.264472",
+    "challenge_id": "653"
+  },
+  "059cc8d5": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "슬픈 마법사",
+    "description": "퀵플레이에서 『Volatile』, 『All Spin』 모드를 켜고 서지를 50이상 모은 뒤 터뜨리세요.",
+    "expected_difficulty": "R0",
+    "status": "registered",
+    "submitted_at": "2026-05-16T07:35:18.273556",
+    "challenge_id": "654"
+  },
+  "04807b27": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "name": "너 재능있어",
+    "description": "총 판수 500판 이하로 U랭크를 달성하세요! (계정 재생성 제외)",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-05-16T07:42:46.889174",
+    "challenge_id": "655"
+  },
+  "673e70e0": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "name": "\"알아\"",
+    "description": "받고쏘기를 준비하는 상대에게 데미지를 먼저 보내고 우승하세요!",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-05-16T07:51:30.590854",
+    "challenge_id": "656"
+  },
+  "778e492c": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "name": "아멘",
+    "description": "억울하게 영구밴 당하세요..",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-05-17T07:20:15.913854",
+    "challenge_id": "657"
+  },
+  "b60802e4": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "유즈하 리코",
+    "description": "s미노만으로 블리츠 2만점을 달성하세요.",
+    "expected_difficulty": "P16",
+    "status": "registered",
+    "submitted_at": "2026-05-18T17:05:41.267640",
+    "challenge_id": "658"
+  },
+  "5eef9811": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "name": "나 좀 친다",
+    "description": "포와이드 모드에서 5분동안 4pps를 유지하세요.",
+    "expected_difficulty": "R3",
+    "status": "registered",
+    "submitted_at": "2026-05-21T07:02:13.371786",
+    "challenge_id": "659"
+  },
+  "e082e314": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "name": "나 좀 강함",
+    "description": "포와이드 모드에서 3분동안 3000apm 이상을 유지하세요.",
+    "expected_difficulty": "R3",
+    "status": "registered",
+    "submitted_at": "2026-05-21T07:04:04.675488",
+    "challenge_id": "660"
+  },
+  "12e0cd45": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "name": "완벽은 어렵기 마련",
+    "description": "퀵플레이 10층에서 퍼클을 하세요!",
+    "expected_difficulty": "R3",
+    "status": "registered",
+    "submitted_at": "2026-05-21T07:07:05.569662",
+    "challenge_id": "661"
+  },
+  "431991d1": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "name": "호텔에서 뛰지마세요",
+    "description": "2층에서 하이퍼스피드에 진입하세요!",
+    "expected_difficulty": "G8",
+    "status": "registered",
+    "submitted_at": "2026-05-21T07:11:35.164544",
+    "challenge_id": "662"
+  },
+  "5c928893": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "제한속도",
+    "description": "퀵플레이에서 등반속도를 각 층 수 이하로 유지한 채로 10층 등반에 성공하세요.\n\n예시: 1층에서는 등반속도가 1단계까지만 허용이 됩니다.",
+    "expected_difficulty": "R3",
+    "status": "registered",
+    "submitted_at": "2026-05-21T07:13:13.479912",
+    "challenge_id": "663"
+  },
+  "fe22e393": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "과속",
+    "description": "퀵플레이에서 10층을 3분 이내로 도달하세요.",
+    "expected_difficulty": "Q0",
+    "status": "registered",
+    "submitted_at": "2026-05-21T07:14:10.673960",
+    "challenge_id": "664"
+  },
+  "ccd244b3": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "name": "팀킬 장인",
+    "description": "리버스 듀오 모드에서 팀을 5번 이상 탑아웃 시키세요!",
+    "expected_difficulty": "R0",
+    "status": "registered",
+    "submitted_at": "2026-05-21T07:16:17.190510",
+    "challenge_id": "665"
+  },
+  "e0af5836": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[퀵플레이: 순한맛]",
+    "description": "퀵플레이에서 테트리스를 10번 성공하세요.",
+    "expected_difficulty": "P7",
+    "status": "pending",
+    "submitted_at": "2026-05-21T07:16:39.008635"
+  },
+  "eed02bb5": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "name": "히포크라테스 선서",
+    "description": "A등급 부활미션을 5번 이상 성공하세요!",
+    "expected_difficulty": "Q0",
+    "status": "registered",
+    "submitted_at": "2026-05-21T07:19:15.886329",
+    "challenge_id": "666"
+  },
+  "2939fee4": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "name": "의대출신",
+    "description": "B등급 부활미션을 5번 이상 성공하세요!",
+    "expected_difficulty": "R3",
+    "status": "registered",
+    "submitted_at": "2026-05-21T07:20:36.174407",
+    "challenge_id": "667"
+  },
+  "30a5ec73": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[퀵플레이: 로제맛]",
+    "description": "퀵플레이에서 하드드랍과 소프트드랍을 사용하지 않고  500미터를 등반하세요.",
+    "expected_difficulty": "R0",
+    "status": "registered",
+    "submitted_at": "2026-05-21T07:20:40.953682",
+    "challenge_id": "668"
+  },
+  "dbf430b7": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "name": "견습간호사",
+    "description": "C등급 부활 미션을 5번 이상 성공하세요!",
+    "expected_difficulty": "R2",
+    "status": "registered",
+    "submitted_at": "2026-05-21T07:21:33.145281",
+    "challenge_id": "669"
+  },
+  "45717528": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "name": "내꿈은 의대",
+    "description": "D등급 부활 미션을 5번 이상 성공하세요!",
+    "expected_difficulty": "R1",
+    "status": "registered",
+    "submitted_at": "2026-05-21T07:23:04.757297",
+    "challenge_id": "670"
+  },
+  "b0a3dc2b": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[퀵플레이: 매운맛]",
+    "description": "퀵플레이에서 서지 대미지, n 와이드 빌드를 제외하고 한번에 40대미지 이상을 보내세요.",
+    "expected_difficulty": "R4",
+    "status": "registered",
+    "submitted_at": "2026-05-21T07:23:49.257442",
+    "challenge_id": "671"
+  },
+  "90e50c07": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "name": "주춤주춤대지 않기",
+    "description": "퀵플레이에서 피네스 실수 250번 이하로 2000미터 이상을 도달하세요!",
+    "expected_difficulty": "G10",
+    "status": "registered",
+    "submitted_at": "2026-05-21T07:28:10.653036",
+    "challenge_id": "672"
+  },
+  "f8452e4c": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[퀵플레이: 마라맛]",
+    "description": "퀵플레이에서 전문가 모드를 켠 상태로 테트리스와 모든 스핀 없이 6층을 등반하세요.\n\n오직 싱글, 더블, 트리플만 가능합니다.",
+    "expected_difficulty": "Q0",
+    "status": "registered",
+    "submitted_at": "2026-05-21T07:28:11.622716",
+    "challenge_id": "673"
+  },
+  "3a09e779": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[퀵플레이: 거꾸로 수박바맛]",
+    "description": "자신의 키배치에서 회전 방향, 좌우 이동 방향키를 반대로 설정한 상태로 10층을 등반하세요.\n\n영상 하나에 키 배치를 바꾸고 바로 플레이해서 10층까지 등반에 성공하는 것이 모두 담겨있어야 합니다.",
+    "expected_difficulty": "R3",
+    "status": "pending",
+    "submitted_at": "2026-05-21T07:31:07.824794"
+  },
+  "734660f6": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "name": "오프너메인의 길",
+    "description": "리그에서 20초안에 5번 승리하세요!",
+    "expected_difficulty": "G3",
+    "status": "registered",
+    "submitted_at": "2026-05-21T07:31:21.885682",
+    "challenge_id": "674"
+  },
+  "d89b90ac": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "name": "민감한스타일",
+    "description": "0ARR 1DAS로 5층을 도달하세요!",
+    "expected_difficulty": "R2",
+    "status": "registered",
+    "submitted_at": "2026-05-21T07:35:34.500675",
+    "challenge_id": "675"
+  },
+  "90e4212c": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[퀵플레이: 핵불맛]",
+    "description": "퀵플레이에서 리버스 듀오모드인 『Bleeding Hearts』 모드를 켠 상태로 8층을 등반하세요.\n\n단 조건이 있습니다.\n\n① 두명 다 한번도 죽으면 안됩니다.\n② 등반하는 동안 Z미노로 줄을 지우면 안되고, 홀드 칸에 넣어서도 안됩니다.\n(왜 하필 Z미노로 했냐고요? 빨간색이잖아요. 심장이랑 같은 색.)\n③ 5콤보 이상 콤보를 이으면 실패입니다.\n\n당연히 기여도가 더 높은 사람만 챌린지 성공입니다.",
+    "expected_difficulty": "Q3",
+    "status": "registered",
+    "submitted_at": "2026-05-21T07:39:07.469475",
+    "challenge_id": "676"
+  },
+  "9cfaf3d0": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[퀵플레이: 공포의 쓴맛]",
+    "description": "퀵플레이에서 서지를 모으지 않고 3000미터를 등반하세요.",
+    "expected_difficulty": "R4",
+    "status": "registered",
+    "submitted_at": "2026-05-21T07:43:41.330707",
+    "challenge_id": "677"
+  },
+  "59157b93": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[퀵플레이: 빨간맛]",
+    "description": "퀵플레이에서 Z미노를 사용해 200줄 이상 지우세요.\n(단, 스핀 클리어 불가.)",
+    "expected_difficulty": "R4",
+    "status": "registered",
+    "submitted_at": "2026-05-21T07:45:57.684205",
+    "challenge_id": "678"
+  },
+  "3a322633": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[퀵플레이: 치즈맛]",
+    "description": "퀵플레이에서 『Messier Garbage』 모드를 켜고, 아무런 빌드를 사용하지 않고 오직 다운스태킹으로만 7콤보를 달성하세요.",
+    "expected_difficulty": "R2",
+    "status": "registered",
+    "submitted_at": "2026-05-21T07:49:48.256708",
+    "challenge_id": "679"
+  },
+  "bf795d9b": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[퀵플레이: 짠맛]",
+    "description": "퀵플레이에서 아무런 모드를 사용하지 않고 오로지 싱글만 사용해서 10층에 도달하세요.\n\n물론, 스핀은 금지입니다.",
+    "expected_difficulty": "R3",
+    "status": "registered",
+    "submitted_at": "2026-05-21T07:55:27.968675",
+    "challenge_id": "680"
+  },
+  "399945be": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "name": "리히터 규모 측정불가",
+    "description": "데미지 진동과 보드 기울기를 최대로 하고 포와이드에서 300콤보를 달성하세요!",
+    "expected_difficulty": "R2",
+    "status": "registered",
+    "submitted_at": "2026-05-21T07:57:55.542969",
+    "challenge_id": "681"
+  },
+  "9303b48d": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[퀵플레이: 떫은 맛]",
+    "description": "퀵플레이에서 올스핀 모드를 켠 상태로 한 판에 L스핀을 50번 이상 성공하세요.\n\n단, 흉터를 한번도 생성하지 않아야 합니다.\n\n※여기서 흉터란?※\n\n올스핀 모드가 켜진 상태로 같은 클리어 방식을 연속으로 사용할 경우 보드 바닥에 생겨나는 장애물 층을 일컫는 말입니다.",
+    "expected_difficulty": "R3",
+    "status": "registered",
+    "submitted_at": "2026-05-21T07:59:10.826569",
+    "challenge_id": "682"
+  },
+  "d8e45782": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "name": "스핀광 part.2",
+    "description": "어떠한 오프너를 사용하지 않고 스핀만으로 40L을 1분안에 완주하세요.",
+    "expected_difficulty": "G18",
+    "status": "registered",
+    "submitted_at": "2026-05-21T07:59:23.926129",
+    "challenge_id": "683"
+  },
+  "e82f4d48": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "name": "스핀광 part.3",
+    "description": "어떠한 오프너를 사용하지 않고 40L을 45초안에 완주하세뇨.",
+    "expected_difficulty": "Q0",
+    "status": "pending",
+    "submitted_at": "2026-05-21T08:00:53.678745"
+  },
+  "486bfb67": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "name": "스핀광 part.3",
+    "description": "어떠한 오프너도 사용하지 않고 스핀만으로 40L을 45초안에 완주하세요.",
+    "expected_difficulty": "Q0",
+    "status": "registered",
+    "submitted_at": "2026-05-21T08:01:43.829979",
+    "challenge_id": "684"
+  },
+  "c68bb6af": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "name": "이 길을 같이 걸어줘서 고마워",
+    "description": "테트리오에서 200명의 친구를 만드세요! (이름 옆에 떠있는 하트 기준)",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-05-21T10:25:51.362436",
+    "challenge_id": "685"
+  },
+  "a675a103": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "name": "테트 유튜바",
+    "description": "유튜브에 테트리스 관련 컨텐츠를 10개 이상 올리세요.",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-05-23T10:59:18.658412",
+    "challenge_id": "687"
+  },
+  "e90c126f": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "완벽한 플레이!",
+    "description": "40l에서 미노 100개를 피네스 100%로 해서 3분 안에 완주하세요!",
+    "expected_difficulty": "P20",
+    "status": "registered",
+    "submitted_at": "2026-06-09T11:26:07.610444",
+    "challenge_id": "686"
+  },
+  "0d7daf87": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "하하하하난모든모드의지배자ㅋ",
+    "description": "테트라 리그에서 3연승을 한 뒤 리그에서 10층을 2연속으로 가세요.",
+    "expected_difficulty": "R0",
+    "status": "registered",
+    "submitted_at": "2026-06-10T15:05:25.127830",
+    "challenge_id": "688"
+  },
+  "8a4376c6": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "나챌린지잘못썻어시위할거야ㅉ",
+    "description": "챌린지 설명을 오해의 소지가 있게 쓰세요.",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-06-10T15:09:10.695592",
+    "challenge_id": "689"
+  },
+  "9bb1f338": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "ダイダイダイダイダイキライ",
+    "description": "미쿠 프사를 낀 채로 리그에서 테토 프사를 낀 사람을 만나세요(반대도 가능)",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-06-11T10:32:54.120673",
+    "challenge_id": "690"
+  },
+  "5cfa8355": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "단거 허접♡",
+    "description": "리그전에서 <@1485520167420297276> 를 만나고 이기세요",
+    "expected_difficulty": "censored",
+    "status": "registered",
+    "submitted_at": "2026-06-11T11:17:24.017827",
+    "challenge_id": "691"
+  },
+  "a44a8760": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "구멍 운 좋은",
+    "description": "double hole garbage를 낀 상태에서, 쓰레기줄 3줄을 지우는 T-spin triple을 성공하세요",
+    "expected_difficulty": "P4",
+    "status": "registered",
+    "submitted_at": "2026-06-11T11:31:01.729207",
+    "challenge_id": "692"
+  },
+  "d35974af": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "럭키가이",
+    "description": "퀵플레이 10층 이상에서 방해줄을 받고 그 위에 TD어택을 만드세요.",
+    "expected_difficulty": "R2",
+    "status": "registered",
+    "submitted_at": "2026-06-11T11:37:29.133688",
+    "challenge_id": "693"
+  },
+  "68d66a84": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "バゥムクゥヘン・エンドロゥル",
+    "description": "커플의 관계를 갈라놓은 후 한명과 사귀세요",
+    "expected_difficulty": "censored",
+    "status": "registered",
+    "submitted_at": "2026-06-11T12:17:07.844268",
+    "challenge_id": "694"
+  },
+  "dc1d6b37": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "나는야게임마스터ㅋ",
+    "description": "피망 뉴맞고에서 2000만냥 이상을 벌고 블록 블라스트에서 20만점을 달성한 뒤 얼불춤 G1 레벨을 깨고 퀵플레이 2500m를 달성하세요.",
+    "expected_difficulty": "R4",
+    "status": "registered",
+    "submitted_at": "2026-06-11T12:32:41.368537",
+    "challenge_id": "695"
+  },
+  "850fc1e5": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "AI 박살내기",
+    "description": "1 pps mochbot을 상대로 이기세요.(7선승)",
+    "expected_difficulty": "R2",
+    "status": "registered",
+    "submitted_at": "2026-06-11T12:37:29.286855",
+    "challenge_id": "696"
+  },
+  "24b7e82f": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "정상 (Feet Only)",
+    "description": "발로만 키를 조작해 10층을 가세요! (캠 인증, 키뷰어 인증 요구)",
+    "expected_difficulty": "U1",
+    "status": "registered",
+    "submitted_at": "2026-06-11T12:38:50.022349",
+    "challenge_id": "697"
+  },
+  "55146ffd": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "스프린트 고인물(아님)",
+    "description": "현재 스프린트 1위 (Westl)의 키배치와 감도로 스프린트 30초를 달성하세요.",
+    "expected_difficulty": "R2",
+    "status": "registered",
+    "submitted_at": "2026-06-11T12:39:56.965238",
+    "challenge_id": "698"
+  },
+  "71d4c79e": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "best friEND",
+    "description": "리그전에서 친구를 만나세요 (리그전 돌린후에 친추한 건 인정 ㄴㄴ)",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-06-11T12:50:14.931342",
+    "challenge_id": "699"
+  },
+  "bd1254af": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "생일선물 조아요",
+    "description": "생일에 서포터를 선물받으세요",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-06-11T14:09:33.085609",
+    "challenge_id": "700"
+  },
+  "e8738744": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "いますぐ輪廻",
+    "description": "zen 의 레벨이 100 이상인 상태에서 리셋을 해서 처음으로 돌아가세요",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-06-11T14:22:08.264171",
+    "challenge_id": "701"
+  },
+  "f238d94b": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "양학;",
+    "description": "챌린지 하나만 깨서 1페이지에 들어가세요.",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-06-11T15:22:18.387494",
+    "challenge_id": "702"
+  },
+  "a39198d2": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "쌓기 연습",
+    "description": "퀵플레이에서 블록 20개를 놓을 동안 구멍을 만들지 마세요!",
+    "expected_difficulty": "P1",
+    "status": "registered",
+    "submitted_at": "2026-06-11T15:36:28.806273",
+    "challenge_id": "703"
+  },
+  "04a85ec9": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "아이폰 XS",
+    "description": "X랭크와 S랭크끼리 듀오를 해서 10층을 달성하세요. (둘 다 지급)",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-06-11T15:40:28.271409",
+    "challenge_id": "705"
+  },
+  "36b723ee": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "무한루프",
+    "description": "The Tyrant 모드를 끼고 1층에서 5분간 버티세요.",
+    "expected_difficulty": "P17",
+    "status": "registered",
+    "submitted_at": "2026-06-11T15:42:25.809533",
+    "challenge_id": "704"
+  },
+  "2095fd47": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[퀵플레이:죽을맛]",
+    "description": "퀵플레이에서 10층을 'Key Per Blocks' 수치가 **5** 이상이 되게 등반하세요.",
+    "expected_difficulty": "R3",
+    "status": "registered",
+    "submitted_at": "2026-06-11T15:43:23.376629",
+    "challenge_id": "706"
+  },
+  "3a5fbddd": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "마법사(물리)",
+    "description": "올스핀 모드를 키고 테트리스와 서지 대미지만으로 10층을 달성하세요.",
+    "expected_difficulty": "R2",
+    "status": "registered",
+    "submitted_at": "2026-06-11T15:44:01.286689",
+    "challenge_id": "707"
+  },
+  "2c1e6dd5": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "챌린지 클리어 스피드런",
+    "description": "5분안에 3개 이상의 챌린지를 클리어 하세요.(사전에 있던 자료 불가,스피드런 타이머 필요)",
+    "expected_difficulty": "gimmick",
+    "status": "registered",
+    "submitted_at": "2026-06-11T15:48:20.241310",
+    "challenge_id": "708"
+  },
+  "7bf1bc59": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[퀵플레이: 민트맛]",
+    "description": "퀵플레이에서 **I 미노**만으로 50줄을 지우세요. 단, I 미노를 활용한 줄 지우기는 **싱글**만 인정됩니다.",
+    "expected_difficulty": "R3",
+    "status": "registered",
+    "submitted_at": "2026-06-11T15:50:39.655822",
+    "challenge_id": "710"
+  },
+  "e2232b25": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[퀵플레이: 고통의 맛]",
+    "description": "퀵플레이에서 『Rhe Tyrant』 모드를 켠 상태로 1층에서 12분을 버티세요.",
+    "expected_difficulty": "Q4",
+    "status": "pending",
+    "submitted_at": "2026-06-11T16:53:15.117315"
+  },
+  "d056b85e": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[퀵플레이: 고통의 맛]",
+    "description": "퀵플레이에서 『The Tyrant』 모드를 켜고 1층에서 2층으로 올라가지 말고 12분 동안 버티세요.",
+    "expected_difficulty": "Q4",
+    "status": "registered",
+    "submitted_at": "2026-06-11T16:54:48.729172",
+    "challenge_id": "709"
+  },
+  "f1dfec10": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "name": "気を解放しろ！！",
+    "description": "등반속도 11이상을 10분동안 유지하세요.",
+    "expected_difficulty": "U6",
+    "status": "registered",
+    "submitted_at": "2026-06-12T08:06:30.708056",
+    "challenge_id": "711"
+  },
+  "0a1c332c": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "name": "교체용 배터리",
+    "description": "퀵플레이에서 서지 100이상을 2번 이상쌓으세요.",
+    "expected_difficulty": "Q0",
+    "status": "registered",
+    "submitted_at": "2026-06-12T08:11:43.689377",
+    "challenge_id": "712"
+  },
+  "941f0042": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[퀵플레이: 오렌지맛]",
+    "description": "퀵플레이에서 **L 미노**를 움직이지도 회전하지도 않고 그대로 두기만 해서 2000m를 등반하세요.",
+    "expected_difficulty": "R1",
+    "status": "registered",
+    "submitted_at": "2026-06-12T08:13:22.909096",
+    "challenge_id": "713"
+  },
+  "7d46fce1": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "メルト・アイスクリーム",
+    "description": "아이스크림을 먹다 말고 퀵플을 돌린 후, 아이스크림이 녹아있는 걸 발견하세요",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-06-12T08:13:59.370749",
+    "challenge_id": "714"
+  },
+  "34d88f54": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[퀵플레이: 레몬맛]",
+    "description": "퀵플레이에서 O미노 2열에만 둬서 2000m를 등반하세요.",
+    "expected_difficulty": "R1",
+    "status": "registered",
+    "submitted_at": "2026-06-12T08:14:24.100944",
+    "challenge_id": "715"
+  },
+  "bb06eb47": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[퀵플레이: 라임맛]",
+    "description": "퀵플레이에서 S미노로 줄을 지우지 않고 3000m를 등반하세요. 홀드 칸에 넣는 것도 금지입니다.",
+    "expected_difficulty": "R2",
+    "status": "registered",
+    "submitted_at": "2026-06-12T08:16:09.379943",
+    "challenge_id": "716"
+  },
+  "40f5d2d9": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "name": "양심없어진",
+    "description": "순간 300apm 이상을 달성하세요.",
+    "expected_difficulty": "R3",
+    "status": "registered",
+    "submitted_at": "2026-06-12T08:19:34.155787",
+    "challenge_id": "717"
+  },
+  "2bb20cfd": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[퀵플레이: 탄산 소다맛]",
+    "description": "퀵플레이에서 아무런 모드를 켜지 않은 상태에서 I미노를 둘 때 무조건 아래쪽에 구멍이 생기게 눕혀서 두세요.\n\n<클리어 조건>\n① 최소 한 칸의 구멍이 생겨야 합니다.\n② 홀드 칸에 I 미노를 보관하면 안됩니다.\n③ I 미노 아래에 일자로 길게 뚫려있는 경우는 구멍으로 인정하지 않습니다.\n④ 2000m 이상을 등반해야 합니다.",
+    "expected_difficulty": "R3",
+    "status": "pending",
+    "submitted_at": "2026-06-12T08:23:38.898340"
+  },
+  "4678f726": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[퀵플레이: 탄산소다맛]",
+    "description": "퀵플레이에서 아무런 모드를 켜지 않은 상태에서 I미노를 둘 때 무조건 아래쪽에 구멍이 생기게 눕혀서 두세요.\n\n<클리어 조건>\n① 최소 한 칸의 구멍이 생겨야 합니다.\n② 홀드 칸에 I 미노를 보관하면 안됩니다.\n③ I 미노 아래에 일자로 길게 뚫려있는 경우는 구멍으로 인정하지 않습니다.\n④ 2000m 이상을 등반해야 합니다.\n⑤ 만약 I 미노가 맨 첫 미노로 등장한 경우에는 눕히거나 세우는건 상관이 없으며, 실패로 간주되지 않습니다.",
+    "expected_difficulty": "R3",
+    "status": "registered",
+    "submitted_at": "2026-06-12T08:26:06.705102",
+    "challenge_id": "718"
+  },
+  "c74b1e5c": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "테트리스 전문가 : Advanced",
+    "description": "퀵플레이에서 3pps 이상으로 테트리스만 써서 서지 50을 채우세요.",
+    "expected_difficulty": "R3",
+    "status": "registered",
+    "submitted_at": "2026-06-12T08:27:17.783214",
+    "challenge_id": "719"
+  },
+  "5a0d5b51": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[퀵플레이: 포도맛]",
+    "description": "퀵플레이에서 『Volatile』 모드를 켜고 T 미노를 사용해 'T SPIN - MINI'로만 클리어하세요.\n\n<조건>\n① T 미노를 사용해서 스핀 클리어를 할 때 무조건 한 줄은 지워야 합니다.\n② T 미노를 줄을 지우지 않게 두는 것은 가능하지만,  홀드 칸에 넣으면 안됩니다.\n③ 2000m를 등반해야 합니다.",
+    "expected_difficulty": "R2",
+    "status": "registered",
+    "submitted_at": "2026-06-12T08:33:50.877403",
+    "challenge_id": "720"
+  },
+  "7608129f": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[퀵플레이: 레이보우 샤베트맛]",
+    "description": "퀵플레이에서 무지개를 만드세요!\n\n<조건>\n① 무지개를 쌓는 순서는 바닥부터 빨간색, 주황색, 노란색, 초록색, 파란색, 남색, 보라색 순서입니다.\n② 각 줄의 규격은 가로 9칸, 높이 1칸입니다.\n③ 무지개를 8층에 도달하기 전에 만들어야 합니다.",
+    "expected_difficulty": "R4",
+    "status": "pending",
+    "submitted_at": "2026-06-12T08:38:30.827398"
+  },
+  "fce5cb0c": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[퀵플레이: 레인보우 샤베트맛]",
+    "description": "퀵플레이에서 무지개를 만드세요!\n\n<조건>\n① 무지개를 쌓는 순서는 바닥부터 빨간색, 주황색, 노란색, 초록색, 파란색, 남색, 보라색 순서입니다.\n② 각 줄의 규격은 가로 9칸, 높이 1칸입니다.\n③ 무지개를 8층에 도달하기 전에 만들어야 합니다.",
+    "expected_difficulty": "R4",
+    "status": "registered",
+    "submitted_at": "2026-06-12T08:39:33.588140",
+    "challenge_id": "721"
+  },
+  "79f883a4": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "도달할 수 없는 속도",
+    "description": "스프린트를 8pps로 완주하세요.",
+    "expected_difficulty": "Q3",
+    "status": "registered",
+    "submitted_at": "2026-06-12T08:45:21.837641",
+    "challenge_id": "722"
+  },
+  "3e375ef9": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[퀵플레이: 콜라맛]",
+    "description": "퀵플레이에서 『Volatile』 모드를 켠 상태에서 5층에 도착하기 전에 12분을 버틴 뒤, 10층에 도달하세요!",
+    "expected_difficulty": "R3",
+    "status": "registered",
+    "submitted_at": "2026-06-12T08:47:42.443081",
+    "challenge_id": "723"
+  },
+  "b17e6f6c": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[퀵플레이: 최후의 만찬 맛]",
+    "description": "퀵플레이에서 volatile 모드의 리버스 버전인 『LAST STAND』 모드를 켜고 5000m에 도달하세요.",
+    "expected_difficulty": "Q4",
+    "status": "registered",
+    "submitted_at": "2026-06-12T08:52:00.388530",
+    "challenge_id": "724"
+  },
+  "6641049e": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[퀵플레이: 꿀맛]",
+    "description": "퀵플레이에서 평균 20apm을 달성하세요!",
+    "expected_difficulty": "P8",
+    "status": "registered",
+    "submitted_at": "2026-06-12T08:56:35.491061",
+    "challenge_id": "725"
+  },
+  "b49beefc": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[퀵플레이: 추억의 맛]",
+    "description": "감도 설정을 모두 초기화한 상태로 10층에 도달하세요.",
+    "expected_difficulty": "R1",
+    "status": "registered",
+    "submitted_at": "2026-06-12T08:58:12.169127",
+    "challenge_id": "726"
+  },
+  "65d70b86": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[퀵플레이: 고급진 맛]",
+    "description": "퀵플레이에서 『Expert』,『Messier Garbage』 모드를 켠 상태로 평균 APP(미노 하나당 공격력) 수치를 1 이상으로 마무리하세요.\n\n<조건>\n① 미노 400개를 모두 두어야 합니다.\n② 서지를 50 이상 모아야 합니다.\n③ 400번째 미노를 둘 때 서지를 터뜨려야 합니다.",
+    "expected_difficulty": "R4",
+    "status": "registered",
+    "submitted_at": "2026-06-12T09:10:25.513097",
+    "challenge_id": "727"
+  },
+  "50f5d583": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "쌓기 도전",
+    "description": "퀵플레이에서 미노 300개를 두는 동안 구멍을 만들지 마세요!",
+    "expected_difficulty": "P15",
+    "status": "registered",
+    "submitted_at": "2026-06-12T09:11:36.104537",
+    "challenge_id": "728"
+  },
+  "bd826060": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "쌓기 마스터",
+    "description": "퀵플레이에서 미노 800개를 두는 동안 구멍을 만들지 마세요!",
+    "expected_difficulty": "R3",
+    "status": "registered",
+    "submitted_at": "2026-06-12T09:12:10.582487",
+    "challenge_id": "729"
+  },
+  "2b5dc1d7": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "쉬워보이지만 생각보다 어려운 것",
+    "description": "퀵플레이에서 30 대미지 이상을 보내세요.\n\n<조건>\n① 빌드 사용 금지입니다.\n② 서지 대미지는 제외됩니다.\n③ 상쇄 대미지는 제외됩니다.",
+    "expected_difficulty": "R0",
+    "status": "registered",
+    "submitted_at": "2026-06-12T09:15:06.632932",
+    "challenge_id": "730"
+  },
+  "3bb02e69": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[퀵플레이: 사랑의 맛]",
+    "description": "퀵플레이에서 듀오 모드를 켠 상태로 250대미지 이상을 날리세요.\n\n단, 합산된 수치가 아니라 개인 수치를 통해서 성공해야 합니다.",
+    "expected_difficulty": "R0",
+    "status": "registered",
+    "submitted_at": "2026-06-12T09:18:43.795432",
+    "challenge_id": "731"
+  },
+  "82d663ba": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "테트리스 그 자체",
+    "description": "퀵플레이에서 90 스태킹으로 미노 600개를 두는 동안 구멍을 하나도 만들지 마세요!",
+    "expected_difficulty": "R3",
+    "status": "registered",
+    "submitted_at": "2026-06-12T09:31:41.206504",
+    "challenge_id": "732"
+  },
+  "1216fd59": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "쌓기 숙련자",
+    "description": "퀵플레이에서 90 스태킹으로 300개를 쌓는 동안 구멍을 하나도 만들지 마세요.",
+    "expected_difficulty": "P17",
+    "status": "registered",
+    "submitted_at": "2026-06-12T09:32:51.255634",
+    "challenge_id": "733"
+  },
+  "f4913623": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "출석부",
+    "description": "퐁트리오 서버에서 출석 명령어를 사용하세요!",
+    "expected_difficulty": "P1",
+    "status": "registered",
+    "submitted_at": "2026-06-12T10:52:09.908111",
+    "challenge_id": "734"
+  },
+  "e21a2679": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "연속 출석",
+    "description": "퐁트리오 서버에서 7일 연속으로 출석 명령어를 사용하세요!",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-06-12T10:53:04.119987",
+    "challenge_id": "735"
+  },
+  "b11abe72": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "개근상",
+    "description": "퐁트리오 서버에서 30일 연속으로 출석 명령어를 사용하세요!",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-06-12T10:53:35.726311",
+    "challenge_id": "736"
+  },
+  "550d318c": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "퐁트리오에 뼈를 묻겠습니다.",
+    "description": "퐁트리오 서버에서 365일 연속으로 출석 명령어를 사용하세요!",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-06-12T10:54:09.556890",
+    "challenge_id": "737"
+  },
+  "cd10b60a": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "MasTerPiece",
+    "description": "테트리오로 의미가 전달 될 수 있는 생물(혹은 미생물)을 그리세요! (젠 가능)",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-06-12T11:01:17.687843",
+    "challenge_id": "739"
+  },
+  "977a687a": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[퀵플레이: 사과맛]",
+    "description": "퀵플레이에서 **'O 미노'**바로 위에 **'Z 미노'**를 그대로 두세요!\n\n<조건>\n① O 미노 바로 위에 Z 미노를 올려둔 모양을 '사과'로 정의합니다.\n② 사과 모양을 30개 이상 만드는 것이 목표입니다.\n③ 사과 모양을 만들때 O 미노와 Z 미노가 온전한 상태로 있어야 합니다.\n( = 줄이 지워지면 안됩니다.)\n③ 사과를 밖에 오랫동안 두면 갈변 현상이 일어나는 것을 반영해서 5층 안에 사과를 모두 만들어야 합니다.",
+    "expected_difficulty": "R0",
+    "status": "registered",
+    "submitted_at": "2026-06-12T11:01:37.827957",
+    "challenge_id": "738"
+  },
+  "dec44d32": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "회전키 중독자",
+    "description": "퀵플레이에서 'Key Per Piece' 수치가 **10** 이상이되도록 클리어하세요. 단, 10층 등반을 성공해야 합니다.",
+    "expected_difficulty": "R4",
+    "status": "registered",
+    "submitted_at": "2026-06-13T06:35:03.311052",
+    "challenge_id": "740"
+  },
+  "2734b1bc": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "tetrio high level gameplay",
+    "description": "tetrio high level gameplay에 본인이 나오세요!",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-06-13T09:36:52.324294",
+    "challenge_id": "741"
+  },
+  "d7ffe4ca": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "밝은 청년",
+    "description": "damnation 모드에서 brighted 상태를 3번 유지하세요!",
+    "expected_difficulty": "P11",
+    "status": "registered",
+    "submitted_at": "2026-06-13T09:39:23.068547",
+    "challenge_id": "742"
+  },
+  "3d139226": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "name": "LAST KILOMETRE",
+    "description": "last stand 모드로 1000m를 등반하세요!",
+    "expected_difficulty": "G9",
+    "status": "registered",
+    "submitted_at": "2026-06-14T07:56:01.330994",
+    "challenge_id": "743"
+  },
+  "c90c2273": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "name": "LAST UNIVERSE",
+    "description": "last stand 모드로 1650m를 등반하세요!",
+    "expected_difficulty": "G18",
+    "status": "registered",
+    "submitted_at": "2026-06-14T07:56:42.147089",
+    "challenge_id": "744"
+  },
+  "5e875f32": {
+    "user_id": "1504105020646227968",
+    "username": "amel_.ia",
+    "name": "<:kangmincheol:1494961043640684644>",
+    "description": "강민철의 기출분석을 듣고 리그에서 이기세요!",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-06-14T08:14:56.068358",
+    "challenge_id": "745"
+  },
+  "8658caca": {
+    "user_id": "1445061268691095678",
+    "username": "minjirno_loharei",
+    "name": "minji mom is dead????",
+    "description": "강제클리어 명령어로 억까를 당하세요 ㅗ",
+    "expected_difficulty": "epic",
+    "status": "pending",
+    "submitted_at": "2026-06-15T14:12:27.064480"
+  },
+  "2623febe": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "사회적 죽음",
+    "description": "퐁트리오 디스코드 게임 플레이 목록에서 자기 자신의 이름으로 야겜을 올리세요.",
+    "expected_difficulty": "censored",
+    "status": "registered",
+    "submitted_at": "2026-06-15T14:16:40.303675",
+    "challenge_id": "746"
+  },
+  "9d1ca833": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "야이할아방탱이년아",
+    "description": "테트리오 가입 5년 이상을 달성하세요.",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-06-15T14:18:37.157857",
+    "challenge_id": "747"
+  },
+  "2e342068": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "転生林檎",
+    "description": "리그에서 빌드를 쌓던 중 미스를 냈을때, 하드드랍포로 자살하세요",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-06-15T14:19:22.194902",
+    "challenge_id": "748"
+  },
+  "4abd0143": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "탁월한 스트라이딩",
+    "description": "퀵플레이에서 54 스태킹을 7분 이상 유지하세요.",
+    "expected_difficulty": "R3",
+    "status": "registered",
+    "submitted_at": "2026-06-15T14:20:17.939559",
+    "challenge_id": "749"
+  },
+  "20410b79": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "2^12",
+    "description": "퀵플레이를 12번 플레이해서 순서대로 기록을 깨세요. (2m,4m,8m,16m,32m,64m,128m,256m,512m,1024m,2048m) 오차 범위는 1m입니다.",
+    "expected_difficulty": "R2",
+    "status": "registered",
+    "submitted_at": "2026-06-15T14:23:15.074508",
+    "challenge_id": "750"
+  },
+  "f49e76c7": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "2^11",
+    "description": "퀵플레이를 12번 플레이해서 순서대로 기록을 깨세요. (2m,4m,8m,16m,32m,64m,128m,256m,512m,1024m,2048m) 오차 범위는 1m입니다.",
+    "expected_difficulty": "R2",
+    "status": "pending",
+    "submitted_at": "2026-06-15T14:24:53.320925"
+  },
+  "56c4eb70": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "패드립 방어권",
+    "description": "가족 중 한명이랑 듀오모드를 플레이하세요.",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-06-15T14:47:21.225897",
+    "challenge_id": "751"
+  },
+  "7fc2e1ed": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "디버거",
+    "description": "테트리오에 있는 심각한 버그를 최초로 발견하세요. (게임 플레이에 영향을 주는 버그)",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-06-15T14:49:08.350206",
+    "challenge_id": "752"
+  },
+  "baeed47b": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "마지막 저항",
+    "description": "퀵플레이 10층을 등반하고 죽기 직전 상황을 30초 이상 버티세요.(18열에서 20열이 기준)",
+    "expected_difficulty": "R0",
+    "status": "registered",
+    "submitted_at": "2026-06-15T14:53:32.750285",
+    "challenge_id": "753"
+  },
+  "489bf469": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "[퀵플레이: 중력맛]",
+    "description": "The Tyrant 모드로 523m를 정확히 달성하세요.",
+    "expected_difficulty": "R3",
+    "status": "registered",
+    "submitted_at": "2026-06-15T14:56:54.331593",
+    "challenge_id": "754"
+  },
+  "7eb381cd": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "공구로 패지 마라고",
+    "description": "빠루(크로우바) 빌드로 리그전에서 이기세요",
+    "expected_difficulty": "censored",
+    "status": "registered",
+    "submitted_at": "2026-06-15T15:35:19.641078",
+    "challenge_id": "755"
+  },
+  "336516e6": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "ㄴ, 나 너 싫어졌단 말야아...",
+    "description": "듀오 모드를 하던 도중, 탈주하세요",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-06-16T12:35:15.104020",
+    "challenge_id": "756"
+  },
+  "59667d97": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "[퀵플레이: 중국간식맛]",
+    "description": "중국인이랑 테트리오 듀오를 플레이하세요.",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-06-16T15:01:08.493794",
+    "challenge_id": "757"
+  },
+  "5c7e9d42": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "[퀵플레이: 좀비는레몬맛]",
+    "description": "퀵플레이에서 O미노로 100데미지를 보내세요.",
+    "expected_difficulty": "R1",
+    "status": "registered",
+    "submitted_at": "2026-06-16T15:02:52.330307",
+    "challenge_id": "758"
+  },
+  "18cbce45": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "ㅁ, 모야 왜 나 죽여...",
+    "description": "퀵플레이에서 퐁트리오 멤버에게 죽으세요",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-06-16T15:03:49.562495",
+    "challenge_id": "759"
+  },
+  "1a2245a0": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "ㅎ, 한번에 몇줄을....",
+    "description": "KAGARIS를 띄우세요",
+    "expected_difficulty": "P1",
+    "status": "registered",
+    "submitted_at": "2026-06-16T23:40:07.407749",
+    "challenge_id": "760"
+  },
+  "22d46ad6": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "붉은색...",
+    "description": "줄을 지우는 z 스핀을 연속으로 3번 성공하기...",
+    "expected_difficulty": "P12",
+    "status": "registered",
+    "submitted_at": "2026-06-17T02:27:55.306145",
+    "challenge_id": "761"
+  },
+  "051869a3": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "연두색...",
+    "description": "줄을 지우는 s 스핀을 연속으로 3번 성공하기...",
+    "expected_difficulty": "P12",
+    "status": "registered",
+    "submitted_at": "2026-06-17T02:28:17.469485",
+    "challenge_id": "762"
+  },
+  "91b8c496": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "주황색...",
+    "description": "줄을 지우는 L 스핀을 연속으로 3번 성공하기...",
+    "expected_difficulty": "P12",
+    "status": "registered",
+    "submitted_at": "2026-06-17T02:28:53.460173",
+    "challenge_id": "763"
+  },
+  "d60410b6": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "파란색...",
+    "description": "줄을 지우는 J 스핀을 연속으로 3번 성공하기...",
+    "expected_difficulty": "P12",
+    "status": "registered",
+    "submitted_at": "2026-06-17T02:29:15.086557",
+    "challenge_id": "764"
+  },
+  "fadc0fe3": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "ㅎ, 하늘색!?",
+    "description": "줄을 지우는 I 스핀을 연속으로 3번 성공하기...",
+    "expected_difficulty": "P12",
+    "status": "registered",
+    "submitted_at": "2026-06-17T02:29:43.817224",
+    "challenge_id": "765"
+  },
+  "365ecaa2": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "...니가 저 주인공이 될 생각은 없는 거니",
+    "description": "GRAND AUDIENCE 배지를 얻으세요",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-06-17T13:40:55.796153",
+    "challenge_id": "766"
+  },
+  "e12f7cce": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "2W...?",
+    "description": "2W로 날린 스파이크로 상대를 죽이세요",
+    "expected_difficulty": "censored",
+    "status": "registered",
+    "submitted_at": "2026-06-17T13:51:55.001060",
+    "challenge_id": "767"
+  },
+  "a5ce88bc": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "지하철 재미따아....",
+    "description": "지하철을 타면서 테트리오를 하세요",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-06-17T14:00:03.020654",
+    "challenge_id": "768"
+  },
+  "926c6884": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "나화진이되",
+    "description": "학교에서 일진짓을 하는 사람을 테트리오에서 패세요.",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-06-17T15:41:54.396568",
+    "challenge_id": "769"
+  },
+  "45f410d0": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "방해줄? 그거 걍 안받아도 되는거 아님?",
+    "description": "방해줄을 받지 않고 10층에 도달하세요. (상쇄 가능)",
+    "expected_difficulty": "R4",
+    "status": "registered",
+    "submitted_at": "2026-06-17T23:51:06.212891",
+    "challenge_id": "770"
+  },
+  "b5e29af2": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "ㅎ, 흐아아...귀여워어...",
+    "description": "테트 메시지로 애교 부리기(?)",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-06-18T15:36:53.083253",
+    "challenge_id": "771"
+  },
+  "e01518ab": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "name": "단속된 카지노",
+    "description": "swamp water 모드로 3층을 가세요!",
+    "expected_difficulty": "G9",
+    "status": "registered",
+    "submitted_at": "2026-06-19T14:34:23.784922",
+    "challenge_id": "772"
+  },
+  "6858896c": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "완벽한 플레이!",
+    "description": "블리츠에서 200만점을 달성하세요",
+    "expected_difficulty": "Q3",
+    "status": "registered",
+    "submitted_at": "2026-06-20T02:31:07.093612",
+    "challenge_id": "773"
+  },
+  "3a96c3f8": {
+    "user_id": "1504105020646227968",
+    "username": "amel_.ia",
+    "name": ":α: (5 Key Limit)",
+    "description": "회전 키 1개, 소프트드랍 0개, 하드드랍 1개, 좌우키 2개, 홀드 1개만 써서 2,000m에 도달하기 (어떤 키던지 스페이스바 포함시키기) / 손캠 인증 요구, 영상 자료 요구, dmnote 키뷰어 요구",
+    "expected_difficulty": "R3",
+    "status": "registered",
+    "submitted_at": "2026-06-20T04:11:30.485265",
+    "challenge_id": "774"
+  },
+  "1ab48c21": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "총체적 난국",
+    "description": "퀵플레이에서 방해줄 2배 모드, 중력 모드,더블홀 가비지 모드,더러운 방해줄 모드를 킨 상태로 6층에 도달하세요.",
+    "expected_difficulty": "R3",
+    "status": "registered",
+    "submitted_at": "2026-06-20T07:11:17.171875",
+    "challenge_id": "775"
+  },
+  "5ca301bc": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "맹인 예술가",
+    "description": "퀵플레이에서 올스핀 모드와 투명 모드를 킨 다음 10층에 도달하세요.",
+    "expected_difficulty": "R3",
+    "status": "registered",
+    "submitted_at": "2026-06-20T07:24:52.996356",
+    "challenge_id": "776"
+  },
+  "67273a13": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "𝓖𝓸𝓭 𝓸𝓯 𝓛𝓾𝓬𝓴",
+    "description": "𝓖𝓸𝓭 𝓸𝓯 𝓛𝓾𝓬𝓴 보스전은 클리어 한 자에게 행운을 가져다 줍니다. 보스의 체력은 100만이며, 다음과 같은 미션을 클리어 하여 보스를 전멸시켜야 합니다. 1. 𝙀𝙭𝙩𝙧𝙚𝙢𝙚 𝙁𝙤𝙧𝙩𝙪𝙣𝙚 : The Tyrant 모드로 '올스핀만' 사용해 3층에 도달하세요. (체력 -20만) 2. 𝙇𝙪𝙘𝙠𝙮 𝙉𝙪𝙢𝙗𝙚𝙧 : Expert 모드와 Invisible 모드, Gravity모드를 킨 채  777m에 도달하세요. (체력 -10만) 3. 𝘽𝙡𝙚𝙨𝙨𝙞𝙣𝙜 : SWAMP WATER LITE 모드로 7층에 도달하세요. (체력 -30만) 제한 시간은 30분이며, 손캠 및 키뷰어 인증이 필요합니다. (한 가지 미션을 최대 3번까지 클리어 가능하며, 한 가지 미션을 4번 이상 클리어 할 경우 클리어가 인정되지 않습니다.",
+    "expected_difficulty": "Q0",
+    "status": "registered",
+    "submitted_at": "2026-06-20T07:36:18.967412",
+    "challenge_id": "777"
+  },
+  "4d63f71d": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "네임드가 되는 길",
+    "description": "테트리오 대회 유튜브에 자신이 나오세요.",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-06-20T15:54:56.015703",
+    "challenge_id": "778"
+  },
+  "fd0c9d12": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "방해줄 천국",
+    "description": "Volatile 모드와 Expert 모드를 끼고 6층에 도달하세요.",
+    "expected_difficulty": "R2",
+    "status": "registered",
+    "submitted_at": "2026-06-21T12:00:16.472795",
+    "challenge_id": "779"
+  },
+  "315d92a1": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "구멍 운 좋은 v0.66666",
+    "description": "쓰레기줄 2줄만 지우는 티스핀 더블을 하세요",
+    "expected_difficulty": "P5",
+    "status": "registered",
+    "submitted_at": "2026-06-22T11:13:10.365720",
+    "challenge_id": "780"
+  },
+  "fad582d8": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "ㅅ, 선생님...제가 어제...ㄱ, 과제 내는걸 깜빡했는데에...",
+    "description": "테트리스를 하다가 과제 제출 기한을 놓치세요",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-06-22T14:01:46.739264",
+    "challenge_id": "781"
+  },
+  "a395aa14": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "엥 나에게 이런 역할이 있었나",
+    "description": "season winner 역할을 받으세요",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-06-23T05:16:52.675826",
+    "challenge_id": "782"
+  },
+  "d74cdabb": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "그대에게...강등의 슬픔을...",
+    "description": "리그에서 상대를 강등시키세요",
+    "expected_difficulty": "censored",
+    "status": "registered",
+    "submitted_at": "2026-06-23T11:25:36.595533",
+    "challenge_id": "783"
+  },
+  "456c41fc": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "AI를 박살내다 못해 쓰레기장에 처분하기",
+    "description": "2 pps mochbot을 상대로 이기세요(9선승)",
+    "expected_difficulty": "Q0",
+    "status": "registered",
+    "submitted_at": "2026-06-24T13:00:31.038214",
+    "challenge_id": "784"
+  },
+  "a4768b39": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "강남스타일bro",
+    "description": "싸이 사운드팩을 끼고 테트라 리그를 플레이하세요.",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-06-24T14:30:38.574591",
+    "challenge_id": "785"
+  },
+  "440ff971": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "익스트림 카지노",
+    "description": "The Tyrant 모드로 2층에 도달하세요.",
+    "expected_difficulty": "P18",
+    "status": "registered",
+    "submitted_at": "2026-06-24T14:40:51.178160",
+    "challenge_id": "786"
+  },
+  "25f80fc9": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "빠따든 오타니 VS 은가누",
+    "description": "The Tyrant 모드로 4층에 도달하세요.",
+    "expected_difficulty": "R2",
+    "status": "registered",
+    "submitted_at": "2026-06-24T14:41:32.487250",
+    "challenge_id": "787"
+  },
+  "24acb699": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "IMF가 오게되",
+    "description": "The Tyrant 모드로 6층에 도달하세요.",
+    "expected_difficulty": "R4",
+    "status": "registered",
+    "submitted_at": "2026-06-24T14:42:06.657327",
+    "challenge_id": "788"
+  },
+  "338bdec7": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "블리츠함?",
+    "description": "Gravity 모드로 SDPC-DPC 루프를 2번 이상 성공하세요.",
+    "expected_difficulty": "P16",
+    "status": "registered",
+    "submitted_at": "2026-06-24T14:43:30.830857",
+    "challenge_id": "789"
+  },
+  "26b08090": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "눈이 먼 군주",
+    "description": "Expert 모드와 Invisible 모드를 키고 10층에 도달하세요.",
+    "expected_difficulty": "Q1",
+    "status": "registered",
+    "submitted_at": "2026-06-24T14:44:36.683175",
+    "challenge_id": "790"
+  },
+  "685d211a": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "그거 맞음??",
+    "description": "퀵플레이에서 12분을 달성한 후 5층에 도달하세요.",
+    "expected_difficulty": "P17",
+    "status": "registered",
+    "submitted_at": "2026-06-24T15:12:27.334953",
+    "challenge_id": "791"
+  },
+  "6b761427": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "돈을 더 벌고 싶었습니다",
+    "description": "10000C 이상 도박을 성공하세요.",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-06-24T15:13:27.379686",
+    "challenge_id": "792"
+  },
+  "c22003a5": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "도배ㄴㄴ연",
+    "description": "챌린지를 연속으로 10개 이상 만드세요.",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-06-24T15:14:17.111757",
+    "challenge_id": "793"
+  },
+  "3ab60785": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "정확도 10%",
+    "description": "퀵플레이에서 미노 1250개 이상을 두는 동안 자신이 보낸 대미지가 250을 넘지 않게 하세요!",
+    "expected_difficulty": "R1",
+    "status": "registered",
+    "submitted_at": "2026-06-24T15:14:49.529879",
+    "challenge_id": "794"
+  },
+  "e55afe5d": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "학교에서 테트리스로 유명인 생활 1일차",
+    "description": "학교 장기자랑으로 테트리스를 나가세요.",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-06-24T15:16:56.285883",
+    "challenge_id": "795"
+  },
+  "96a03fef": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "MAXIMUM BLASTER",
+    "description": "서지를 끊어서 한번에 2층 이상 오르세요. (5층 이상부터 인정)",
+    "expected_difficulty": "R3",
+    "status": "registered",
+    "submitted_at": "2026-06-24T15:18:08.633525",
+    "challenge_id": "796"
+  },
+  "13a4f8ad": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "거울수",
+    "description": "거꾸로 해도 챌린지 아이디가 똑같은 챌린지를 10개 이상 깨세요.",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-06-24T15:19:35.052275",
+    "challenge_id": "797"
+  },
+  "ab87c230": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[퀵플레이: 상큼한 맛]",
+    "description": "퀵플레이에서 O미노와 S미노를 1열에 두세요.\n\n<조건>\n① S미노를 세워서 두면 안됩니다.\n② O미노와 S미노를 홀드 칸에 두면 안됩니다.\n③ O미노와 S미노를 둘 때에 줄이 지워지면 안됩니다.\n④ 2000미터 이상을 등반해야 합니다.",
+    "expected_difficulty": "R3",
+    "status": "registered",
+    "submitted_at": "2026-06-24T15:21:34.687232",
+    "challenge_id": "798"
+  },
+  "276f2284": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "인스타 맛집 진상 빌런",
+    "description": "[퀵플레이 맛집 탐방] 시리즈를 클리어 하려는 사람을 방해하세요.",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-06-24T15:40:51.543252",
+    "challenge_id": "799"
+  },
+  "d0084da8": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "IMPOSSIBLE 800",
+    "description": "모든 리버스 모드로 800m를 달성하세요.",
+    "expected_difficulty": "Q1",
+    "status": "registered",
+    "submitted_at": "2026-06-24T15:41:52.657889",
+    "challenge_id": "800"
+  },
+  "17941027": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[퀵플레이: 공기맛]",
+    "description": "퀵플레이에서 4줄 이하만 써서 5층에 도달하세요.",
+    "expected_difficulty": "P19",
+    "status": "registered",
+    "submitted_at": "2026-06-24T15:43:40.432957",
+    "challenge_id": "801"
+  },
+  "18b66605": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "테트리스의 시련",
+    "description": "**테트리스의 시련**에 오신것을 환영합니다.\n\n여러분은 __3가지의 목표__를 달성하셔야 이 시련에서 빠져나가실 수 있습니다.\n\n① 먼저 첫번째로 퀵플레이에서 아무런 모드를 사용하지 않고 2000 미터에 도달해야 합니다.\n\n- 이것은 첫번째 시련으로, 도전자의 기본적인 소양을 확인하기 위함입니다.\n\n② 퀵플레이에서 『No Hold』 모드를 사용해 2000미터에 도달해야 합니다.\n\n- 제한된 조건으로 문제를 해결해나가는 것이 주된 목적입니다.\n\n③ 퀵플레이에서 『Volatile』 모드를 사용해 4000미터에 도달해야 합니다.\n\n- 자신의 강함을 증명함과 동시에, 시련을 견뎌냈다는 훌륭한 증표가 될 것입니다.\n\n## 단, 제한시간은 1시간 30분입니다.",
+    "expected_difficulty": "R4",
+    "status": "registered",
+    "submitted_at": "2026-06-25T17:36:46.600800",
+    "challenge_id": "802"
+  },
+  "635b2ddb": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "청춘",
+    "description": "서지를 띄우지 않고 6층을 가세요!",
+    "expected_difficulty": "P13",
+    "status": "registered",
+    "submitted_at": "2026-06-26T08:27:40.159154",
+    "challenge_id": "803"
+  },
+  "10193301": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "머글 출입금지 (EX)",
+    "description": "all spin모드의 리버스 버전으로 10층에 도달하세요!",
+    "expected_difficulty": "U5",
+    "status": "registered",
+    "submitted_at": "2026-06-27T02:14:22.746040",
+    "challenge_id": "804"
+  },
+  "5f303b06": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "불가능한 40L",
+    "description": "40L의 기록의 맨 끝자리 숫자가가 1, 4, 6, 9가 되도록 하세요",
+    "expected_difficulty": "impossible",
+    "status": "registered",
+    "submitted_at": "2026-06-27T06:58:23.455871",
+    "challenge_id": "805"
+  },
+  "501992d2": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "하이퍼스피드 막차",
+    "description": "5층에서 하이퍼스피드 모드를 활성화시키세요.",
+    "expected_difficulty": "R2",
+    "status": "registered",
+    "submitted_at": "2026-06-27T07:33:24.266918",
+    "challenge_id": "806"
+  },
+  "b92c33b7": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "정확도 5%",
+    "description": "퀵플레이에서 어떠한 모드도 켜지 않고 미노를 1500개 이상 두는 동안 300을 넘지 않게 하세요!",
+    "expected_difficulty": "R2",
+    "status": "registered",
+    "submitted_at": "2026-06-27T14:22:11.963368",
+    "challenge_id": "807"
+  },
+  "72310779": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "정확도 2%",
+    "description": "퀵플레이에서 전문가 모드만을 켠 상태로 한판에 미노를 1000개 이상 두는 동안 대미지를 150 이상 보내지 마세요! 단, 8분 안에 끝내야 합니다!",
+    "expected_difficulty": "R3",
+    "status": "registered",
+    "submitted_at": "2026-06-27T14:25:54.984484",
+    "challenge_id": "808"
+  },
+  "7c126f30": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "정확도 0%",
+    "description": "퀵플레이에서 어떠한 모드를 켜지 않고 10층을 등반하고 APP를 0.333 미만으로 마무리하세요!",
+    "expected_difficulty": "R4",
+    "status": "registered",
+    "submitted_at": "2026-06-27T14:27:29.597988",
+    "challenge_id": "809"
+  },
+  "d5a4528f": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "HYPER \"SLOW\" SPEED",
+    "description": "퀵플레이에서 10층이 되기 전에 20분을 달성한 뒤, 그 이후에 10층에 도달하세요!",
+    "expected_difficulty": "Q2",
+    "status": "registered",
+    "submitted_at": "2026-06-27T14:31:00.326254",
+    "challenge_id": "810"
+  },
+  "9d1dd88d": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "매크로 의심",
+    "description": "퀵플레이에서 과도한 회전으로 인한 커넥션 에러를 100번 먹으세요! (손캠 요구, 중간휴식 최대 5분, 최대 4세트로 나누기 가능)",
+    "expected_difficulty": "marathon",
+    "status": "registered",
+    "submitted_at": "2026-06-27T16:19:20.432115",
+    "challenge_id": "811"
+  },
+  "d88b33d2": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "마라탕",
+    "description": "**차례대로 재료를 넣어 마라탕을 완성해보아요!**\n1. 국물을 넣어야하죠!(z미노로 10줄 깎기)\n2. 고기도 넣읍시다!(z스핀 트리플하기)\n3. 채소도 넣어야죠!(s미노로 5줄 깎기)\n4. 버섯도 빼먹으면 안되지!(방해줄 위에 O미노 두기)\n5. 면도 넣구요!(I를 세워서 싱글 3번하기)\n6. 마지막으로 두부도 넣는게 어때요?(O미노로 10줄 지우기)\n\n짠! **마라탕 완성!**",
+    "expected_difficulty": "P18",
+    "status": "registered",
+    "submitted_at": "2026-06-28T12:37:25.288059",
+    "challenge_id": "812"
+  },
+  "edbef5c6": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[Zenith Tower: 1층]",
+    "description": "1층이 끝나기 전에 회전키를 2500번 누르세요!",
+    "expected_difficulty": "R1",
+    "status": "registered",
+    "submitted_at": "2026-06-28T12:57:15.842419",
+    "challenge_id": "813"
+  },
+  "0c042c4e": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "Stratosphere",
+    "description": "퀵플레이에서 6,000m를 등반하세요!",
+    "expected_difficulty": "U7",
+    "status": "registered",
+    "submitted_at": "2026-06-28T14:06:13.676857",
+    "challenge_id": "814"
+  },
+  "110ed73d": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "Exosphere",
+    "description": "퀵플레이에서 7,000m를 등반하세요!",
+    "expected_difficulty": "U10",
+    "status": "registered",
+    "submitted_at": "2026-06-28T14:08:18.423960",
+    "challenge_id": "815"
+  },
+  "23d2f469": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "Ascension of Zenith",
+    "description": "퀵플레이에서 8,000m를 등반하세요!",
+    "expected_difficulty": "U13",
+    "status": "registered",
+    "submitted_at": "2026-06-28T14:08:54.197041",
+    "challenge_id": "816"
+  },
+  "d21af2a4": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "Apex transcendence",
+    "description": "퀵플레이에서 9,000m를 등반하세요!",
+    "expected_difficulty": "U16",
+    "status": "registered",
+    "submitted_at": "2026-06-28T14:10:43.302689",
+    "challenge_id": "817"
+  },
+  "1853f967": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "𝑷𝒊𝒏𝒏𝒂𝒄𝒍𝒆 𝒄𝒐𝒔𝒎𝒐𝒔",
+    "description": "퀵플레이에서 10,000m를 등반하세요!",
+    "expected_difficulty": "U19",
+    "status": "registered",
+    "submitted_at": "2026-06-28T14:12:41.743181",
+    "challenge_id": "818"
+  },
+  "a421969f": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "코인벌이",
+    "description": "100C을 획득 하고싶으시다면 이걸 깨세요!",
+    "expected_difficulty": "P0",
+    "status": "registered",
+    "submitted_at": "2026-06-28T14:14:40.998300",
+    "challenge_id": "819"
+  },
+  "0787d2e9": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[난이도: Very Easy]",
+    "description": "퀵플레이에서 T 미노를 제외한 미노를 사용해서 스핀으로 한번에 3줄을 지우세요!",
+    "expected_difficulty": "P2",
+    "status": "registered",
+    "submitted_at": "2026-06-29T04:02:44.741940",
+    "challenge_id": "820"
+  },
+  "346b3311": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[난이도: Easy]",
+    "description": "퀵플레이에서 한 게임 안에 Z, S, J, L 미노로 한번씩 스핀으로 3줄을 지우세요!",
+    "expected_difficulty": "P5",
+    "status": "registered",
+    "submitted_at": "2026-06-29T04:04:33.147576",
+    "challenge_id": "821"
+  },
+  "2bbea423": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[난이도: Little Hard]",
+    "description": "퀵플레이에서 모든 스핀을 사용하지 않고 3층에 가보세요!",
+    "expected_difficulty": "P8",
+    "status": "registered",
+    "submitted_at": "2026-06-29T04:10:37.141470",
+    "challenge_id": "822"
+  },
+  "4dcc9886": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[난이도: Hard]",
+    "description": "이제부터 슬슬 어려워져야겠죠?\n\n퀵플레이에서 미노를 200개 이상 둔 상태에서 중반 퍼펙트 클리어(Peefect Clear)를 성공하세요!",
+    "expected_difficulty": "P12",
+    "status": "registered",
+    "submitted_at": "2026-06-29T04:12:13.625246",
+    "challenge_id": "823"
+  },
+  "7c513704": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[난이도: Harder]",
+    "description": "한번 더 난이도를 올려보죠!\n\n퀵플레이에서 100개의 미노만 둬서 300미터를 올라가세요!",
+    "expected_difficulty": "P16",
+    "status": "registered",
+    "submitted_at": "2026-06-29T04:13:50.608757",
+    "challenge_id": "824"
+  },
+  "bf2e4aea": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[난이도: Insane]",
+    "description": "이제부터 본격적으로 어려워질겁니다.\n\n퀵플레이에서 방해줄을 지우거나 상쇄하지 말고 5층에 도달하세요!",
+    "expected_difficulty": "R0",
+    "status": "registered",
+    "submitted_at": "2026-06-29T04:16:23.552452",
+    "challenge_id": "825"
+  },
+  "17ef5a74": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[난이도: More Insane]",
+    "description": "이제부턴 고수분들이 도전하기 좋은 챌린지가 될겁니다.\n\n퀵플레이에서 4pps 이상으로 마무리하세요.\n\n단, 3층 이상을 등반해야 합니다.",
+    "expected_difficulty": "R1",
+    "status": "registered",
+    "submitted_at": "2026-06-29T04:22:08.595631",
+    "challenge_id": "826"
+  },
+  "8a7e3124": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[난이도: Super Hard]",
+    "description": "퀵플레이에서 10층까지 등반하는 동안 서지를 100 이상 모으세요.\n\n단, 한번도 서지를 끊으면 안됩니다.",
+    "expected_difficulty": "R2",
+    "status": "registered",
+    "submitted_at": "2026-06-29T04:24:11.904569",
+    "challenge_id": "827"
+  },
+  "96a69da3": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[난이도:Crazy]",
+    "description": "퀵플레이에서 『Volatile』 모드를 켠 상태로 10층을 등반하세요.\n단, 조건들이 있습니다.\n\n<조건>\n1. 대미지 상쇄가 불가능합니다.\n\n1-1. 단, 대미지를 받고난 뒤, 방해줄을 지우면서 이후에 들어올 방해줄이 상쇄되는 것은 실패로 간주되지 않습니다.\n\n2. 서지가 쌓이면 실패로 간주됩니다.",
+    "expected_difficulty": "R2",
+    "status": "registered",
+    "submitted_at": "2026-06-29T04:29:38.806321",
+    "challenge_id": "828"
+  },
+  "35bf7997": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[난이도:It's Possible]",
+    "description": "퀵플레이에서 미노를 700개 이하로 사용해서 10층에 도달하세요.\n\n단, 아무런 모드도 사용하시면 안됩니다.",
+    "expected_difficulty": "R3",
+    "status": "registered",
+    "submitted_at": "2026-06-29T04:34:09.903408",
+    "challenge_id": "829"
+  },
+  "638b2f0e": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[난이도:Maybe Possible]",
+    "description": "퀵플레이에서 2분 안에 10층에 도달하세요.",
+    "expected_difficulty": "Q0",
+    "status": "registered",
+    "submitted_at": "2026-06-29T04:35:49.154213",
+    "challenge_id": "830"
+  },
+  "a4b4503a": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[난이도:Can you clear this?]",
+    "description": "퀵플레이에서 등반속도 13단계를 달성하세요.",
+    "expected_difficulty": "Q0",
+    "status": "registered",
+    "submitted_at": "2026-06-29T04:39:51.556854",
+    "challenge_id": "831"
+  },
+  "0304a5f9": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[This is possible?]",
+    "description": "퀵플레이에서 4층에 도달하기 전에 100 서지를 모으세요.",
+    "expected_difficulty": "Q1",
+    "status": "registered",
+    "submitted_at": "2026-06-29T04:40:55.636184",
+    "challenge_id": "832"
+  },
+  "32636e80": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[난이도:Impossible]",
+    "description": "퀵플레이에서 500서지를 10층 안에 모으세요.",
+    "expected_difficulty": "impossible",
+    "status": "registered",
+    "submitted_at": "2026-06-29T04:42:48.243978",
+    "challenge_id": "833"
+  },
+  "94f4183b": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[난이도:Catastrophe]",
+    "description": "퀵플레이에서 『Messier Garbage』, 『Double Hole Garbage』 모드를 켠 상태로 3000미터를 도달하세요.",
+    "expected_difficulty": "Q1",
+    "status": "registered",
+    "submitted_at": "2026-06-29T04:44:57.109764",
+    "challenge_id": "834"
+  },
+  "415d16a2": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[난이도:God]",
+    "description": "퀵플레이에서 \"Block Rationing\" 모드를 활성화하고 2000미터를 등반하세요.",
+    "expected_difficulty": "Q1",
+    "status": "registered",
+    "submitted_at": "2026-06-29T04:46:16.257374",
+    "challenge_id": "835"
+  },
+  "e727cef8": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[난이도:Are you robot?]",
+    "description": "퀵플레이에서 센터 포와이드 빌드만을 사용하여 2500미터를 도달하세요.",
+    "expected_difficulty": "Q2",
+    "status": "registered",
+    "submitted_at": "2026-06-29T04:47:46.675745",
+    "challenge_id": "836"
+  },
+  "6a5b0a7d": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[난이도:ULTRA EASY]",
+    "description": "퀵플레이에서 게임을 하는 도중에 퀵플레이 채팅에 이모지 하나를 날리세요!",
+    "expected_difficulty": "P0",
+    "status": "registered",
+    "submitted_at": "2026-06-29T04:49:44.442323",
+    "challenge_id": "837"
+  },
+  "7d4c5390": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[쉬운 챌린지 - 1번]",
+    "description": "퀵플레이에서 회색 방해줄을 깎으세요!",
+    "expected_difficulty": "P0",
+    "status": "registered",
+    "submitted_at": "2026-06-29T04:51:17.389507",
+    "challenge_id": "838"
+  },
+  "a97535ed": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[쉬운 챌린지 - 2번]",
+    "description": "퀵플레이에서 30미터를 달성하세요!",
+    "expected_difficulty": "P1",
+    "status": "registered",
+    "submitted_at": "2026-06-29T04:52:14.114714",
+    "challenge_id": "839"
+  },
+  "76fa1e73": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[쉬운 챌린지 - 3번]",
+    "description": "퀵플레이에서 한판에 싱글, 더블, 트리플, 테트리스를 각각 한번씩 성공하세요!",
+    "expected_difficulty": "P2",
+    "status": "registered",
+    "submitted_at": "2026-06-29T04:53:12.356855",
+    "challenge_id": "840"
+  },
+  "615955c0": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[쉬운 챌린지 - 4번]",
+    "description": "퀵플레이에서 등반속도 3단계(노란색)를 달성하세요!",
+    "expected_difficulty": "P3",
+    "status": "registered",
+    "submitted_at": "2026-06-29T04:54:47.453737",
+    "challenge_id": "841"
+  },
+  "2fb94da6": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[쉬운 챌린지 - 5번]",
+    "description": "퀵플레이에서 한 게임 안에 10 대미지를 날리세요!\n\n단, 방해줄을 상쇄하는 대미지는 포함되지 않아요.",
+    "expected_difficulty": "P3",
+    "status": "registered",
+    "submitted_at": "2026-06-29T04:56:14.681842",
+    "challenge_id": "842"
+  },
+  "ff36065e": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[쉬운 챌린지 - 6번]",
+    "description": "퀵플레이에서 100미터를 등반하세요!",
+    "expected_difficulty": "P4",
+    "status": "registered",
+    "submitted_at": "2026-06-29T04:58:45.174561",
+    "challenge_id": "843"
+  },
+  "538a177e": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[쉬운 챌린지 - 7번]",
+    "description": "퀵플레이에서 스핀을 성공하세요!\n\n줄이 지워지지 않아도 괜찮아요.",
+    "expected_difficulty": "P1",
+    "status": "registered",
+    "submitted_at": "2026-06-29T05:02:43.304176",
+    "challenge_id": "844"
+  },
+  "ec2573fd": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[쉬운 챌린지 - 8번]",
+    "description": "퀵플레이에서 한 게임에 I 미노를 사용해서 10줄 이상 지우세요!",
+    "expected_difficulty": "P2",
+    "status": "registered",
+    "submitted_at": "2026-06-29T05:04:41.131926",
+    "challenge_id": "845"
+  },
+  "41092aa6": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[쉬운 챌린지 - 9번]",
+    "description": "퀵플레이에서 2분을 버티세요!",
+    "expected_difficulty": "P4",
+    "status": "registered",
+    "submitted_at": "2026-06-29T05:05:56.981345",
+    "challenge_id": "846"
+  },
+  "4f9a3b8b": {
+    "user_id": "1485520167420297276",
+    "username": "iamveryverysimple",
+    "name": "안이 그림자 어디가써 v1",
+    "description": "고스트 끄고 100m 가기",
+    "expected_difficulty": "P1",
+    "status": "registered",
+    "submitted_at": "2026-06-29T05:08:05.828210",
+    "challenge_id": "847"
+  },
+  "6e031c31": {
+    "user_id": "1485520167420297276",
+    "username": "iamveryverysimple",
+    "name": "안이 그림자 어디가써 v1",
+    "description": "고스트 끄고 200m 가기",
+    "expected_difficulty": "P2",
+    "status": "pending",
+    "submitted_at": "2026-06-29T05:08:30.842408"
+  },
+  "38c8ac30": {
+    "user_id": "1485520167420297276",
+    "username": "iamveryverysimple",
+    "name": "안이 그림자 어디가써 v2",
+    "description": "고스트 끄고 200m 가기",
+    "expected_difficulty": "P2",
+    "status": "registered",
+    "submitted_at": "2026-06-29T05:08:56.217614",
+    "challenge_id": "848"
+  },
+  "edaa505f": {
+    "user_id": "1485520167420297276",
+    "username": "iamveryverysimple",
+    "name": "안이 그림자 어디가써 v3",
+    "description": "고스트 끄고 300m 가기",
+    "expected_difficulty": "P3",
+    "status": "registered",
+    "submitted_at": "2026-06-29T05:09:06.244327",
+    "challenge_id": "849"
+  },
+  "bb6209bd": {
+    "user_id": "1485520167420297276",
+    "username": "iamveryverysimple",
+    "name": "안이 그림자 어디가써 v4",
+    "description": "고스트 끄고 500m 가기",
+    "expected_difficulty": "P4",
+    "status": "registered",
+    "submitted_at": "2026-06-29T05:09:31.478938",
+    "challenge_id": "850"
+  },
+  "4c1dc01a": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[쉬운 챌린지 - 10번]",
+    "description": "퀵플레이에서 200미터에 도달하세요!",
+    "expected_difficulty": "P4",
+    "status": "registered",
+    "submitted_at": "2026-06-29T05:09:40.715142",
+    "challenge_id": "851"
+  },
+  "51dcc67c": {
+    "user_id": "1485520167420297276",
+    "username": "iamveryverysimple",
+    "name": "그림자 없잖아 돌려줘",
+    "description": "고스트를 끈 상태로, 90 스태킹을 하면서 50미노를 놓는동안 구멍 만들지 않기",
+    "expected_difficulty": "P6",
+    "status": "registered",
+    "submitted_at": "2026-06-29T05:11:02.649293",
+    "challenge_id": "852"
+  },
+  "97a549a8": {
+    "user_id": "1485520167420297276",
+    "username": "iamveryverysimple",
+    "name": "그림자 없잖아 돌려줘 v2",
+    "description": "고스트를 끈 상태로, 90 스태킹을 하면서 300미노를 놓는동안 구멍 만들지 않기",
+    "expected_difficulty": "P6",
+    "status": "registered",
+    "submitted_at": "2026-06-29T05:11:12.997414",
+    "challenge_id": "853"
+  },
+  "915818f7": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[쉬운 챌린지 - 11번]",
+    "description": "퀵플레이에서 O 미노를 사용해 2줄 클리어를 3번 해보세요.",
+    "expected_difficulty": "P2",
+    "status": "registered",
+    "submitted_at": "2026-06-29T05:13:16.179673",
+    "challenge_id": "854"
+  },
+  "147dd3eb": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[쉬운 챌린지 - 12번]",
+    "description": "퀵플레이에서 한쪽 방향 회전키만 사용해서 100미터를 등반하세요!",
+    "expected_difficulty": "P3",
+    "status": "registered",
+    "submitted_at": "2026-06-29T05:14:42.945964",
+    "challenge_id": "855"
+  },
+  "c53f974a": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[쉬운 챌린지 - 13번]",
+    "description": "퀵플레이에서 한 게임에 T스핀 클리어를 3번 성공하세요.\n\n미니 싱글, 싱글, 더블, 트리플 전부 상관없이 3번만 성공하면 된답니다.",
+    "expected_difficulty": "P3",
+    "status": "registered",
+    "submitted_at": "2026-06-29T05:16:02.186802",
+    "challenge_id": "856"
+  },
+  "ad3e3483": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[쉬운 챌린지 - 14번]",
+    "description": "퀵플레이에서 『No Hold』 모드를 사용해 3층에 도달해보세요!",
+    "expected_difficulty": "P7",
+    "status": "registered",
+    "submitted_at": "2026-06-29T05:17:55.083692",
+    "challenge_id": "857"
+  },
+  "611cb762": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[쉬운 챌린지 - 15번]",
+    "description": "퀵플레이에서 등반속도 4단계(연두색)를 달성해보세요!",
+    "expected_difficulty": "P6",
+    "status": "registered",
+    "submitted_at": "2026-06-29T05:20:56.439502",
+    "challenge_id": "858"
+  },
+  "8dcc787d": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[쉬운 챌린지 - 16번]",
+    "description": "퀵플레이에서 3분을 버텨보세요!",
+    "expected_difficulty": "P6",
+    "status": "registered",
+    "submitted_at": "2026-06-29T05:23:54.401009",
+    "challenge_id": "859"
+  },
+  "af1ac993": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[쉬운 챌린지 - 17번]",
+    "description": "퀵플레이에서 한 게임에 테트리스를 5번 성공해보세요!",
+    "expected_difficulty": "P5",
+    "status": "registered",
+    "submitted_at": "2026-06-29T05:24:25.551144",
+    "challenge_id": "860"
+  },
+  "37386f4d": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[쉬운 챌린지 - 18번]",
+    "description": "퀵플레이에서 흔 게임에 홀드 키를 30번 사용해보세요!",
+    "expected_difficulty": "P4",
+    "status": "registered",
+    "submitted_at": "2026-06-29T05:26:12.610307",
+    "challenge_id": "861"
+  },
+  "d5e10029": {
+    "user_id": "1485520167420297276",
+    "username": "iamveryverysimple",
+    "name": "홀드의 유혹",
+    "description": "노홀드 모드를 끼지 않은 상태에서, 홀드를 사용하지 않고 500m를 등반하세요",
+    "expected_difficulty": "P5",
+    "status": "registered",
+    "submitted_at": "2026-06-29T05:29:34.340988",
+    "challenge_id": "862"
+  },
+  "95143cab": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[쉬운 챌린지 - 19번]",
+    "description": "퀵플레이에서 등반속도 5단계(파란색)를 달성하세요!",
+    "expected_difficulty": "P9",
+    "status": "registered",
+    "submitted_at": "2026-06-29T05:32:55.800185",
+    "challenge_id": "863"
+  },
+  "81b2ea7e": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[쉬운 챌린지 - 20번]",
+    "description": "퀵플레이에서 하드드랍을 사용하지 않고 3층에 도달하세요!",
+    "expected_difficulty": "P5",
+    "status": "registered",
+    "submitted_at": "2026-06-29T05:39:04.936731",
+    "challenge_id": "864"
+  },
+  "6d35eb53": {
+    "user_id": "1485520167420297276",
+    "username": "iamveryverysimple",
+    "name": "3W 이런다;;",
+    "description": "3W로 10 콤보 잇기",
+    "expected_difficulty": "P6",
+    "status": "registered",
+    "submitted_at": "2026-06-29T05:43:07.950245",
+    "challenge_id": "865"
+  },
+  "3bf139d1": {
+    "user_id": "1485520167420297276",
+    "username": "iamveryverysimple",
+    "name": "부실공사",
+    "description": "첫 미노를 1행에 한 칸만 차지하도록 놓은 뒤, 1행에는 추가로 어떤 미노도 놓이거나 들어오지 않도록 하여 500m를 등반하세요",
+    "expected_difficulty": "P7",
+    "status": "registered",
+    "submitted_at": "2026-06-29T05:52:40.603239",
+    "challenge_id": "866"
+  },
+  "0efef339": {
+    "user_id": "1485520167420297276",
+    "username": "iamveryverysimple",
+    "name": "너를 향한 내 마음...~~이겠냐~~",
+    "description": "퀵플에서 하트를 만든후, 깎으세요",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-06-29T05:58:12.067810",
+    "challenge_id": "867"
+  },
+  "69b7d440": {
+    "user_id": "1485520167420297276",
+    "username": "iamveryverysimple",
+    "name": "오프너 메인으로 가는 길(아님)",
+    "description": "빌드 하나를 배우세요",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-06-29T06:00:32.806529",
+    "challenge_id": "868"
+  },
+  "63c67186": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "홍명보",
+    "description": "다른 사람에게 이상한 전술로 훈수를 두세요.",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-06-29T06:31:00.307169",
+    "challenge_id": "869"
+  },
+  "b7184236": {
+    "user_id": "1485520167420297276",
+    "username": "iamveryverysimple",
+    "name": "커피 한잔의 여유...~~그딴거 없어~~",
+    "description": "ARR, SDF를 5로 설정하고 퀵플 300m를 가세요",
+    "expected_difficulty": "P4",
+    "status": "registered",
+    "submitted_at": "2026-06-29T06:35:24.577482",
+    "challenge_id": "870"
+  },
+  "e7dbf691": {
+    "user_id": "1485520167420297276",
+    "username": "iamveryverysimple",
+    "name": "안이 O 미노 개많아",
+    "description": "가방을 붕괴시키세요",
+    "expected_difficulty": "P3",
+    "status": "registered",
+    "submitted_at": "2026-06-29T06:41:43.231637",
+    "challenge_id": "871"
+  },
+  "fb6b8af9": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "name": "윤회",
+    "description": "퀵플레이 중 가방이 꼬인 상태에서 중반퍼클을 성공 후 오프너 단계로 돌아오세요!",
+    "expected_difficulty": "R0",
+    "status": "registered",
+    "submitted_at": "2026-06-29T08:17:05.215728",
+    "challenge_id": "872"
+  },
+  "7e82e629": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "폭력주의지",
+    "description": "퀵 플레이에서 아무 모드를 사용하지 않고 1000데미지 이상 보내세요.",
+    "expected_difficulty": "R2",
+    "status": "registered",
+    "submitted_at": "2026-06-29T09:08:19.376564",
+    "challenge_id": "873"
+  },
+  "f79eac1a": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "name": "롯데타워 충전기",
+    "description": "퀵플레이에서 서지 123을 555m에 도달하기 전에 달성하세요.",
+    "expected_difficulty": "Q1",
+    "status": "registered",
+    "submitted_at": "2026-06-29T11:24:21.057747",
+    "challenge_id": "874"
+  },
+  "4cf3cfc5": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[퀵플레이: 소갈비찜 맛]",
+    "description": "🌟 자 오늘은 테트리스식 소갈비찜 조리법에 대해 알아보겠습니다! 🌟\n\n모든 조리 과정은 순서대로!\n퀵플레이 단 한판에서!\n아무런 모드 없이 진행된다는 점!\n\n기억해주시길 바랄게요~ 🥰\n<준비물>\n먼저 재료로 Z, L, O, S, I, J, T 미노와 보드판을 준비해주세요.\n\n《1단계》\n먼저 갈비의 색에 맞는 Z미노로 방해줄을 6줄 정도 지워주세요!\n\n《2단계》\n그 다음으로 은행의 색에 가장 비슷한 L미노로 1열 혹은 10열에 3개정도 놔주시고요~\n\nL미노가 가장자리에 닿기만 하면 된답니다!\n\n《3단계》\n양념장에 들어갈 은행과 배즙을 준비해봅시다!\n\n O미노로 4줄을 지워주세요!\n\n《4단계》\n이제 갈비를 삶아야 할 차례!\nS미노와 함께 냄비에 갈비를 넣고 푹 끓여줍시다~\n\nS미노를 홀드칸에 두번정도 보관해주세요~\n\n《5단계》\n잘 삶아진 갈비에 양념장을 넣어봅시다! \n정확한 계량을 위해 I미노가 도와주러 왔답니다.\n\nI미노 3개를 사용해서 8줄을 지워주세요~\n아, __2개만에 8줄을 다 지우면 안돼요!__\n\n《6단계》\n길쭉한 J미노를 이용해서 한번 내용물을 휘저어줍시다!\n\nJ미노로 스핀 클리어를 두 번 해주세요!\n\n《7단계》\n마지막으로 맛있게 은행과 밤, 대추 등으로 데코를 해봅시다!\n\nT미노를 아무곳에나 10개 둬주세요!\n\n단, 줄은 지우지 마세요!\n\n《완성!》\n이렇게 테트리오식 소갈비찜이 완성됐습니다~ \n(와아~! 짝짝짝~)\n\n맛있게 즐겨주세요~!",
+    "expected_difficulty": "P16",
+    "status": "registered",
+    "submitted_at": "2026-06-29T11:31:25.687402",
+    "challenge_id": "875"
+  },
+  "adcb714a": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "억만장자",
+    "description": "포와이드 blitz 1억점을 달성하세요!",
+    "expected_difficulty": "R2",
+    "status": "registered",
+    "submitted_at": "2026-06-29T12:59:11.246124",
+    "challenge_id": "876"
+  },
+  "6cbf9d2c": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "화력 중독",
+    "description": "등반속도 11 이상을 1분간 유지하세요.",
+    "expected_difficulty": "R4",
+    "status": "registered",
+    "submitted_at": "2026-06-29T23:52:33.690521",
+    "challenge_id": "877"
+  },
+  "4730e618": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "안이 그딴 스태킹 하지 마라구요;;",
+    "description": "1-8 or 8-1 스태킹으로 40L을 1분 10초 내에 완주하세요",
+    "expected_difficulty": "P8",
+    "status": "registered",
+    "submitted_at": "2026-06-30T12:25:13.481603",
+    "challenge_id": "878"
+  },
+  "5e61be24": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "AmBR0S1A",
+    "description": "모든 리버스 모드를 해금하세요",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-07-01T06:28:43.704715",
+    "challenge_id": "880"
+  },
+  "bff121c2": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "회전 마스터",
+    "description": "퀵플레이에서 아무런 모드도 사용하지 않고 오직 회전키만 사용해서 2층에 도달하세요.",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-07-02T06:32:28.746625",
+    "challenge_id": "879"
+  },
+  "c2ccaf24": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "치즈 연구가",
+    "description": "퀵플레이에서 『Double Hole Garbage』 모드를 켜고 5000미터에 도달하세요.",
+    "expected_difficulty": "Q2",
+    "status": "registered",
+    "submitted_at": "2026-07-02T15:25:01.695268",
+    "challenge_id": "881"
+  },
+  "91bd6a2a": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "공짜 엘베",
+    "description": "zen 에서 O 미노 엘리베이터를 만들고 성공하세요",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-07-02T15:26:00.939605",
+    "challenge_id": "882"
+  },
+  "51f187c2": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "jumpscare",
+    "description": "테트리오를 하다가 공포 바이러스가 켜져서 놀라세요....?",
+    "expected_difficulty": "censored",
+    "status": "registered",
+    "submitted_at": "2026-07-03T12:57:23.360858",
+    "challenge_id": "883"
+  },
+  "e57c0173": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "마라탕 (5단계)",
+    "description": "**가장 매운 마라탕을 만들어봅시다..**\n1. 매운 국물을 넣어볼까요?(z스핀으로 55줄 깎기)\n2. 고기도 일단..(z스핀 트리플하기)\n3. 채소도 넣죠?(s미노로 5줄 깎기)\n4. 버섯도 넣어봅시다.(방해줄 위에 O미노 두기)\n5. 면도 넣구요.(I를 세워서 싱글 3번하기)\n6. 각이 산 두부를 넣읍시다..(O스핀 더블 하기)\n\n**5단계 마라탕 완성..**",
+    "expected_difficulty": "R4",
+    "status": "registered",
+    "submitted_at": "2026-07-03T13:01:35.889568",
+    "challenge_id": "884"
+  },
+  "6ff9f97b": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "진짜 억울해..",
+    "description": "스핀 제로로 흉터가 생기세요..",
+    "expected_difficulty": "P5",
+    "status": "registered",
+    "submitted_at": "2026-07-03T23:50:13.144814",
+    "challenge_id": "885"
+  },
+  "d202cfbf": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "스핀 (준)독자",
+    "description": "퀵플레이에서 **스핀**을 총합 50번 이상 하세요.",
+    "expected_difficulty": "P15",
+    "status": "registered",
+    "submitted_at": "2026-07-11T12:16:29.861848",
+    "challenge_id": "886"
+  },
+  "aaaa484a": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "내 컴퓨터 안의 컴퓨터",
+    "description": "가상컴퓨터에서 테트리오를 플레이하세요",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-07-13T12:34:08.489256",
+    "challenge_id": "887"
+  },
+  "0acbc31c": {
+    "user_id": "1160876985157943308",
+    "username": "logging_sayer_77610",
+    "name": "닥쳐라용사(i'msorry)",
+    "description": "테트리오를 하다가 10만원 이상 키보드를 박살내세요. (신품 기준)",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-07-13T14:06:50.038512",
+    "challenge_id": "888"
+  },
+  "0bfd4558": {
+    "user_id": "1160876985157943308",
+    "username": "logging_sayer_77610",
+    "name": "우리나라가월드컵32강딱???omg이건말도안되",
+    "description": "퀵플레이 32m를 달성하세요.",
+    "expected_difficulty": "P1",
+    "status": "registered",
+    "submitted_at": "2026-07-13T14:08:59.794883",
+    "challenge_id": "889"
+  },
+  "391f680c": {
+    "user_id": "1160876985157943308",
+    "username": "logging_sayer_77610",
+    "name": "요망한고양이메이드와주인타비/마시로키리누키",
+    "description": "퀵플레이에서 z미노와 i미노로만 줄을 지워서 500m에 도달하세요.",
+    "expected_difficulty": "P17",
+    "status": "registered",
+    "submitted_at": "2026-07-13T14:13:44.985738",
+    "challenge_id": "890"
+  },
+  "90b15290": {
+    "user_id": "1160876985157943308",
+    "username": "logging_sayer_77610",
+    "name": "저는복제인간입니다.저는복제인간입니다.저는복제인간입니다.",
+    "description": "퀵플레이에서 50스파이크 이상을 3번 이상 날리세요. (서지 제외)",
+    "expected_difficulty": "Q0",
+    "status": "registered",
+    "submitted_at": "2026-07-13T14:16:04.371749",
+    "challenge_id": "891"
+  },
+  "85dafdfa": {
+    "user_id": "1160876985157943308",
+    "username": "logging_sayer_77610",
+    "name": "메호대전",
+    "description": "swamp water 모드를 키고 4층에 도달하세요.",
+    "expected_difficulty": "R4",
+    "status": "pending",
+    "submitted_at": "2026-07-13T14:19:17.163513"
+  },
+  "3843ecbf": {
+    "user_id": "1160876985157943308",
+    "username": "logging_sayer_77610",
+    "name": "그거5마라인;;;;",
+    "description": "퀵플레이에서 100 apm 이상으로 10층에 도달하세요.",
+    "expected_difficulty": "R3",
+    "status": "registered",
+    "submitted_at": "2026-07-13T14:22:42.040231",
+    "challenge_id": "892"
+  },
+  "52b0817f": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "순수함 그 자체",
+    "description": "어떠한 스핀도 없이 블리츠 38,000점을 달성하세요!",
+    "expected_difficulty": "P11",
+    "status": "registered",
+    "submitted_at": "2026-07-14T10:55:44.979807",
+    "challenge_id": "893"
+  },
+  "f65733a6": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "IT세대가 아닙니다.",
+    "description": "T랑 I미노로 줄을 지우지 않고 40l을 2분안에 완주하세요!",
+    "expected_difficulty": "P9",
+    "status": "registered",
+    "submitted_at": "2026-07-14T10:58:19.394617",
+    "challenge_id": "894"
+  },
+  "3a62ee99": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "신중한 결정",
+    "description": "No hold, messier garbage 모드를 키고 스핀 없이 300m를 가세요!",
+    "expected_difficulty": "P12",
+    "status": "registered",
+    "submitted_at": "2026-07-14T11:59:16.235654",
+    "challenge_id": "895"
+  },
+  "89fc26f9": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "name": "테무산 워록",
+    "description": "올스핀 모드를 켜고 워록에서의 조건(그냥 깎기는 void, 스핀 s,d,t 겹치면 안됨, 한번 실수하면 끝)을 가진 채로 백투백 10을 달성하세요!",
+    "expected_difficulty": "P14",
+    "status": "registered",
+    "submitted_at": "2026-07-14T13:00:52.573243",
+    "challenge_id": "896"
+  },
+  "ac34041c": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "지혈",
+    "description": "bleeding hearts에서 S 티어의 미션인 \"Clear two O-Spin Doubles consecutively\"를 성공하세요!",
+    "expected_difficulty": "R1",
+    "status": "registered",
+    "submitted_at": "2026-07-16T11:07:46.938125",
+    "challenge_id": "897"
+  },
+  "a26efc15": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[제한] Part. 1",
+    "description": "최고 등반속도 12를 달성하세요. 단, 서지를 사용해서 도달하는 것은 실패로 간주됩니다.",
+    "expected_difficulty": "R2",
+    "status": "registered",
+    "submitted_at": "2026-07-16T15:27:58.690656",
+    "challenge_id": "898"
+  },
+  "b0df5154": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "홀드는 거들 뿐",
+    "description": "퀵플레이에서 Hyper Speed를 완주하세요. 단, 여러 조건을 충족해야 합니다. (1) 『No Hold』 모드를 사용하면 안되며 (2) 기본적으로 주어지는 홀드 칸도 사용하면 안됩니다. (3) 10층에 도달했을 때를 기준으로 등반속도가 10 이상이어야 하며 (4) 서지를 사용하면 실격처리됩니다.",
+    "expected_difficulty": "Q1",
+    "status": "registered",
+    "submitted_at": "2026-07-16T15:35:32.356861",
+    "challenge_id": "899"
+  },
+  "7fd1b059": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "아무 일도 없었다...",
+    "description": "퀵플레이에서 아무런 모드를 사용하지 않은 상태로 아무런 회전 키나 방향키를 누르지 않고 9개를 둔 다음, 2층에 도달하기 전에 바닥에서부터 높이가 2칸 이상으로는 어떠한 종류의 블록이든, 단 하나라도 존재하지 않게 복구하세요.",
+    "expected_difficulty": "R2",
+    "status": "registered",
+    "submitted_at": "2026-07-16T15:45:33.671220",
+    "challenge_id": "900"
+  },
+  "6ceb7169": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "등반 전문가",
+    "description": "퀵플레이에서 『Expert』 모드를 켠 상태로 등반속도 11  이상을 30초 이상 유지하세요.",
+    "expected_difficulty": "R3",
+    "status": "registered",
+    "submitted_at": "2026-07-16T16:11:36.533410",
+    "challenge_id": "901"
+  },
+  "2da14bf3": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "절망",
+    "description": "퀵플레이에서 『Expert』, 『Volatile』, 『No Hold』 모드를 켠 상태로 3000미터에 도달하세요.",
+    "expected_difficulty": "Q3",
+    "status": "registered",
+    "submitted_at": "2026-07-16T16:23:08.003460",
+    "challenge_id": "902"
+  },
+  "3eaa8a3d": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "윗공기가 담긴 주스",
+    "description": "swamp water lite로 10층을 가세요!",
+    "expected_difficulty": "U9",
+    "status": "registered",
+    "submitted_at": "2026-07-17T02:44:26.739543",
+    "challenge_id": "903"
+  },
+  "8902d91d": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "1분 타임어택!",
+    "description": "퀵플레이에서 1분 안에 10층을 도착하세요!",
+    "expected_difficulty": "Q4",
+    "status": "registered",
+    "submitted_at": "2026-07-17T06:59:58.062721",
+    "challenge_id": "905"
+  },
+  "6b5a346a": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "내가 너처럼 해도 너보단 높이 올라가겠다...",
+    "description": "퀵플에이에서 APP를 0.25 이하로 유지한 채로 7층에 도달하세요.",
+    "expected_difficulty": "R3",
+    "status": "registered",
+    "submitted_at": "2026-07-17T07:01:42.705959",
+    "challenge_id": "904"
+  },
+  "7e7c908e": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "불가능...?",
+    "description": "퀵플레이에서 2000미터에 도달하세요.\n\n<조건>\n① 보드의 가장 밑바닥을 기준으로 높이 5칸 까지만 사용이 가능하며, 그 이상의 높이에 블록이 위치하게 될 경우 실패입니다.\n② 어떠한 모드도 사용하면 안됩니다.\n③ 방해줄 및 영구 방해줄도 높이에 포함됩니다.",
+    "expected_difficulty": "R4",
+    "status": "registered",
+    "submitted_at": "2026-07-17T07:07:59.587213",
+    "challenge_id": "906"
+  },
+  "3a1af0bd": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "차라리 죽게 해줘...",
+    "description": "퀵플레이에서 듀오 모드를 켠 상태로 상대방을 50번 살리세요.",
+    "expected_difficulty": "Q2",
+    "status": "registered",
+    "submitted_at": "2026-07-17T07:11:38.574852",
+    "challenge_id": "907"
+  },
+  "7024a59f": {
+    "user_id": "1452435595430199356",
+    "username": "_mara_0225",
+    "name": "와수디",
+    "description": "WASD로 키설정(기본에서 WASD로)바꾼다음 300M 가기",
+    "expected_difficulty": "P13",
+    "status": "registered",
+    "submitted_at": "2026-07-17T16:30:40.033963",
+    "challenge_id": "908"
+  },
+  "335c4103": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "사랑아 왜 도망가 수줍은 아이처럼",
+    "description": "임영웅 노래를 들으며 테트리오를 하세요!",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-07-18T11:07:58.624354",
+    "challenge_id": "909"
+  },
+  "211dc25a": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "사장님 놀아줘요",
+    "description": "한 빠른놀이에서 ㅜ스핀을 3번 성공하기",
+    "expected_difficulty": "P4",
+    "status": "registered",
+    "submitted_at": "2026-07-18T11:12:15.435912",
+    "challenge_id": "910"
+  },
+  "26523f97": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "사장님 일하세요",
+    "description": "중력 세부사항을 킨 상태로 6층에 진입하기",
+    "expected_difficulty": "P14",
+    "status": "registered",
+    "submitted_at": "2026-07-18T11:12:54.246955",
+    "challenge_id": "911"
+  },
+  "c363383d": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "사장님 퇴근하세요",
+    "description": "한 빠른놀이에서 완벽한 줄 지우기 2번 성공하기",
+    "expected_difficulty": "P8",
+    "status": "registered",
+    "submitted_at": "2026-07-18T11:13:39.023659",
+    "challenge_id": "912"
+  },
+  "8468a94b": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "정상에 위치한 보석 확보하기",
+    "description": "22분 안에 제니스타워 10층에 3번 도달하세요.",
+    "expected_difficulty": "G5",
+    "status": "registered",
+    "submitted_at": "2026-07-18T17:36:14.338926",
+    "challenge_id": "913"
+  },
+  "efb6fd21": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "보석 배치하기",
+    "description": "Expert, No Hold, Double Hole Garbage 모드를 켜고 10층에 도달하세요.",
+    "expected_difficulty": "U4",
+    "status": "registered",
+    "submitted_at": "2026-07-18T17:38:33.731372",
+    "challenge_id": "914"
+  },
+  "a19770c2": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "보석을 보호하기 위한 결계 생성하기",
+    "description": "All Spin 모드를 켜고 2222m에 도달하세요.",
+    "expected_difficulty": "U10",
+    "status": "registered",
+    "submitted_at": "2026-07-18T17:40:06.041854",
+    "challenge_id": "915"
+  },
+  "4a7b3e67": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "Extreme  Fortune",
+    "description": "The Tyrant 모드로 '올스핀만' 사용해 3층에 도달하세요.",
+    "expected_difficulty": "U2",
+    "status": "registered",
+    "submitted_at": "2026-07-18T17:55:41.470395",
+    "challenge_id": "916"
+  },
+  "65b1befd": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "void - spin",
+    "description": "warlock에서 퍼클을 하세요!",
+    "expected_difficulty": "R2",
+    "status": "registered",
+    "submitted_at": "2026-07-19T06:37:44.737869",
+    "challenge_id": "917"
+  },
+  "91f4b0de": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "name": "군주의 박물관",
+    "description": "tyrant 모드로 5층에 도달하세요.",
+    "expected_difficulty": "G20",
+    "status": "registered",
+    "submitted_at": "2026-07-23T11:42:33.454710",
+    "challenge_id": "918"
+  },
+  "7c7e9b89": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "name": "1급 보호기지",
+    "description": "tyrant 모드로 8층에 도달하세요.",
+    "expected_difficulty": "U7",
+    "status": "registered",
+    "submitted_at": "2026-07-23T11:43:18.032130",
+    "challenge_id": "919"
+  },
+  "a67e5130": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "Beyond the Minute Wall",
+    "description": "40l에서 1분 미만으로 완주하세요!",
+    "expected_difficulty": "P16",
+    "status": "registered",
+    "submitted_at": "2026-07-25T09:45:32.141989",
+    "challenge_id": "920"
+  },
+  "e1f8f5ab": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "Eon",
+    "description": "55분 안에 10층을 55번 가세요!",
+    "expected_difficulty": "Q4",
+    "status": "registered",
+    "submitted_at": "2026-07-25T09:49:37.241075",
+    "challenge_id": "921"
+  },
+  "d4221370": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "아야츠노 유니",
+    "description": "테트리오에서 뿔을 만드세요!",
+    "expected_difficulty": "P2",
+    "status": "registered",
+    "submitted_at": "2026-07-25T10:58:12.432761",
+    "challenge_id": "922"
+  },
+  "1e6bc0e8": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "사키하네 후야",
+    "description": "눈을 5초마다 감았다 떠서 퀵플레이 77m를 등반하세요! (되도록이면 0.5초만에 뜨기, 얼캠 요구)",
+    "expected_difficulty": "P3",
+    "status": "registered",
+    "submitted_at": "2026-07-25T11:02:25.973019",
+    "challenge_id": "923"
+  },
+  "360c7d5e": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "시라유키 히나",
+    "description": "퀵플레이에서 messier garbage 모드를 킨 채로 상쇄를 하지 않고 대미지를 모두 플롱킹 해 500m를 가세요!",
+    "expected_difficulty": "P14",
+    "status": "registered",
+    "submitted_at": "2026-07-25T11:17:12.805701",
+    "challenge_id": "924"
+  },
+  "7d6b8b09": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "네네코 마시로",
+    "description": "퀵플레이에서 z미노를 사용해 방해줄을 10줄 깎으세요!",
+    "expected_difficulty": "P7",
+    "status": "registered",
+    "submitted_at": "2026-07-25T11:22:15.288511",
+    "challenge_id": "925"
+  },
+  "43703a06": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "기본중의 기본",
+    "description": "퀵플레이에서 1줄을 지우세요!",
+    "expected_difficulty": "P0",
+    "status": "registered",
+    "submitted_at": "2026-07-25T11:24:45.824288",
+    "challenge_id": "926"
+  },
+  "7ce6cf77": {
+    "user_id": "1452435595430199356",
+    "username": "_mara_0225",
+    "name": "완벽주의",
+    "description": "40L을 피네스 80이상으로 40초안에 완주하세요",
+    "expected_difficulty": "G2",
+    "status": "registered",
+    "submitted_at": "2026-07-25T13:30:26.124135",
+    "challenge_id": "927"
+  },
+  "0aaedc58": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "Eon (Nerfed)",
+    "description": "55분안에 10층을 11번 가세요!",
+    "expected_difficulty": "Q1",
+    "status": "registered",
+    "submitted_at": "2026-07-26T05:51:20.354162",
+    "challenge_id": "928"
+  },
+  "6baca951": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "아오쿠모 린",
+    "description": "퀵플레이에서 어떠한 모드도 사용하지 않고 J스핀 트리플을 2번 하세요!",
+    "expected_difficulty": "P9",
+    "status": "registered",
+    "submitted_at": "2026-07-26T05:54:20.367676",
+    "challenge_id": "929"
+  },
+  "a4c38c9f": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "하나코 나나",
+    "description": "어떠한 모드를 쓰지 않고 각 미노마다 줄을 한번씩만 지워서 2층에 가세요! (= 총 7번)",
+    "expected_difficulty": "P8",
+    "status": "registered",
+    "submitted_at": "2026-07-26T05:59:04.651157",
+    "challenge_id": "930"
+  },
+  "5ee1bb4f": {
+    "user_id": "840063640681054228",
+    "username": "justicedragon4",
+    "name": "텐코 시부키(하은 에디션)",
+    "description": "블리츠에서 T미노만 써서 10만점 이상을 기록하세요. (T스핀 싱글,일반 줄 지우기만 허용)",
+    "expected_difficulty": "R3",
+    "status": "registered",
+    "submitted_at": "2026-07-26T11:41:51.999037",
+    "challenge_id": "931"
+  },
+  "5590f34f": {
+    "user_id": "840063640681054228",
+    "username": "justicedragon4",
+    "name": "미노에서털이나와요ㅠㅠㅠㅠ",
+    "description": "퀵플레이를 플레이 할 때 10초마다 퍼리\n사진을 봐가면서 10층에 도달하세요. (3초간 보기, 보는 동안 조작 불가)",
+    "expected_difficulty": "R2",
+    "status": "registered",
+    "submitted_at": "2026-07-26T11:46:55.170963",
+    "challenge_id": "932"
+  },
+  "2b31e1c7": {
+    "user_id": "840063640681054228",
+    "username": "justicedragon4",
+    "name": "시부키 히나",
+    "description": "퀵플레이에서 messier garbage 모드를 키고 상쇄하지 않으면서 **T미노로만** 방해줄을 깎아 750m를 가세요.",
+    "expected_difficulty": "R0",
+    "status": "registered",
+    "submitted_at": "2026-07-26T12:00:01.133791",
+    "challenge_id": "933"
+  },
+  "6f85c2c6": {
+    "user_id": "840063640681054228",
+    "username": "justicedragon4",
+    "name": "하츠네 미쿠",
+    "description": "퀵플레이에서 I미노만 사용해 8층에 도달하세요.",
+    "expected_difficulty": "R0",
+    "status": "registered",
+    "submitted_at": "2026-07-26T12:07:57.339018",
+    "challenge_id": "934"
+  },
+  "15886c46": {
+    "user_id": "840063640681054228",
+    "username": "justicedragon4",
+    "name": "타치바나 셰리",
+    "description": "VOLATILE 모드를 끼고 1950m에 도달하세요.",
+    "expected_difficulty": "G3",
+    "status": "registered",
+    "submitted_at": "2026-07-26T12:14:09.493507",
+    "challenge_id": "935"
+  },
+  "5d9f4cd1": {
+    "user_id": "1452435595430199356",
+    "username": "_mara_0225",
+    "name": "강지",
+    "description": "J랑 I로(스핀가능 상쇄 가능) 1000m를가세요",
+    "expected_difficulty": "G1",
+    "status": "registered",
+    "submitted_at": "2026-07-26T12:16:05.595209",
+    "challenge_id": "936"
+  },
+  "bf316847": {
+    "user_id": "1452435595430199356",
+    "username": "_mara_0225",
+    "name": "쉽다~",
+    "description": "<:rank_s_plus:1486362737981522094> ~<:emoji_63:1505194659364733101> 를 커스텀방에서 한판중 한라운드도 지지않고 이기기",
+    "expected_difficulty": "P20",
+    "status": "registered",
+    "submitted_at": "2026-07-26T12:20:03.371042",
+    "challenge_id": "937"
+  },
+  "3ba394b6": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "beyond the 169k wall",
+    "description": "블리츠 169,000점을 달성하세요!",
+    "expected_difficulty": "P14",
+    "status": "registered",
+    "submitted_at": "2026-07-26T16:48:25.981283",
+    "challenge_id": "938"
+  },
+  "c181ec37": {
+    "user_id": "1228338306631073815",
+    "username": "qqrqqt",
+    "name": "나나는 내 아내",
+    "description": "퀵플레이에서 1분 이내 10층 달성",
+    "expected_difficulty": "U10",
+    "status": "registered",
+    "submitted_at": "2026-07-27T16:58:10.656004",
+    "challenge_id": "939"
+  },
+  "9daf35bd": {
+    "user_id": "1228338306631073815",
+    "username": "qqrqqt",
+    "name": "허식 무라사키",
+    "description": "퀵플레이에서 백투백 600이상에서 끊기",
+    "expected_difficulty": "U20",
+    "status": "registered",
+    "submitted_at": "2026-07-27T17:02:51.284582",
+    "challenge_id": "940"
+  },
+  "a0f63122": {
+    "user_id": "1228338306631073815",
+    "username": "qqrqqt",
+    "name": "메이드인헤븐",
+    "description": "퀵플레이에서 10000m를 가세요!",
+    "expected_difficulty": "U20",
+    "status": "pending",
+    "submitted_at": "2026-07-27T17:26:46.827469"
+  },
+  "a03af9db": {
+    "user_id": "1228338306631073815",
+    "username": "qqrqqt",
+    "name": "이지까까브로",
+    "description": "퀵플레이에서 I스핀만 이용해 서지를 7이상, 10이하만큼 채우고 끊으세요.",
+    "expected_difficulty": "P8",
+    "status": "registered",
+    "submitted_at": "2026-07-27T17:31:45.989399",
+    "challenge_id": "941"
+  },
+  "40d6a43b": {
+    "user_id": "1228338306631073815",
+    "username": "qqrqqt",
+    "name": "sdpc spin 후속.?",
+    "description": "sdpc spin 올스핑 후속 후에 stsd만들고 퍼클하세요.",
+    "expected_difficulty": "P19",
+    "status": "registered",
+    "submitted_at": "2026-07-27T17:47:56.234880",
+    "challenge_id": "942"
+  },
+  "d34e1592": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "히히 L 스핀 트리플",
+    "description": "쓰레기줄 3줄을 지우는 L 스핀 트리플을 하세요",
+    "expected_difficulty": "P8",
+    "status": "registered",
+    "submitted_at": "2026-07-28T05:53:42.713293",
+    "challenge_id": "943"
+  },
+  "0fbbe0f1": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "히히 J 스핀 트리플",
+    "description": "쓰레기줄 3줄을 지우는 J 스핀 트리플을 하세요",
+    "expected_difficulty": "P8",
+    "status": "registered",
+    "submitted_at": "2026-07-28T05:53:51.565285",
+    "challenge_id": "944"
+  },
+  "89449a84": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "히히 S 스핀 트리플",
+    "description": "쓰레기줄 3줄을 지우는 S스핀 트리플을 하세요",
+    "expected_difficulty": "P8",
+    "status": "registered",
+    "submitted_at": "2026-07-28T11:03:54.439546",
+    "challenge_id": "945"
+  },
+  "fa79c2a0": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "히히 Z 스핀 트리플",
+    "description": "쓰레기줄 3줄을 지우는 S스핀 트리플을 하세요",
+    "expected_difficulty": "P8",
+    "status": "pending",
+    "submitted_at": "2026-07-28T11:03:58.184924"
+  },
+  "f2c0c66d": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "히히 Z 스핀 트리플",
+    "description": "쓰레기줄 3줄을 지우는 Z스핀 트리플을 하세요",
+    "expected_difficulty": "P8",
+    "status": "registered",
+    "submitted_at": "2026-07-28T11:04:07.654990",
+    "challenge_id": "946"
+  },
+  "c9818faf": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "히히 호텔 가기",
+    "description": "쓰레기줄을 받지 않고 2층을 가세요",
+    "expected_difficulty": "P2",
+    "status": "registered",
+    "submitted_at": "2026-07-28T11:44:23.759350",
+    "challenge_id": "947"
+  },
+  "e031aefe": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "카지노 갈때는 단정한 차림으로",
+    "description": "쓰레기줄을 받지 않고 3층을 가세요",
+    "expected_difficulty": "P5",
+    "status": "registered",
+    "submitted_at": "2026-07-28T11:45:48.294951",
+    "challenge_id": "948"
+  },
+  "f67a48b9": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "아이리 칸나 v2",
+    "description": "학교 졸업하는 날에 테트하기",
+    "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-07-28T11:50:28.397733",
+    "challenge_id": "949"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "I1YZNIEQI2XFCJUR": {
+    "amount": 1000,
+    "used": true,
+    "created_at": "2026-01-04T08:48:26.907908",
+    "used_by": "819167210446127105",
+    "used_at": "2026-01-04T09:12:06.720851"
+  },
+  "SAILW2P0GCIA8WCQ": {
+    "amount": 1000,
+    "used": false,
+    "created_at": "2026-01-04T09:29:34.193134"
+  },
+  "5E3U27JL6G7J51BQ": {
+    "amount": 1000,
+    "used": true,
+    "created_at": "2026-01-04T09:29:34.193198",
+    "used_by": "1273331318834593814",
+    "used_at": "2026-01-04T09:31:09.219214"
+  },
+  "GQDYQCMPU1F9UG6J": {
+    "amount": 1000,
+    "used": true,
+    "created_at": "2026-01-04T20:23:27.270421",
+    "used_by": "1264967714095497268",
+    "used_at": "2026-01-04T20:24:12.454769"
+  },
+  "CO0533ROWXQ57BFE": {
+    "amount": 10000,
+    "used": true,
+    "created_at": "2026-01-05T22:46:32.157353",
+    "used_by": "1445777081391648922",
+    "used_at": "2026-01-09T07:10:05.223706"
+  },
+  "FE96RPILN6OLTG7K": {
+    "amount": 974,
+    "used": true,
+    "created_at": "2026-01-14T07:39:55.863834",
+    "used_by": "1445777081391648922",
+    "used_at": "2026-01-14T07:43:15.429720"
+  },
+  "5MVSFG73EUX68R0U": {
+    "amount": 2000,
+    "used": true,
+    "created_at": "2026-01-19T06:22:47.368235",
+    "used_by": "976461145026203730",
+    "used_at": "2026-01-19T06:25:29.759544"
+  },
+  "AM18ZGHMVLNO9YY7": {
+    "amount": 1000,
+    "used": false,
+    "created_at": "2026-01-21T08:34:03.243967"
+  }
+}

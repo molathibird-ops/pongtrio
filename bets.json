@@ -1,0 +1,66 @@
+{
+  "3d084998": {
+    "host_id": "819167210446127105",
+    "target_id": "976461145026203730",
+    "amount": 100,
+    "topic": "아임필링럭키",
+    "status": "active",
+    "timestamp": 1767795566.26143
+  },
+  "79de51a2": {
+    "host_id": "1264967714095497268",
+    "target_id": "819167210446127105",
+    "amount": 71,
+    "topic": "아임필링럭키야나는운이좋을것이다베이베",
+    "status": "active",
+    "timestamp": 1767893094.3669574
+  },
+  "0ea924e0": {
+    "host_id": "976461145026203730",
+    "target_id": "819167210446127105",
+    "amount": 74,
+    "topic": "5판ㅋ",
+    "status": "pending",
+    "timestamp": 1768930348.4362838
+  },
+  "3c07fd1c": {
+    "host_id": "976461145026203730",
+    "target_id": "871663820299456513",
+    "amount": 300,
+    "topic": "느금마",
+    "status": "pending",
+    "timestamp": 1769009173.4589858
+  },
+  "9d72cf00": {
+    "host_id": "819167210446127105",
+    "target_id": "976461145026203730",
+    "amount": 85,
+    "topic": "ㄴㅅ",
+    "status": "pending",
+    "timestamp": 1769178920.8757918
+  },
+  "20eb828e": {
+    "host_id": "819167210446127105",
+    "target_id": "976461145026203730",
+    "amount": 85,
+    "topic": "ㄴㅅ",
+    "status": "active",
+    "timestamp": 1769181154.5521011
+  },
+  "8ecd226b": {
+    "host_id": "1218889894659625070",
+    "target_id": "976461145026203730",
+    "amount": 816,
+    "topic": "ㄴㅅ 10회",
+    "status": "pending",
+    "timestamp": 1769614225.317845
+  },
+  "cc9a8dd3": {
+    "host_id": "1218889894659625070",
+    "target_id": "976461145026203730",
+    "amount": 500,
+    "topic": "단판",
+    "status": "active",
+    "timestamp": 1769614611.434563
+  }
+}
