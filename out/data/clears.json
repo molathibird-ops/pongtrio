@@ -4717,12 +4717,13 @@
     "user_id": "1485520167420297276",
     "username": "doyunh2011_alt",
     "challenge_id": "92",
-    "difficulty": "P17",
+    "difficulty": "P13",
     "challenge_name": "스핀 마스터",
     "submitted_at": "2026-05-26T09:29:47.204579",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "f599f46a-902d-4556-aea1-a644b2962a2f"
+    "clear_id": "f599f46a-902d-4556-aea1-a644b2962a2f",
+    "custom_pp": null
   },
   "47066fd9-c8c7-4753-9a98-09203d67b709": {
     "user_id": "544184205429440533",
@@ -5485,12 +5486,13 @@
     "user_id": "589099128563302483",
     "username": "rainbow_water",
     "challenge_id": "92",
-    "difficulty": "P17",
+    "difficulty": "P13",
     "challenge_name": "스핀 마스터",
     "submitted_at": "2026-06-13T08:01:59.489286",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "2fa9b4dc-2e0a-48ac-94d4-56a199ed0138"
+    "clear_id": "2fa9b4dc-2e0a-48ac-94d4-56a199ed0138",
+    "custom_pp": null
   },
   "05374137-3de9-46ee-b483-c4d5a29b758a": {
     "user_id": "589099128563302483",
@@ -10199,7 +10201,7 @@
     "user_id": "1228338306631073815",
     "username": "qqrqqt",
     "challenge_id": "92",
-    "difficulty": "P17",
+    "difficulty": "P13",
     "custom_pp": null,
     "challenge_name": "스핀 마스터",
     "submitted_at": "2026-07-29T11:55:14.043117",
