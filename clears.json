@@ -10146,5 +10146,30 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "0e13d01b-1009-40f7-bd0a-3ba540b6409f"
+  },
+    "09704595-b42b-453f-b4bc-f1fe20b6b127": {
+    "user_id": "1218889894659625070",
+    "username": "pongiscute",
+    "challenge_id": "286",
+    "difficulty": "epic",
+    "custom_pp": null,
+    "challenge_name": "코인이 짤랑짤랑",
+    "submitted_at": "2026-07-28T18:11:01.800620",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "09704595-b42b-453f-b4bc-f1fe20b6b127"
+  },
+  "19b4eccf-a5c7-4b1f-a420-6f48a99aa645": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "challenge_id": "286",
+    "difficulty": "epic",
+    "custom_pp": null,
+    "challenge_name": "코인이 짤랑짤랑",
+    "submitted_at": "2026-07-28T18:11:02.591840",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "19b4eccf-a5c7-4b1f-a420-6f48a99aa645"
   }
+}
 }
