@@ -10208,5 +10208,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "537b3294-9f97-4737-91b2-528a0fc1b411"
+  },
+  "0edb86b8-a153-43cb-8476-1bc7421af211": {
+    "user_id": "1228338306631073815",
+    "username": "qqrqqt",
+    "challenge_id": "893",
+    "difficulty": "P11",
+    "custom_pp": null,
+    "challenge_name": "순수함 그 자체",
+    "submitted_at": "2026-07-29T13:16:44.678806",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "0edb86b8-a153-43cb-8476-1bc7421af211"
   }
 }
