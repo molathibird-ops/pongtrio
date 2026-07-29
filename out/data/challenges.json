@@ -9668,5 +9668,38 @@
     "creator_name": "doyunh2011_alt",
     "created_at": "2026-07-28T11:04:07.654990",
     "registered_at": "2026-07-28T11:04:58.915059"
+  },
+  "947": {
+    "name": "히히 호텔 가기",
+    "description": "쓰레기줄을 받지 않고 2층을 가세요",
+    "expected_difficulty": "P2",
+    "actual_difficulty": "P3",
+    "custom_pp": null,
+    "creator_id": "1485520167420297276",
+    "creator_name": "doyunh2011_alt",
+    "created_at": "2026-07-28T11:44:23.759350",
+    "registered_at": "2026-07-28T11:44:53.910062"
+  },
+  "948": {
+    "name": "카지노 갈때는 단정한 차림으로",
+    "description": "쓰레기줄을 받지 않고 3층을 가세요",
+    "expected_difficulty": "P5",
+    "actual_difficulty": "P6",
+    "custom_pp": null,
+    "creator_id": "1485520167420297276",
+    "creator_name": "doyunh2011_alt",
+    "created_at": "2026-07-28T11:45:48.294951",
+    "registered_at": "2026-07-28T11:46:08.237299"
+  },
+  "949": {
+    "name": "아이리 칸나 v2",
+    "description": "학교 졸업하는 날에 테트하기",
+    "expected_difficulty": "epic",
+    "actual_difficulty": "epic",
+    "custom_pp": null,
+    "creator_id": "1485520167420297276",
+    "creator_name": "doyunh2011_alt",
+    "created_at": "2026-07-28T11:50:28.397733",
+    "registered_at": "2026-07-28T12:02:01.747328"
   }
 }
