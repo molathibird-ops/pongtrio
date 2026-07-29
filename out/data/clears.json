@@ -10182,5 +10182,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "e63339ac-5b54-41e1-872c-30b5702849f6"
+  },
+  "80b830ef-2ed4-4e98-9fe5-6548a931176f": {
+    "user_id": "1228338306631073815",
+    "username": "qqrqqt",
+    "challenge_id": "349",
+    "difficulty": "P17",
+    "custom_pp": null,
+    "challenge_name": "과충전 v1.5",
+    "submitted_at": "2026-07-29T08:30:09.288816",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "80b830ef-2ed4-4e98-9fe5-6548a931176f"
   }
 }
