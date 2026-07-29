@@ -10170,5 +10170,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "19b4eccf-a5c7-4b1f-a420-6f48a99aa645"
+  },
+  "e63339ac-5b54-41e1-872c-30b5702849f6": {
+    "user_id": "1228338306631073815",
+    "username": "qqrqqt",
+    "challenge_id": "286",
+    "difficulty": "epic",
+    "custom_pp": null,
+    "challenge_name": "코인이 짤랑짤랑",
+    "submitted_at": "2026-07-29T08:07:20.220138",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "e63339ac-5b54-41e1-872c-30b5702849f6"
   }
 }
