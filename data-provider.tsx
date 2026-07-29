@@ -12,7 +12,7 @@ import { DATA_FILES, setRawData } from '@/lib/bot-data'
 // .env(.local) 또는 Vercel 프로젝트 환경변수에 아래처럼 설정하세요:
 //   NEXT_PUBLIC_DATA_BASE=https://<스토어ID>.public.blob.vercel-storage.com/pongtrio
 // (이 값은 weirdhost 에서 app.py 를 처음 실행하면 로그에 출력됩니다.)
-const DATA_BASE = (process.env.NEXT_PUBLIC_DATA_BASE ?? '/data').replace(/\/$/, '')
+const DATA_BASE = "https://pkmcwz3xe8crd9qu.public.blob.vercel-storage.com/pongtrio";
 
 type DataState = {
   ready: boolean
