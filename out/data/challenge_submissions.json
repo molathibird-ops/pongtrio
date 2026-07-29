@@ -4341,7 +4341,8 @@
     "name": "메순간오만하게티내시오",
     "description": "블리츠에서 5만점을 달성하세요.",
     "expected_difficulty": "P7",
-    "status": "pending",
-    "submitted_at": "2026-07-29T17:13:34.210586"
+    "status": "registered",
+    "submitted_at": "2026-07-29T17:13:34.210586",
+    "challenge_id": "950"
   }
 }
