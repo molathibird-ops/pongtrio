@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/data/:file",
+      "destination": "https://pkmcwz3xe8crd9qu.public.blob.vercel-storage.com/pongtrio/:file"
+    }
+  ]
+}
