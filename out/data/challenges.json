@@ -9702,5 +9702,16 @@
     "creator_name": "doyunh2011_alt",
     "created_at": "2026-07-28T11:50:28.397733",
     "registered_at": "2026-07-28T12:02:01.747328"
+  },
+  "950": {
+    "name": "메순간오만하게티내시오",
+    "description": "블리츠에서 5만점을 달성하세요.",
+    "expected_difficulty": "P7",
+    "actual_difficulty": "P10",
+    "custom_pp": null,
+    "creator_id": "840063640681054228",
+    "creator_name": "justicedragon4",
+    "created_at": "2026-07-29T17:13:34.210586",
+    "registered_at": "2026-07-29T17:15:26.459084"
   }
 }
