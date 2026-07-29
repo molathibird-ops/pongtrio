@@ -1202,7 +1202,8 @@
     "equipped_title": null,
     "profile_color": null,
     "chat_count": 523,
-    "best_lottery": 3
+    "best_lottery": 3,
+    "got_nerfed": true
   },
   "1196401164514766879": {
     "coins": 12,
