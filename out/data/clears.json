@@ -10232,5 +10232,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "87dcf579-04c5-447c-8cb4-53b8151a62b0"
+  },
+  "0f7e75e6-37e4-491f-9c7b-2a323e5db75e": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "244",
+    "difficulty": "epic",
+    "custom_pp": null,
+    "challenge_name": "개발자 모드",
+    "submitted_at": "2026-07-29T15:15:58.452880",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "0f7e75e6-37e4-491f-9c7b-2a323e5db75e"
   }
 }
