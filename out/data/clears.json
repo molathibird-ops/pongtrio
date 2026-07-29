@@ -10194,5 +10194,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "80b830ef-2ed4-4e98-9fe5-6548a931176f"
+  },
+  "537b3294-9f97-4737-91b2-528a0fc1b411": {
+    "user_id": "1228338306631073815",
+    "username": "qqrqqt",
+    "challenge_id": "92",
+    "difficulty": "P17",
+    "custom_pp": null,
+    "challenge_name": "스핀 마스터",
+    "submitted_at": "2026-07-29T11:55:14.043117",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "537b3294-9f97-4737-91b2-528a0fc1b411"
   }
 }
