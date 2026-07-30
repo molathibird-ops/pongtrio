@@ -1782,7 +1782,8 @@
     "submitted_at": "2026-04-25T16:03:34.093980",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "fdb5fe45-e8a8-409e-acec-97546df2902d"
+    "clear_id": "fdb5fe45-e8a8-409e-acec-97546df2902d",
+    "custom_pp": 40.0
   },
   "1bea0a1a-cf8d-4711-92db-c83a4254f377": {
     "user_id": "1410997946274549911",
@@ -2348,7 +2349,8 @@
     "submitted_at": "2026-05-04T04:07:44.506074",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "8b233c6d-0710-4be7-b28e-b8add677c97b"
+    "clear_id": "8b233c6d-0710-4be7-b28e-b8add677c97b",
+    "custom_pp": 40.0
   },
   "23849ad8-deac-4f41-bbde-f8dce12109c2": {
     "user_id": "1191187268250120253",
@@ -5471,7 +5473,8 @@
     "submitted_at": "2026-06-13T07:54:15.894485",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "35e8d802-0db1-4120-968e-ee86ca356848"
+    "clear_id": "35e8d802-0db1-4120-968e-ee86ca356848",
+    "custom_pp": 40.0
   },
   "630495c1-8127-4a07-8b26-cd974d7253a9": {
     "user_id": "589099128563302483",
@@ -6860,7 +6863,8 @@
     "submitted_at": "2026-06-22T13:12:24.873047",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "c24a537c-cf84-4e39-aa2f-d8a91c587372"
+    "clear_id": "c24a537c-cf84-4e39-aa2f-d8a91c587372",
+    "custom_pp": 40.0
   },
   "f6e3092a-563d-4cc3-98c6-99b4bf8b6b3c": {
     "user_id": "1505543823609299108",
@@ -10194,7 +10198,7 @@
     "username": "qqrqqt",
     "challenge_id": "349",
     "difficulty": "P17",
-    "custom_pp": null,
+    "custom_pp": 40.0,
     "challenge_name": "과충전 v1.5",
     "submitted_at": "2026-07-29T08:30:09.288816",
     "status": "approved",
