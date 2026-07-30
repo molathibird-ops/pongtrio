@@ -433,7 +433,7 @@
     "profile_color": null
   },
   "1144563458268999750": {
-    "coins": 9611,
+    "coins": 9711,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [
@@ -1225,5 +1225,14 @@
     "equipped_title": null,
     "profile_color": null,
     "chat_count": 3
+  },
+  "1463456997155405924": {
+    "coins": 25,
+    "balance": 0,
+    "total_spent": 0,
+    "owned_colors": [],
+    "owned_titles": [],
+    "equipped_title": null,
+    "profile_color": null
   }
 }
