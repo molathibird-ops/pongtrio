@@ -10308,5 +10308,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "dc4ad42a-9104-4837-9bd1-80b78cda0789"
+  },
+  "05b76275-1294-4e5c-bcb1-5bc0f62ae33f": {
+    "user_id": "1514630812375580903",
+    "username": "gohansub_30741",
+    "challenge_id": "919",
+    "difficulty": "U7",
+    "custom_pp": null,
+    "challenge_name": "1급 보호기지",
+    "submitted_at": "2026-07-30T10:38:21.307927",
+    "status": "approved",
+    "felt_difficulty": "U7",
+    "clear_id": "05b76275-1294-4e5c-bcb1-5bc0f62ae33f"
   }
 }
