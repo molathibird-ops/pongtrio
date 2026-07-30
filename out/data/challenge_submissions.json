@@ -4344,5 +4344,14 @@
     "status": "registered",
     "submitted_at": "2026-07-29T17:13:34.210586",
     "challenge_id": "950"
+  },
+  "d4383fe8": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "똥",
+    "description": "테트리오로 똥을 만드세요!",
+    "expected_difficulty": "P2",
+    "status": "pending",
+    "submitted_at": "2026-07-30T04:18:46.120716"
   }
 }
