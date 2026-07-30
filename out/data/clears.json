@@ -6437,23 +6437,25 @@
     "user_id": "976461145026203730",
     "username": "tremendous5273",
     "challenge_id": "775",
-    "difficulty": "G5",
+    "difficulty": "G3",
     "challenge_name": "총체적 난국",
     "submitted_at": "2026-06-20T07:22:47.013318",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "b8e9afd2-17f5-4add-a8f6-55290808ab43"
+    "clear_id": "b8e9afd2-17f5-4add-a8f6-55290808ab43",
+    "custom_pp": null
   },
   "60973d95-b3b6-4bc6-bf2b-c811e8966781": {
     "user_id": "544184205429440533",
     "username": "seonghyeni",
     "challenge_id": "775",
-    "difficulty": "G5",
+    "difficulty": "G3",
     "challenge_name": "총체적 난국",
     "submitted_at": "2026-06-20T11:48:52.919587",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "60973d95-b3b6-4bc6-bf2b-c811e8966781"
+    "clear_id": "60973d95-b3b6-4bc6-bf2b-c811e8966781",
+    "custom_pp": null
   },
   "32839cf9-0fef-4e01-bb11-15214a6e46ee": {
     "user_id": "819167210446127105",
@@ -6572,12 +6574,13 @@
     "user_id": "1485520167420297276",
     "username": "doyunh2011_alt",
     "challenge_id": "775",
-    "difficulty": "G5",
+    "difficulty": "G3",
     "challenge_name": "총체적 난국",
     "submitted_at": "2026-06-20T17:31:45.277249",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "db4c0fc2-2461-4e6e-a8cc-8b253073d27e"
+    "clear_id": "db4c0fc2-2461-4e6e-a8cc-8b253073d27e",
+    "custom_pp": null
   },
   "4a0baf67-86a7-4257-81dd-2146bd43d531": {
     "user_id": "556069440341540874",
@@ -6616,23 +6619,25 @@
     "user_id": "819167210446127105",
     "username": "myuremi",
     "challenge_id": "775",
-    "difficulty": "G5",
+    "difficulty": "G3",
     "challenge_name": "총체적 난국",
     "submitted_at": "2026-06-21T06:38:51.820780",
     "status": "approved",
     "felt_difficulty": "p0",
-    "clear_id": "effd728c-8981-4ef6-b7ee-7b179ed2ecde"
+    "clear_id": "effd728c-8981-4ef6-b7ee-7b179ed2ecde",
+    "custom_pp": null
   },
   "493139e8-9322-44a8-af07-9cbac1703dd4": {
     "user_id": "1302151279665217607",
     "username": "seinteu_50779",
     "challenge_id": "775",
-    "difficulty": "G5",
+    "difficulty": "G3",
     "challenge_name": "총체적 난국",
     "submitted_at": "2026-06-21T10:06:21.190202",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "493139e8-9322-44a8-af07-9cbac1703dd4"
+    "clear_id": "493139e8-9322-44a8-af07-9cbac1703dd4",
+    "custom_pp": null
   },
   "aa00fc2d-48ca-4985-9d93-b43a3384aebb": {
     "user_id": "1302151279665217607",
@@ -7082,12 +7087,13 @@
     "user_id": "1218889894659625070",
     "username": "pongiscute",
     "challenge_id": "775",
-    "difficulty": "G5",
+    "difficulty": "G3",
     "challenge_name": "총체적 난국",
     "submitted_at": "2026-06-23T14:35:02.605151",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "b99543c0-63d9-4cfa-ad52-cb0aa8792bc4"
+    "clear_id": "b99543c0-63d9-4cfa-ad52-cb0aa8792bc4",
+    "custom_pp": null
   },
   "08a23e8b-8219-4e6b-b2b7-f3cff7553d22": {
     "user_id": "1485198074451071006",
@@ -7392,12 +7398,13 @@
     "user_id": "1273331318834593814",
     "username": "ria001186",
     "challenge_id": "775",
-    "difficulty": "G5",
+    "difficulty": "G3",
     "challenge_name": "총체적 난국",
     "submitted_at": "2026-06-27T01:50:12.252814",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "eb643afa-2325-4393-9071-87f0623b8074"
+    "clear_id": "eb643afa-2325-4393-9071-87f0623b8074",
+    "custom_pp": null
   },
   "97b65d96-5f84-41d6-bf31-30e484d5b047": {
     "user_id": "1273331318834593814",
@@ -8622,12 +8629,13 @@
     "user_id": "111",
     "username": "typicallyonly",
     "challenge_id": "775",
-    "difficulty": "G5",
+    "difficulty": "G3",
     "challenge_name": "총체적 난국",
     "submitted_at": "2026-07-02T14:58:46.464340",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "10cc11f4-0e73-43a8-8c5a-86720cd75666"
+    "clear_id": "10cc11f4-0e73-43a8-8c5a-86720cd75666",
+    "custom_pp": null
   },
   "fe87d87f-f412-4e96-b6bd-8f56ad84c696": {
     "user_id": "111",
@@ -10269,7 +10277,7 @@
     "user_id": "832746057443573801",
     "username": "simple1011",
     "challenge_id": "775",
-    "difficulty": "G5",
+    "difficulty": "G3",
     "custom_pp": null,
     "challenge_name": "총체적 난국",
     "submitted_at": "2026-07-30T05:04:34.058009",
