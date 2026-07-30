@@ -10332,5 +10332,17 @@
     "status": "approved",
     "felt_difficulty": "U5",
     "clear_id": "2b432c17-6c62-47ae-9fa5-0d0d344c8556"
+  },
+  "33d144d2-3949-4329-9ab2-9e57fc5419b4": {
+    "user_id": "1514630812375580903",
+    "username": "gohansub_30741",
+    "challenge_id": "593",
+    "difficulty": "U6",
+    "custom_pp": null,
+    "challenge_name": "우릴 과연 막을 수 있을까?",
+    "submitted_at": "2026-07-30T10:41:39.162983",
+    "status": "approved",
+    "felt_difficulty": "U5",
+    "clear_id": "33d144d2-3949-4329-9ab2-9e57fc5419b4"
   }
 }
