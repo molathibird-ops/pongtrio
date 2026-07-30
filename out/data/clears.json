@@ -962,7 +962,7 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "7a0cc3f3-03f6-4ee4-866a-dd7db695b129",
-    "custom_pp": 275.0
+    "custom_pp": 225.0
   },
   "b7377b97-a8d0-4ff8-abf9-5ef21b64a8bd": {
     "user_id": "976461145026203730",
@@ -1951,7 +1951,7 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "a6728f75-eb0c-41f2-987c-da034bbb94b5",
-    "custom_pp": 275.0
+    "custom_pp": 225.0
   },
   "bbd32f1b-e72b-4752-bda3-e1e53316f4db": {
     "user_id": "819167210446127105",
@@ -10234,7 +10234,7 @@
     "username": "ria001186",
     "challenge_id": "327",
     "difficulty": "G16",
-    "custom_pp": 275.0,
+    "custom_pp": 225.0,
     "challenge_name": "OVERLOAD",
     "submitted_at": "2026-07-29T14:42:56.255763",
     "status": "approved",
