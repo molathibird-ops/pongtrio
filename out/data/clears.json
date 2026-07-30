@@ -10296,5 +10296,17 @@
     "status": "approved",
     "felt_difficulty": "G18",
     "clear_id": "7cd108a7-6096-4a7d-bac3-fb363605e20c"
+  },
+  "dc4ad42a-9104-4837-9bd1-80b78cda0789": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "130",
+    "difficulty": "G3",
+    "custom_pp": 122.0,
+    "challenge_name": "2000",
+    "submitted_at": "2026-07-30T09:47:45.454563",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "dc4ad42a-9104-4837-9bd1-80b78cda0789"
   }
 }
