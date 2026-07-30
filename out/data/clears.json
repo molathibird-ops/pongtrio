@@ -10320,5 +10320,17 @@
     "status": "approved",
     "felt_difficulty": "U7",
     "clear_id": "05b76275-1294-4e5c-bcb1-5bc0f62ae33f"
+  },
+  "2b432c17-6c62-47ae-9fa5-0d0d344c8556": {
+    "user_id": "1514630812375580903",
+    "username": "gohansub_30741",
+    "challenge_id": "379",
+    "difficulty": "U4",
+    "custom_pp": 800.0,
+    "challenge_name": "5hanになりたい",
+    "submitted_at": "2026-07-30T10:39:25.627264",
+    "status": "approved",
+    "felt_difficulty": "U5",
+    "clear_id": "2b432c17-6c62-47ae-9fa5-0d0d344c8556"
   }
 }
