@@ -9103,11 +9103,12 @@
     "name": "순수함 그 자체",
     "description": "어떠한 스핀도 없이 블리츠 38,000점을 달성하세요!",
     "expected_difficulty": "P11",
-    "actual_difficulty": "P11",
+    "actual_difficulty": "P9",
     "creator_id": "1273331318834593814",
     "creator_name": "ria001186",
     "created_at": "2026-07-14T10:55:44.979807",
-    "registered_at": "2026-07-14T10:56:05.317496"
+    "registered_at": "2026-07-14T10:56:05.317496",
+    "custom_pp": null
   },
   "894": {
     "name": "IT세대가 아닙니다.",
