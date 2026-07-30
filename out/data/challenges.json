@@ -9373,11 +9373,12 @@
     "name": "1급 보호기지",
     "description": "tyrant 모드로 8층에 도달하세요.",
     "expected_difficulty": "U7",
-    "actual_difficulty": "Q1",
+    "actual_difficulty": "U7",
     "creator_id": "819167210446127105",
     "creator_name": "myuremi",
     "created_at": "2026-07-23T11:43:18.032130",
-    "registered_at": "2026-07-23T11:46:11.826725"
+    "registered_at": "2026-07-23T11:46:11.826725",
+    "custom_pp": null
   },
   "920": {
     "name": "Beyond the Minute Wall",
