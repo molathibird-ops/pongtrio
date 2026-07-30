@@ -7911,11 +7911,12 @@
     "name": "총체적 난국",
     "description": "퀵플레이에서 방해줄 2배 모드, 중력 모드,더블홀 가비지 모드,더러운 방해줄 모드를 킨 상태로 6층에 도달하세요.",
     "expected_difficulty": "R3",
-    "actual_difficulty": "G5",
+    "actual_difficulty": "G3",
     "creator_id": "976461145026203730",
     "creator_name": "tremendous5273",
     "created_at": "2026-06-20T07:11:17.171875",
-    "registered_at": "2026-06-20T07:20:20.671724"
+    "registered_at": "2026-06-20T07:20:20.671724",
+    "custom_pp": null
   },
   "777": {
     "name": "𝓖𝓸𝓭 𝓸𝓯 𝓛𝓾𝓬𝓴",
