@@ -4351,7 +4351,8 @@
     "name": "똥",
     "description": "테트리오로 똥을 만드세요!",
     "expected_difficulty": "P2",
-    "status": "pending",
-    "submitted_at": "2026-07-30T04:18:46.120716"
+    "status": "registered",
+    "submitted_at": "2026-07-30T04:18:46.120716",
+    "challenge_id": "951"
   }
 }
