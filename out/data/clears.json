@@ -10244,5 +10244,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "0f7e75e6-37e4-491f-9c7b-2a323e5db75e"
+  },
+  "cc65dc0b-61c3-4cc9-a244-c0b743249348": {
+    "user_id": "1144563458268999750",
+    "username": "sihoo927",
+    "challenge_id": "436",
+    "difficulty": "G9",
+    "custom_pp": null,
+    "challenge_name": "𝐵𝑟𝑒𝑎𝑘𝑖𝑛𝑔 𝑜𝑓 𝐻𝑎𝑠𝑡𝑒",
+    "submitted_at": "2026-07-30T00:47:12.272348",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "cc65dc0b-61c3-4cc9-a244-c0b743249348"
   }
 }
