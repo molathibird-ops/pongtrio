@@ -3308,13 +3308,13 @@
     "name": "OVERLOAD",
     "description": "volatile과 expert 모드를 켜고 오직 센포만 써 1,000m에 도달하세요! (센포 구축을 위한 방해줄 깎기는 인정, 백투백이 2 이상 이면 안됨)",
     "expected_difficulty": "Q0",
-    "actual_difficulty": "G17",
+    "actual_difficulty": "G16",
     "creator_id": "1273331318834593814",
     "creator_name": "ria001186",
     "created_at": "2026-01-13T18:44:52.729301",
     "registered_at": "2026-01-13T18:49:51.550725",
     "curation": "T2H",
-    "custom_pp": 250.0
+    "custom_pp": 275.0
   },
   "328": {
     "name": "Void",
