@@ -572,7 +572,8 @@
     "submitted_at": "2026-04-19T02:05:24.738081",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "8f15ca85-836b-448e-a810-bdd1732fed92"
+    "clear_id": "8f15ca85-836b-448e-a810-bdd1732fed92",
+    "custom_pp": 175.0
   },
   "865c8336-9067-49fa-9b22-7f496cd906cd": {
     "user_id": "589099128563302483",
@@ -1603,7 +1604,8 @@
     "submitted_at": "2026-04-25T00:22:58.748225",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "0c75ca7c-e735-4bfa-bba4-e2daa6491d4d"
+    "clear_id": "0c75ca7c-e735-4bfa-bba4-e2daa6491d4d",
+    "custom_pp": 175.0
   },
   "dadf5241-9e6c-45ba-8968-c45f41fb5b4b": {
     "user_id": "840063640681054228",
@@ -6336,7 +6338,8 @@
     "submitted_at": "2026-06-19T12:37:13.192915",
     "status": "approved",
     "felt_difficulty": "EARTH",
-    "clear_id": "4bf21c3a-022b-4b28-aefb-ab099568b6f7"
+    "clear_id": "4bf21c3a-022b-4b28-aefb-ab099568b6f7",
+    "custom_pp": 175.0
   },
   "e786374c-1c62-4666-a166-c1643b5e75f3": {
     "user_id": "819167210446127105",
@@ -9383,7 +9386,8 @@
     "submitted_at": "2026-07-14T12:57:37.222022",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "0b3467ba-d8a6-4b76-88c5-bfdeee0836c6"
+    "clear_id": "0b3467ba-d8a6-4b76-88c5-bfdeee0836c6",
+    "custom_pp": 175.0
   },
   "3b17b607-085d-4568-b864-f03d368160a9": {
     "user_id": "1377590764552589344",
@@ -10250,7 +10254,7 @@
     "username": "sihoo927",
     "challenge_id": "436",
     "difficulty": "G9",
-    "custom_pp": null,
+    "custom_pp": 175.0,
     "challenge_name": "𝐵𝑟𝑒𝑎𝑘𝑖𝑛𝑔 𝑜𝑓 𝐻𝑎𝑠𝑡𝑒",
     "submitted_at": "2026-07-30T00:47:12.272348",
     "status": "approved",
