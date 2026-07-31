@@ -10427,5 +10427,16 @@
     "status": "approved",
     "felt_difficulty": "G21",
     "clear_id": "d2bc9740-1e91-49eb-a1b3-1ee9ab773b83"
+  },
+  "4905a20a-e3c5-4cbe-ae1d-8b9a88916964": {
+    "user_id": "842938560093093949",
+    "username": "ccb_infj",
+    "challenge_id": "175",
+    "difficulty": "P14",
+    "challenge_name": "시크릿 그레이드 v2",
+    "submitted_at": "2026-07-31T12:31:07.331037",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "4905a20a-e3c5-4cbe-ae1d-8b9a88916964"
   }
 }
