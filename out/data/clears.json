@@ -10380,5 +10380,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "ee7cf385-e003-4add-a18e-b5ddc6a9ecf9"
+  },
+  "a03c84d5-be61-49b9-a8d4-f39ab192168f": {
+    "user_id": "1228338306631073815",
+    "username": "qqrqqt",
+    "challenge_id": "16",
+    "difficulty": "P10",
+    "custom_pp": null,
+    "challenge_name": "티스핀 만들기 Part.2",
+    "submitted_at": "2026-07-31T09:56:03.856935",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "a03c84d5-be61-49b9-a8d4-f39ab192168f"
   }
 }
