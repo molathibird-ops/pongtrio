@@ -10493,5 +10493,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "6aac9fb3-c7a4-419e-9665-9d0c2a974d62"
+  },
+  "3afc24c7-3300-4c37-99bb-361bd43cd79b": {
+    "user_id": "1302050564036890696",
+    "username": "eve120928",
+    "challenge_id": "130",
+    "difficulty": "G3",
+    "challenge_name": "2000",
+    "submitted_at": "2026-07-31T12:32:43.775409",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "3afc24c7-3300-4c37-99bb-361bd43cd79b"
   }
 }
