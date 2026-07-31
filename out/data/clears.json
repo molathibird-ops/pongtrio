@@ -10404,5 +10404,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "d2478f97-8ac9-441c-b980-a22f5391324c"
+  },
+  "bf32eab6-d20f-4865-ba4f-cd45021e12bb": {
+    "user_id": "1228338306631073815",
+    "username": "qqrqqt",
+    "challenge_id": "886",
+    "difficulty": "P15",
+    "custom_pp": null,
+    "challenge_name": "스핀 (준)독자",
+    "submitted_at": "2026-07-31T10:13:59.140771",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "bf32eab6-d20f-4865-ba4f-cd45021e12bb"
   }
 }
