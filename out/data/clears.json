@@ -10504,5 +10504,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "3afc24c7-3300-4c37-99bb-361bd43cd79b"
+  },
+  "9c3f5309-c8d4-4fb3-8e65-b40beccec670": {
+    "user_id": "1302050564036890696",
+    "username": "eve120928",
+    "challenge_id": "138",
+    "difficulty": "G6",
+    "challenge_name": "과충전 v3",
+    "submitted_at": "2026-07-31T12:33:08.479906",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "9c3f5309-c8d4-4fb3-8e65-b40beccec670"
   }
 }
