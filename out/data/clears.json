@@ -10647,5 +10647,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "eba72f76-3d3a-415d-9ffe-5a6089aa7c54"
+  },
+  "f336e1ca-22d6-47c2-b5d9-76fbddf7f21e": {
+    "user_id": "1302050564036890696",
+    "username": "eve120928",
+    "challenge_id": "90",
+    "difficulty": "G7",
+    "challenge_name": "스핀광 part.1",
+    "submitted_at": "2026-07-31T12:36:06.021164",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "f336e1ca-22d6-47c2-b5d9-76fbddf7f21e"
   }
 }
