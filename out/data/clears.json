@@ -10438,5 +10438,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "4905a20a-e3c5-4cbe-ae1d-8b9a88916964"
+  },
+  "8162e8f9-7783-4962-ae77-99ef0b1f2030": {
+    "user_id": "1302050564036890696",
+    "username": "eve120928",
+    "challenge_id": "259",
+    "difficulty": "P0",
+    "challenge_name": "튜토리얼",
+    "submitted_at": "2026-07-31T12:32:06.132087",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "8162e8f9-7783-4962-ae77-99ef0b1f2030"
   }
 }
