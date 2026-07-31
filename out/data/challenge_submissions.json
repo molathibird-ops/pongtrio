@@ -4371,8 +4371,9 @@
     "name": "우주쓰레기",
     "description": "messier garbage 모드를 킨 상태로 10층을 가세요!",
     "expected_difficulty": "G4",
-    "status": "pending",
-    "submitted_at": "2026-07-31T06:15:44.704470"
+    "status": "registered",
+    "submitted_at": "2026-07-31T06:15:44.704470",
+    "challenge_id": "953"
   },
   "a627b089": {
     "user_id": "1273331318834593814",
