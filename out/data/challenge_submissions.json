@@ -4383,5 +4383,14 @@
     "expected_difficulty": "G4",
     "status": "pending",
     "submitted_at": "2026-07-31T06:16:21.755953"
+  },
+  "c00c54de": {
+    "user_id": "1532647455546544181",
+    "username": "risehan",
+    "name": "정상 (2key limit)",
+    "description": "Zenith tower에서 10층을 2키만 써서 도달하세요! (캠 인증 요구)",
+    "expected_difficulty": "U1",
+    "status": "pending",
+    "submitted_at": "2026-07-31T10:31:41.760813"
   }
 }
