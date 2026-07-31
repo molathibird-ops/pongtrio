@@ -10482,5 +10482,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "6e47d530-991b-4e2a-a61d-01643b8fb48b"
+  },
+  "6aac9fb3-c7a4-419e-9665-9d0c2a974d62": {
+    "user_id": "1302050564036890696",
+    "username": "eve120928",
+    "challenge_id": "140",
+    "difficulty": "gimmick",
+    "challenge_name": "거울모드",
+    "submitted_at": "2026-07-31T12:32:38.493502",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "6aac9fb3-c7a4-419e-9665-9d0c2a974d62"
   }
 }
