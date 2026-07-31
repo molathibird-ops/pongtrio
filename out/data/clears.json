@@ -10416,5 +10416,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "bf32eab6-d20f-4865-ba4f-cd45021e12bb"
+  },
+  "d2bc9740-1e91-49eb-a1b3-1ee9ab773b83": {
+    "user_id": "1031415417589202944",
+    "username": "uvarian",
+    "challenge_id": "652",
+    "difficulty": "G17",
+    "challenge_name": "숭고함, 그 빛을 잃지 말지어다.",
+    "submitted_at": "2026-07-31T12:29:22.563690",
+    "status": "approved",
+    "felt_difficulty": "G21",
+    "clear_id": "d2bc9740-1e91-49eb-a1b3-1ee9ab773b83"
   }
 }
