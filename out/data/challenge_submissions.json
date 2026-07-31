@@ -4399,7 +4399,8 @@
     "name": "정상 (2key limit)",
     "description": "Zenith tower에서 10층을 2키만 써서 도달하세요! (캠 인증 요구, 여기서 key는 손가락을 의미합니다.)",
     "expected_difficulty": "U1",
-    "status": "pending",
-    "submitted_at": "2026-07-31T10:35:02.716249"
+    "status": "registered",
+    "submitted_at": "2026-07-31T10:35:02.716249",
+    "challenge_id": "954"
   }
 }
