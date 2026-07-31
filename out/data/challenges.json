@@ -9739,5 +9739,16 @@
     "creator_name": "ria001186",
     "created_at": "2026-07-30T04:18:46.120716",
     "registered_at": "2026-07-30T04:19:19.402105"
+  },
+  "952": {
+    "name": "미루지 않는 인간",
+    "description": "No hold 모드를 킨 상태로 10층에 도달하세요!",
+    "expected_difficulty": "G9",
+    "actual_difficulty": "G9",
+    "custom_pp": null,
+    "creator_id": "1273331318834593814",
+    "creator_name": "ria001186",
+    "created_at": "2026-07-31T06:06:25.181107",
+    "registered_at": "2026-07-31T10:12:48.242881"
   }
 }
