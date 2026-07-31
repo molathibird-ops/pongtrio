@@ -10392,5 +10392,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "a03c84d5-be61-49b9-a8d4-f39ab192168f"
+  },
+  "d2478f97-8ac9-441c-b980-a22f5391324c": {
+    "user_id": "1228338306631073815",
+    "username": "qqrqqt",
+    "challenge_id": "493",
+    "difficulty": "G4",
+    "custom_pp": null,
+    "challenge_name": "스핀 중독자",
+    "submitted_at": "2026-07-31T09:58:07.791598",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "d2478f97-8ac9-441c-b980-a22f5391324c"
   }
 }
