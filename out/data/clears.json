@@ -10658,5 +10658,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "f336e1ca-22d6-47c2-b5d9-76fbddf7f21e"
+  },
+  "87a88638-a92a-4dbc-b2f8-862a5fcb1db5": {
+    "user_id": "1302050564036890696",
+    "username": "eve120928",
+    "challenge_id": "94",
+    "difficulty": "G3",
+    "challenge_name": "무술의 달인",
+    "submitted_at": "2026-07-31T12:36:09.274309",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "87a88638-a92a-4dbc-b2f8-862a5fcb1db5"
   }
 }
