@@ -4381,8 +4381,9 @@
     "name": "악마를 보았다",
     "description": "double hole garbage 모드를 킨 상태로 10층을 가세요!",
     "expected_difficulty": "G4",
-    "status": "pending",
-    "submitted_at": "2026-07-31T06:16:21.755953"
+    "status": "registered",
+    "submitted_at": "2026-07-31T06:16:21.755953",
+    "challenge_id": "955"
   },
   "c00c54de": {
     "user_id": "1532647455546544181",
