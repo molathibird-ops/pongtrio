@@ -10570,5 +10570,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "aaeb1616-b9aa-4115-8015-8d70efa964ab"
+  },
+  "25bc1812-c6e0-431d-8c47-fa779747a6ae": {
+    "user_id": "1302050564036890696",
+    "username": "eve120928",
+    "challenge_id": "23",
+    "difficulty": "P3",
+    "challenge_name": "티스핀 만들기 Part1.5",
+    "submitted_at": "2026-07-31T12:34:03.073353",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "25bc1812-c6e0-431d-8c47-fa779747a6ae"
   }
 }
