@@ -10625,5 +10625,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "b026283b-5220-4954-905c-22c36d6e4b1d"
+  },
+  "c8b67951-f36f-42b8-9af0-a4f2cc8a5c3f": {
+    "user_id": "1302050564036890696",
+    "username": "eve120928",
+    "challenge_id": "187",
+    "difficulty": "G1",
+    "challenge_name": "Galactic 입문",
+    "submitted_at": "2026-07-31T12:35:30.190001",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "c8b67951-f36f-42b8-9af0-a4f2cc8a5c3f"
   }
 }
