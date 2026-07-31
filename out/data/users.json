@@ -731,14 +731,14 @@
     "got_nerfed": true
   },
   "718670519402233858": {
-    "coins": 4492,
+    "coins": 4493,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [],
     "owned_titles": [],
     "equipped_title": null,
     "profile_color": null,
-    "chat_count": 2096,
+    "chat_count": 2097,
     "got_nerfed": true
   },
   "738330220930531409": {
@@ -1237,13 +1237,13 @@
     "profile_color": null
   },
   "1532647455546544181": {
-    "coins": 732,
+    "coins": 733,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [],
     "owned_titles": [],
     "equipped_title": null,
     "profile_color": null,
-    "chat_count": 22
+    "chat_count": 23
   }
 }
