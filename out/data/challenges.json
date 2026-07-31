@@ -9772,5 +9772,16 @@
     "creator_name": "risehan",
     "created_at": "2026-07-31T10:35:02.716249",
     "registered_at": "2026-07-31T10:38:57.318883"
+  },
+  "955": {
+    "name": "악마를 보았다",
+    "description": "double hole garbage 모드를 킨 상태로 10층을 가세요!",
+    "expected_difficulty": "G4",
+    "actual_difficulty": "G4",
+    "custom_pp": null,
+    "creator_id": "1273331318834593814",
+    "creator_name": "ria001186",
+    "created_at": "2026-07-31T06:16:21.755953",
+    "registered_at": "2026-07-31T11:11:08.383812"
   }
 }
