@@ -10614,5 +10614,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "fbfb337a-1c4a-4a15-8d26-2fab596112bc"
+  },
+  "b026283b-5220-4954-905c-22c36d6e4b1d": {
+    "user_id": "1302050564036890696",
+    "username": "eve120928",
+    "challenge_id": "363",
+    "difficulty": "G1",
+    "challenge_name": "LATEST STAND",
+    "submitted_at": "2026-07-31T12:34:49.150106",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "b026283b-5220-4954-905c-22c36d6e4b1d"
   }
 }
