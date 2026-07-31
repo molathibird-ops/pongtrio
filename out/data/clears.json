@@ -10460,5 +10460,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "92d4b2d7-24a9-4282-b4c0-574330935223"
+  },
+  "ec45ce43-8f70-4fa9-b60a-98cf3ca3ef11": {
+    "user_id": "1302050564036890696",
+    "username": "eve120928",
+    "challenge_id": "111",
+    "difficulty": "P13",
+    "challenge_name": "T-스핀 마스터",
+    "submitted_at": "2026-07-31T12:32:18.917350",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "ec45ce43-8f70-4fa9-b60a-98cf3ca3ef11"
   }
 }
