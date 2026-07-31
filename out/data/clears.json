@@ -10526,5 +10526,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "c5261e4e-2c6e-4142-8dbe-378410cb0348"
+  },
+  "7997e3ba-f960-447e-9f05-9a6bb5cffec5": {
+    "user_id": "1302050564036890696",
+    "username": "eve120928",
+    "challenge_id": "20",
+    "difficulty": "P16",
+    "challenge_name": "과충전",
+    "submitted_at": "2026-07-31T12:33:30.955599",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "7997e3ba-f960-447e-9f05-9a6bb5cffec5"
   }
 }
