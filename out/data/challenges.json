@@ -9334,11 +9334,12 @@
     "name": "보석을 보호하기 위한 결계 생성하기",
     "description": "All Spin 모드를 켜고 2222m에 도달하세요.",
     "expected_difficulty": "U10",
-    "actual_difficulty": "R2",
+    "actual_difficulty": "G10",
     "creator_id": "1273331318834593814",
     "creator_name": "ria001186",
     "created_at": "2026-07-18T17:40:06.041854",
-    "registered_at": "2026-07-18T17:49:41.595924"
+    "registered_at": "2026-07-18T17:49:41.595924",
+    "custom_pp": null
   },
   "916": {
     "name": "Extreme  Fortune",
