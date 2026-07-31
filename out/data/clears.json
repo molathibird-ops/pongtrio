@@ -10356,5 +10356,17 @@
     "status": "approved",
     "felt_difficulty": "G10",
     "clear_id": "f726cd2c-b3dd-4adb-b614-cb7f6b13029e"
+  },
+  "b48688ba-7abc-486d-966e-42fc253fbfe4": {
+    "user_id": "1532647455546544181",
+    "username": "risehan",
+    "challenge_id": "259",
+    "difficulty": "P0",
+    "custom_pp": null,
+    "challenge_name": "튜토리얼",
+    "submitted_at": "2026-07-31T07:48:47.033078",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "b48688ba-7abc-486d-966e-42fc253fbfe4"
   }
 }
