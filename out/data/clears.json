@@ -10368,5 +10368,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "b48688ba-7abc-486d-966e-42fc253fbfe4"
+  },
+  "ee7cf385-e003-4add-a18e-b5ddc6a9ecf9": {
+    "user_id": "1532647455546544181",
+    "username": "risehan",
+    "challenge_id": "819",
+    "difficulty": "P0",
+    "custom_pp": null,
+    "challenge_name": "코인벌이",
+    "submitted_at": "2026-07-31T07:50:46.318845",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "ee7cf385-e003-4add-a18e-b5ddc6a9ecf9"
   }
 }
