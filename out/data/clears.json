@@ -10559,5 +10559,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "44f9be90-8a0e-4451-aafc-323bcf925ddf"
+  },
+  "aaeb1616-b9aa-4115-8015-8d70efa964ab": {
+    "user_id": "1302050564036890696",
+    "username": "eve120928",
+    "challenge_id": "433",
+    "difficulty": "P14",
+    "challenge_name": "미친 과학자들의 실험실",
+    "submitted_at": "2026-07-31T12:33:57.158971",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "aaeb1616-b9aa-4115-8015-8d70efa964ab"
   }
 }
