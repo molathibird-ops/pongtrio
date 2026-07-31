@@ -10592,5 +10592,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "a3e9a64c-39ad-415a-b7b0-404d61185655"
+  },
+  "e386fd5b-8b59-4678-aab3-d4d5241884d1": {
+    "user_id": "1302050564036890696",
+    "username": "eve120928",
+    "challenge_id": "228",
+    "difficulty": "G13",
+    "challenge_name": "END",
+    "submitted_at": "2026-07-31T12:34:27.636941",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "e386fd5b-8b59-4678-aab3-d4d5241884d1"
   }
 }
