@@ -4361,8 +4361,9 @@
     "name": "미루지 않는 인간",
     "description": "No hold 모드를 킨 상태로 10층에 도달하세요!",
     "expected_difficulty": "G9",
-    "status": "pending",
-    "submitted_at": "2026-07-31T06:06:25.181107"
+    "status": "registered",
+    "submitted_at": "2026-07-31T06:06:25.181107",
+    "challenge_id": "952"
   },
   "5275085b": {
     "user_id": "1273331318834593814",
