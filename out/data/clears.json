@@ -10753,5 +10753,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "228d1ce4-eb8a-46d7-8e80-e7b806fc32d4"
+  },
+  "1c9cbf70-d67d-47cf-86b3-2ddbfd288958": {
+    "user_id": "1144563458268999750",
+    "username": "sihoo927",
+    "challenge_id": "672",
+    "difficulty": "R2",
+    "custom_pp": null,
+    "challenge_name": "주춤주춤대지 않기",
+    "submitted_at": "2026-08-01T06:59:59.654580",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "1c9cbf70-d67d-47cf-86b3-2ddbfd288958"
   }
 }
