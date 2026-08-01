@@ -10814,5 +10814,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "7ea20f27-3677-4b17-8648-6c8fe2b57d5b"
+  },
+  "685e6973-809f-4d55-b2ee-b3e9245765bc": {
+    "user_id": "14",
+    "username": "performasspin",
+    "challenge_id": "27",
+    "difficulty": "P14",
+    "challenge_name": "컴ㅊㅇ",
+    "submitted_at": "2026-08-01T15:28:51.320134",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "685e6973-809f-4d55-b2ee-b3e9245765bc"
   }
 }
