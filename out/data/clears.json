@@ -10948,5 +10948,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "cc1faafc-7789-4f9e-84aa-9cf196e67f29"
+  },
+  "9cfbd938-0e33-4e11-8ab8-b4c52c29c6e4": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "challenge_id": "429",
+    "difficulty": "R0",
+    "custom_pp": null,
+    "challenge_name": "작업관리자",
+    "submitted_at": "2026-08-01T19:27:39.838641",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "9cfbd938-0e33-4e11-8ab8-b4c52c29c6e4"
   }
 }
