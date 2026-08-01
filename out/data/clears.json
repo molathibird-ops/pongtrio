@@ -10913,5 +10913,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "df7713e5-650e-409a-aa1a-c2e0424a4970"
+  },
+  "7e3ebdca-3255-42ed-9639-1a3cb5f1aeb1": {
+    "user_id": "94937263",
+    "username": "random_trigger",
+    "challenge_id": "391",
+    "difficulty": "censored",
+    "challenge_name": "안아프게 맞는법",
+    "submitted_at": "2026-08-01T15:30:55.000817",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "7e3ebdca-3255-42ed-9639-1a3cb5f1aeb1"
   }
 }
