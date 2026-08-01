@@ -4403,5 +4403,14 @@
     "status": "registered",
     "submitted_at": "2026-07-31T10:35:02.716249",
     "challenge_id": "954"
+  },
+  "06424407": {
+    "user_id": "1532647455546544181",
+    "username": "risehan",
+    "name": "highrise stunt",
+    "description": "센포만 사용해서 3000m를 가세요! (필드가 높거나 대미지가 많다면 깎아도 괜찮아요. 다만 서지가 생기면 안돼요!)",
+    "expected_difficulty": "U1",
+    "status": "pending",
+    "submitted_at": "2026-08-01T04:17:21.144785"
   }
 }
