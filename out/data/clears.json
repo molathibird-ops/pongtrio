@@ -10765,5 +10765,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "1c9cbf70-d67d-47cf-86b3-2ddbfd288958"
+  },
+  "dd3092da-2660-4207-a135-0e1d2b00aa3d": {
+    "user_id": "1144563458268999750",
+    "username": "sihoo927",
+    "challenge_id": "218",
+    "difficulty": "P18",
+    "custom_pp": null,
+    "challenge_name": "quartz",
+    "submitted_at": "2026-08-01T07:06:01.413101",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "dd3092da-2660-4207-a135-0e1d2b00aa3d"
   }
 }
