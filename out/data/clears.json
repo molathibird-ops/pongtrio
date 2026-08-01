@@ -10936,5 +10936,17 @@
     "felt_difficulty": null,
     "clear_id": "0dd62d6d-f83c-4a60-8308-8da0dbd2db61",
     "custom_pp": null
+  },
+  "cc1faafc-7789-4f9e-84aa-9cf196e67f29": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "challenge_id": "428",
+    "difficulty": "P14",
+    "custom_pp": null,
+    "challenge_name": "좀비는레몬!오예피부뽀얘짐!",
+    "submitted_at": "2026-08-01T19:27:22.037904",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "cc1faafc-7789-4f9e-84aa-9cf196e67f29"
   }
 }
