@@ -4420,7 +4420,8 @@
     "name": "EVERY LIMIT",
     "description": "매 층마다 있는 제한을 뚫어 10층을 가세요!\n\nLimits: https://youtu.be/Z6HyBgZJrGQ?si=gTkFR-ScRNKVZzEi",
     "expected_difficulty": "Q0",
-    "status": "pending",
-    "submitted_at": "2026-08-01T08:50:47.110807"
+    "status": "registered",
+    "submitted_at": "2026-08-01T08:50:47.110807",
+    "challenge_id": "957"
   }
 }
