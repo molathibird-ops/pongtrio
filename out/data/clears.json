@@ -10880,5 +10880,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "59b40e52-c332-4d2d-9255-0dd6f9eed154"
+  },
+  "1bd2934b-20a3-483d-8b0c-adfbde13e147": {
+    "user_id": "94937263",
+    "username": "random_trigger",
+    "challenge_id": "593",
+    "difficulty": "U6",
+    "challenge_name": "우릴 과연 막을 수 있을까?",
+    "submitted_at": "2026-08-01T15:30:31.377671",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "1bd2934b-20a3-483d-8b0c-adfbde13e147"
   }
 }
