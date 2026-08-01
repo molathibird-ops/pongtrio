@@ -10717,5 +10717,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "7f5ff1dd-518c-4254-91a6-870c3009b044"
+  },
+  "de615e6b-1185-4fad-9086-cb0506db373d": {
+    "user_id": "1144563458268999750",
+    "username": "sihoo927",
+    "challenge_id": "193",
+    "difficulty": "censored",
+    "custom_pp": null,
+    "challenge_name": "펜타킬",
+    "submitted_at": "2026-08-01T06:37:33.600789",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "de615e6b-1185-4fad-9086-cb0506db373d"
   }
 }
