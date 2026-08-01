@@ -10869,5 +10869,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "76c749a7-45d6-494c-b3e4-c7e652239f34"
+  },
+  "59b40e52-c332-4d2d-9255-0dd6f9eed154": {
+    "user_id": "14",
+    "username": "performasspin",
+    "challenge_id": "185",
+    "difficulty": "P14",
+    "challenge_name": "내가 1짱",
+    "submitted_at": "2026-08-01T15:29:31.333554",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "59b40e52-c332-4d2d-9255-0dd6f9eed154"
   }
 }
