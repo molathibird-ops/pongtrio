@@ -10780,5 +10780,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "dd3092da-2660-4207-a135-0e1d2b00aa3d"
+  },
+  "6cc6651d-df2a-4f5b-88a8-632a0cc0b44c": {
+    "user_id": "1532647455546544181",
+    "username": "risehan",
+    "challenge_id": "864",
+    "difficulty": "P5",
+    "custom_pp": null,
+    "challenge_name": "[쉬운 챌린지 - 20번]",
+    "submitted_at": "2026-08-01T10:49:17.585207",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "6cc6651d-df2a-4f5b-88a8-632a0cc0b44c"
   }
 }
