@@ -10803,5 +10803,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "728947d3-eca9-4783-9bb6-6288052baec8"
+  },
+  "7ea20f27-3677-4b17-8648-6c8fe2b57d5b": {
+    "user_id": "27",
+    "username": "performasspin",
+    "challenge_id": "18",
+    "difficulty": "P14",
+    "challenge_name": "티스핀 만들기 Part.3",
+    "submitted_at": "2026-08-01T15:28:30.131348",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "7ea20f27-3677-4b17-8648-6c8fe2b57d5b"
   }
 }
