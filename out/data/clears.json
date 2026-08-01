@@ -3569,12 +3569,13 @@
     "user_id": "1377590764552589344",
     "username": "sugap0wder",
     "challenge_id": "90",
-    "difficulty": "G7",
+    "difficulty": "G5",
     "challenge_name": "스핀광 part.1",
     "submitted_at": "2026-05-17T07:07:06.905362",
     "status": "approved",
     "felt_difficulty": "U1",
-    "clear_id": "c117a5d8-ec4c-4379-b216-93928cea222f"
+    "clear_id": "c117a5d8-ec4c-4379-b216-93928cea222f",
+    "custom_pp": null
   },
   "2bced9c4-0ac8-48c8-b423-48685220ac7a": {
     "user_id": "1377590764552589344",
@@ -4025,12 +4026,13 @@
     "user_id": "544184205429440533",
     "username": "seonghyeni",
     "challenge_id": "90",
-    "difficulty": "G7",
+    "difficulty": "G5",
     "challenge_name": "스핀광 part.1",
     "submitted_at": "2026-05-18T19:43:42.039543",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "216fd64b-564b-407f-8345-6d3453e4fdac"
+    "clear_id": "216fd64b-564b-407f-8345-6d3453e4fdac",
+    "custom_pp": null
   },
   "cb8ec856-25a5-42f4-9b89-b459810f289a": {
     "user_id": "1485520167420297276",
@@ -10025,7 +10027,7 @@
     "user_id": "1273331318834593814",
     "username": "ria001186",
     "challenge_id": "90",
-    "difficulty": "G7",
+    "difficulty": "G5",
     "custom_pp": null,
     "challenge_name": "스핀광 part.1",
     "submitted_at": "2026-07-27T03:41:42.747287",
@@ -10652,12 +10654,13 @@
     "user_id": "1302050564036890696",
     "username": "eve120928",
     "challenge_id": "90",
-    "difficulty": "G7",
+    "difficulty": "G5",
     "challenge_name": "스핀광 part.1",
     "submitted_at": "2026-07-31T12:36:06.021164",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "f336e1ca-22d6-47c2-b5d9-76fbddf7f21e"
+    "clear_id": "f336e1ca-22d6-47c2-b5d9-76fbddf7f21e",
+    "custom_pp": null
   },
   "87a88638-a92a-4dbc-b2f8-862a5fcb1db5": {
     "user_id": "1302050564036890696",
