@@ -10891,5 +10891,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "1bd2934b-20a3-483d-8b0c-adfbde13e147"
+  },
+  "10a117f6-7122-4a67-9480-aa5415f3379f": {
+    "user_id": "94937263",
+    "username": "random_trigger",
+    "challenge_id": "419",
+    "difficulty": "epic",
+    "challenge_name": "펄럭펄럭 나풀나풀",
+    "submitted_at": "2026-08-01T15:30:42.031767",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "10a117f6-7122-4a67-9480-aa5415f3379f"
   }
 }
