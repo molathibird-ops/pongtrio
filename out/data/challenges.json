@@ -9783,5 +9783,16 @@
     "creator_name": "ria001186",
     "created_at": "2026-07-31T06:16:21.755953",
     "registered_at": "2026-07-31T11:11:08.383812"
+  },
+  "956": {
+    "name": "highrise stunt",
+    "description": "센포만 사용해서 3000m를 가세요! (필드가 높거나 대미지가 많다면 깎아도 괜찮아요. 다만 서지가 생기면 안돼요!)",
+    "expected_difficulty": "U1",
+    "actual_difficulty": "Q0",
+    "custom_pp": null,
+    "creator_id": "1532647455546544181",
+    "creator_name": "risehan",
+    "created_at": "2026-08-01T04:17:21.144785",
+    "registered_at": "2026-08-01T04:17:51.730770"
   }
 }
