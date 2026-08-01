@@ -10858,5 +10858,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "c31b803d-fbb6-407e-bac8-b1fa245d75bf"
+  },
+  "76c749a7-45d6-494c-b3e4-c7e652239f34": {
+    "user_id": "14",
+    "username": "performasspin",
+    "challenge_id": "175",
+    "difficulty": "P14",
+    "challenge_name": "시크릿 그레이드 v2",
+    "submitted_at": "2026-08-01T15:29:27.018420",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "76c749a7-45d6-494c-b3e4-c7e652239f34"
   }
 }
