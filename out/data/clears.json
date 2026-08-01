@@ -10693,5 +10693,17 @@
     "status": "approved",
     "felt_difficulty": "P2",
     "clear_id": "05b3780f-da62-4039-b47a-f3aed09369c4"
+  },
+  "f58d0f53-386e-42b5-8fe0-1ade9313d6b9": {
+    "user_id": "1144563458268999750",
+    "username": "sihoo927",
+    "challenge_id": "779",
+    "difficulty": "G2",
+    "custom_pp": null,
+    "challenge_name": "방해줄 천국",
+    "submitted_at": "2026-08-01T06:29:59.217793",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "f58d0f53-386e-42b5-8fe0-1ade9313d6b9"
   }
 }
