@@ -10669,5 +10669,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "87a88638-a92a-4dbc-b2f8-862a5fcb1db5"
+  },
+  "3f619231-aa1e-460a-b96e-2b9ceb451a5e": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "challenge_id": "934",
+    "difficulty": "R3",
+    "custom_pp": null,
+    "challenge_name": "하츠네 미쿠",
+    "submitted_at": "2026-08-01T03:20:25.495810",
+    "status": "pending",
+    "felt_difficulty": "G13",
+    "clear_id": "3f619231-aa1e-460a-b96e-2b9ceb451a5e"
   }
 }
