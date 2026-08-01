@@ -10836,5 +10836,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "43f91aa4-0aa4-46a0-a6de-8e7cb81cda8c"
+  },
+  "9fffc36f-a9c4-4f7b-aa58-ad4cc9d1358d": {
+    "user_id": "14",
+    "username": "performasspin",
+    "challenge_id": "85",
+    "difficulty": "P14",
+    "challenge_name": "허니콤보",
+    "submitted_at": "2026-08-01T15:29:06.505629",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "9fffc36f-a9c4-4f7b-aa58-ad4cc9d1358d"
   }
 }
