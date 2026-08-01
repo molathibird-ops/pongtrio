@@ -10929,11 +10929,12 @@
     "user_id": "94937263",
     "username": "random_trigger",
     "challenge_id": "802",
-    "difficulty": "Q0",
+    "difficulty": "U3",
     "challenge_name": "테트리스의 시련",
     "submitted_at": "2026-08-01T15:31:00.537982",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "0dd62d6d-f83c-4a60-8308-8da0dbd2db61"
+    "clear_id": "0dd62d6d-f83c-4a60-8308-8da0dbd2db61",
+    "custom_pp": null
   }
 }
