@@ -10902,5 +10902,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "10a117f6-7122-4a67-9480-aa5415f3379f"
+  },
+  "df7713e5-650e-409a-aa1a-c2e0424a4970": {
+    "user_id": "94937263",
+    "username": "random_trigger",
+    "challenge_id": "274",
+    "difficulty": "censored",
+    "challenge_name": "부르ㅡ른ㅇㅇ",
+    "submitted_at": "2026-08-01T15:30:48.692916",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "df7713e5-650e-409a-aa1a-c2e0424a4970"
   }
 }
