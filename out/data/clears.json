@@ -10924,5 +10924,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "7e3ebdca-3255-42ed-9639-1a3cb5f1aeb1"
+  },
+  "0dd62d6d-f83c-4a60-8308-8da0dbd2db61": {
+    "user_id": "94937263",
+    "username": "random_trigger",
+    "challenge_id": "802",
+    "difficulty": "Q0",
+    "challenge_name": "테트리스의 시련",
+    "submitted_at": "2026-08-01T15:31:00.537982",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "0dd62d6d-f83c-4a60-8308-8da0dbd2db61"
   }
 }
