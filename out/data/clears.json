@@ -10738,7 +10738,7 @@
     "custom_pp": null,
     "challenge_name": "무술 고수",
     "submitted_at": "2026-08-01T06:57:21.568582",
-    "status": "pending",
+    "status": "approved",
     "felt_difficulty": null,
     "clear_id": "a4bc462b-5286-43f1-bbdb-a9b298e140d3"
   },
@@ -10750,7 +10750,7 @@
     "custom_pp": null,
     "challenge_name": "『영웅은 죽지 않아요.』",
     "submitted_at": "2026-08-01T06:58:33.238788",
-    "status": "pending",
+    "status": "approved",
     "felt_difficulty": null,
     "clear_id": "228d1ce4-eb8a-46d7-8e80-e7b806fc32d4"
   }
