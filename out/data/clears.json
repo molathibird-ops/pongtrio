@@ -10847,5 +10847,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "9fffc36f-a9c4-4f7b-aa58-ad4cc9d1358d"
+  },
+  "c31b803d-fbb6-407e-bac8-b1fa245d75bf": {
+    "user_id": "14",
+    "username": "performasspin",
+    "challenge_id": "104",
+    "difficulty": "P14",
+    "challenge_name": "어떻게 I 미노가 5칸 짜리죠?????",
+    "submitted_at": "2026-08-01T15:29:11.400590",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "c31b803d-fbb6-407e-bac8-b1fa245d75bf"
   }
 }
