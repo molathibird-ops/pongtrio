@@ -10729,5 +10729,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "de615e6b-1185-4fad-9086-cb0506db373d"
+  },
+  "a4bc462b-5286-43f1-bbdb-a9b298e140d3": {
+    "user_id": "1144563458268999750",
+    "username": "sihoo927",
+    "challenge_id": "342",
+    "difficulty": "P15",
+    "custom_pp": null,
+    "challenge_name": "무술 고수",
+    "submitted_at": "2026-08-01T06:57:21.568582",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "a4bc462b-5286-43f1-bbdb-a9b298e140d3"
   }
 }
