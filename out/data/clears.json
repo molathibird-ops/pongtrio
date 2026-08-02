@@ -11217,5 +11217,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "12971a11-8ad6-4ded-946c-ed5d3149ccf3"
+  },
+  "8223995e-5f58-4383-8129-9cf58db07a8b": {
+    "user_id": "1144563458268999750",
+    "username": "sihoo927",
+    "challenge_id": "466",
+    "difficulty": "G4",
+    "custom_pp": null,
+    "challenge_name": "기어서 라스베가스 가기",
+    "submitted_at": "2026-08-02T06:56:52.776946",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "8223995e-5f58-4383-8129-9cf58db07a8b"
   }
 }
