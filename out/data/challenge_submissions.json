@@ -4450,8 +4450,9 @@
     "name": "빠른 충전",
     "description": "4층에 도달하기 전 25 서지를 모으세요.",
     "expected_difficulty": "P19",
-    "status": "pending",
-    "submitted_at": "2026-08-02T06:54:20.918654"
+    "status": "registered",
+    "submitted_at": "2026-08-02T06:54:20.918654",
+    "challenge_id": "960"
   },
   "dc64bb0f": {
     "user_id": "976461145026203730",
