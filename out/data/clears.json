@@ -11103,5 +11103,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "37618307-7588-4150-8441-46c869c4fdcc"
+  },
+  "f00f18d5-3173-4830-95ec-0472bf210bd5": {
+    "user_id": "398724987234",
+    "username": "twelvevision",
+    "challenge_id": "272",
+    "difficulty": "G11",
+    "challenge_name": "강풍 백두산",
+    "submitted_at": "2026-08-02T02:57:37.725644",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "f00f18d5-3173-4830-95ec-0472bf210bd5"
   }
 }
