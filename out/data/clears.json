@@ -11092,5 +11092,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "4a6d160a-8e10-4fcb-9e1f-fecff326656d"
+  },
+  "37618307-7588-4150-8441-46c869c4fdcc": {
+    "user_id": "222222222222",
+    "username": "lucky_vicky222",
+    "challenge_id": "128",
+    "difficulty": "G3",
+    "challenge_name": "222",
+    "submitted_at": "2026-08-02T02:56:29.719342",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "37618307-7588-4150-8441-46c869c4fdcc"
   }
 }
