@@ -10960,5 +10960,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "19a7367e-5c9a-42a9-a520-01a9ce3a3a7a"
+  },
+  "0125e575-db31-4c0d-8f80-b9c91fb21901": {
+    "user_id": "1304989957747642400",
+    "username": "astralsecond_30857",
+    "challenge_id": "304",
+    "difficulty": "G8",
+    "challenge_name": "Ruby",
+    "submitted_at": "2026-08-02T02:51:02.516179",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "0125e575-db31-4c0d-8f80-b9c91fb21901"
   }
 }
