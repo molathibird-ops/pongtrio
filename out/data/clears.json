@@ -11169,5 +11169,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "63297672-b8ce-4f36-84eb-cd0817276ea7"
+  },
+  "fb9ab3d0-a01c-4629-ba27-c6ca4816ec35": {
+    "user_id": "774848749444137013",
+    "username": "manyak2",
+    "challenge_id": "432",
+    "difficulty": "P12",
+    "challenge_name": "폐업",
+    "submitted_at": "2026-08-02T03:01:26.740917",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "fb9ab3d0-a01c-4629-ba27-c6ca4816ec35"
   }
 }
