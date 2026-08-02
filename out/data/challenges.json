@@ -1910,12 +1910,13 @@
     "name": "둘은 문제아지만 최강",
     "description": "퀵플레이 듀오모드에서 서로를 3번 이상 살리면서 2000m 이상을 등반하세요.",
     "expected_difficulty": "U1",
-    "actual_difficulty": "R2",
+    "actual_difficulty": "G7",
     "creator_id": "976461145026203730",
     "creator_name": "tremendous5273",
     "created_at": "2025-11-28T00:37:34.265845",
     "registered_at": "2025-11-28T05:28:08.188909",
-    "curation": "T1"
+    "curation": "T1",
+    "custom_pp": null
   },
   "192": {
     "name": "약탈",
