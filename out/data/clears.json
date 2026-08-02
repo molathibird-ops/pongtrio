@@ -11205,5 +11205,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "20fb06d4-be9d-4cfb-abc3-51cd1f529521"
+  },
+  "12971a11-8ad6-4ded-946c-ed5d3149ccf3": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "challenge_id": "380",
+    "difficulty": "G2",
+    "custom_pp": null,
+    "challenge_name": "카지노 스피드",
+    "submitted_at": "2026-08-02T06:55:13.066232",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "12971a11-8ad6-4ded-946c-ed5d3149ccf3"
   }
 }
