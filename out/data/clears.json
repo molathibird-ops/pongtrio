@@ -3637,12 +3637,13 @@
     "user_id": "1218889894659625070",
     "username": "pongiscute",
     "challenge_id": "595",
-    "difficulty": "G15",
+    "difficulty": "G16",
     "challenge_name": "치즈 그리고 치즈",
     "submitted_at": "2026-05-17T08:41:33.672074",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "7b7ad3fc-97cb-431d-9b08-28c1fe0165bd"
+    "clear_id": "7b7ad3fc-97cb-431d-9b08-28c1fe0165bd",
+    "custom_pp": null
   },
   "cd2e8e97-9093-4767-96a1-3887ad9d31a2": {
     "user_id": "1377590764552589344",
