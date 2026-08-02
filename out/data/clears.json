@@ -10993,5 +10993,27 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "ca13f829-6c56-446d-9541-bd51fb6dc5d4"
+  },
+  "00ec8391-5330-4010-b443-c5f77a295cc7": {
+    "user_id": "1304994010225573918",
+    "username": "cleandogfan",
+    "challenge_id": "148",
+    "difficulty": "P15",
+    "challenge_name": "MAX VERSTAPPEN MENTIONED🗣️",
+    "submitted_at": "2026-08-02T02:54:12.664782",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "00ec8391-5330-4010-b443-c5f77a295cc7"
+  },
+  "657939bd-0188-4637-991f-0498c542f554": {
+    "user_id": "1304994010225573918",
+    "username": "cleandogfan",
+    "challenge_id": "307",
+    "difficulty": "P15",
+    "challenge_name": "8톤트럭",
+    "submitted_at": "2026-08-02T02:54:13.832329",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "657939bd-0188-4637-991f-0498c542f554"
   }
 }
