@@ -81,13 +81,13 @@
     "user_id": "976461145026203730",
     "username": "tremendous5273",
     "challenge_id": "127",
-    "difficulty": "P20",
+    "difficulty": "G1",
     "challenge_name": "차르봄바",
     "submitted_at": "2026-04-18T07:17:30.049025",
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "315645bd-a1e8-4517-980e-7407a91fc45a",
-    "custom_pp": 60.0
+    "custom_pp": 75.0
   },
   "3d43d3f9-a753-4d8d-b996-ea43f7defce2": {
     "user_id": "976461145026203730",
@@ -2811,13 +2811,13 @@
     "user_id": "544184205429440533",
     "username": "seonghyeni",
     "challenge_id": "127",
-    "difficulty": "P20",
+    "difficulty": "G1",
     "challenge_name": "차르봄바",
     "submitted_at": "2026-05-09T13:43:21.109886",
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "be8cf8bd-2ed8-4d7e-a892-f8d5c5372d8d",
-    "custom_pp": 60.0
+    "custom_pp": 75.0
   },
   "37ee2d0b-6ddd-4581-8a51-cfe64a7d908a": {
     "user_id": "544184205429440533",
@@ -3071,13 +3071,13 @@
     "user_id": "589099128563302483",
     "username": "rainbow_water",
     "challenge_id": "127",
-    "difficulty": "P20",
+    "difficulty": "G1",
     "challenge_name": "차르봄바",
     "submitted_at": "2026-05-10T08:36:39.532059",
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "9b6b474d-1d5d-4c0f-837e-c7d3de248be9",
-    "custom_pp": 60.0
+    "custom_pp": 75.0
   },
   "1f805279-6c6c-4e66-bf8e-39c432b013ba": {
     "user_id": "1487076669843050516",
@@ -9109,13 +9109,13 @@
     "user_id": "1144563458268999750",
     "username": "sihoo927",
     "challenge_id": "127",
-    "difficulty": "P20",
+    "difficulty": "G1",
     "challenge_name": "차르봄바",
     "submitted_at": "2026-07-10T10:11:25.354987",
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "e9d96b0f-8942-4d5d-a4a3-8c7013f63f7e",
-    "custom_pp": 60.0
+    "custom_pp": 75.0
   },
   "ddec08c0-39e9-4080-a93b-c9ff15a75cc8": {
     "user_id": "1144563458268999750",
