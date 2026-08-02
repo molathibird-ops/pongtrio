@@ -6069,11 +6069,12 @@
     "name": "치즈 그리고 치즈",
     "description": "퀵플레이에서 『Messier Garbage』, 『Double Hole Garbage』 모드를 켜고 2300미터에 도달하세요.",
     "expected_difficulty": "R3",
-    "actual_difficulty": "G15",
+    "actual_difficulty": "G16",
     "creator_id": "589099128563302483",
     "creator_name": "rainbow_water",
     "created_at": "2026-04-24T09:25:05.206405",
-    "registered_at": "2026-04-24T11:07:42.826403"
+    "registered_at": "2026-04-24T11:07:42.826403",
+    "custom_pp": null
   },
   "596": {
     "name": "깎기 장인",
