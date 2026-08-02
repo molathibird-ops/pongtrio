@@ -11114,5 +11114,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "f00f18d5-3173-4830-95ec-0472bf210bd5"
+  },
+  "ef239764-bc68-453b-a9d3-f166bc3bdfd6": {
+    "user_id": "398724987234",
+    "username": "twelvevision",
+    "challenge_id": "371",
+    "difficulty": "G11",
+    "challenge_name": "뉴턴 제2법칙",
+    "submitted_at": "2026-08-02T02:57:46.183726",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "ef239764-bc68-453b-a9d3-f166bc3bdfd6"
   }
 }
