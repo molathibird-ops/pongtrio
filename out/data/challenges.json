@@ -5099,11 +5099,12 @@
     "name": "[ns] - MAXIMUM OUTPUT",
     "description": "그래픽 설정을 울트라로 설정하고 파티클 150%로 설정한 다음 The Tyrant 모드로 500m를 등반하세요.",
     "expected_difficulty": "G14",
-    "actual_difficulty": "Q0",
+    "actual_difficulty": "G20",
     "creator_id": "976461145026203730",
     "creator_name": "tremendous5273",
     "created_at": "2026-01-28T16:45:10.112321",
-    "registered_at": "2026-01-28T17:10:43.101980"
+    "registered_at": "2026-01-28T17:10:43.101980",
+    "custom_pp": 400.0
   },
   "502": {
     "name": "진짜학교여신의미모.이제야내가대표미녀야!",
