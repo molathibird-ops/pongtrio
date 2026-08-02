@@ -7602,11 +7602,12 @@
     "name": "LAST UNIVERSE",
     "description": "last stand 모드로 1650m를 등반하세요!",
     "expected_difficulty": "G18",
-    "actual_difficulty": "G20",
+    "actual_difficulty": "U1",
     "creator_id": "819167210446127105",
     "creator_name": "myuremi",
     "created_at": "2026-06-14T07:56:42.147089",
-    "registered_at": "2026-06-14T08:12:08.948055"
+    "registered_at": "2026-06-14T08:12:08.948055",
+    "custom_pp": null
   },
   "745": {
     "name": "<:kangmincheol:1494961043640684644>",
