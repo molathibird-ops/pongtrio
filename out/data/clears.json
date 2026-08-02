@@ -11015,5 +11015,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "657939bd-0188-4637-991f-0498c542f554"
+  },
+  "de261665-9a2f-4075-93aa-1e8f3c02096f": {
+    "user_id": "1304994010225573918",
+    "username": "cleandogfan",
+    "challenge_id": "311",
+    "difficulty": "P15",
+    "challenge_name": "♊쌍둥이자리",
+    "submitted_at": "2026-08-02T02:54:17.968469",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "de261665-9a2f-4075-93aa-1e8f3c02096f"
   }
 }
