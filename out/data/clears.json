@@ -11048,5 +11048,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "d1747574-e073-49ba-a8e2-249cc30b5089"
+  },
+  "934552d7-0c64-4c4a-b096-6a0b144aeff7": {
+    "user_id": "1304994010225573918",
+    "username": "cleandogfan",
+    "challenge_id": "342",
+    "difficulty": "P15",
+    "challenge_name": "무술 고수",
+    "submitted_at": "2026-08-02T02:54:31.732850",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "934552d7-0c64-4c4a-b096-6a0b144aeff7"
   }
 }
