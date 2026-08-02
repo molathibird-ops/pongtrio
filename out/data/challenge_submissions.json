@@ -4430,7 +4430,8 @@
     "name": "기부천사",
     "description": "킉플레이에서 한 게임에 도네이트 T스핀 더블을 10번 성공하세요!",
     "expected_difficulty": "P19",
-    "status": "pending",
-    "submitted_at": "2026-08-02T03:10:34.997809"
+    "status": "registered",
+    "submitted_at": "2026-08-02T03:10:34.997809",
+    "challenge_id": "958"
   }
 }
