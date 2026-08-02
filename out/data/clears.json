@@ -10982,5 +10982,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "29854ba1-dcf1-44bc-94bb-c80ed607f233"
+  },
+  "ca13f829-6c56-446d-9541-bd51fb6dc5d4": {
+    "user_id": "1304994010225573918",
+    "username": "cleandogfan",
+    "challenge_id": "24",
+    "difficulty": "P15",
+    "challenge_name": "fin셋. 엌ㅋ",
+    "submitted_at": "2026-08-02T02:54:07.786360",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "ca13f829-6c56-446d-9541-bd51fb6dc5d4"
   }
 }
