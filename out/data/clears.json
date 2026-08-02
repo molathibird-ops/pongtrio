@@ -11217,5 +11217,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "8223995e-5f58-4383-8129-9cf58db07a8b"
+  },
+  "b8f19a90-43e8-42b7-8cf1-bcee33468f8f": {
+    "user_id": "1144563458268999750",
+    "username": "sihoo927",
+    "challenge_id": "786",
+    "difficulty": "P18",
+    "custom_pp": null,
+    "challenge_name": "익스트림 카지노",
+    "submitted_at": "2026-08-02T06:57:43.085430",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "b8f19a90-43e8-42b7-8cf1-bcee33468f8f"
   }
 }
