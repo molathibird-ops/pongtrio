@@ -1259,12 +1259,12 @@
     "name": "차르봄바",
     "description": "순간 apm 180 이상을 달성하세요.",
     "expected_difficulty": "G3",
-    "actual_difficulty": "P20",
+    "actual_difficulty": "G1",
     "creator_id": "976461145026203730",
     "creator_name": "tremendous5273",
     "created_at": "2025-11-22T06:52:58.616930",
     "registered_at": "2025-11-22T06:54:45.318761",
-    "custom_pp": 60.0
+    "custom_pp": 75.0
   },
   "128": {
     "name": "222",
