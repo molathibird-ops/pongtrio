@@ -4433,5 +4433,14 @@
     "status": "registered",
     "submitted_at": "2026-08-02T03:10:34.997809",
     "challenge_id": "958"
+  },
+  "7f645c3d": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "서지는장식인?",
+    "description": "서지를 쌓지 않고 10층에 도달하세요.",
+    "expected_difficulty": "R2",
+    "status": "pending",
+    "submitted_at": "2026-08-02T06:22:28.720774"
   }
 }
