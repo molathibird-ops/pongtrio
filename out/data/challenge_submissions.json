@@ -4440,7 +4440,8 @@
     "name": "서지는장식인?",
     "description": "서지를 쌓지 않고 10층에 도달하세요.",
     "expected_difficulty": "R2",
-    "status": "pending",
-    "submitted_at": "2026-08-02T06:22:28.720774"
+    "status": "registered",
+    "submitted_at": "2026-08-02T06:22:28.720774",
+    "challenge_id": "959"
   }
 }
