@@ -4462,5 +4462,14 @@
     "expected_difficulty": "R0",
     "status": "pending",
     "submitted_at": "2026-08-02T07:00:53.090111"
+  },
+  "cf72ea93": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "효율의 극치",
+    "description": "Block Rationing 모드로 공격을 300 이상 보내세요.",
+    "expected_difficulty": "R1",
+    "status": "pending",
+    "submitted_at": "2026-08-02T07:26:01.517899"
   }
 }
