@@ -11125,5 +11125,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "ef239764-bc68-453b-a9d3-f166bc3bdfd6"
+  },
+  "acf8e358-9c59-4fcd-8ab0-e74f2d832340": {
+    "user_id": "398724987234",
+    "username": "twelvevision",
+    "challenge_id": "678",
+    "difficulty": "G11",
+    "challenge_name": "[퀵플레이: 빨간맛]",
+    "submitted_at": "2026-08-02T02:57:54.444658",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "acf8e358-9c59-4fcd-8ab0-e74f2d832340"
   }
 }
