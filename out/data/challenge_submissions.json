@@ -4423,5 +4423,14 @@
     "status": "registered",
     "submitted_at": "2026-08-01T08:50:47.110807",
     "challenge_id": "957"
+  },
+  "d19811e7": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "기부천사",
+    "description": "킉플레이에서 한 게임에 도네이트 T스핀 더블을 10번 성공하세요!",
+    "expected_difficulty": "P19",
+    "status": "pending",
+    "submitted_at": "2026-08-02T03:10:34.997809"
   }
 }
