@@ -11242,5 +11242,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "aedd8d5d-7522-4303-b0ed-1647eb2ab33c"
+  },
+  "1d43e869-4bd7-430c-8692-5f2c47910c1f": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "960",
+    "difficulty": "P16",
+    "custom_pp": 22.0,
+    "challenge_name": "빠른 충전",
+    "submitted_at": "2026-08-02T13:16:26.678175",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "1d43e869-4bd7-430c-8692-5f2c47910c1f"
   }
 }
