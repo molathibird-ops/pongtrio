@@ -10971,5 +10971,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "0125e575-db31-4c0d-8f80-b9c91fb21901"
+  },
+  "29854ba1-dcf1-44bc-94bb-c80ed607f233": {
+    "user_id": "1304989957747642400",
+    "username": "astralsecond_30857",
+    "challenge_id": "281",
+    "difficulty": "G20",
+    "challenge_name": "F1 드라이버",
+    "submitted_at": "2026-08-02T02:51:21.851189",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "29854ba1-dcf1-44bc-94bb-c80ed607f233"
   }
 }
