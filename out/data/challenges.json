@@ -9845,5 +9845,16 @@
     "creator_name": "tremendous5273",
     "created_at": "2026-08-02T06:54:20.918654",
     "registered_at": "2026-08-02T07:02:18.210875"
+  },
+  "961": {
+    "name": "효율의 극치",
+    "description": "Block Rationing 모드로 공격을 300 이상 보내세요.",
+    "expected_difficulty": "R1",
+    "actual_difficulty": "R1",
+    "custom_pp": null,
+    "creator_id": "976461145026203730",
+    "creator_name": "tremendous5273",
+    "created_at": "2026-08-02T07:26:01.517899",
+    "registered_at": "2026-08-02T07:32:04.481492"
   }
 }
