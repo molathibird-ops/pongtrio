@@ -11026,5 +11026,27 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "de261665-9a2f-4075-93aa-1e8f3c02096f"
+  },
+  "b46e2f55-92a7-4045-9bdf-87841324c58b": {
+    "user_id": "1304994010225573918",
+    "username": "cleandogfan",
+    "challenge_id": "323",
+    "difficulty": "P15",
+    "challenge_name": "I 미노 매니아",
+    "submitted_at": "2026-08-02T02:54:26.476271",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "b46e2f55-92a7-4045-9bdf-87841324c58b"
+  },
+  "d1747574-e073-49ba-a8e2-249cc30b5089": {
+    "user_id": "1304994010225573918",
+    "username": "cleandogfan",
+    "challenge_id": "325",
+    "difficulty": "P15",
+    "challenge_name": "체인지!",
+    "submitted_at": "2026-08-02T02:54:27.787908",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "d1747574-e073-49ba-a8e2-249cc30b5089"
   }
 }
