@@ -2823,13 +2823,13 @@
     "user_id": "544184205429440533",
     "username": "seonghyeni",
     "challenge_id": "128",
-    "difficulty": "G3",
+    "difficulty": "G5",
     "challenge_name": "222",
     "submitted_at": "2026-05-09T13:51:29.483585",
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "37ee2d0b-6ddd-4581-8a51-cfe64a7d908a",
-    "custom_pp": 80.0
+    "custom_pp": 100.0
   },
   "792fa933-c766-4b22-8c0d-6846d85ffa58": {
     "user_id": "1144563458268999750",
@@ -3592,13 +3592,13 @@
     "user_id": "976461145026203730",
     "username": "tremendous5273",
     "challenge_id": "128",
-    "difficulty": "G3",
+    "difficulty": "G5",
     "challenge_name": "222",
     "submitted_at": "2026-05-17T07:11:21.629559",
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "9b2ff6e9-5a16-4465-beaf-76eba26fa63c",
-    "custom_pp": 80.0
+    "custom_pp": 100.0
   },
   "2c435c8d-9515-4d83-8322-4f87012e4080": {
     "user_id": "1464646186798420132",
@@ -11099,12 +11099,13 @@
     "user_id": "222222222222",
     "username": "lucky_vicky222",
     "challenge_id": "128",
-    "difficulty": "G3",
+    "difficulty": "G5",
     "challenge_name": "222",
     "submitted_at": "2026-08-02T02:56:29.719342",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "37618307-7588-4150-8441-46c869c4fdcc"
+    "clear_id": "37618307-7588-4150-8441-46c869c4fdcc",
+    "custom_pp": 100.0
   },
   "f00f18d5-3173-4830-95ec-0472bf210bd5": {
     "user_id": "398724987234",
