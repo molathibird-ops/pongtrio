@@ -11059,5 +11059,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "934552d7-0c64-4c4a-b096-6a0b144aeff7"
+  },
+  "1934f320-80e5-4503-a6d2-1c57adab4878": {
+    "user_id": "1304994010225573918",
+    "username": "cleandogfan",
+    "challenge_id": "368",
+    "difficulty": "P15",
+    "challenge_name": "클린 허니콤보",
+    "submitted_at": "2026-08-02T02:54:37.697496",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "1934f320-80e5-4503-a6d2-1c57adab4878"
   }
 }
