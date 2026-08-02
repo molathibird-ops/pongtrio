@@ -10948,5 +10948,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "9cfbd938-0e33-4e11-8ab8-b4c52c29c6e4"
+  },
+  "19a7367e-5c9a-42a9-a520-01a9ce3a3a7a": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "challenge_id": "501",
+    "difficulty": "Q0",
+    "custom_pp": null,
+    "challenge_name": "[ns] - MAXIMUM OUTPUT",
+    "submitted_at": "2026-08-02T02:08:58.745649",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "19a7367e-5c9a-42a9-a520-01a9ce3a3a7a"
   }
 }
