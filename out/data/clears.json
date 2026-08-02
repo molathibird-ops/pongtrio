@@ -5069,13 +5069,13 @@
     "user_id": "1514630812375580903",
     "username": "gohansub_30741",
     "challenge_id": "303",
-    "difficulty": "G20",
+    "difficulty": "U2",
     "challenge_name": "칠죄종",
     "submitted_at": "2026-06-12T07:43:35.763320",
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "a276ff63-6f97-4c82-9179-200af8786604",
-    "custom_pp": 475.0
+    "custom_pp": null
   },
   "ddbdf659-753f-4396-9bc2-f88ccd16b76f": {
     "user_id": "1514630812375580903",
@@ -6071,13 +6071,13 @@
     "user_id": "1494301362647990383",
     "username": "pineapple_09421",
     "challenge_id": "303",
-    "difficulty": "G20",
+    "difficulty": "U2",
     "challenge_name": "칠죄종",
     "submitted_at": "2026-06-18T10:36:47.114699",
     "status": "approved",
     "felt_difficulty": "U2",
     "clear_id": "14b3e7d6-611e-4e70-89cb-e4e1dc934bb9",
-    "custom_pp": 475.0
+    "custom_pp": null
   },
   "d35f9ee4-688b-4eff-a893-4971a812bcfc": {
     "user_id": "1213414162076799059",
