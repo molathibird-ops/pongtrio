@@ -8377,12 +8377,13 @@
     "user_id": "1377590764552589344",
     "username": "sugap0wder",
     "challenge_id": "744",
-    "difficulty": "G20",
+    "difficulty": "U1",
     "challenge_name": "LAST UNIVERSE",
     "submitted_at": "2026-07-01T11:57:13.727443",
     "status": "approved",
     "felt_difficulty": "G20",
-    "clear_id": "12ee5036-2fc1-442e-9145-69a91f9b0126"
+    "clear_id": "12ee5036-2fc1-442e-9145-69a91f9b0126",
+    "custom_pp": null
   },
   "895a1b38-66d1-43af-9e7f-cbac29a40acc": {
     "user_id": "1485520167420297276",
