@@ -11180,5 +11180,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "fb9ab3d0-a01c-4629-ba27-c6ca4816ec35"
+  },
+  "afe06382-7a92-4767-88b2-591722c0a2e7": {
+    "user_id": "738573062873546813",
+    "username": "eucla_rimar",
+    "challenge_id": "348",
+    "difficulty": "U1",
+    "challenge_name": "과충전 v5",
+    "submitted_at": "2026-08-02T03:06:29.240640",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "afe06382-7a92-4767-88b2-591722c0a2e7"
   }
 }
