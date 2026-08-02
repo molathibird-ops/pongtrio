@@ -1611,13 +1611,13 @@
     "user_id": "840063640681054228",
     "username": "justicedragon4",
     "challenge_id": "603",
-    "difficulty": "G6",
+    "difficulty": "G8",
     "challenge_name": "유사 디아오",
     "submitted_at": "2026-04-25T04:35:46.450154",
     "status": "approved",
     "felt_difficulty": "G6",
     "clear_id": "dadf5241-9e6c-45ba-8968-c45f41fb5b4b",
-    "custom_pp": 100.0
+    "custom_pp": 120.0
   },
   "83f1c640-cce4-4656-a9f2-76cd2c798907": {
     "user_id": "1264967714095497268",
@@ -2981,13 +2981,13 @@
     "user_id": "1213414162076799059",
     "username": "min._a.",
     "challenge_id": "603",
-    "difficulty": "G6",
+    "difficulty": "G8",
     "challenge_name": "유사 디아오",
     "submitted_at": "2026-05-10T03:15:17.465559",
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "9dde6a6e-f17c-4e55-a650-c21e32a96bef",
-    "custom_pp": 100.0
+    "custom_pp": 120.0
   },
   "7c552128-2382-41c2-aa38-bdcf420e47f9": {
     "user_id": "1218889894659625070",
@@ -5926,13 +5926,13 @@
     "user_id": "544184205429440533",
     "username": "seonghyeni",
     "challenge_id": "603",
-    "difficulty": "G6",
+    "difficulty": "G8",
     "challenge_name": "유사 디아오",
     "submitted_at": "2026-06-15T19:32:22.218787",
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "e0af65ed-15d9-4a35-a7e8-cd68a6ffc101",
-    "custom_pp": 100.0
+    "custom_pp": 120.0
   },
   "1216b3ec-11ed-464e-8dbd-6431a59e83df": {
     "user_id": "718670519402233858",
@@ -9753,8 +9753,8 @@
     "user_id": "976461145026203730",
     "username": "tremendous5273",
     "challenge_id": "603",
-    "difficulty": "G6",
-    "custom_pp": 100.0,
+    "difficulty": "G8",
+    "custom_pp": 120.0,
     "challenge_name": "유사 디아오",
     "submitted_at": "2026-07-23T15:40:01.498496",
     "status": "approved",
