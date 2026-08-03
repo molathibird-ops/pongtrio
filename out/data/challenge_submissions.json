@@ -4501,5 +4501,14 @@
     "status": "registered",
     "submitted_at": "2026-08-03T14:59:05.382425",
     "challenge_id": "963"
+  },
+  "5db76282": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "회전 키 그 자체",
+    "description": "퀵플레이에서 KPP 수치가 15 이상이 되도록 클리어하세요. 10층을 등반하면 성공입니다.",
+    "expected_difficulty": "Q0",
+    "status": "pending",
+    "submitted_at": "2026-08-03T15:43:23.705098"
   }
 }
