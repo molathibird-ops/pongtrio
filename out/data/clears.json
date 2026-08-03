@@ -11400,5 +11400,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "4b426668-5acc-4433-8c8f-464a08824370"
+  },
+  "e3323f7a-3918-470b-a937-46db4c8a1129": {
+    "user_id": "6767",
+    "username": "icly",
+    "challenge_id": "423",
+    "difficulty": "U5",
+    "challenge_name": "연산군",
+    "submitted_at": "2026-08-03T06:20:21.694267",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "e3323f7a-3918-470b-a937-46db4c8a1129"
   }
 }
