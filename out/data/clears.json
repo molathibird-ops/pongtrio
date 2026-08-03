@@ -11606,5 +11606,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "a6300b3f-3ef2-4846-9e85-0d0adf9c6694"
+  },
+  "56ff0314-c3a7-428a-b78b-a26bcb173633": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "challenge_id": "342",
+    "difficulty": "P15",
+    "custom_pp": null,
+    "challenge_name": "무술 고수",
+    "submitted_at": "2026-08-03T14:53:29.432633",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "56ff0314-c3a7-428a-b78b-a26bcb173633"
   }
 }
