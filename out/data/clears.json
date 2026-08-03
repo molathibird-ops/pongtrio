@@ -11546,5 +11546,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "a8f6dc85-55c3-43ad-8f44-394b04938aad"
+  },
+  "757fdafd-15f7-4e71-8747-47a96d08e278": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "challenge_id": "446",
+    "difficulty": "P4",
+    "custom_pp": null,
+    "challenge_name": "무거운 한 걸음",
+    "submitted_at": "2026-08-03T14:05:51.959291",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "757fdafd-15f7-4e71-8747-47a96d08e278"
   }
 }
