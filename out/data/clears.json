@@ -11555,7 +11555,7 @@
     "custom_pp": null,
     "challenge_name": "무거운 한 걸음",
     "submitted_at": "2026-08-03T14:05:51.959291",
-    "status": "pending",
+    "status": "approved",
     "felt_difficulty": null,
     "clear_id": "757fdafd-15f7-4e71-8747-47a96d08e278"
   },
@@ -11567,7 +11567,7 @@
     "custom_pp": null,
     "challenge_name": "배터리 0%",
     "submitted_at": "2026-08-03T14:08:15.541042",
-    "status": "pending",
+    "status": "approved",
     "felt_difficulty": null,
     "clear_id": "f66ada3c-3a92-4139-ad5f-b41e095f0bd0"
   }
