@@ -11367,5 +11367,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "cb1c5e26-5b2a-4f9f-b2dc-1080ec91a711"
+  },
+  "3b30747b-66f8-4ffb-8688-ff13188534ca": {
+    "user_id": "6767",
+    "username": "icly",
+    "challenge_id": "919",
+    "difficulty": "U7",
+    "challenge_name": "1급 보호기지",
+    "submitted_at": "2026-08-03T06:19:41.655916",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "3b30747b-66f8-4ffb-8688-ff13188534ca"
   }
 }
