@@ -11290,5 +11290,16 @@
     "felt_difficulty": null,
     "clear_id": "23261872-7ee8-4898-818c-07b830c4d038",
     "custom_pp": null
+  },
+  "adf282c0-9b9e-4df6-b31c-94cb03843243": {
+    "user_id": "6767",
+    "username": "icly",
+    "challenge_id": "816",
+    "difficulty": "U11",
+    "challenge_name": "Ascension of Zenith",
+    "submitted_at": "2026-08-03T06:14:30.858502",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "adf282c0-9b9e-4df6-b31c-94cb03843243"
   }
 }
