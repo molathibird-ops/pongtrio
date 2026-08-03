@@ -11477,5 +11477,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "fe7b04c0-f55b-4bac-be98-0f12f5ff4481"
+  },
+  "1aa73993-a455-47d9-b2b4-af79e3febc7c": {
+    "user_id": "6767",
+    "username": "icly",
+    "challenge_id": "788",
+    "difficulty": "U3",
+    "challenge_name": "IMF가 오게되",
+    "submitted_at": "2026-08-03T06:24:46.569463",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "1aa73993-a455-47d9-b2b4-af79e3febc7c"
   }
 }
