@@ -11594,5 +11594,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "62623819-e163-4190-91ad-46d33c405587"
+  },
+  "0887f93a-830f-40e7-903c-dea1599c527c": {
+    "user_id": "832746057443573801",
+    "username": "simple1011",
+    "challenge_id": "946",
+    "difficulty": "P7",
+    "custom_pp": 0.5,
+    "challenge_name": "히히 Z 스핀 트리플",
+    "submitted_at": "2026-08-03T14:38:27.777359",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "0887f93a-830f-40e7-903c-dea1599c527c"
   }
 }
