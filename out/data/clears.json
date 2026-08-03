@@ -11499,5 +11499,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "0c0aa99a-9c97-47ee-bbee-9e34ffd9dcdd"
+  },
+  "d3173229-5adc-4d05-82c7-aed8c8e0dd13": {
+    "user_id": "6767",
+    "username": "icly",
+    "challenge_id": "556",
+    "difficulty": "U10",
+    "challenge_name": "과충전 v8",
+    "submitted_at": "2026-08-03T06:34:06.485844",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "d3173229-5adc-4d05-82c7-aed8c8e0dd13"
   }
 }
