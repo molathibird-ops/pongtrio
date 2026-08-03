@@ -11266,5 +11266,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "44063a08-63c3-481c-9ae4-5727f0ee472b"
+  },
+  "3095aacc-8fa8-4a3c-a0be-09ff403866f4": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "944",
+    "difficulty": "P7",
+    "custom_pp": 0.5,
+    "challenge_name": "히히 J 스핀 트리플",
+    "submitted_at": "2026-08-03T03:15:22.145935",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "3095aacc-8fa8-4a3c-a0be-09ff403866f4"
   }
 }
