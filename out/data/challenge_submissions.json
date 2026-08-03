@@ -4491,5 +4491,14 @@
     "status": "registered",
     "submitted_at": "2026-08-03T14:54:21.414883",
     "challenge_id": "962"
+  },
+  "2bf0e42b": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "테트리스 전문가(NERFED)",
+    "description": "테트리스만 사용해서 25 서지를 모으세요.",
+    "expected_difficulty": "P18",
+    "status": "pending",
+    "submitted_at": "2026-08-03T14:59:05.382425"
   }
 }
