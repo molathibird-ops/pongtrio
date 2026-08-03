@@ -11422,5 +11422,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "a14a3e0b-d5d7-4def-b359-5812cdba2e97"
+  },
+  "58b59270-2e96-424c-80be-0b632ca29e4c": {
+    "user_id": "6767",
+    "username": "icly",
+    "challenge_id": "553",
+    "difficulty": "U5",
+    "challenge_name": "왕관의 무게",
+    "submitted_at": "2026-08-03T06:20:29.920752",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "58b59270-2e96-424c-80be-0b632ca29e4c"
   }
 }
