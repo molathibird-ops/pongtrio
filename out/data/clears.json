@@ -11345,5 +11345,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "4488dd65-7b94-44ed-bc72-4e95cfc96f68"
+  },
+  "5972e554-2296-47e7-9130-9a807ace8960": {
+    "user_id": "6767",
+    "username": "icly",
+    "challenge_id": "830",
+    "difficulty": "U8",
+    "challenge_name": "[난이도:Maybe Possible]",
+    "submitted_at": "2026-08-03T06:19:31.637189",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "5972e554-2296-47e7-9130-9a807ace8960"
   }
 }
