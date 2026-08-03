@@ -11334,5 +11334,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "e533997a-924b-4adb-ad47-b7a5a04bcf43"
+  },
+  "4488dd65-7b94-44ed-bc72-4e95cfc96f68": {
+    "user_id": "6767",
+    "username": "icly",
+    "challenge_id": "520",
+    "difficulty": "U8",
+    "challenge_name": "군림",
+    "submitted_at": "2026-08-03T06:19:24.959889",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "4488dd65-7b94-44ed-bc72-4e95cfc96f68"
   }
 }
