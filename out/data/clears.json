@@ -11534,5 +11534,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "24531f1d-2810-4fd2-9bd2-f0d79c3160ff"
+  },
+  "a8f6dc85-55c3-43ad-8f44-394b04938aad": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "challenge_id": "55",
+    "difficulty": "P2",
+    "custom_pp": null,
+    "challenge_name": "첫 등반",
+    "submitted_at": "2026-08-03T14:04:55.132408",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "a8f6dc85-55c3-43ad-8f44-394b04938aad"
   }
 }
