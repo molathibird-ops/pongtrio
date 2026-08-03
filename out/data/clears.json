@@ -11582,5 +11582,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "58f2a662-a1f4-42a3-9453-f63b4c0a88e6"
+  },
+  "62623819-e163-4190-91ad-46d33c405587": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "challenge_id": "706",
+    "difficulty": "G10",
+    "custom_pp": 170.0,
+    "challenge_name": "[퀵플레이:죽을맛]",
+    "submitted_at": "2026-08-03T14:32:22.534625",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "62623819-e163-4190-91ad-46d33c405587"
   }
 }
