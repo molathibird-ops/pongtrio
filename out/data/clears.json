@@ -11433,5 +11433,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "58b59270-2e96-424c-80be-0b632ca29e4c"
+  },
+  "18b471e3-7030-4679-90e4-a5f40f2b3af2": {
+    "user_id": "6767",
+    "username": "icly",
+    "challenge_id": "379",
+    "difficulty": "U4",
+    "challenge_name": "5hanになりたい",
+    "submitted_at": "2026-08-03T06:23:52.293821",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "18b471e3-7030-4679-90e4-a5f40f2b3af2"
   }
 }
