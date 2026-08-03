@@ -11618,5 +11618,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "99498443-a528-48ae-ab43-eabd62fa54f9"
+  },
+  "a6300b3f-3ef2-4846-9e85-0d0adf9c6694": {
+    "user_id": "832746057443573801",
+    "username": "simple1011",
+    "challenge_id": "77",
+    "difficulty": "P8",
+    "custom_pp": null,
+    "challenge_name": "F층",
+    "submitted_at": "2026-08-03T14:43:28.388427",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "a6300b3f-3ef2-4846-9e85-0d0adf9c6694"
   }
 }
