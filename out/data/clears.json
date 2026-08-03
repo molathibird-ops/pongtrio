@@ -11466,5 +11466,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "bc6a3c05-25bf-45e9-9973-3c3080bf6cb9"
+  },
+  "fe7b04c0-f55b-4bac-be98-0f12f5ff4481": {
+    "user_id": "6767",
+    "username": "icly",
+    "challenge_id": "664",
+    "difficulty": "U3",
+    "challenge_name": "과속",
+    "submitted_at": "2026-08-03T06:24:09.322890",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "fe7b04c0-f55b-4bac-be98-0f12f5ff4481"
   }
 }
