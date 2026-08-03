@@ -4481,5 +4481,14 @@
     "expected_difficulty": "R1",
     "status": "pending",
     "submitted_at": "2026-08-02T17:56:46.020887"
+  },
+  "4a7056b4": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "name": "단자는 부러졋는데 충전이 왜 되는거인😡",
+    "description": "노 홀드 모드로 25 서지를 모으세요. (90스태킹 금지)",
+    "expected_difficulty": "R1",
+    "status": "pending",
+    "submitted_at": "2026-08-03T14:54:21.414883"
   }
 }
