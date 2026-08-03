@@ -11570,5 +11570,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "f66ada3c-3a92-4139-ad5f-b41e095f0bd0"
+  },
+  "58f2a662-a1f4-42a3-9453-f63b4c0a88e6": {
+    "user_id": "832746057443573801",
+    "username": "simple1011",
+    "challenge_id": "870",
+    "difficulty": "P10",
+    "custom_pp": null,
+    "challenge_name": "커피 한잔의 여유...~~그딴거 없어~~",
+    "submitted_at": "2026-08-03T14:17:19.345754",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "58f2a662-a1f4-42a3-9453-f63b4c0a88e6"
   }
 }
