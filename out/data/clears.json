@@ -11522,5 +11522,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "b78469fd-2641-4eff-8ae6-7a385241f8cf"
+  },
+  "24531f1d-2810-4fd2-9bd2-f0d79c3160ff": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "challenge_id": "163",
+    "difficulty": "P4",
+    "custom_pp": null,
+    "challenge_name": "섹시한 곱셈",
+    "submitted_at": "2026-08-03T14:00:48.598012",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "24531f1d-2810-4fd2-9bd2-f0d79c3160ff"
   }
 }
