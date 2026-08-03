@@ -11455,5 +11455,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "844304b0-1185-467f-8d9a-daeaf68ff6e4"
+  },
+  "bc6a3c05-25bf-45e9-9973-3c3080bf6cb9": {
+    "user_id": "6767",
+    "username": "icly",
+    "challenge_id": "366",
+    "difficulty": "U3",
+    "challenge_name": "faster than you",
+    "submitted_at": "2026-08-03T06:24:05.488403",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "bc6a3c05-25bf-45e9-9973-3c3080bf6cb9"
   }
 }
