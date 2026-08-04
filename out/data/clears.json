@@ -11735,7 +11735,7 @@
     "custom_pp": null,
     "challenge_name": "3W 이런다;;",
     "submitted_at": "2026-08-04T12:40:57.327420",
-    "status": "pending",
+    "status": "approved",
     "felt_difficulty": null,
     "clear_id": "45aebb89-23c4-4415-a844-900004c90cc4"
   },
@@ -11747,7 +11747,7 @@
     "custom_pp": null,
     "challenge_name": "익스트림 카지노",
     "submitted_at": "2026-08-04T12:47:36.294116",
-    "status": "pending",
+    "status": "approved",
     "felt_difficulty": null,
     "clear_id": "e0a9820a-d2f8-46a0-8467-009511f68062"
   }
