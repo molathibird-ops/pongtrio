@@ -11812,5 +11812,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "57bb68d9-0aac-4e93-adc2-5154f85705d5"
+  },
+  "b0ce8ae8-50d6-45b9-a670-d784584f3887": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "challenge_id": "963",
+    "difficulty": "P18",
+    "custom_pp": null,
+    "challenge_name": "테트리스 전문가(NERFED)",
+    "submitted_at": "2026-08-04T14:03:40.060833",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "b0ce8ae8-50d6-45b9-a670-d784584f3887"
   }
 }
