@@ -4537,7 +4537,8 @@
     "name": "통제",
     "description": "퀵플레이에서 중력 모드,올스핀 모드, 방해줄 2배 모드, 더블홀 가비지 모드를 동시에 활성화해서 6층에 도달하세요.",
     "expected_difficulty": "R0",
-    "status": "pending",
-    "submitted_at": "2026-08-04T12:53:23.585342"
+    "status": "registered",
+    "submitted_at": "2026-08-04T12:53:23.585342",
+    "challenge_id": "966"
   }
 }
