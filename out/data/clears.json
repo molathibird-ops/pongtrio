@@ -11786,5 +11786,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "4beef9b7-2d0d-4267-a163-6e4e210cf899"
+  },
+  "c7bdb93f-d6b1-4353-9e45-1eb444e00d9b": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "challenge_id": "863",
+    "difficulty": "P8",
+    "custom_pp": null,
+    "challenge_name": "[쉬운 챌린지 - 19번]",
+    "submitted_at": "2026-08-04T13:45:11.324974",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "c7bdb93f-d6b1-4353-9e45-1eb444e00d9b"
   }
 }
