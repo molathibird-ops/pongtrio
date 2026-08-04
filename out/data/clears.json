@@ -11702,5 +11702,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "cd034bc4-8903-47d5-8e5f-3fafd16bfa07"
+  },
+  "70adc210-4709-438f-a298-2cca880b24f5": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "challenge_id": "964",
+    "difficulty": "P6",
+    "custom_pp": null,
+    "challenge_name": "미노가돌아가는40라인",
+    "submitted_at": "2026-08-04T12:04:31.137116",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "70adc210-4709-438f-a298-2cca880b24f5"
   }
 }
