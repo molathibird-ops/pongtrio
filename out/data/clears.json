@@ -5432,7 +5432,8 @@
     "submitted_at": "2026-06-13T07:31:36.918557",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "b6981f54-ca0c-4278-80fe-49e911ab23b6"
+    "clear_id": "b6981f54-ca0c-4278-80fe-49e911ab23b6",
+    "custom_pp": 0.01
   },
   "0e7bfa5b-a0ae-446f-9989-ca9bb175c03e": {
     "user_id": "589099128563302483",
@@ -5786,7 +5787,8 @@
     "submitted_at": "2026-06-13T15:09:06.613826",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "d85a6687-de8e-4fab-bd06-9724578eeddb"
+    "clear_id": "d85a6687-de8e-4fab-bd06-9724578eeddb",
+    "custom_pp": 0.01
   },
   "a569b760-b166-41f1-9fb8-a8f43813723d": {
     "user_id": "819167210446127105",
@@ -11756,7 +11758,7 @@
     "username": "tremendous5273",
     "challenge_id": "405",
     "difficulty": "gimmick",
-    "custom_pp": null,
+    "custom_pp": 0.01,
     "challenge_name": "도박꾼",
     "submitted_at": "2026-08-04T13:29:10.042421",
     "status": "approved",
