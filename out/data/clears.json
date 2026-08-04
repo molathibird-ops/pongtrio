@@ -11690,5 +11690,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "c35c6654-3e1a-4f43-bae1-1ef41be12135"
+  },
+  "af44d646-2a7e-4175-bcb4-5e99c056155f": {
+    "user_id": "832746057443573801",
+    "username": "simple1011",
+    "challenge_id": "1",
+    "difficulty": "P11",
+    "custom_pp": null,
+    "challenge_name": "운!지",
+    "submitted_at": "2026-08-04T04:52:09.832380",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "af44d646-2a7e-4175-bcb4-5e99c056155f"
   }
 }
