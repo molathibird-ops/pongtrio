@@ -4517,7 +4517,8 @@
     "name": "미노가돌아가는40라인",
     "description": "40L을 완주하세요! 단, O 미노를 제외한 6개 미노로 각각 1번 이상의 스핀 **클리어**를 해야 합니다",
     "expected_difficulty": "P6",
-    "status": "pending",
-    "submitted_at": "2026-08-04T05:15:50.841586"
+    "status": "registered",
+    "submitted_at": "2026-08-04T05:15:50.841586",
+    "challenge_id": "964"
   }
 }
