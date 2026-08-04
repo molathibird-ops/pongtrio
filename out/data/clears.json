@@ -11750,5 +11750,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "e0a9820a-d2f8-46a0-8467-009511f68062"
+  },
+  "dad51184-92fa-48dc-871e-18329ab53244": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "challenge_id": "405",
+    "difficulty": "gimmick",
+    "custom_pp": null,
+    "challenge_name": "도박꾼",
+    "submitted_at": "2026-08-04T13:29:10.042421",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "dad51184-92fa-48dc-871e-18329ab53244"
   }
 }
