@@ -11800,5 +11800,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "c7bdb93f-d6b1-4353-9e45-1eb444e00d9b"
+  },
+  "57bb68d9-0aac-4e93-adc2-5154f85705d5": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "challenge_id": "96",
+    "difficulty": "P12",
+    "custom_pp": null,
+    "challenge_name": "『영웅은 죽지 않아요.』",
+    "submitted_at": "2026-08-04T14:02:48.860856",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "57bb68d9-0aac-4e93-adc2-5154f85705d5"
   }
 }
