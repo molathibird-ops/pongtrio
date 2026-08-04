@@ -11678,5 +11678,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "be8dc31c-050d-433a-97f2-57ceb4d84317"
+  },
+  "c35c6654-3e1a-4f43-bae1-1ef41be12135": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "1",
+    "difficulty": "P11",
+    "custom_pp": null,
+    "challenge_name": "운!지",
+    "submitted_at": "2026-08-04T03:59:18.658555",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "c35c6654-3e1a-4f43-bae1-1ef41be12135"
   }
 }
