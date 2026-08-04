@@ -4510,5 +4510,14 @@
     "expected_difficulty": "Q0",
     "status": "pending",
     "submitted_at": "2026-08-03T15:43:23.705098"
+  },
+  "0d68f3b0": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "미노가돌아가는40라인",
+    "description": "40L을 완주하세요! 단, O 미노를 제외한 6개 미노로 각각 1번 이상의 스핀 **클리어**를 해야 합니다",
+    "expected_difficulty": "P6",
+    "status": "pending",
+    "submitted_at": "2026-08-04T05:15:50.841586"
   }
 }
