@@ -9892,5 +9892,16 @@
     "creator_name": "doyunh2011_alt",
     "created_at": "2026-08-04T05:15:50.841586",
     "registered_at": "2026-08-04T05:50:15.617215"
+  },
+  "965": {
+    "name": "《HP BAR》",
+    "description": "10층을 가세요! 다만 체력을 완전히 잃지 않고 가야합니다!\n\n체력변동+기믹 영상 - https://youtu.be/1teA3baPjMc?si=UFClMqAmplMmcb2P",
+    "expected_difficulty": "Q1",
+    "actual_difficulty": "Q0",
+    "custom_pp": null,
+    "creator_id": "1273331318834593814",
+    "creator_name": "ria001186",
+    "created_at": "2026-08-04T06:56:50.509020",
+    "registered_at": "2026-08-04T07:13:58.852291"
   }
 }
