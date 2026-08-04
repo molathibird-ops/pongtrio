@@ -11630,5 +11630,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "c12e99ac-97ba-4d44-9318-a6df856ee3fe"
+  },
+  "1e8a6722-66e6-4b6f-8afb-c79205590364": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "590",
+    "difficulty": "P4",
+    "custom_pp": null,
+    "challenge_name": "하자 있는 플레이",
+    "submitted_at": "2026-08-04T03:28:30.178009",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "1e8a6722-66e6-4b6f-8afb-c79205590364"
   }
 }
