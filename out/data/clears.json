@@ -11774,5 +11774,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "01721d4d-b4b9-458e-aa7f-94ca24a079c7"
+  },
+  "4beef9b7-2d0d-4267-a163-6e4e210cf899": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "challenge_id": "840",
+    "difficulty": "P2",
+    "custom_pp": null,
+    "challenge_name": "[쉬운 챌린지 - 3번]",
+    "submitted_at": "2026-08-04T13:42:48.999811",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "4beef9b7-2d0d-4267-a163-6e4e210cf899"
   }
 }
