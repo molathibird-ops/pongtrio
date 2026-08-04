@@ -11762,5 +11762,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "dad51184-92fa-48dc-871e-18329ab53244"
+  },
+  "01721d4d-b4b9-458e-aa7f-94ca24a079c7": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "challenge_id": "948",
+    "difficulty": "P6",
+    "custom_pp": null,
+    "challenge_name": "카지노 갈때는 단정한 차림으로",
+    "submitted_at": "2026-08-04T13:37:28.772758",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "01721d4d-b4b9-458e-aa7f-94ca24a079c7"
   }
 }
