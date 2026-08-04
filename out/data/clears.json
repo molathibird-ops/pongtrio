@@ -11654,5 +11654,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "bff365fa-74e3-4b27-8fa1-cd4501ff650c"
+  },
+  "631abbe9-57b7-425c-a881-990b3296d8f0": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "950",
+    "difficulty": "P10",
+    "custom_pp": null,
+    "challenge_name": "메순간오만하게티내시오",
+    "submitted_at": "2026-08-04T03:40:28.135654",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "631abbe9-57b7-425c-a881-990b3296d8f0"
   }
 }
