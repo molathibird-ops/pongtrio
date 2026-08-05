@@ -10085,5 +10085,16 @@
     "creator_name": "justicedragon4",
     "created_at": "2026-08-05T17:14:44.055280",
     "registered_at": "2026-08-05T17:17:22.170117"
+  },
+  "982": {
+    "name": "[REVIVE ● 빠른 소생 고수]",
+    "description": "퀵플레이에서 2층에 도달하기 전에 7번 이상 살리세요.",
+    "expected_difficulty": "P18",
+    "actual_difficulty": "P17",
+    "custom_pp": null,
+    "creator_id": "589099128563302483",
+    "creator_name": "rainbow_water",
+    "created_at": "2026-08-05T17:16:25.244333",
+    "registered_at": "2026-08-05T17:17:42.639378"
   }
 }
