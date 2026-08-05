@@ -4696,8 +4696,9 @@
     "name": "공공재",
     "description": "퀵플레이 공방에서 사람을 구해서 듀오모드를 플레이하세요.",
     "expected_difficulty": "epic",
-    "status": "pending",
-    "submitted_at": "2026-08-05T17:14:44.055280"
+    "status": "registered",
+    "submitted_at": "2026-08-05T17:14:44.055280",
+    "challenge_id": "981"
   },
   "e59cd4bc": {
     "user_id": "589099128563302483",
