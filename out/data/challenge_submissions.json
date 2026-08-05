@@ -4627,7 +4627,8 @@
     "name": "니하오",
     "description": "중국인이랑 듀오모드를 해서 중국인이 한번 부활시켜주는데에도 불구하고 본인이 기여도가 70% 이상인 채로 8층을 가세요!",
     "expected_difficulty": "P18",
-    "status": "pending",
-    "submitted_at": "2026-08-05T05:02:41.027117"
+    "status": "registered",
+    "submitted_at": "2026-08-05T05:02:41.027117",
+    "challenge_id": "975"
   }
 }
