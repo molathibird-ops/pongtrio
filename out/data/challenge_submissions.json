@@ -4577,7 +4577,8 @@
     "name": "몸이 기억해",
     "description": "invisible 모드를 켜고 루프빌드를 5번 반복하세요!(dpc가 과정이 있는 빌드라면 dpc까지가 1회)",
     "expected_difficulty": "P13",
-    "status": "pending",
-    "submitted_at": "2026-08-05T03:14:14.308592"
+    "status": "registered",
+    "submitted_at": "2026-08-05T03:14:14.308592",
+    "challenge_id": "970"
   }
 }
