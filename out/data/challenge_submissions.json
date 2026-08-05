@@ -4815,8 +4815,9 @@
     "name": "미노 낭비",
     "description": "미노를 2000개 이상 두고 10층에 도달하세요.(도달하기 전에 2000개 이상 두기)",
     "expected_difficulty": "R3",
-    "status": "pending",
-    "submitted_at": "2026-08-05T17:36:50.869917"
+    "status": "registered",
+    "submitted_at": "2026-08-05T17:36:50.869917",
+    "challenge_id": "992"
   },
   "7f780c04": {
     "user_id": "1264967714095497268",
