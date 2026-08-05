@@ -10140,5 +10140,16 @@
     "creator_name": "justicedragon4",
     "created_at": "2026-08-05T17:20:06.132848",
     "registered_at": "2026-08-05T17:21:21.633107"
+  },
+  "987": {
+    "name": "[REVIVE ● 신의 소생술]",
+    "description": "퀵플레이에서 10층에 도달한 이후에 3번 이상 살리세요.",
+    "expected_difficulty": "R4",
+    "actual_difficulty": "R4",
+    "custom_pp": null,
+    "creator_id": "589099128563302483",
+    "creator_name": "rainbow_water",
+    "created_at": "2026-08-05T17:22:03.106094",
+    "registered_at": "2026-08-05T17:25:57.042748"
   }
 }
