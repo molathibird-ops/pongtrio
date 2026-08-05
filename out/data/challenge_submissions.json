@@ -4825,7 +4825,8 @@
     "name": "감옥에서누가돌아왔게",
     "description": "1분동안 2층을 5번 도달하세요!",
     "expected_difficulty": "P7",
-    "status": "pending",
-    "submitted_at": "2026-08-05T17:36:54.051322"
+    "status": "registered",
+    "submitted_at": "2026-08-05T17:36:54.051322",
+    "challenge_id": "993"
   }
 }
