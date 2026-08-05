@@ -4607,7 +4607,8 @@
     "name": "Magnetic Arabesque",
     "description": "Expert, All spin, Invisible, No hold 모드를 킨 채로 T-SPIN triple을 하지 않고 서지 500을 채우세요!",
     "expected_difficulty": "Q4",
-    "status": "pending",
-    "submitted_at": "2026-08-05T03:27:47.118783"
+    "status": "registered",
+    "submitted_at": "2026-08-05T03:27:47.118783",
+    "challenge_id": "973"
   }
 }
