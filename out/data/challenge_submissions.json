@@ -4706,8 +4706,9 @@
     "name": "[REVIVE ● 빠른 소생 고수]",
     "description": "퀵플레이에서 2층에 도달하기 전에 7번 이상 살리세요.",
     "expected_difficulty": "P18",
-    "status": "pending",
-    "submitted_at": "2026-08-05T17:16:25.244333"
+    "status": "registered",
+    "submitted_at": "2026-08-05T17:16:25.244333",
+    "challenge_id": "982"
   },
   "a935bdf6": {
     "user_id": "589099128563302483",
