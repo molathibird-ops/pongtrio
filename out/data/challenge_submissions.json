@@ -4795,7 +4795,8 @@
     "name": "OVER 8000",
     "description": "스왐프워터 모드로 8000m에 도달하세요.",
     "expected_difficulty": "impossible",
-    "status": "pending",
-    "submitted_at": "2026-08-05T17:26:16.106918"
+    "status": "registered",
+    "submitted_at": "2026-08-05T17:26:16.106918",
+    "challenge_id": "990"
   }
 }
