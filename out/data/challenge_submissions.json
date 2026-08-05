@@ -4716,7 +4716,8 @@
     "name": "[REVIVE ● 빠른 소생 마스터]",
     "description": "퀵플레이에서 2층에 도달하기 전에 10번 이상 살리세요.",
     "expected_difficulty": "R1",
-    "status": "pending",
-    "submitted_at": "2026-08-05T17:17:05.315671"
+    "status": "registered",
+    "submitted_at": "2026-08-05T17:17:05.315671",
+    "challenge_id": "983"
   }
 }
