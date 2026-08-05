@@ -4567,8 +4567,9 @@
     "name": "파인다이닝",
     "description": "미노모양의 음식을 먹으세요!",
     "expected_difficulty": "epic",
-    "status": "pending",
-    "submitted_at": "2026-08-05T03:10:38.374589"
+    "status": "registered",
+    "submitted_at": "2026-08-05T03:10:38.374589",
+    "challenge_id": "969"
   },
   "1fd4e362": {
     "user_id": "1273331318834593814",
