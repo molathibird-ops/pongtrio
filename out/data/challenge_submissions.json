@@ -4838,5 +4838,14 @@
     "status": "registered",
     "submitted_at": "2026-08-05T17:40:50.582419",
     "challenge_id": "994"
+  },
+  "4f629b58": {
+    "user_id": "840063640681054228",
+    "username": "justicedragon4",
+    "name": "광고없음광고없음광고없음!",
+    "description": "모든 그래픽 설정을 최하로 하고 2층에 도달하세요.",
+    "expected_difficulty": "P2",
+    "status": "pending",
+    "submitted_at": "2026-08-05T17:43:07.778543"
   }
 }
