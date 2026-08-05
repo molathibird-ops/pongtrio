@@ -11866,5 +11866,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "7267506d-2bd2-4f2e-bde3-458421cb2ce9"
+  },
+  "45dd7d1b-b9d2-490e-a634-1ed4d4b9d49a": {
+    "user_id": "1452435595430199356",
+    "username": "_mara_0225",
+    "challenge_id": "433",
+    "difficulty": "P14",
+    "custom_pp": null,
+    "challenge_name": "미친 과학자들의 실험실",
+    "submitted_at": "2026-08-05T14:21:49.657762",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "45dd7d1b-b9d2-490e-a634-1ed4d4b9d49a"
   }
 }
