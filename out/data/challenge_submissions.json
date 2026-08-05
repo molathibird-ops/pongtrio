@@ -4942,7 +4942,8 @@
     "name": "천일문",
     "description": "영문장을 외우며 테트리오를 하세요!",
     "expected_difficulty": "epic",
-    "status": "pending",
-    "submitted_at": "2026-08-05T17:55:07.061530"
+    "status": "registered",
+    "submitted_at": "2026-08-05T17:55:07.061530",
+    "challenge_id": "1002"
   }
 }
