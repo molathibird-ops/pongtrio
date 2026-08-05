@@ -10305,5 +10305,16 @@
     "creator_name": "justicedragon4",
     "created_at": "2026-08-05T17:53:50.958708",
     "registered_at": "2026-08-05T17:54:09.543605"
+  },
+  "1002": {
+    "name": "천일문",
+    "description": "영문장을 외우며 테트리오를 하세요!",
+    "expected_difficulty": "epic",
+    "actual_difficulty": "epic",
+    "custom_pp": null,
+    "creator_id": "1264967714095497268",
+    "creator_name": "mangpu_cat",
+    "created_at": "2026-08-05T17:55:07.061530",
+    "registered_at": "2026-08-05T17:55:28.195009"
   }
 }
