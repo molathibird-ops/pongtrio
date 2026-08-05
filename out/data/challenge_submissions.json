@@ -4945,5 +4945,14 @@
     "status": "registered",
     "submitted_at": "2026-08-05T17:55:07.061530",
     "challenge_id": "1002"
+  },
+  "d5def2a0": {
+    "user_id": "840063640681054228",
+    "username": "justicedragon4",
+    "name": "뇌썩은년",
+    "description": "퀵플레이에서 6767m를 달성하세요.",
+    "expected_difficulty": "Q1",
+    "status": "pending",
+    "submitted_at": "2026-08-05T17:56:03.755209"
   }
 }
