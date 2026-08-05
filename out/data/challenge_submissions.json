@@ -4923,8 +4923,9 @@
     "name": "1001",
     "description": "퀵플레이에서 1001m를 달성하세요.",
     "expected_difficulty": "P14",
-    "status": "pending",
-    "submitted_at": "2026-08-05T17:53:50.958708"
+    "status": "registered",
+    "submitted_at": "2026-08-05T17:53:50.958708",
+    "challenge_id": "1001"
   },
   "51eb4631": {
     "user_id": "589099128563302483",
