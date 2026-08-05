@@ -4867,5 +4867,14 @@
     "expected_difficulty": "R0",
     "status": "pending",
     "submitted_at": "2026-08-05T17:45:37.516121"
+  },
+  "090cde45": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "실험체",
+    "description": "퀵플레이에서 7층에서 죽으세요.",
+    "expected_difficulty": "P14",
+    "status": "pending",
+    "submitted_at": "2026-08-05T17:47:54.879077"
   }
 }
