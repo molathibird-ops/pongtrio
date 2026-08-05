@@ -4999,11 +4999,12 @@
     "name": "수상한 등반가",
     "description": "퀵플레이 등반중에 어몽어스를 3번 만들고 1000미터 이상 등반하세요.",
     "expected_difficulty": "P19",
-    "actual_difficulty": "P20",
+    "actual_difficulty": "R0",
     "creator_id": "589099128563302483",
     "creator_name": "rainbow_water",
     "created_at": "2026-01-28T08:50:09.914218",
-    "registered_at": "2026-01-28T08:53:06.753341"
+    "registered_at": "2026-01-28T08:53:06.753341",
+    "custom_pp": null
   },
   "492": {
     "name": "Code Name 777",
