@@ -4726,8 +4726,9 @@
     "name": "돌대가리 마법사",
     "description": "퀵플레이에서 올스핀 모드를 키고 I스핀만 써서 10층에 도달하세요",
     "expected_difficulty": "Q2",
-    "status": "pending",
-    "submitted_at": "2026-08-05T17:18:12.646752"
+    "status": "registered",
+    "submitted_at": "2026-08-05T17:18:12.646752",
+    "challenge_id": "984"
   },
   "ed617f33": {
     "user_id": "589099128563302483",
