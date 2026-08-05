@@ -4666,7 +4666,8 @@
     "name": "[REVIVE ● 빠른 소생]",
     "description": "퀵플레이에서 팀원을 2층이 되기 전에 3번 이상 살리세요.",
     "expected_difficulty": "P10",
-    "status": "pending",
-    "submitted_at": "2026-08-05T17:11:20.676011"
+    "status": "registered",
+    "submitted_at": "2026-08-05T17:11:20.676011",
+    "challenge_id": "978"
   }
 }
