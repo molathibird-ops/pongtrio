@@ -4954,5 +4954,14 @@
     "expected_difficulty": "Q1",
     "status": "pending",
     "submitted_at": "2026-08-05T17:56:03.755209"
+  },
+  "c278e887": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "천사",
+    "description": "퀵플레이에서 1004.0 미터를 정확하게 달성하세요.",
+    "expected_difficulty": "P15",
+    "status": "pending",
+    "submitted_at": "2026-08-05T17:56:12.755241"
   }
 }
