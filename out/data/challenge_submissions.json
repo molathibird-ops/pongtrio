@@ -4885,8 +4885,9 @@
     "name": "함수",
     "description": "y = 3x^2 - 5x + 2의 함수값 2,4,6 중 하나를 목표로 삼아 퀵플레이를 등반하세요.",
     "expected_difficulty": "P1",
-    "status": "pending",
-    "submitted_at": "2026-08-05T17:48:31.277192"
+    "status": "registered",
+    "submitted_at": "2026-08-05T17:48:31.277192",
+    "challenge_id": "999"
   },
   "2b9e041f": {
     "user_id": "1264967714095497268",
