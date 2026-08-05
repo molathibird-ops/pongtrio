@@ -10184,5 +10184,16 @@
     "creator_name": "justicedragon4",
     "created_at": "2026-08-05T17:26:16.106918",
     "registered_at": "2026-08-05T17:29:05.052931"
+  },
+  "991": {
+    "name": "이끌림",
+    "description": "0ARR, 1DAS 세팅과 GRAVITY 모드를 끼고 10층에 도달하세요.",
+    "expected_difficulty": "Q0",
+    "actual_difficulty": "Q0",
+    "custom_pp": null,
+    "creator_id": "840063640681054228",
+    "creator_name": "justicedragon4",
+    "created_at": "2026-08-05T17:33:56.984275",
+    "registered_at": "2026-08-05T17:34:24.982331"
   }
 }
