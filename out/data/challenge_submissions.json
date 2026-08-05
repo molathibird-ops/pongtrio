@@ -4748,5 +4748,14 @@
     "expected_difficulty": "Q4",
     "status": "pending",
     "submitted_at": "2026-08-05T17:19:36.680726"
+  },
+  "345aee4e": {
+    "user_id": "840063640681054228",
+    "username": "justicedragon4",
+    "name": "둘은 문제아",
+    "description": "퀵플레이에서 서로를 3번 이상 살리세요.",
+    "expected_difficulty": "P10",
+    "status": "pending",
+    "submitted_at": "2026-08-05T17:20:06.132848"
   }
 }
