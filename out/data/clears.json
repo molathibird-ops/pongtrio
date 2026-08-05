@@ -1035,12 +1035,13 @@
     "user_id": "819167210446127105",
     "username": "myuremi",
     "challenge_id": "363",
-    "difficulty": "G1",
+    "difficulty": "G2",
     "challenge_name": "LATEST STAND",
     "submitted_at": "2026-04-21T14:39:12.593383",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "f2ad91eb-9f60-43ad-a726-baff0328063a"
+    "clear_id": "f2ad91eb-9f60-43ad-a726-baff0328063a",
+    "custom_pp": null
   },
   "579c1d93-a7ad-49b8-9f70-7fccaa168aee": {
     "user_id": "976461145026203730",
@@ -2289,12 +2290,13 @@
     "user_id": "1218889894659625070",
     "username": "pongiscute",
     "challenge_id": "363",
-    "difficulty": "G1",
+    "difficulty": "G2",
     "challenge_name": "LATEST STAND",
     "submitted_at": "2026-05-03T07:00:50.006878",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "47d43989-f249-426b-98f0-5913ee34acb0"
+    "clear_id": "47d43989-f249-426b-98f0-5913ee34acb0",
+    "custom_pp": null
   },
   "1c8084f0-1176-4001-bac6-e8b595850920": {
     "user_id": "1487076669843050516",
@@ -2311,12 +2313,13 @@
     "user_id": "1487076669843050516",
     "username": "d.axe_",
     "challenge_id": "363",
-    "difficulty": "G1",
+    "difficulty": "G2",
     "challenge_name": "LATEST STAND",
     "submitted_at": "2026-05-03T12:28:30.922845",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "1835d764-fd13-495f-8a39-3852e1380e01"
+    "clear_id": "1835d764-fd13-495f-8a39-3852e1380e01",
+    "custom_pp": null
   },
   "07a582cb-6266-4d8c-873b-325fe9eac446": {
     "user_id": "1218889894659625070",
@@ -4083,12 +4086,13 @@
     "user_id": "1485520167420297276",
     "username": "distortion05423",
     "challenge_id": "363",
-    "difficulty": "G1",
+    "difficulty": "G2",
     "challenge_name": "LATEST STAND",
     "submitted_at": "2026-05-19T00:36:42.565763",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "458b88ae-b403-4e37-9b58-e6ea61f49b7f"
+    "clear_id": "458b88ae-b403-4e37-9b58-e6ea61f49b7f",
+    "custom_pp": null
   },
   "3b21d50c-a6aa-465e-b472-c500ff08afac": {
     "user_id": "718670519402233858",
@@ -7461,12 +7465,13 @@
     "user_id": "976461145026203730",
     "username": "tremendous5273",
     "challenge_id": "363",
-    "difficulty": "G1",
+    "difficulty": "G2",
     "challenge_name": "LATEST STAND",
     "submitted_at": "2026-06-27T06:26:37.926178",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "248862eb-9631-467a-8e76-bc1a173875fa"
+    "clear_id": "248862eb-9631-467a-8e76-bc1a173875fa",
+    "custom_pp": null
   },
   "68946af4-6d2e-4eb4-99b8-d0eb25398883": {
     "user_id": "976461145026203730",
@@ -10625,12 +10630,13 @@
     "user_id": "1302050564036890696",
     "username": "eve120928",
     "challenge_id": "363",
-    "difficulty": "G1",
+    "difficulty": "G2",
     "challenge_name": "LATEST STAND",
     "submitted_at": "2026-07-31T12:34:49.150106",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "b026283b-5220-4954-905c-22c36d6e4b1d"
+    "clear_id": "b026283b-5220-4954-905c-22c36d6e4b1d",
+    "custom_pp": null
   },
   "c8b67951-f36f-42b8-9af0-a4f2cc8a5c3f": {
     "user_id": "1302050564036890696",
