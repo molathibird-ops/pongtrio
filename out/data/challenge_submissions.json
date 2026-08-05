@@ -4855,8 +4855,9 @@
     "name": "겁내큰에어컨을지구에두고실외기를우주밖에내보내서지구온난화를막는급의매우기발한발상!",
     "description": "메카니컬을 사용해서 2층까지 가세요!",
     "expected_difficulty": "P4",
-    "status": "pending",
-    "submitted_at": "2026-08-05T17:44:45.401227"
+    "status": "registered",
+    "submitted_at": "2026-08-05T17:44:45.401227",
+    "challenge_id": "996"
   },
   "4da5ad11": {
     "user_id": "840063640681054228",
