@@ -10019,5 +10019,16 @@
     "creator_name": "ria001186",
     "created_at": "2026-08-05T05:02:41.027117",
     "registered_at": "2026-08-05T05:02:58.010130"
+  },
+  "976": {
+    "name": "비꼬기의달인",
+    "description": "망푸의 인증을 받으세요 😎",
+    "expected_difficulty": "epic",
+    "actual_difficulty": "censored",
+    "custom_pp": 0.0,
+    "creator_id": "1264967714095497268",
+    "creator_name": "mangpu_cat",
+    "created_at": "2026-08-05T17:10:43.399682",
+    "registered_at": "2026-08-05T17:10:58.036525"
   }
 }
