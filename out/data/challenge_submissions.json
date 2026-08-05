@@ -4777,5 +4777,14 @@
     "expected_difficulty": "epic",
     "status": "pending",
     "submitted_at": "2026-08-05T17:24:02.390130"
+  },
+  "4b38300b": {
+    "user_id": "1264967714095497268",
+    "username": "mangpu_cat",
+    "name": "i스핀 더블..?",
+    "description": "퀵플레이에서 i스핀 싱글을 백투백이 끊기지 않은채로 연속 2번 하세요!",
+    "expected_difficulty": "G3",
+    "status": "pending",
+    "submitted_at": "2026-08-05T17:26:08.153437"
   }
 }
