@@ -4590,5 +4590,14 @@
     "status": "registered",
     "submitted_at": "2026-08-05T03:19:05.033885",
     "challenge_id": "971"
+  },
+  "1af5999b": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "노력파",
+    "description": "talentless로 300m를 가세요!",
+    "expected_difficulty": "P14",
+    "status": "pending",
+    "submitted_at": "2026-08-05T03:23:28.709067"
   }
 }
