@@ -4639,5 +4639,14 @@
     "expected_difficulty": "P2",
     "status": "pending",
     "submitted_at": "2026-08-05T17:09:14.086836"
+  },
+  "b2380f64": {
+    "user_id": "1264967714095497268",
+    "username": "mangpu_cat",
+    "name": "비꼬기의달인",
+    "description": "망푸의 인증을 받으세요 😎",
+    "expected_difficulty": "epic",
+    "status": "pending",
+    "submitted_at": "2026-08-05T17:10:43.399682"
   }
 }
