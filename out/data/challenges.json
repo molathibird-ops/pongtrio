@@ -10327,5 +10327,16 @@
     "creator_name": "justicedragon4",
     "created_at": "2026-08-05T17:56:03.755209",
     "registered_at": "2026-08-05T17:57:30.947310"
+  },
+  "1004": {
+    "name": "1004",
+    "description": "듀오모드에서 상대를 10번 이상 살리고 10층에 도달하세요",
+    "expected_difficulty": "Q0",
+    "actual_difficulty": "Q0",
+    "custom_pp": null,
+    "creator_id": "840063640681054228",
+    "creator_name": "justicedragon4",
+    "created_at": "2026-08-05T17:56:31.099473",
+    "registered_at": "2026-08-05T17:58:17.954606"
   }
 }
