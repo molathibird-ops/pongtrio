@@ -4808,5 +4808,23 @@
     "status": "registered",
     "submitted_at": "2026-08-05T17:33:56.984275",
     "challenge_id": "991"
+  },
+  "31df6fc8": {
+    "user_id": "840063640681054228",
+    "username": "justicedragon4",
+    "name": "미노 낭비",
+    "description": "미노를 2000개 이상 두고 10층에 도달하세요.(도달하기 전에 2000개 이상 두기)",
+    "expected_difficulty": "R3",
+    "status": "pending",
+    "submitted_at": "2026-08-05T17:36:50.869917"
+  },
+  "7f780c04": {
+    "user_id": "1264967714095497268",
+    "username": "mangpu_cat",
+    "name": "감옥에서누가돌아왔게",
+    "description": "1분동안 2층을 5번 도달하세요!",
+    "expected_difficulty": "P7",
+    "status": "pending",
+    "submitted_at": "2026-08-05T17:36:54.051322"
   }
 }
