@@ -4886,5 +4886,14 @@
     "expected_difficulty": "P1",
     "status": "pending",
     "submitted_at": "2026-08-05T17:48:31.277192"
+  },
+  "2b9e041f": {
+    "user_id": "1264967714095497268",
+    "username": "mangpu_cat",
+    "name": "이이야앗붐붐쾅으아악😢",
+    "description": "30분 안에 1층에서 10층에서까지 차례대로 죽으세요!",
+    "expected_difficulty": "G1",
+    "status": "pending",
+    "submitted_at": "2026-08-05T17:48:36.862138"
   }
 }
