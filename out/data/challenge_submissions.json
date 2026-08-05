@@ -4835,7 +4835,8 @@
     "name": "!구구가가펭귄을도와주세요!",
     "description": "레벨 20이하인 플레이어와 같이 듀오모드를 하세요!",
     "expected_difficulty": "epic",
-    "status": "pending",
-    "submitted_at": "2026-08-05T17:40:50.582419"
+    "status": "registered",
+    "submitted_at": "2026-08-05T17:40:50.582419",
+    "challenge_id": "994"
   }
 }
