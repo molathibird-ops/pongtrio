@@ -10206,5 +10206,16 @@
     "creator_name": "justicedragon4",
     "created_at": "2026-08-05T17:36:50.869917",
     "registered_at": "2026-08-05T17:38:00.574828"
+  },
+  "993": {
+    "name": "감옥에서누가돌아왔게",
+    "description": "1분동안 2층을 5번 도달하세요!",
+    "expected_difficulty": "P7",
+    "actual_difficulty": "Q0",
+    "custom_pp": null,
+    "creator_id": "1264967714095497268",
+    "creator_name": "mangpu_cat",
+    "created_at": "2026-08-05T17:36:54.051322",
+    "registered_at": "2026-08-05T17:38:23.860945"
   }
 }
