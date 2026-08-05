@@ -10255,7 +10255,7 @@
     "name": "황금밸런스",
     "description": "퀵플레이 듀오모드로 각각 50%의 기여도로 10층에 달성하세요.",
     "expected_difficulty": "R0",
-    "actual_difficulty": "Q0",
+    "actual_difficulty": "R0",
     "custom_pp": null,
     "creator_id": "840063640681054228",
     "creator_name": "justicedragon4",
