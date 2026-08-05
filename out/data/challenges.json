@@ -9938,5 +9938,16 @@
     "creator_name": "ria001186",
     "created_at": "2026-08-05T03:05:19.489923",
     "registered_at": "2026-08-05T03:05:32.460698"
+  },
+  "969": {
+    "name": "파인다이닝",
+    "description": "미노모양의 음식을 먹으세요!",
+    "expected_difficulty": "epic",
+    "actual_difficulty": "epic",
+    "custom_pp": null,
+    "creator_id": "1273331318834593814",
+    "creator_name": "ria001186",
+    "created_at": "2026-08-05T03:10:38.374589",
+    "registered_at": "2026-08-05T03:14:35.424664"
   }
 }
