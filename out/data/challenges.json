@@ -9982,5 +9982,16 @@
     "creator_name": "ria001186",
     "created_at": "2026-08-05T03:23:28.709067",
     "registered_at": "2026-08-05T03:23:58.055024"
+  },
+  "973": {
+    "name": "Magnetic Arabesque",
+    "description": "Expert, All spin, Invisible, No hold 모드를 킨 채로 T-SPIN triple을 하지 않고 서지 500을 채우세요!",
+    "expected_difficulty": "Q4",
+    "actual_difficulty": "Q3",
+    "custom_pp": null,
+    "creator_id": "1273331318834593814",
+    "creator_name": "ria001186",
+    "created_at": "2026-08-05T03:27:47.118783",
+    "registered_at": "2026-08-05T03:28:13.162428"
   }
 }
