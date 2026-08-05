@@ -4738,5 +4738,14 @@
     "expected_difficulty": "Q3",
     "status": "pending",
     "submitted_at": "2026-08-05T17:18:28.954207"
+  },
+  "5d7d935e": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[REVIVE ● 죽은자의 소생의 소생의...]",
+    "description": "퀵플레이에서 팀원을 한 판에 50번 살리세요.",
+    "expected_difficulty": "Q4",
+    "status": "pending",
+    "submitted_at": "2026-08-05T17:19:36.680726"
   }
 }
