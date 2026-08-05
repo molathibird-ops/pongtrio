@@ -4587,7 +4587,8 @@
     "name": "사이트리딩 고수",
     "description": "asceticism 모드를 킨 상태로 quad를 연속 2번 하세요!",
     "expected_difficulty": "P11",
-    "status": "pending",
-    "submitted_at": "2026-08-05T03:19:05.033885"
+    "status": "registered",
+    "submitted_at": "2026-08-05T03:19:05.033885",
+    "challenge_id": "971"
   }
 }
