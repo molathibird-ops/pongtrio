@@ -4935,5 +4935,14 @@
     "expected_difficulty": "P15",
     "status": "pending",
     "submitted_at": "2026-08-05T17:53:59.181491"
+  },
+  "6b01d070": {
+    "user_id": "1264967714095497268",
+    "username": "mangpu_cat",
+    "name": "천일문",
+    "description": "영문장을 외우며 테트리오를 하세요!",
+    "expected_difficulty": "epic",
+    "status": "pending",
+    "submitted_at": "2026-08-05T17:55:07.061530"
   }
 }
