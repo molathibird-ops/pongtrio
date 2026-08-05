@@ -4547,7 +4547,8 @@
     "name": "swamp water lite of lite",
     "description": "듀오 제외 모드 6개를 착용하고 2층에 가세요!",
     "expected_difficulty": "P13",
-    "status": "pending",
-    "submitted_at": "2026-08-05T02:58:52.511804"
+    "status": "registered",
+    "submitted_at": "2026-08-05T02:58:52.511804",
+    "challenge_id": "967"
   }
 }
