@@ -4758,5 +4758,14 @@
     "status": "registered",
     "submitted_at": "2026-08-05T17:20:06.132848",
     "challenge_id": "986"
+  },
+  "e745d1ab": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[REVIVE ● 신의 소생술]",
+    "description": "퀵플레이에서 10층에 도달한 이후에 3번 이상 살리세요.",
+    "expected_difficulty": "R4",
+    "status": "pending",
+    "submitted_at": "2026-08-05T17:22:03.106094"
   }
 }
