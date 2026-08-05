@@ -4646,7 +4646,17 @@
     "name": "비꼬기의달인",
     "description": "망푸의 인증을 받으세요 😎",
     "expected_difficulty": "epic",
+    "status": "registered",
+    "submitted_at": "2026-08-05T17:10:43.399682",
+    "challenge_id": "976"
+  },
+  "6f257578": {
+    "user_id": "840063640681054228",
+    "username": "justicedragon4",
+    "name": "물어.오늘개집나가서물어.",
+    "description": "노예랑 듀오모드를 해서 5층을 가세요.",
+    "expected_difficulty": "epic",
     "status": "pending",
-    "submitted_at": "2026-08-05T17:10:43.399682"
+    "submitted_at": "2026-08-05T17:10:59.033909"
   }
 }
