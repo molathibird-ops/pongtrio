@@ -4719,5 +4719,14 @@
     "status": "registered",
     "submitted_at": "2026-08-05T17:17:05.315671",
     "challenge_id": "983"
+  },
+  "8f818f5a": {
+    "user_id": "840063640681054228",
+    "username": "justicedragon4",
+    "name": "돌대가리 마법사",
+    "description": "퀵플레이에서 올스핀 모드를 키고 I스핀만 써서 10층에 도달하세요",
+    "expected_difficulty": "Q2",
+    "status": "pending",
+    "submitted_at": "2026-08-05T17:18:12.646752"
   }
 }
