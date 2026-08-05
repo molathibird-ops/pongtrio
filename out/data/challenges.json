@@ -9960,5 +9960,16 @@
     "creator_name": "ria001186",
     "created_at": "2026-08-05T03:14:14.308592",
     "registered_at": "2026-08-05T03:15:46.125221"
+  },
+  "971": {
+    "name": "사이트리딩 고수",
+    "description": "asceticism 모드를 킨 상태로 quad를 연속 2번 하세요!",
+    "expected_difficulty": "P11",
+    "actual_difficulty": "P12",
+    "custom_pp": null,
+    "creator_id": "1273331318834593814",
+    "creator_name": "ria001186",
+    "created_at": "2026-08-05T03:19:05.033885",
+    "registered_at": "2026-08-05T03:19:27.227613"
   }
 }
