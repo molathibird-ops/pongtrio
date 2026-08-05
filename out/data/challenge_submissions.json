@@ -4669,5 +4669,14 @@
     "status": "registered",
     "submitted_at": "2026-08-05T17:11:20.676011",
     "challenge_id": "978"
+  },
+  "fcf96c38": {
+    "user_id": "1264967714095497268",
+    "username": "mangpu_cat",
+    "name": "노예의실책",
+    "description": "노예와 듀오모드를 하며 주인님이 죽은 채로 노예가 살리지 못하고 리타이어 되세요!",
+    "expected_difficulty": "epic",
+    "status": "pending",
+    "submitted_at": "2026-08-05T17:13:15.861906"
   }
 }
