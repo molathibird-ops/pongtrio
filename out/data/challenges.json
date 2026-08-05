@@ -10228,5 +10228,16 @@
     "creator_name": "mangpu_cat",
     "created_at": "2026-08-05T17:40:50.582419",
     "registered_at": "2026-08-05T17:41:12.808824"
+  },
+  "995": {
+    "name": "광고없음광고없음광고없음!",
+    "description": "모든 그래픽 설정을 최하로 하고 2층에 도달하세요.",
+    "expected_difficulty": "P2",
+    "actual_difficulty": "P2",
+    "custom_pp": 0.22,
+    "creator_id": "840063640681054228",
+    "creator_name": "justicedragon4",
+    "created_at": "2026-08-05T17:43:07.778543",
+    "registered_at": "2026-08-05T17:43:35.173534"
   }
 }
