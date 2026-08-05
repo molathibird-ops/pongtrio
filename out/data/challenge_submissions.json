@@ -4805,7 +4805,8 @@
     "name": "이끌림",
     "description": "0ARR, 1DAS 세팅과 GRAVITY 모드를 끼고 10층에 도달하세요.",
     "expected_difficulty": "Q0",
-    "status": "pending",
-    "submitted_at": "2026-08-05T17:33:56.984275"
+    "status": "registered",
+    "submitted_at": "2026-08-05T17:33:56.984275",
+    "challenge_id": "991"
   }
 }
