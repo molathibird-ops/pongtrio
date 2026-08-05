@@ -10272,5 +10272,16 @@
     "creator_name": "rainbow_water",
     "created_at": "2026-08-05T17:47:54.879077",
     "registered_at": "2026-08-05T17:49:40.125281"
+  },
+  "999": {
+    "name": "함수",
+    "description": "y = 3x^2 - 5x + 2의 함수값 2,4,6 중 하나를 목표로 삼아 퀵플레이를 등반하세요.",
+    "expected_difficulty": "P1",
+    "actual_difficulty": "P1",
+    "custom_pp": null,
+    "creator_id": "840063640681054228",
+    "creator_name": "justicedragon4",
+    "created_at": "2026-08-05T17:48:31.277192",
+    "registered_at": "2026-08-05T17:50:50.537261"
   }
 }
