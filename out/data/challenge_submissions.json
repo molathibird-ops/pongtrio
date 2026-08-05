@@ -4728,5 +4728,14 @@
     "expected_difficulty": "Q2",
     "status": "pending",
     "submitted_at": "2026-08-05T17:18:12.646752"
+  },
+  "ed617f33": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "[REVIVE ● RETSAM EVIVER]",
+    "description": "퀵플레이에서 리버스 듀오 모드를 켠 상태로 10번 이상 살리세요.",
+    "expected_difficulty": "Q3",
+    "status": "pending",
+    "submitted_at": "2026-08-05T17:18:28.954207"
   }
 }
