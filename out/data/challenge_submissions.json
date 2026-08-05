@@ -4597,7 +4597,8 @@
     "name": "노력파",
     "description": "talentless로 300m를 가세요!",
     "expected_difficulty": "P14",
-    "status": "pending",
-    "submitted_at": "2026-08-05T03:23:28.709067"
+    "status": "registered",
+    "submitted_at": "2026-08-05T03:23:28.709067",
+    "challenge_id": "972"
   }
 }
