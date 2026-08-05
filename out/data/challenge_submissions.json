@@ -4925,5 +4925,14 @@
     "expected_difficulty": "P14",
     "status": "pending",
     "submitted_at": "2026-08-05T17:53:50.958708"
+  },
+  "51eb4631": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "1001",
+    "description": "퀵플레이에서 10001.0미터를 정확히 달성하고 챌린지 제작자에게서 1001원을 받으세요.",
+    "expected_difficulty": "P15",
+    "status": "pending",
+    "submitted_at": "2026-08-05T17:53:59.181491"
   }
 }
