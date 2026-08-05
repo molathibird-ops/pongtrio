@@ -10041,5 +10041,16 @@
     "creator_name": "justicedragon4",
     "created_at": "2026-08-05T17:10:59.033909",
     "registered_at": "2026-08-05T17:11:28.111388"
+  },
+  "978": {
+    "name": "[REVIVE ● 빠른 소생]",
+    "description": "퀵플레이에서 팀원을 2층이 되기 전에 3번 이상 살리세요.",
+    "expected_difficulty": "P10",
+    "actual_difficulty": "P10",
+    "custom_pp": null,
+    "creator_id": "589099128563302483",
+    "creator_name": "rainbow_water",
+    "created_at": "2026-08-05T17:11:20.676011",
+    "registered_at": "2026-08-05T17:11:46.549284"
   }
 }
