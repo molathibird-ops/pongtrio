@@ -4775,8 +4775,9 @@
     "name": "파울루 벤투",
     "description": "테트리오에서 성공적으로 조언을 하고 칭찬을 받으세요.",
     "expected_difficulty": "epic",
-    "status": "pending",
-    "submitted_at": "2026-08-05T17:24:02.390130"
+    "status": "registered",
+    "submitted_at": "2026-08-05T17:24:02.390130",
+    "challenge_id": "988"
   },
   "4b38300b": {
     "user_id": "1264967714095497268",
