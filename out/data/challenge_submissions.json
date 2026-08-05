@@ -4865,8 +4865,9 @@
     "name": "황금밸런스",
     "description": "퀵플레이 듀오모드로 각각 50%의 기여도로 10층에 달성하세요.",
     "expected_difficulty": "R0",
-    "status": "pending",
-    "submitted_at": "2026-08-05T17:45:37.516121"
+    "status": "registered",
+    "submitted_at": "2026-08-05T17:45:37.516121",
+    "challenge_id": "997"
   },
   "090cde45": {
     "user_id": "589099128563302483",
