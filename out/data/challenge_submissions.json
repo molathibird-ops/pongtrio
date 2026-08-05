@@ -4686,8 +4686,9 @@
     "name": "[REVIVE ● 퀵 서비스]",
     "description": "퀵플레이에서 2층에 도달하기 전에 5번 이상 살리세요.",
     "expected_difficulty": "P13",
-    "status": "pending",
-    "submitted_at": "2026-08-05T17:13:36.939429"
+    "status": "registered",
+    "submitted_at": "2026-08-05T17:13:36.939429",
+    "challenge_id": "980"
   },
   "d4c70c25": {
     "user_id": "840063640681054228",
