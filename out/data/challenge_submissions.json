@@ -4875,8 +4875,9 @@
     "name": "실험체",
     "description": "퀵플레이에서 7층에서 죽으세요.",
     "expected_difficulty": "P14",
-    "status": "pending",
-    "submitted_at": "2026-08-05T17:47:54.879077"
+    "status": "registered",
+    "submitted_at": "2026-08-05T17:47:54.879077",
+    "challenge_id": "998"
   },
   "e4a05293": {
     "user_id": "840063640681054228",
