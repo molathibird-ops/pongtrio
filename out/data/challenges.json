@@ -9927,5 +9927,16 @@
     "creator_name": "ria001186",
     "created_at": "2026-08-05T02:58:52.511804",
     "registered_at": "2026-08-05T02:59:09.083199"
+  },
+  "968": {
+    "name": "swamp water lite of lite of lite",
+    "description": "듀오 제외 모드 5개를 착용하고 2층에 가세요!",
+    "expected_difficulty": "P10",
+    "actual_difficulty": "P10",
+    "custom_pp": null,
+    "creator_id": "1273331318834593814",
+    "creator_name": "ria001186",
+    "created_at": "2026-08-05T03:05:19.489923",
+    "registered_at": "2026-08-05T03:05:32.460698"
   }
 }
