@@ -4755,7 +4755,8 @@
     "name": "둘은 문제아",
     "description": "퀵플레이에서 서로를 3번 이상 살리세요.",
     "expected_difficulty": "P10",
-    "status": "pending",
-    "submitted_at": "2026-08-05T17:20:06.132848"
+    "status": "registered",
+    "submitted_at": "2026-08-05T17:20:06.132848",
+    "challenge_id": "986"
   }
 }
