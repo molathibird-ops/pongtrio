@@ -4617,7 +4617,8 @@
     "name": "노력의 결실",
     "description": "퀵플레이에서 『All Spin』를 켜고 아무런 스핀도 하지 않는 'Talentless'로 5000미터를 등반하세요.'",
     "expected_difficulty": "Q4",
-    "status": "pending",
-    "submitted_at": "2026-08-05T03:54:19.362689"
+    "status": "registered",
+    "submitted_at": "2026-08-05T03:54:19.362689",
+    "challenge_id": "974"
   }
 }
