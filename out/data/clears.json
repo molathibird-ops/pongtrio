@@ -12082,5 +12082,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "71ba8668-7269-4968-b5ef-73a8ad950554"
+  },
+  "dc8e3049-cee5-4946-afaf-46e04a09db46": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "938",
+    "difficulty": "P15",
+    "custom_pp": null,
+    "challenge_name": "beyond the 169k wall",
+    "submitted_at": "2026-08-06T15:11:43.631017",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "dc8e3049-cee5-4946-afaf-46e04a09db46"
   }
 }
