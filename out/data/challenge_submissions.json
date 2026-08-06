@@ -5020,8 +5020,9 @@
     "name": "제발 그만죽어",
     "description": "듀오모드에서 상대를 35번 살리세요!",
     "expected_difficulty": "Q2",
-    "status": "pending",
-    "submitted_at": "2026-08-06T10:54:27.838153"
+    "status": "registered",
+    "submitted_at": "2026-08-06T10:54:27.838153",
+    "challenge_id": "1008"
   },
   "2fd924b3": {
     "user_id": "1273331318834593814",
