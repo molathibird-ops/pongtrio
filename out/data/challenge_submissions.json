@@ -5038,5 +5038,14 @@
     "expected_difficulty": "Q3",
     "status": "pending",
     "submitted_at": "2026-08-06T10:56:25.922572"
+  },
+  "b56616dd": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "starflight",
+    "description": "10층 이상에서부터 서지를 끊어 10초 안에 2200m를 오르세요!",
+    "expected_difficulty": "Q4",
+    "status": "pending",
+    "submitted_at": "2026-08-06T10:58:42.579090"
   }
 }
