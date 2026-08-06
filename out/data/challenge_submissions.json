@@ -5030,8 +5030,9 @@
     "name": "De-extinction",
     "description": "듀오모드에서 상대를 40번 살리세요!",
     "expected_difficulty": "Q2",
-    "status": "pending",
-    "submitted_at": "2026-08-06T10:55:44.217478"
+    "status": "registered",
+    "submitted_at": "2026-08-06T10:55:44.217478",
+    "challenge_id": "1009"
   },
   "81916abf": {
     "user_id": "1273331318834593814",
