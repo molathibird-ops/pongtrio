@@ -5040,8 +5040,9 @@
     "name": "Cardiopulmonary resuscitation",
     "description": "듀오모드에서 상대를 45번 살리세요!",
     "expected_difficulty": "Q3",
-    "status": "pending",
-    "submitted_at": "2026-08-06T10:56:25.922572"
+    "status": "registered",
+    "submitted_at": "2026-08-06T10:56:25.922572",
+    "challenge_id": "1010"
   },
   "b56616dd": {
     "user_id": "1273331318834593814",
