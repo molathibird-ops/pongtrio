@@ -12118,5 +12118,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "036bd0b0-75fb-4277-be37-b0e20d7110dd"
+  },
+  "0429a9db-580d-4b47-aac5-881488e17f4d": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "803",
+    "difficulty": "P14",
+    "custom_pp": null,
+    "challenge_name": "청춘",
+    "submitted_at": "2026-08-06T15:47:49.753953",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "0429a9db-580d-4b47-aac5-881488e17f4d"
   }
 }
