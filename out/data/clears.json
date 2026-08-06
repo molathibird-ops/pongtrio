@@ -11962,5 +11962,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "848e7d12-ca65-4efa-b972-4a01e0044316"
+  },
+  "0552e8ef-457c-4ada-9ab3-36335f4407a8": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "970",
+    "difficulty": "P15",
+    "custom_pp": null,
+    "challenge_name": "몸이 기억해",
+    "submitted_at": "2026-08-06T03:33:46.071455",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "0552e8ef-457c-4ada-9ab3-36335f4407a8"
   }
 }
