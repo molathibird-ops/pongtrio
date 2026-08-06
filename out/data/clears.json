@@ -12142,5 +12142,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "d3f11318-3f88-4a44-943b-6d42ec93eeba"
+  },
+  "8d7f0cc4-62aa-40e8-ad10-41394b3a4cb4": {
+    "user_id": "1264967714095497268",
+    "username": "mangpu_cat",
+    "challenge_id": "170",
+    "difficulty": "censored",
+    "custom_pp": null,
+    "challenge_name": "블록박이",
+    "submitted_at": "2026-08-06T16:25:06.762061",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "8d7f0cc4-62aa-40e8-ad10-41394b3a4cb4"
   }
 }
