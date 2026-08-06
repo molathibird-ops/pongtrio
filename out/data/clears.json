@@ -11938,5 +11938,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "d1fca28b-1b0d-4ca5-a2b4-3cc0560b1a08"
+  },
+  "de9e9c61-1305-42a4-900c-c6f2d7c014c1": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "972",
+    "difficulty": "P14",
+    "custom_pp": null,
+    "challenge_name": "노력파",
+    "submitted_at": "2026-08-06T03:25:37.418376",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "de9e9c61-1305-42a4-900c-c6f2d7c014c1"
   }
 }
