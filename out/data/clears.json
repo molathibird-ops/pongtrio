@@ -12106,5 +12106,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "e7799833-3b97-44ae-96f7-398fa01d92a1"
+  },
+  "036bd0b0-75fb-4277-be37-b0e20d7110dd": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "978",
+    "difficulty": "P10",
+    "custom_pp": null,
+    "challenge_name": "[REVIVE ● 빠른 소생]",
+    "submitted_at": "2026-08-06T15:41:26.668222",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "036bd0b0-75fb-4277-be37-b0e20d7110dd"
   }
 }
