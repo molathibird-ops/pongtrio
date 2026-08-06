@@ -11974,5 +11974,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "0552e8ef-457c-4ada-9ab3-36335f4407a8"
+  },
+  "f2a89521-14b7-4f75-a1f6-7f02c58d084a": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "964",
+    "difficulty": "P6",
+    "custom_pp": null,
+    "challenge_name": "미노가돌아가는40라인",
+    "submitted_at": "2026-08-06T03:36:47.198625",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "f2a89521-14b7-4f75-a1f6-7f02c58d084a"
   }
 }
