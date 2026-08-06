@@ -10404,5 +10404,16 @@
     "creator_name": "ria001186",
     "created_at": "2026-08-06T10:56:25.922572",
     "registered_at": "2026-08-06T11:20:42.678917"
+  },
+  "1011": {
+    "name": "starflight",
+    "description": "10층 이상에서부터 서지를 끊어 10초 안에 2200m를 오르세요!",
+    "expected_difficulty": "Q4",
+    "actual_difficulty": "Q4",
+    "custom_pp": null,
+    "creator_id": "1273331318834593814",
+    "creator_name": "ria001186",
+    "created_at": "2026-08-06T10:58:42.579090",
+    "registered_at": "2026-08-06T11:21:05.219614"
   }
 }
