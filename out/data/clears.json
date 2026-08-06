@@ -12022,5 +12022,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "ffba4b89-82ba-41b1-989c-f832d8e1db5e"
+  },
+  "08fb0d1e-e044-446e-bcd2-afdc6be27e6c": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "998",
+    "difficulty": "P14",
+    "custom_pp": 9.0,
+    "challenge_name": "실험체",
+    "submitted_at": "2026-08-06T09:43:13.705996",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "08fb0d1e-e044-446e-bcd2-afdc6be27e6c"
   }
 }
