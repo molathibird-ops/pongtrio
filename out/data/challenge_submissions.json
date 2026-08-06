@@ -5020,5 +5020,14 @@
     "expected_difficulty": "Q2",
     "status": "pending",
     "submitted_at": "2026-08-06T10:54:27.838153"
+  },
+  "2fd924b3": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "De-extinction",
+    "description": "듀오모드에서 상대를 40번 살리세요!",
+    "expected_difficulty": "Q2",
+    "status": "pending",
+    "submitted_at": "2026-08-06T10:55:44.217478"
   }
 }
