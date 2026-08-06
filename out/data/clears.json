@@ -11950,5 +11950,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "de9e9c61-1305-42a4-900c-c6f2d7c014c1"
+  },
+  "848e7d12-ca65-4efa-b972-4a01e0044316": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "967",
+    "difficulty": "P14",
+    "custom_pp": null,
+    "challenge_name": "swamp water lite of lite",
+    "submitted_at": "2026-08-06T03:30:31.490132",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "848e7d12-ca65-4efa-b972-4a01e0044316"
   }
 }
