@@ -5010,8 +5010,9 @@
     "name": "백신 개발자",
     "description": "듀오모드에서 상대를 30번 살리세요!",
     "expected_difficulty": "Q1",
-    "status": "pending",
-    "submitted_at": "2026-08-06T10:54:09.650117"
+    "status": "registered",
+    "submitted_at": "2026-08-06T10:54:09.650117",
+    "challenge_id": "1007"
   },
   "1e51aaab": {
     "user_id": "1273331318834593814",
