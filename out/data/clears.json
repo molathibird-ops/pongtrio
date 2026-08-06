@@ -12130,5 +12130,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "0429a9db-580d-4b47-aac5-881488e17f4d"
+  },
+  "d3f11318-3f88-4a44-943b-6d42ec93eeba": {
+    "user_id": "1228338306631073815",
+    "username": "gim.jon",
+    "challenge_id": "170",
+    "difficulty": "censored",
+    "custom_pp": null,
+    "challenge_name": "블록박이",
+    "submitted_at": "2026-08-06T16:24:55.955452",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "d3f11318-3f88-4a44-943b-6d42ec93eeba"
   }
 }
