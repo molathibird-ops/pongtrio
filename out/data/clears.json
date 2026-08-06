@@ -12010,5 +12010,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "8ddc212e-666e-4acf-8985-eb0a1b9196e3"
+  },
+  "ffba4b89-82ba-41b1-989c-f832d8e1db5e": {
+    "user_id": "1264967714095497268",
+    "username": "mangpu_cat",
+    "challenge_id": "276",
+    "difficulty": "gimmick",
+    "custom_pp": null,
+    "challenge_name": "이이양야야야앗!@!",
+    "submitted_at": "2026-08-06T07:20:37.246951",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "ffba4b89-82ba-41b1-989c-f832d8e1db5e"
   }
 }
