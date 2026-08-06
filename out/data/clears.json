@@ -11926,5 +11926,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "8cbf6d59-44a3-40fb-9fef-aa6c3d6c67ab"
+  },
+  "d1fca28b-1b0d-4ca5-a2b4-3cc0560b1a08": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "989",
+    "difficulty": "P12",
+    "custom_pp": null,
+    "challenge_name": "i스핀 더블..?",
+    "submitted_at": "2026-08-06T03:24:03.805287",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "d1fca28b-1b0d-4ca5-a2b4-3cc0560b1a08"
   }
 }
