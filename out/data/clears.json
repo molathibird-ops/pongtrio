@@ -11998,5 +11998,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "fdc6a5df-3cd9-4ad1-8cfa-c96b48d50844"
+  },
+  "8ddc212e-666e-4acf-8985-eb0a1b9196e3": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "971",
+    "difficulty": "P12",
+    "custom_pp": null,
+    "challenge_name": "사이트리딩 고수",
+    "submitted_at": "2026-08-06T03:55:44.146562",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "8ddc212e-666e-4acf-8985-eb0a1b9196e3"
   }
 }
