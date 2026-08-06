@@ -12046,5 +12046,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "cfa49786-90fa-40f8-8bd6-0c3d51629066"
+  },
+  "20cd1565-fffb-4786-8879-0e1a024390eb": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "219",
+    "difficulty": "P17",
+    "custom_pp": null,
+    "challenge_name": "하이브리드 듀오링고",
+    "submitted_at": "2026-08-06T14:28:44.170344",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "20cd1565-fffb-4786-8879-0e1a024390eb"
   }
 }
