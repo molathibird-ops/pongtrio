@@ -4983,5 +4983,14 @@
     "expected_difficulty": "G1",
     "status": "pending",
     "submitted_at": "2026-08-05T17:57:25.664879"
+  },
+  "d102e955": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "히히 애니메이터가 되",
+    "description": "테트리스 스탑모션 에니메이션을 만드세요!",
+    "expected_difficulty": "epic",
+    "status": "pending",
+    "submitted_at": "2026-08-06T10:17:12.940427"
   }
 }
