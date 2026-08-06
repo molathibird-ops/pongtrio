@@ -10371,5 +10371,16 @@
     "creator_name": "ria001186",
     "created_at": "2026-08-06T10:54:09.650117",
     "registered_at": "2026-08-06T11:09:31.620549"
+  },
+  "1008": {
+    "name": "제발 그만죽어",
+    "description": "듀오모드에서 상대를 35번 살리세요!",
+    "expected_difficulty": "Q2",
+    "actual_difficulty": "Q2",
+    "custom_pp": null,
+    "creator_id": "1273331318834593814",
+    "creator_name": "ria001186",
+    "created_at": "2026-08-06T10:54:27.838153",
+    "registered_at": "2026-08-06T11:09:54.264067"
   }
 }
