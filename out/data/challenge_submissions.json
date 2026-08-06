@@ -5002,5 +5002,14 @@
     "expected_difficulty": "Q1",
     "status": "pending",
     "submitted_at": "2026-08-06T10:49:29.587945"
+  },
+  "5fe4077f": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "백신 개발자",
+    "description": "듀오모드에서 상대를 30번 살리세요!",
+    "expected_difficulty": "Q1",
+    "status": "pending",
+    "submitted_at": "2026-08-06T10:54:09.650117"
   }
 }
