@@ -11986,5 +11986,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "f2a89521-14b7-4f75-a1f6-7f02c58d084a"
+  },
+  "fdc6a5df-3cd9-4ad1-8cfa-c96b48d50844": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "963",
+    "difficulty": "P18",
+    "custom_pp": null,
+    "challenge_name": "테트리스 전문가(NERFED)",
+    "submitted_at": "2026-08-06T03:40:56.551819",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "fdc6a5df-3cd9-4ad1-8cfa-c96b48d50844"
   }
 }
