@@ -4990,7 +4990,8 @@
     "name": "히히 애니메이터가 되",
     "description": "테트리스 스탑모션 에니메이션을 만드세요!",
     "expected_difficulty": "epic",
-    "status": "pending",
-    "submitted_at": "2026-08-06T10:17:12.940427"
+    "status": "registered",
+    "submitted_at": "2026-08-06T10:17:12.940427",
+    "challenge_id": "1005"
   }
 }
