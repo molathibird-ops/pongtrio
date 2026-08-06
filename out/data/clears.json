@@ -12094,5 +12094,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "dc8e3049-cee5-4946-afaf-46e04a09db46"
+  },
+  "e7799833-3b97-44ae-96f7-398fa01d92a1": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "900",
+    "difficulty": "P16",
+    "custom_pp": null,
+    "challenge_name": "아무 일도 없었다...",
+    "submitted_at": "2026-08-06T15:25:10.722617",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "e7799833-3b97-44ae-96f7-398fa01d92a1"
   }
 }
