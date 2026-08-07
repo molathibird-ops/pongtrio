@@ -1796,11 +1796,12 @@
     "name": "그만 좀 죽어줄래?",
     "description": "퀵플레이에서 \"The Lovers\" 모드를 켜고 파트너를 15번 살리세요.",
     "expected_difficulty": "G3",
-    "actual_difficulty": "G12",
+    "actual_difficulty": "G19",
     "creator_id": "589099128563302483",
     "creator_name": "rainbow_water",
     "created_at": "2025-11-27T13:34:48.340296",
-    "registered_at": "2025-11-27T16:35:24.205217"
+    "registered_at": "2025-11-27T16:35:24.205217",
+    "custom_pp": null
   },
   "180": {
     "name": "방해줄과 함께 춤을",
