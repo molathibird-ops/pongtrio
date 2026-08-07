@@ -10415,5 +10415,16 @@
     "creator_name": "ria001186",
     "created_at": "2026-08-06T10:58:42.579090",
     "registered_at": "2026-08-06T11:21:05.219614"
+  },
+  "1012": {
+    "name": "아니 이건 뭐 못하는거도 아니고....잘하는거도 아니고;;;;",
+    "description": "퀵플레이에서 스핀을 20번 이상 하되, 그 어떠한 스핀도 줄을 지우지 마세요",
+    "expected_difficulty": "P10",
+    "actual_difficulty": "P13",
+    "custom_pp": null,
+    "creator_id": "1485520167420297276",
+    "creator_name": "doyunh2011_alt",
+    "created_at": "2026-08-06T15:31:35.177616",
+    "registered_at": "2026-08-07T01:16:58.474294"
   }
 }
