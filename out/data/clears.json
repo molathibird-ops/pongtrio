@@ -12267,5 +12267,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "6359365f-07c5-4fcb-8345-58bf526f441f"
+  },
+  "dcb76b18-b166-4927-aefa-a0b0780c4d08": {
+    "user_id": "7363828374756",
+    "username": "noo_goom_mae",
+    "challenge_id": "20",
+    "difficulty": "P16",
+    "challenge_name": "과충전",
+    "submitted_at": "2026-08-07T12:43:16.931709",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "dcb76b18-b166-4927-aefa-a0b0780c4d08"
   }
 }
