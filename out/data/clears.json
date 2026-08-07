@@ -3707,12 +3707,13 @@
     "user_id": "1377590764552589344",
     "username": "sugap0wder",
     "challenge_id": "179",
-    "difficulty": "G12",
+    "difficulty": "G19",
     "challenge_name": "그만 좀 죽어줄래?",
     "submitted_at": "2026-05-17T10:47:12.959139",
     "status": "approved",
     "felt_difficulty": "G10",
-    "clear_id": "3aaa07fd-40a9-4afb-b744-1ef974f0f7ef"
+    "clear_id": "3aaa07fd-40a9-4afb-b744-1ef974f0f7ef",
+    "custom_pp": null
   },
   "d7ce2812-2d49-4276-8da7-06123d33189c": {
     "user_id": "1494301362647990383",
