@@ -5232,12 +5232,13 @@
     "user_id": "1144563458268999750",
     "username": "sihoo927",
     "challenge_id": "393",
-    "difficulty": "P17",
+    "difficulty": "P19",
     "challenge_name": "권총",
     "submitted_at": "2026-06-12T13:44:17.758857",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "8006c60f-ae07-4286-a80b-7d546f7b25c0"
+    "clear_id": "8006c60f-ae07-4286-a80b-7d546f7b25c0",
+    "custom_pp": null
   },
   "54ba12f9-4f45-47fb-a7bd-c77ce83b7242": {
     "user_id": "1144563458268999750",
