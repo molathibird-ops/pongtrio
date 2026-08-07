@@ -940,11 +940,12 @@
     "name": "죽은자의 소생",
     "description": "퀵플레이에서 『The Lover』모드를 켜고, 자신의 팀원을 3번 이상 살리세요.(기여도 상관 X)",
     "expected_difficulty": "P9",
-    "actual_difficulty": "P9",
+    "actual_difficulty": "P8",
     "creator_id": "589099128563302483",
     "creator_name": "rainbow_water",
     "created_at": "2025-11-21T03:16:53.382753",
-    "registered_at": "2025-11-21T10:04:13.300561"
+    "registered_at": "2025-11-21T10:04:13.300561",
+    "custom_pp": null
   },
   "96": {
     "name": "『영웅은 죽지 않아요.』",
