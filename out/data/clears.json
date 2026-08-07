@@ -12245,5 +12245,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "f13eb0de-3113-4a1c-8ad2-e28f6ef93fd3"
+  },
+  "f1371464-38f2-430c-bef0-fbabf7565404": {
+    "user_id": "7363828374756",
+    "username": "noo_goom_mae",
+    "challenge_id": "11",
+    "difficulty": "G1",
+    "challenge_name": "정상",
+    "submitted_at": "2026-08-07T12:42:55.506416",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "f1371464-38f2-430c-bef0-fbabf7565404"
   }
 }
