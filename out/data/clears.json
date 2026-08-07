@@ -6518,12 +6518,13 @@
     "user_id": "1514630812375580903",
     "username": "gohansub_30741",
     "challenge_id": "98",
-    "difficulty": "G19",
+    "difficulty": "U3",
     "challenge_name": "좀비",
     "submitted_at": "2026-06-20T16:41:41.851985",
     "status": "approved",
     "felt_difficulty": "G19",
-    "clear_id": "b9dbc3ab-6e75-49d2-bca5-9f6ac998aca5"
+    "clear_id": "b9dbc3ab-6e75-49d2-bca5-9f6ac998aca5",
+    "custom_pp": null
   },
   "6e2e060e-0a1e-495a-88f4-408eed9f0024": {
     "user_id": "1514630812375580903",
