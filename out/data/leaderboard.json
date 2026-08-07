@@ -201,7 +201,7 @@
   },
   "1485520167420297276": {
     "username": "distortion05423",
-    "general_score": 3571.3900000000003,
+    "general_score": 3571.39,
     "rank_score": 1286.75
   },
   "1452435595430199356": {
@@ -373,5 +373,10 @@
     "username": "icly",
     "general_score": 32150,
     "rank_score": 21055.0
+  },
+  "700345617": {
+    "username": "upperthan",
+    "general_score": 60,
+    "rank_score": 55.5
   }
 }
