@@ -58,7 +58,7 @@
     "profile_color": null
   },
   "1302050564036890696": {
-    "coins": 501,
+    "coins": 1501,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [],
@@ -558,7 +558,7 @@
     "profile_color": null
   },
   "774848749444137013": {
-    "coins": 2,
+    "coins": 502,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [],
@@ -1278,6 +1278,15 @@
     "profile_color": null
   },
   "27": {
+    "coins": 500,
+    "balance": 0,
+    "total_spent": 0,
+    "owned_colors": [],
+    "owned_titles": [],
+    "equipped_title": null,
+    "profile_color": null
+  },
+  "14": {
     "coins": 500,
     "balance": 0,
     "total_spent": 0,
