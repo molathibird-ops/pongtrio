@@ -12189,5 +12189,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "587305d2-0b19-4cca-81a6-06dd1493fdb6"
+  },
+  "969a5035-102d-4eaf-8416-b8d788ad4b87": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "170",
+    "difficulty": "censored",
+    "custom_pp": null,
+    "challenge_name": "블록박이",
+    "submitted_at": "2026-08-07T11:44:52.638417",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "969a5035-102d-4eaf-8416-b8d788ad4b87"
   }
 }
