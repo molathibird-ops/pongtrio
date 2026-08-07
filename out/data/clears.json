@@ -579,12 +579,13 @@
     "user_id": "589099128563302483",
     "username": "rainbow_water",
     "challenge_id": "394",
-    "difficulty": "P19",
+    "difficulty": "G1",
     "challenge_name": "소총",
     "submitted_at": "2026-04-19T02:30:52.084544",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "865c8336-9067-49fa-9b22-7f496cd906cd"
+    "clear_id": "865c8336-9067-49fa-9b22-7f496cd906cd",
+    "custom_pp": null
   },
   "38cb8a6a-c2ed-4f16-83bc-81070cb79b50": {
     "user_id": "819167210446127105",
@@ -5277,12 +5278,13 @@
     "user_id": "1144563458268999750",
     "username": "sihoo927",
     "challenge_id": "394",
-    "difficulty": "P19",
+    "difficulty": "G1",
     "challenge_name": "소총",
     "submitted_at": "2026-06-12T23:05:07.011380",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "04f392aa-6826-40be-ad56-c41ed0525534"
+    "clear_id": "04f392aa-6826-40be-ad56-c41ed0525534",
+    "custom_pp": null
   },
   "b5ab29f5-b1c7-4953-8412-022534b82652": {
     "user_id": "1144563458268999750",
