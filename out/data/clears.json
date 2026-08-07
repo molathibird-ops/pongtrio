@@ -5443,12 +5443,13 @@
     "user_id": "589099128563302483",
     "username": "rainbow_water",
     "challenge_id": "97",
-    "difficulty": "P19",
+    "difficulty": "G1",
     "challenge_name": "불사조",
     "submitted_at": "2026-06-13T07:35:49.326955",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "0e7bfa5b-a0ae-446f-9989-ca9bb175c03e"
+    "clear_id": "0e7bfa5b-a0ae-446f-9989-ca9bb175c03e",
+    "custom_pp": null
   },
   "7c831f77-cfb7-40ac-b561-a7e6bd05da18": {
     "user_id": "589099128563302483",
@@ -8585,12 +8586,13 @@
     "user_id": "1485520167420297276",
     "username": "doyunh2011_alt",
     "challenge_id": "97",
-    "difficulty": "P19",
+    "difficulty": "G1",
     "challenge_name": "불사조",
     "submitted_at": "2026-07-02T13:19:31.978430",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "a2f4afa8-bef5-4dd0-9cf0-bec07ca1828c"
+    "clear_id": "a2f4afa8-bef5-4dd0-9cf0-bec07ca1828c",
+    "custom_pp": null
   },
   "324473b3-2bbb-4c3e-a61a-f3f32cd8eaba": {
     "user_id": "480054604105515019",
