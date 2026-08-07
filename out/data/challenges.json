@@ -961,11 +961,12 @@
     "name": "불사조",
     "description": "퀵플레이에서 『The Lover』 모드를 켜고 팀원을 10번 이상 살리세요.(기여도 상관 ❌)",
     "expected_difficulty": "P13",
-    "actual_difficulty": "P19",
+    "actual_difficulty": "G1",
     "creator_id": "589099128563302483",
     "creator_name": "rainbow_water",
     "created_at": "2025-11-21T03:19:00.340252",
-    "registered_at": "2025-11-21T10:04:34.745517"
+    "registered_at": "2025-11-21T10:04:34.745517",
+    "custom_pp": null
   },
   "98": {
     "name": "좀비",
