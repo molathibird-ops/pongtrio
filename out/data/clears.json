@@ -12172,5 +12172,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "309f8c51-3169-44e8-965e-64dff6a1867f"
+  },
+  "587305d2-0b19-4cca-81a6-06dd1493fdb6": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "challenge_id": "956",
+    "difficulty": "Q0",
+    "custom_pp": null,
+    "challenge_name": "highrise stunt",
+    "submitted_at": "2026-08-07T05:02:17.398210",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "587305d2-0b19-4cca-81a6-06dd1493fdb6"
   }
 }
