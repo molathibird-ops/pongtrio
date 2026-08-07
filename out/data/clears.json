@@ -12223,5 +12223,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "a8c5f617-6f41-48e2-8a36-8062d9366d40"
+  },
+  "843f2e5d-4dde-4fec-a114-ce4cc149c247": {
+    "user_id": "700345617",
+    "username": "upperthan",
+    "challenge_id": "307",
+    "difficulty": "P15",
+    "challenge_name": "8톤트럭",
+    "submitted_at": "2026-08-07T12:41:28.030539",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "843f2e5d-4dde-4fec-a114-ce4cc149c247"
   }
 }
