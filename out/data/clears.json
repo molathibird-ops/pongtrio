@@ -12322,5 +12322,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "ddac26c3-ff56-4f46-aed2-e32aba76f33d"
+  },
+  "1f146835-ac1e-4860-9ff2-43a42855687c": {
+    "user_id": "189",
+    "username": "ispinquad",
+    "challenge_id": "335",
+    "difficulty": "P19",
+    "challenge_name": "자유낙하",
+    "submitted_at": "2026-08-07T13:07:51.985579",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "1f146835-ac1e-4860-9ff2-43a42855687c"
   }
 }
