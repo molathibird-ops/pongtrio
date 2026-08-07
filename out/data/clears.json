@@ -12160,5 +12160,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "8d7f0cc4-62aa-40e8-ad10-41394b3a4cb4"
+  },
+  "309f8c51-3169-44e8-965e-64dff6a1867f": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "1012",
+    "difficulty": "P13",
+    "custom_pp": null,
+    "challenge_name": "아니 이건 뭐 못하는거도 아니고....잘하는거도 아니고;;;;",
+    "submitted_at": "2026-08-07T04:09:36.372190",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "309f8c51-3169-44e8-965e-64dff6a1867f"
   }
 }
