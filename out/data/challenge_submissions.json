@@ -5060,7 +5060,8 @@
     "name": "아니 이건 뭐 못하는거도 아니고....잘하는거도 아니고;;;;",
     "description": "퀵플레이에서 스핀을 20번 이상 하되, 그 어떠한 스핀도 줄을 지우지 마세요",
     "expected_difficulty": "P10",
-    "status": "pending",
-    "submitted_at": "2026-08-06T15:31:35.177616"
+    "status": "registered",
+    "submitted_at": "2026-08-06T15:31:35.177616",
+    "challenge_id": "1012"
   }
 }
