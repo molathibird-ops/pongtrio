@@ -4642,12 +4642,13 @@
     "user_id": "544184205429440533",
     "username": "seonghyeni",
     "challenge_id": "395",
-    "difficulty": "G3",
+    "difficulty": "G5",
     "challenge_name": "기관총",
     "submitted_at": "2026-05-21T13:39:23.034901",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "9190d2bd-5c86-4676-af9a-fc118630b17c"
+    "clear_id": "9190d2bd-5c86-4676-af9a-fc118630b17c",
+    "custom_pp": null
   },
   "706ac3ee-0fbd-4ed0-b0c0-8493dda71573": {
     "user_id": "1485520167420297276",
@@ -5290,12 +5291,13 @@
     "user_id": "1144563458268999750",
     "username": "sihoo927",
     "challenge_id": "395",
-    "difficulty": "G3",
+    "difficulty": "G5",
     "challenge_name": "기관총",
     "submitted_at": "2026-06-12T23:25:52.710343",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "b5ab29f5-b1c7-4953-8412-022534b82652"
+    "clear_id": "b5ab29f5-b1c7-4953-8412-022534b82652",
+    "custom_pp": null
   },
   "835dbfdb-69dc-496e-815e-7560fbcfc61f": {
     "user_id": "1315215857743302746",
