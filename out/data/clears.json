@@ -12201,5 +12201,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "969a5035-102d-4eaf-8416-b8d788ad4b87"
+  },
+  "0645b692-7de9-4a3b-8f48-ced839e52431": {
+    "user_id": "700345617",
+    "username": "upperthan",
+    "challenge_id": "24",
+    "difficulty": "P15",
+    "challenge_name": "fin셋. 엌ㅋ",
+    "submitted_at": "2026-08-07T12:41:07.542981",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "0645b692-7de9-4a3b-8f48-ced839e52431"
   }
 }
