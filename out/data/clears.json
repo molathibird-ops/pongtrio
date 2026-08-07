@@ -12212,5 +12212,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "0645b692-7de9-4a3b-8f48-ced839e52431"
+  },
+  "a8c5f617-6f41-48e2-8a36-8062d9366d40": {
+    "user_id": "700345617",
+    "username": "upperthan",
+    "challenge_id": "215",
+    "difficulty": "P15",
+    "challenge_name": "말이 안되는데 뭐지",
+    "submitted_at": "2026-08-07T12:41:20.175370",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "a8c5f617-6f41-48e2-8a36-8062d9366d40"
   }
 }
