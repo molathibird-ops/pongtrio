@@ -12234,5 +12234,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "843f2e5d-4dde-4fec-a114-ce4cc149c247"
+  },
+  "f13eb0de-3113-4a1c-8ad2-e28f6ef93fd3": {
+    "user_id": "700345617",
+    "username": "upperthan",
+    "challenge_id": "385",
+    "difficulty": "P15",
+    "challenge_name": "우리동네 포와 퍼클 왕",
+    "submitted_at": "2026-08-07T12:41:46.420238",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "f13eb0de-3113-4a1c-8ad2-e28f6ef93fd3"
   }
 }
