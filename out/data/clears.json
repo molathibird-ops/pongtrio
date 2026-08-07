@@ -9283,23 +9283,25 @@
     "user_id": "1485520167420297276",
     "username": "doyunh2011_alt",
     "challenge_id": "95",
-    "difficulty": "P9",
+    "difficulty": "P8",
     "challenge_name": "죽은자의 소생",
     "submitted_at": "2026-07-12T17:15:26.614867",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "a162e2a6-ce5a-4e50-811f-08938f968c63"
+    "clear_id": "a162e2a6-ce5a-4e50-811f-08938f968c63",
+    "custom_pp": null
   },
   "d086e320-8bda-47e3-9e22-f1ed9dff1533": {
     "user_id": "1452435595430199356",
     "username": "_mara_0225",
     "challenge_id": "95",
-    "difficulty": "P9",
+    "difficulty": "P8",
     "challenge_name": "죽은자의 소생",
     "submitted_at": "2026-07-12T17:35:23.134941",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "d086e320-8bda-47e3-9e22-f1ed9dff1533"
+    "clear_id": "d086e320-8bda-47e3-9e22-f1ed9dff1533",
+    "custom_pp": null
   },
   "02debd9d-929a-4cb8-be22-9e9c04170c7e": {
     "user_id": "819167210446127105",
