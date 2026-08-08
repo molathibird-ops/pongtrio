@@ -12392,5 +12392,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "ad1122cb-69d9-4b1b-8099-f94c5ff102c6"
+  },
+  "c17576bd-0d33-47fc-9e6e-71846391ce71": {
+    "user_id": "1452435595430199356",
+    "username": "_mara_0225",
+    "challenge_id": "447",
+    "difficulty": "P9",
+    "custom_pp": null,
+    "challenge_name": "라스베가스 카지노펍",
+    "submitted_at": "2026-08-08T16:32:32.558165",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "c17576bd-0d33-47fc-9e6e-71846391ce71"
   }
 }
