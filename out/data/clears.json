@@ -12344,5 +12344,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "45ae63a2-a07c-473b-94c5-007822756344"
+  },
+  "4f3c6bfc-af64-40a8-82f1-a282bec0847b": {
+    "user_id": "1487076669843050516",
+    "username": "d.axe_",
+    "challenge_id": "152",
+    "difficulty": "G16",
+    "custom_pp": null,
+    "challenge_name": "포와이드 그랜드마스터",
+    "submitted_at": "2026-08-08T00:39:27.067690",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "4f3c6bfc-af64-40a8-82f1-a282bec0847b"
   }
 }
