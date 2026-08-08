@@ -5070,7 +5070,8 @@
     "name": "운빨스프린터",
     "description": "딱 40줄을 지울때 퍼클을 하세요!(예: 41줄때 퍼클시 노인정)",
     "expected_difficulty": "P1",
-    "status": "pending",
-    "submitted_at": "2026-08-08T04:46:48.602108"
+    "status": "registered",
+    "submitted_at": "2026-08-08T04:46:48.602108",
+    "challenge_id": "1013"
   }
 }
