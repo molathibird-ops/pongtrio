@@ -12356,5 +12356,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "4f3c6bfc-af64-40a8-82f1-a282bec0847b"
+  },
+  "53cafdc9-273a-4ab0-bfeb-0f8a65268f93": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "challenge_id": "967",
+    "difficulty": "P14",
+    "custom_pp": null,
+    "challenge_name": "swamp water lite of lite",
+    "submitted_at": "2026-08-08T06:15:34.060181",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "53cafdc9-273a-4ab0-bfeb-0f8a65268f93"
   }
 }
