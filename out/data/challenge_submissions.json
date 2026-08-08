@@ -5063,5 +5063,14 @@
     "status": "registered",
     "submitted_at": "2026-08-06T15:31:35.177616",
     "challenge_id": "1012"
+  },
+  "ffaaea2e": {
+    "user_id": "1228338306631073815",
+    "username": "gim.jon",
+    "name": "운빨스프린터",
+    "description": "딱 40줄을 지울때 퍼클을 하세요!(예: 41줄때 퍼클시 노인정)",
+    "expected_difficulty": "P1",
+    "status": "pending",
+    "submitted_at": "2026-08-08T04:46:48.602108"
   }
 }
