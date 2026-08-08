@@ -435,7 +435,7 @@
     "profile_color": null
   },
   "1144563458268999750": {
-    "coins": 13064,
+    "coins": 13123,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [
@@ -445,7 +445,8 @@
     "equipped_title": null,
     "profile_color": "2레벨",
     "chat_count": 331,
-    "got_nerfed": true
+    "got_nerfed": true,
+    "holjjak_streak": 1
   },
   "475223703446224906": {
     "coins": 100,
