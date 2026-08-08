@@ -386,7 +386,7 @@
     "chat_count": 18
   },
   "1264967714095497268": {
-    "coins": 2655,
+    "coins": 0,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [],
@@ -394,7 +394,8 @@
     "equipped_title": null,
     "profile_color": null,
     "chat_count": 512,
-    "got_nerfed": true
+    "got_nerfed": true,
+    "holjjak_streak": 0
   },
   "1160876985157943308": {
     "coins": 332,
