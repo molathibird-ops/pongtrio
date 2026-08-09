@@ -12416,5 +12416,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "22130318-1a22-4e15-923c-6704d6b6e2fd"
+  },
+  "824258e4-0bce-44e2-b32f-dbe0dc757f40": {
+    "user_id": "1264967714095497268",
+    "username": "mangpu_cat",
+    "challenge_id": "5",
+    "difficulty": "P6",
+    "custom_pp": null,
+    "challenge_name": "!실💥 패!",
+    "submitted_at": "2026-08-09T11:57:53.528485",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "824258e4-0bce-44e2-b32f-dbe0dc757f40"
   }
 }
