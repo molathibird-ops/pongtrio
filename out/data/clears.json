@@ -12440,5 +12440,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "3eac2014-f02e-43da-8f03-85894137e31a"
+  },
+  "029330b8-9b96-4c6d-a391-764dc4c91a44": {
+    "user_id": "1452435595430199356",
+    "username": "_mara_0225",
+    "challenge_id": "14",
+    "difficulty": "P18",
+    "custom_pp": null,
+    "challenge_name": "The Spike of All Time",
+    "submitted_at": "2026-08-09T17:33:35.164627",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "029330b8-9b96-4c6d-a391-764dc4c91a44"
   }
 }
