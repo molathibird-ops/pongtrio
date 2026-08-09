@@ -12428,5 +12428,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "824258e4-0bce-44e2-b32f-dbe0dc757f40"
+  },
+  "3eac2014-f02e-43da-8f03-85894137e31a": {
+    "user_id": "1264967714095497268",
+    "username": "mangpu_cat",
+    "challenge_id": "6",
+    "difficulty": "censored",
+    "custom_pp": null,
+    "challenge_name": "\"시시해서... 죽고싶어졌다...\"",
+    "submitted_at": "2026-08-09T12:04:41.610688",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "3eac2014-f02e-43da-8f03-85894137e31a"
   }
 }
