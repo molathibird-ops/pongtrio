@@ -10446,5 +10446,16 @@
     "creator_name": "gim.jon",
     "created_at": "2026-08-08T04:46:48.602108",
     "registered_at": "2026-08-08T06:05:39.079854"
+  },
+  "1014": {
+    "name": "talentless lite",
+    "description": "all spin 모드를 킨 채로 일반 줄 지우기와 스핀 제로, 싱글만 써서 1,000m에 가세요!",
+    "expected_difficulty": "P20",
+    "actual_difficulty": "P20",
+    "custom_pp": null,
+    "creator_id": "1273331318834593814",
+    "creator_name": "ria001186",
+    "created_at": "2026-08-10T03:04:00.779197",
+    "registered_at": "2026-08-10T03:04:20.911455"
   }
 }
