@@ -11,7 +11,7 @@
     "got_nerfed": true
   },
   "589099128563302483": {
-    "coins": 376,
+    "coins": 401,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [
@@ -68,7 +68,7 @@
     "got_nerfed": true
   },
   "976461145026203730": {
-    "coins": 5899,
+    "coins": 6049,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [
@@ -85,7 +85,8 @@
     "best_lottery": 5,
     "holjjak_streak": 1,
     "bet_wins": 1,
-    "got_nerfed": true
+    "got_nerfed": true,
+    "night_clears": 1
   },
   "1339538910878896181": {
     "coins": 1900,
