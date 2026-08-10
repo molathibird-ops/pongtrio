@@ -12758,5 +12758,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "5ef6c403-b0c4-482f-8bbc-0c016dceacf6"
+  },
+  "916f8fcb-5dfa-4ebc-8fae-6d51dec984e1": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "challenge_id": "258",
+    "difficulty": "P1",
+    "custom_pp": null,
+    "challenge_name": "천리 길도 한 걸음부터",
+    "submitted_at": "2026-08-10T17:24:31.207823",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "916f8fcb-5dfa-4ebc-8fae-6d51dec984e1"
   }
 }
