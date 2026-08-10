@@ -13082,5 +13082,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "94c4ba37-b1fb-478b-b148-95e6d8e77f2e"
+  },
+  "e6aefdc8-a667-4e62-8b87-dcb4107a2d20": {
+    "user_id": "840063640681054228",
+    "username": "justicedragon4",
+    "challenge_id": "60",
+    "difficulty": "P4",
+    "custom_pp": null,
+    "challenge_name": "서지",
+    "submitted_at": "2026-08-10T18:33:34.832081",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "e6aefdc8-a667-4e62-8b87-dcb4107a2d20"
   }
 }
