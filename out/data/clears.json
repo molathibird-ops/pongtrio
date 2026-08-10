@@ -12566,5 +12566,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "75a2024c-baea-425d-84e5-c14217eac65d"
+  },
+  "22364a57-da18-4c76-95d5-5d09ab941adc": {
+    "user_id": "1452435595430199356",
+    "username": "_mara_0225",
+    "challenge_id": "844",
+    "difficulty": "P1",
+    "custom_pp": null,
+    "challenge_name": "[쉬운 챌린지 - 7번]",
+    "submitted_at": "2026-08-10T16:35:14.767020",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "22364a57-da18-4c76-95d5-5d09ab941adc"
   }
 }
