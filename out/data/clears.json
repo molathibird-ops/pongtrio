@@ -12674,5 +12674,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "2f7d260a-35b3-4ea6-a835-aa983b1acdb1"
+  },
+  "51a522d9-8bf4-4388-a946-b8fb2434c707": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "challenge_id": "77",
+    "difficulty": "P8",
+    "custom_pp": null,
+    "challenge_name": "F층",
+    "submitted_at": "2026-08-10T17:17:20.815942",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "51a522d9-8bf4-4388-a946-b8fb2434c707"
   }
 }
