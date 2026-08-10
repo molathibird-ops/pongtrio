@@ -12998,5 +12998,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "a8183468-eede-4503-869a-f2ccd6cb868b"
+  },
+  "7bedf23e-0693-4622-b517-a2f46e2c8ccf": {
+    "user_id": "1264967714095497268",
+    "username": "mangpu_cat",
+    "challenge_id": "35",
+    "difficulty": "P1",
+    "custom_pp": null,
+    "challenge_name": "1가방 쓰기",
+    "submitted_at": "2026-08-10T18:12:59.340181",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "7bedf23e-0693-4622-b517-a2f46e2c8ccf"
   }
 }
