@@ -12722,5 +12722,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "c77f4ff1-8fb6-4214-be0b-f5ee2197c258"
+  },
+  "1f7c3464-fbf7-4b6e-823d-eb282b0676c2": {
+    "user_id": "1264967714095497268",
+    "username": "mangpu_cat",
+    "challenge_id": "81",
+    "difficulty": "epic",
+    "custom_pp": null,
+    "challenge_name": "감다살",
+    "submitted_at": "2026-08-10T17:21:54.695035",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "1f7c3464-fbf7-4b6e-823d-eb282b0676c2"
   }
 }
