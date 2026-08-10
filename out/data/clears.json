@@ -13010,5 +13010,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "7bedf23e-0693-4622-b517-a2f46e2c8ccf"
+  },
+  "25348a05-b945-4a89-897e-6727e00a10cf": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "challenge_id": "730",
+    "difficulty": "P6",
+    "custom_pp": null,
+    "challenge_name": "쉬워보이지만 생각보다 어려운 것",
+    "submitted_at": "2026-08-10T18:13:53.110027",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "25348a05-b945-4a89-897e-6727e00a10cf"
   }
 }
