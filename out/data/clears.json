@@ -12710,5 +12710,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "19d47b56-aa06-4890-a133-c94b4a4bf2ac"
+  },
+  "c77f4ff1-8fb6-4214-be0b-f5ee2197c258": {
+    "user_id": "1452435595430199356",
+    "username": "_mara_0225",
+    "challenge_id": "588",
+    "difficulty": "P3",
+    "custom_pp": null,
+    "challenge_name": "무소음 드롭",
+    "submitted_at": "2026-08-10T17:20:32.959873",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "c77f4ff1-8fb6-4214-be0b-f5ee2197c258"
   }
 }
