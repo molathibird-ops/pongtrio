@@ -13010,5 +13010,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "25348a05-b945-4a89-897e-6727e00a10cf"
+  },
+  "5af90102-bc15-4850-9257-9344efa8db9f": {
+    "user_id": "840063640681054228",
+    "username": "justicedragon4",
+    "challenge_id": "258",
+    "difficulty": "P1",
+    "custom_pp": null,
+    "challenge_name": "천리 길도 한 걸음부터",
+    "submitted_at": "2026-08-10T18:15:56.728658",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "5af90102-bc15-4850-9257-9344efa8db9f"
   }
 }
