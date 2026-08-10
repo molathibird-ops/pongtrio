@@ -13046,5 +13046,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "0e54dbb6-1d68-40a9-baa9-67b5ebcbae46"
+  },
+  "67156a93-235c-4032-adeb-5a16698ef8e3": {
+    "user_id": "840063640681054228",
+    "username": "justicedragon4",
+    "challenge_id": "842",
+    "difficulty": "P2",
+    "custom_pp": null,
+    "challenge_name": "[쉬운 챌린지 - 5번]",
+    "submitted_at": "2026-08-10T18:19:11.744135",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "67156a93-235c-4032-adeb-5a16698ef8e3"
   }
 }
