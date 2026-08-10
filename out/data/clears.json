@@ -12842,5 +12842,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "1843895f-4a3b-44ec-8624-50ebfd6a128a"
+  },
+  "9399a6f3-b500-450a-ab97-f7b6c7199466": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "challenge_id": "999",
+    "difficulty": "P1",
+    "custom_pp": null,
+    "challenge_name": "함수",
+    "submitted_at": "2026-08-10T17:42:26.283360",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "9399a6f3-b500-450a-ab97-f7b6c7199466"
   }
 }
