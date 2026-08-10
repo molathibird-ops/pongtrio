@@ -12638,5 +12638,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "9696d35d-3211-4870-b874-bd670e4f2630"
+  },
+  "2bfc7337-76ff-434a-8b5c-67077b5dab60": {
+    "user_id": "1264967714095497268",
+    "username": "mangpu_cat",
+    "challenge_id": "842",
+    "difficulty": "P2",
+    "custom_pp": null,
+    "challenge_name": "[쉬운 챌린지 - 5번]",
+    "submitted_at": "2026-08-10T17:09:52.639649",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "2bfc7337-76ff-434a-8b5c-67077b5dab60"
   }
 }
