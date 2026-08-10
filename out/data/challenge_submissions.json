@@ -5100,7 +5100,8 @@
     "name": "과충전 (싸워요)",
     "description": "warlock에서 서지 24 이상 모으기",
     "expected_difficulty": "R1",
-    "status": "pending",
-    "submitted_at": "2026-08-10T04:50:42.030235"
+    "status": "registered",
+    "submitted_at": "2026-08-10T04:50:42.030235",
+    "challenge_id": "1016"
   }
 }
