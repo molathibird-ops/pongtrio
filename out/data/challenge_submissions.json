@@ -5092,5 +5092,14 @@
     "expected_difficulty": "G9",
     "status": "pending",
     "submitted_at": "2026-08-10T03:12:14.395528"
+  },
+  "e3cef066": {
+    "user_id": "1160878200176513034",
+    "username": "haeun_110908",
+    "name": "과충전 (싸워요)",
+    "description": "warlock에서 서지 24 이상 모으기",
+    "expected_difficulty": "R1",
+    "status": "pending",
+    "submitted_at": "2026-08-10T04:50:42.030235"
   }
 }
