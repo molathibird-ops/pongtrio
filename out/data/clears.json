@@ -12602,5 +12602,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "452e3d14-d715-41da-a528-03ff87c1c10e"
+  },
+  "07648389-b0cd-4755-a57a-c9fe1fc94911": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "challenge_id": "57",
+    "difficulty": "P2",
+    "custom_pp": null,
+    "challenge_name": "뜨거운 밤",
+    "submitted_at": "2026-08-10T17:05:57.011001",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "07648389-b0cd-4755-a57a-c9fe1fc94911"
   }
 }
