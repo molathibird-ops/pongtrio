@@ -723,7 +723,7 @@
     "holjjak_streak": 6
   },
   "1452435595430199356": {
-    "coins": 2038,
+    "coins": 2198,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [],
@@ -737,7 +737,7 @@
     "bet_wins": 2,
     "holjjak_streak": 0,
     "got_nerfed": true,
-    "night_clears": 8
+    "night_clears": 9
   },
   "718670519402233858": {
     "coins": 4753,
@@ -1166,7 +1166,7 @@
     "got_nerfed": true
   },
   "1360569227970609293": {
-    "coins": 1152,
+    "coins": 1177,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [],
