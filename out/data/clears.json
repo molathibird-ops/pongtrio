@@ -12587,7 +12587,7 @@
     "custom_pp": null,
     "challenge_name": "[쉬운 챌린지 - 10번]",
     "submitted_at": "2026-08-10T16:59:04.118241",
-    "status": "pending",
+    "status": "approved",
     "felt_difficulty": null,
     "clear_id": "2a703200-662f-4f4f-b38a-d8873060fb92"
   },
@@ -12599,7 +12599,7 @@
     "custom_pp": null,
     "challenge_name": "뜨거운 밤",
     "submitted_at": "2026-08-10T17:03:52.214850",
-    "status": "pending",
+    "status": "approved",
     "felt_difficulty": null,
     "clear_id": "452e3d14-d715-41da-a528-03ff87c1c10e"
   }
