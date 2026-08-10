@@ -12962,5 +12962,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "498fc471-dcc4-4d98-916b-f5414b4ff2eb"
+  },
+  "0490778b-3acc-4519-a4cb-be0f36fa2a7a": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "challenge_id": "889",
+    "difficulty": "P1",
+    "custom_pp": null,
+    "challenge_name": "우리나라가월드컵32강딱???omg이건말도안되",
+    "submitted_at": "2026-08-10T18:05:09.249868",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "0490778b-3acc-4519-a4cb-be0f36fa2a7a"
   }
 }
