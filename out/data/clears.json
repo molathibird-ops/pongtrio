@@ -12463,5 +12463,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "0e17d01a-92c3-4587-82d3-1fb53386a7f8"
+  },
+  "bd09db73-c0b1-4617-9487-eec1c996f1fc": {
+    "user_id": "1500888020889632870",
+    "username": "aikawakira",
+    "challenge_id": "1013",
+    "difficulty": "P8",
+    "challenge_name": "운빨스프린터",
+    "submitted_at": "2026-08-10T06:14:03.713557",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "bd09db73-c0b1-4617-9487-eec1c996f1fc"
   }
 }
