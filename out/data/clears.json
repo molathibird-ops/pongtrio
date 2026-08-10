@@ -12698,5 +12698,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "f8bf7f8f-df5b-49a0-977b-f7d73df7e32f"
+  },
+  "19d47b56-aa06-4890-a133-c94b4a4bf2ac": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "challenge_id": "430",
+    "difficulty": "P4",
+    "custom_pp": null,
+    "challenge_name": "카지노바",
+    "submitted_at": "2026-08-10T17:19:54.979686",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "19d47b56-aa06-4890-a133-c94b4a4bf2ac"
   }
 }
