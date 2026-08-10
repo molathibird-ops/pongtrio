@@ -12452,5 +12452,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "029330b8-9b96-4c6d-a391-764dc4c91a44"
+  },
+  "0e17d01a-92c3-4587-82d3-1fb53386a7f8": {
+    "user_id": "1500888020889632870",
+    "username": "aikawakira",
+    "challenge_id": "1014",
+    "difficulty": "P20",
+    "challenge_name": "talentless lite",
+    "submitted_at": "2026-08-10T06:13:57.860638",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "0e17d01a-92c3-4587-82d3-1fb53386a7f8"
   }
 }
