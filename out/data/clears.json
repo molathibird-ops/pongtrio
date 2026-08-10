@@ -12818,5 +12818,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "d1f4595a-0e34-4620-b8fc-ab2c2668e811"
+  },
+  "76f36453-05e0-45d1-903d-819bccbaa8e3": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "challenge_id": "206",
+    "difficulty": "epic",
+    "custom_pp": null,
+    "challenge_name": "포유류",
+    "submitted_at": "2026-08-10T17:32:26.233622",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "76f36453-05e0-45d1-903d-819bccbaa8e3"
   }
 }
