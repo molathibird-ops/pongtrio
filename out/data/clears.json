@@ -12878,5 +12878,17 @@
     "status": "approved",
     "felt_difficulty": "G4",
     "clear_id": "e64e7500-41db-4751-86f6-969d050be0b0"
+  },
+  "9c8d63da-4be1-4dfd-9754-3243e6538819": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "challenge_id": "408",
+    "difficulty": "epic",
+    "custom_pp": null,
+    "challenge_name": "체험 끝, 시련의 시작.",
+    "submitted_at": "2026-08-10T17:53:59.448163",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "9c8d63da-4be1-4dfd-9754-3243e6538819"
   }
 }
