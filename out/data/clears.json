@@ -12554,5 +12554,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "8623c265-9b1e-4612-811d-9fde483221a6"
+  },
+  "75a2024c-baea-425d-84e5-c14217eac65d": {
+    "user_id": "1218889894659625070",
+    "username": "pongiscute",
+    "challenge_id": "611",
+    "difficulty": "epic",
+    "custom_pp": null,
+    "challenge_name": "U9같은에픽",
+    "submitted_at": "2026-08-10T16:12:00.869858",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "75a2024c-baea-425d-84e5-c14217eac65d"
   }
 }
