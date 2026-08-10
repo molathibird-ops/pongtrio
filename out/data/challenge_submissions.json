@@ -5090,8 +5090,9 @@
     "name": "warlock lite",
     "description": "all spin 모드를 킨 채로 흉터를 받지 않고 10층을 가세요!",
     "expected_difficulty": "G9",
-    "status": "pending",
-    "submitted_at": "2026-08-10T03:12:14.395528"
+    "status": "registered",
+    "submitted_at": "2026-08-10T03:12:14.395528",
+    "challenge_id": "1015"
   },
   "e3cef066": {
     "user_id": "1160878200176513034",
