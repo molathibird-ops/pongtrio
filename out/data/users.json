@@ -28,7 +28,7 @@
     "night_clears": 1
   },
   "819167210446127105": {
-    "coins": 7190,
+    "coins": 7510,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [
@@ -46,7 +46,7 @@
     "best_lottery": 5,
     "got_nerfed": true,
     "holjjak_streak": 0,
-    "night_clears": 10
+    "night_clears": 12
   },
   "1493750010775605449": {
     "coins": 12153,
@@ -99,7 +99,7 @@
     "got_nerfed": true
   },
   "1273331318834593814": {
-    "coins": 8278,
+    "coins": 8303,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [
@@ -178,7 +178,7 @@
     "chat_count": 45
   },
   "840063640681054228": {
-    "coins": 1973,
+    "coins": 1998,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [],
