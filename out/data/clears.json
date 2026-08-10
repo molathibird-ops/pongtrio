@@ -13022,5 +13022,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "5af90102-bc15-4850-9257-9344efa8db9f"
+  },
+  "3eea4736-22fe-4f44-97c4-3c872f7e79fc": {
+    "user_id": "1264967714095497268",
+    "username": "mangpu_cat",
+    "challenge_id": "530",
+    "difficulty": "P10",
+    "custom_pp": null,
+    "challenge_name": "오.얗로베 다이아몬드.야잏썸터끼븐갓댐😎",
+    "submitted_at": "2026-08-10T18:16:49.450535",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "3eea4736-22fe-4f44-97c4-3c872f7e79fc"
   }
 }
