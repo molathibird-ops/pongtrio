@@ -12890,5 +12890,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "9c8d63da-4be1-4dfd-9754-3243e6538819"
+  },
+  "9f36bbe4-a0d0-4d7d-bcc5-5420e739619b": {
+    "user_id": "1264967714095497268",
+    "username": "mangpu_cat",
+    "challenge_id": "230",
+    "difficulty": "censored",
+    "custom_pp": null,
+    "challenge_name": "흐아암..zZ 😪",
+    "submitted_at": "2026-08-10T17:58:27.495849",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "9f36bbe4-a0d0-4d7d-bcc5-5420e739619b"
   }
 }
