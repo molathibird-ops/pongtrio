@@ -12926,5 +12926,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "4c04df3b-66f6-4653-9541-2c3324492f1e"
+  },
+  "980fddd9-64d5-4178-b7c8-e7fae00dd56d": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "challenge_id": "28",
+    "difficulty": "epic",
+    "custom_pp": null,
+    "challenge_name": "테트리오의 서포터",
+    "submitted_at": "2026-08-10T18:01:10.682345",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "980fddd9-64d5-4178-b7c8-e7fae00dd56d"
   }
 }
