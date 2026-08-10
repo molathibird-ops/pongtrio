@@ -10468,5 +10468,16 @@
     "creator_name": "ria001186",
     "created_at": "2026-08-10T03:12:14.395528",
     "registered_at": "2026-08-10T05:22:43.690336"
+  },
+  "1016": {
+    "name": "과충전 (싸워요)",
+    "description": "warlock에서 서지 24 이상 모으기",
+    "expected_difficulty": "R1",
+    "actual_difficulty": "R1",
+    "custom_pp": null,
+    "creator_id": "1160878200176513034",
+    "creator_name": "haeun_110908",
+    "created_at": "2026-08-10T04:50:42.030235",
+    "registered_at": "2026-08-10T05:25:01.298745"
   }
 }
