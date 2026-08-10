@@ -5083,5 +5083,14 @@
     "status": "registered",
     "submitted_at": "2026-08-10T03:04:00.779197",
     "challenge_id": "1014"
+  },
+  "4595accf": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "warlock lite",
+    "description": "all spin 모드를 킨 채로 흉터를 받지 않고 10층을 가세요!",
+    "expected_difficulty": "G9",
+    "status": "pending",
+    "submitted_at": "2026-08-10T03:12:14.395528"
   }
 }
