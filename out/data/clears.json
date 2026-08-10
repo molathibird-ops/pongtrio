@@ -13130,5 +13130,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "04a937a4-e58b-4ef0-8f51-786fad8d417d"
+  },
+  "de1e43fe-aeb9-4edb-a8b3-49cc71c98856": {
+    "user_id": "840063640681054228",
+    "username": "justicedragon4",
+    "challenge_id": "256",
+    "difficulty": "P20",
+    "custom_pp": null,
+    "challenge_name": "Bismuth",
+    "submitted_at": "2026-08-10T18:44:29.099737",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "de1e43fe-aeb9-4edb-a8b3-49cc71c98856"
   }
 }
