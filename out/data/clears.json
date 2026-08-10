@@ -12830,5 +12830,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "273297c9-d041-4782-bb4b-88ed30df80ed"
+  },
+  "d8098e98-84e6-4875-ad6e-f7a2f704720b": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "challenge_id": "299",
+    "difficulty": "marathon",
+    "custom_pp": null,
+    "challenge_name": "색욕",
+    "submitted_at": "2026-08-10T17:37:33.873746",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "d8098e98-84e6-4875-ad6e-f7a2f704720b"
   }
 }
