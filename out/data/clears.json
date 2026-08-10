@@ -12830,5 +12830,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "76f36453-05e0-45d1-903d-819bccbaa8e3"
+  },
+  "273297c9-d041-4782-bb4b-88ed30df80ed": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "challenge_id": "301",
+    "difficulty": "epic",
+    "custom_pp": null,
+    "challenge_name": "탐욕",
+    "submitted_at": "2026-08-10T17:34:10.020139",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "273297c9-d041-4782-bb4b-88ed30df80ed"
   }
 }
