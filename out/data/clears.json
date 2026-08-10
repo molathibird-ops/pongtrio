@@ -12914,5 +12914,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "c7c46def-c3cd-4784-937e-c3e6bc728c89"
+  },
+  "4c04df3b-66f6-4653-9541-2c3324492f1e": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "challenge_id": "284",
+    "difficulty": "P12",
+    "custom_pp": null,
+    "challenge_name": "깔끔한 등반 v1",
+    "submitted_at": "2026-08-10T17:59:23.521812",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "4c04df3b-66f6-4653-9541-2c3324492f1e"
   }
 }
