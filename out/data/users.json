@@ -11,7 +11,7 @@
     "got_nerfed": true
   },
   "589099128563302483": {
-    "coins": 301,
+    "coins": 326,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [
@@ -178,7 +178,7 @@
     "chat_count": 45
   },
   "840063640681054228": {
-    "coins": 2024,
+    "coins": 2134,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [],
@@ -191,7 +191,7 @@
     "bet_wins": 3,
     "holjjak_streak": 3,
     "got_nerfed": true,
-    "night_clears": 1
+    "night_clears": 2
   },
   "1487076669843050516": {
     "coins": 3203,
@@ -388,14 +388,14 @@
     "chat_count": 21
   },
   "1264967714095497268": {
-    "coins": 2912,
+    "coins": 2913,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [],
     "owned_titles": [],
     "equipped_title": null,
     "profile_color": null,
-    "chat_count": 724,
+    "chat_count": 725,
     "got_nerfed": true,
     "holjjak_streak": 0,
     "night_clears": 9
