@@ -12626,5 +12626,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "25e913d7-2991-4e9b-8e43-ea9261e5c589"
+  },
+  "9696d35d-3211-4870-b874-bd670e4f2630": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "challenge_id": "20",
+    "difficulty": "P16",
+    "custom_pp": null,
+    "challenge_name": "과충전",
+    "submitted_at": "2026-08-10T17:08:58.264860",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "9696d35d-3211-4870-b874-bd670e4f2630"
   }
 }
