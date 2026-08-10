@@ -12974,5 +12974,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "0490778b-3acc-4519-a4cb-be0f36fa2a7a"
+  },
+  "52ae911a-6f99-4cb8-8795-b6baf6c6ca7f": {
+    "user_id": "1264967714095497268",
+    "username": "mangpu_cat",
+    "challenge_id": "7",
+    "difficulty": "epic",
+    "custom_pp": null,
+    "challenge_name": "조현병이되버렷",
+    "submitted_at": "2026-08-10T18:12:03.680634",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "52ae911a-6f99-4cb8-8795-b6baf6c6ca7f"
   }
 }
