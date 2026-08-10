@@ -12474,5 +12474,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "bd09db73-c0b1-4617-9487-eec1c996f1fc"
+  },
+  "ca80a711-1a13-4e05-8760-f0faa47db66f": {
+    "user_id": "1500888020889632870",
+    "username": "aikawakira",
+    "challenge_id": "1012",
+    "difficulty": "P13",
+    "challenge_name": "아니 이건 뭐 못하는거도 아니고....잘하는거도 아니고;;;;",
+    "submitted_at": "2026-08-10T06:14:09.035469",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "ca80a711-1a13-4e05-8760-f0faa47db66f"
   }
 }
