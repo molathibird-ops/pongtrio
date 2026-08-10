@@ -178,7 +178,7 @@
     "chat_count": 45
   },
   "840063640681054228": {
-    "coins": 1873,
+    "coins": 1973,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [],
@@ -190,7 +190,8 @@
     "chat_count": 831,
     "bet_wins": 3,
     "holjjak_streak": 3,
-    "got_nerfed": true
+    "got_nerfed": true,
+    "night_clears": 1
   },
   "1487076669843050516": {
     "coins": 3203,
@@ -1166,7 +1167,7 @@
     "got_nerfed": true
   },
   "1360569227970609293": {
-    "coins": 1177,
+    "coins": 1202,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [],
