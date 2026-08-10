@@ -12782,5 +12782,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "2569c434-5ae6-421a-aed3-9a5d9a59f239"
+  },
+  "7e5f15df-643a-4cb2-85b5-2958ade9217b": {
+    "user_id": "1264967714095497268",
+    "username": "mangpu_cat",
+    "challenge_id": "37",
+    "difficulty": "epic",
+    "custom_pp": null,
+    "challenge_name": "do you have gf/bf?",
+    "submitted_at": "2026-08-10T17:28:37.022952",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "7e5f15df-643a-4cb2-85b5-2958ade9217b"
   }
 }
