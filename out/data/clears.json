@@ -12842,5 +12842,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "d8098e98-84e6-4875-ad6e-f7a2f704720b"
+  },
+  "1843895f-4a3b-44ec-8624-50ebfd6a128a": {
+    "user_id": "1452435595430199356",
+    "username": "_mara_0225",
+    "challenge_id": "646",
+    "difficulty": "P1",
+    "custom_pp": null,
+    "challenge_name": "무시",
+    "submitted_at": "2026-08-10T17:38:07.378444",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "1843895f-4a3b-44ec-8624-50ebfd6a128a"
   }
 }
