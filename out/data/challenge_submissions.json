@@ -5073,5 +5073,14 @@
     "status": "registered",
     "submitted_at": "2026-08-08T04:46:48.602108",
     "challenge_id": "1013"
+  },
+  "404c5df0": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "talentless lite",
+    "description": "all spin 모드를 킨 채로 일반 줄 지우기와 스핀 제로, 싱글만 써서 1,000m에 가세요!",
+    "expected_difficulty": "P20",
+    "status": "pending",
+    "submitted_at": "2026-08-10T03:04:00.779197"
   }
 }
