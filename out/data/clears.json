@@ -12938,5 +12938,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "980fddd9-64d5-4178-b7c8-e7fae00dd56d"
+  },
+  "a8d87266-e84b-48ad-9fa8-4dc38b431d96": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "challenge_id": "839",
+    "difficulty": "P1",
+    "custom_pp": null,
+    "challenge_name": "[쉬운 챌린지 - 2번]",
+    "submitted_at": "2026-08-10T18:02:24.892014",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "a8d87266-e84b-48ad-9fa8-4dc38b431d96"
   }
 }
