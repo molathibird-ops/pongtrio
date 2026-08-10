@@ -12542,5 +12542,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "d3e960cc-c8c4-4f7f-899a-8eac30665e2a"
+  },
+  "8623c265-9b1e-4612-811d-9fde483221a6": {
+    "user_id": "1264967714095497268",
+    "username": "mangpu_cat",
+    "challenge_id": "258",
+    "difficulty": "P1",
+    "custom_pp": null,
+    "challenge_name": "천리 길도 한 걸음부터",
+    "submitted_at": "2026-08-10T15:55:12.718187",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "8623c265-9b1e-4612-811d-9fde483221a6"
   }
 }
