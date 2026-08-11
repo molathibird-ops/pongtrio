@@ -13341,5 +13341,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "01010108-6771-4b8b-9afe-35d99652f90f"
+  },
+  "298e9f11-9740-46b8-95d3-7d0f34350886": {
+    "user_id": "1271709862006489160",
+    "username": "aiscludy",
+    "challenge_id": "106",
+    "difficulty": "P17",
+    "challenge_name": "포와이드 고수",
+    "submitted_at": "2026-08-11T04:31:35.872901",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "298e9f11-9740-46b8-95d3-7d0f34350886"
   }
 }
