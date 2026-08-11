@@ -13319,5 +13319,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "2714586c-9d2c-4f7f-9964-ef44a6945d62"
+  },
+  "ed0b3d12-d76e-4f6e-b973-add760c2f5a7": {
+    "user_id": "1271709862006489160",
+    "username": "aiscludy",
+    "challenge_id": "22",
+    "difficulty": "P17",
+    "challenge_name": "20TSD",
+    "submitted_at": "2026-08-11T04:31:23.918534",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "ed0b3d12-d76e-4f6e-b973-add760c2f5a7"
   }
 }
