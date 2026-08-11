@@ -13330,5 +13330,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "ed0b3d12-d76e-4f6e-b973-add760c2f5a7"
+  },
+  "01010108-6771-4b8b-9afe-35d99652f90f": {
+    "user_id": "1271709862006489160",
+    "username": "aiscludy",
+    "challenge_id": "29",
+    "difficulty": "P17",
+    "challenge_name": "뭐지 블리츤가?",
+    "submitted_at": "2026-08-11T04:31:31.074789",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "01010108-6771-4b8b-9afe-35d99652f90f"
   }
 }
