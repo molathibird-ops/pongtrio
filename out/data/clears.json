@@ -13308,5 +13308,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "99ed41d2-e596-4405-bb01-28fbbb2b089e"
+  },
+  "2714586c-9d2c-4f7f-9964-ef44a6945d62": {
+    "user_id": "1268957307522252",
+    "username": "uvainbow",
+    "challenge_id": "269",
+    "difficulty": "G4",
+    "challenge_name": "니 스페이스바 어디 감?",
+    "submitted_at": "2026-08-11T04:30:47.106627",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "2714586c-9d2c-4f7f-9964-ef44a6945d62"
   }
 }
