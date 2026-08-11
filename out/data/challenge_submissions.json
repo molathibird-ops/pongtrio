@@ -5103,5 +5103,14 @@
     "status": "registered",
     "submitted_at": "2026-08-10T04:50:42.030235",
     "challenge_id": "1016"
+  },
+  "7b9a7ad9": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "왕관의 진정한 주인",
+    "description": "퀵플레이에서 리버스 「Expert」 The Tyrant로 3000미터에 도달하세요.",
+    "expected_difficulty": "Q3",
+    "status": "pending",
+    "submitted_at": "2026-08-11T10:35:00.689986"
   }
 }
