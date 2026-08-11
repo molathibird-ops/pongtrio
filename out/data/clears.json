@@ -13396,5 +13396,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "55464c0a-32e1-4bc7-bf24-1c16e8f32484"
+  },
+  "af438bb6-c996-4f2f-9e27-a0b137b680c7": {
+    "user_id": "12717098626489160",
+    "username": "brntsmsty",
+    "challenge_id": "264",
+    "difficulty": "P17",
+    "challenge_name": "T-스핀 마스터 (reverse)",
+    "submitted_at": "2026-08-11T04:32:35.947884",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "af438bb6-c996-4f2f-9e27-a0b137b680c7"
   }
 }
