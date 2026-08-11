@@ -13352,5 +13352,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "298e9f11-9740-46b8-95d3-7d0f34350886"
+  },
+  "ed65cc6c-9c47-4c61-8751-bfd7403951e4": {
+    "user_id": "1271709862006489160",
+    "username": "aiscludy",
+    "challenge_id": "162",
+    "difficulty": "P17",
+    "challenge_name": "어디로 가야 하오",
+    "submitted_at": "2026-08-11T04:31:45.893030",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "ed65cc6c-9c47-4c61-8751-bfd7403951e4"
   }
 }
