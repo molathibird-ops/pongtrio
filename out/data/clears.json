@@ -13154,5 +13154,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "2834a389-fa16-47c0-ae7d-83efd7e7b9ac"
+  },
+  "dcbf8feb-d7ba-472d-8350-76618a7c2aa3": {
+    "user_id": "1302805449451638854",
+    "username": "eojjeol0244",
+    "challenge_id": "129",
+    "difficulty": "P20",
+    "challenge_name": "방해줄 복사버그;",
+    "submitted_at": "2026-08-11T04:22:09.885404",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "dcbf8feb-d7ba-472d-8350-76618a7c2aa3"
   }
 }
