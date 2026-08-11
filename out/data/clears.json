@@ -13275,5 +13275,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "8698fbc0-10c4-4de2-a5a8-65d68ef4a38c"
+  },
+  "16e7fc56-100a-447b-9d3e-781f38419bf5": {
+    "user_id": "1268957307522252951",
+    "username": "se_eun_ing",
+    "challenge_id": "280",
+    "difficulty": "P8",
+    "challenge_name": "하드하게꽂아줄게",
+    "submitted_at": "2026-08-11T04:27:55.875424",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "16e7fc56-100a-447b-9d3e-781f38419bf5"
   }
 }
