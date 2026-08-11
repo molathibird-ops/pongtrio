@@ -13165,5 +13165,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "dcbf8feb-d7ba-472d-8350-76618a7c2aa3"
+  },
+  "a3f6ce25-9cd2-4ddb-9521-8516982d3539": {
+    "user_id": "1302805449451638854",
+    "username": "eojjeol0244",
+    "challenge_id": "256",
+    "difficulty": "P20",
+    "challenge_name": "Bismuth",
+    "submitted_at": "2026-08-11T04:22:23.394844",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "a3f6ce25-9cd2-4ddb-9521-8516982d3539"
   }
 }
