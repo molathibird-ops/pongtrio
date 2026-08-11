@@ -10490,5 +10490,16 @@
     "creator_name": "rainbow_water",
     "created_at": "2026-08-11T10:35:00.689986",
     "registered_at": "2026-08-11T10:35:30.968674"
+  },
+  "1018": {
+    "name": "<:emoji_65:1505205881204244591>",
+    "description": "퀵플레이에서 X 모양을 만드세요!",
+    "expected_difficulty": "P2",
+    "actual_difficulty": "P2",
+    "custom_pp": null,
+    "creator_id": "1273331318834593814",
+    "creator_name": "ria001186",
+    "created_at": "2026-08-11T10:48:20.089482",
+    "registered_at": "2026-08-11T10:50:56.739335"
   }
 }
