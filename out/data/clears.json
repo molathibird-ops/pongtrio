@@ -13209,5 +13209,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "e0d9f84b-862b-48a9-afc2-05f2a29962a1"
+  },
+  "5650258d-02dd-4b0c-b23b-e29749cfcf98": {
+    "user_id": "4839928",
+    "username": "hellyaelades",
+    "challenge_id": "598",
+    "difficulty": "P20",
+    "challenge_name": "아쉬운거죠 뭐...",
+    "submitted_at": "2026-08-11T04:23:34.741363",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "5650258d-02dd-4b0c-b23b-e29749cfcf98"
   }
 }
