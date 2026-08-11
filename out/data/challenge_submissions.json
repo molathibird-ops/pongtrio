@@ -5113,5 +5113,14 @@
     "status": "registered",
     "submitted_at": "2026-08-11T10:35:00.689986",
     "challenge_id": "1017"
+  },
+  "46257b64": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "<:emoji_65:1505205881204244591>",
+    "description": "퀵플레이에서 X 모양을 만드세요!",
+    "expected_difficulty": "P2",
+    "status": "pending",
+    "submitted_at": "2026-08-11T10:48:20.089482"
   }
 }
