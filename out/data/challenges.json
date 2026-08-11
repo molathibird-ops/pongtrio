@@ -10479,5 +10479,16 @@
     "creator_name": "haeun_110908",
     "created_at": "2026-08-10T04:50:42.030235",
     "registered_at": "2026-08-10T05:25:01.298745"
+  },
+  "1017": {
+    "name": "왕관의 진정한 주인",
+    "description": "퀵플레이에서 리버스 「Expert」 The Tyrant로 3000미터에 도달하세요.",
+    "expected_difficulty": "Q3",
+    "actual_difficulty": "Q3",
+    "custom_pp": null,
+    "creator_id": "589099128563302483",
+    "creator_name": "rainbow_water",
+    "created_at": "2026-08-11T10:35:00.689986",
+    "registered_at": "2026-08-11T10:35:30.968674"
   }
 }
