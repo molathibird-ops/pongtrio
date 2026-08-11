@@ -1,12 +1,12 @@
 {
   "819167210446127105": {
     "username": "myuremi",
-    "general_score": 16636.309999999994,
+    "general_score": 16636.31,
     "rank_score": 4093.5
   },
   "976461145026203730": {
     "username": "tremendous5273",
-    "general_score": 3394.14,
+    "general_score": 3299.14,
     "rank_score": 1364.9
   },
   "1273331318834593814": {
@@ -111,8 +111,8 @@
   },
   "1268957307522252951": {
     "username": "se_eun_ing",
-    "general_score": 45.02,
-    "rank_score": 45.02
+    "general_score": 176.02,
+    "rank_score": 173.64
   },
   "884459111712960573": {
     "username": "sheetBot",
@@ -151,7 +151,7 @@
   },
   "1264967714095497268": {
     "username": "mangpu_cat",
-    "general_score": 22.76000000000001,
+    "general_score": 22.66,
     "rank_score": 20.87
   },
   "759994269720510464": {
@@ -246,8 +246,8 @@
   },
   "1271709862006489160": {
     "username": "aiscludy",
-    "general_score": 100.0,
-    "rank_score": 100.0
+    "general_score": 310.0,
+    "rank_score": 268.0
   },
   "21928378": {
     "username": "tureampu",
@@ -408,5 +408,25 @@
     "username": "treeomma",
     "general_score": 340,
     "rank_score": 331.5
+  },
+  "1302805449451638854": {
+    "username": "eojjeol0244",
+    "general_score": 375,
+    "rank_score": 337.5
+  },
+  "4839928": {
+    "username": "hellyaelades",
+    "general_score": 150,
+    "rank_score": 146.25
+  },
+  "1268957307522252": {
+    "username": "uvainbow",
+    "general_score": 130,
+    "rank_score": 130.0
+  },
+  "12717098626489160": {
+    "username": "brntsmsty",
+    "general_score": 30,
+    "rank_score": 30.0
   }
 }
