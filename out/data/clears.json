@@ -13176,5 +13176,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "a3f6ce25-9cd2-4ddb-9521-8516982d3539"
+  },
+  "e4a60ff5-60a6-4028-9e0e-3967f81332bd": {
+    "user_id": "1302805449451638854",
+    "username": "eojjeol0244",
+    "challenge_id": "316",
+    "difficulty": "P20",
+    "challenge_name": "♏전갈자리",
+    "submitted_at": "2026-08-11T04:22:28.109692",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "e4a60ff5-60a6-4028-9e0e-3967f81332bd"
   }
 }
