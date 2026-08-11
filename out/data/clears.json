@@ -13187,5 +13187,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "e4a60ff5-60a6-4028-9e0e-3967f81332bd"
+  },
+  "8bfeb94b-54ae-40a0-87ff-8d4c22bff528": {
+    "user_id": "1302805449451638854",
+    "username": "eojjeol0244",
+    "challenge_id": "372",
+    "difficulty": "P20",
+    "challenge_name": "속도와 콤보. 모두가 중요해지는 순간",
+    "submitted_at": "2026-08-11T04:22:31.923371",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "8bfeb94b-54ae-40a0-87ff-8d4c22bff528"
   }
 }
