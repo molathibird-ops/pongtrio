@@ -13231,5 +13231,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "ada14454-6bf8-4c41-9783-7786bdc184fd"
+  },
+  "b61da627-3f2e-4e11-be85-dbae40d4551a": {
+    "user_id": "1268957307522252951",
+    "username": "se_eun_ing",
+    "challenge_id": "293",
+    "difficulty": "impossible",
+    "challenge_name": "P E N T A",
+    "submitted_at": "2026-08-11T04:27:32.916068",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "b61da627-3f2e-4e11-be85-dbae40d4551a"
   }
 }
