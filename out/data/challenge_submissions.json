@@ -5123,5 +5123,14 @@
     "status": "registered",
     "submitted_at": "2026-08-11T10:48:20.089482",
     "challenge_id": "1018"
+  },
+  "de241eb2": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "거대한 I 미노",
+    "description": "I미노 4개로 2x8짜리 거대 I미노를 만드세요",
+    "expected_difficulty": "P3",
+    "status": "pending",
+    "submitted_at": "2026-08-12T12:38:24.972096"
   }
 }
