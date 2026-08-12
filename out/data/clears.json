@@ -13443,5 +13443,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "e695a097-4c0e-495a-936d-d2fba278fdad"
+  },
+  "214eec25-ffa8-4613-af4c-1a0848125e7a": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "challenge_id": "577",
+    "difficulty": "G4",
+    "custom_pp": null,
+    "challenge_name": "Powerful",
+    "submitted_at": "2026-08-12T12:07:31.016760",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "214eec25-ffa8-4613-af4c-1a0848125e7a"
   }
 }
