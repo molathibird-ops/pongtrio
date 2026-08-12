@@ -10512,5 +10512,16 @@
     "creator_name": "doyunh2011_alt",
     "created_at": "2026-08-12T12:38:24.972096",
     "registered_at": "2026-08-12T14:13:51.331960"
+  },
+  "1020": {
+    "name": "구마",
+    "description": "double hole garbage 와 duo 모드를 끼고, 상대를 5번 부활시키세요",
+    "expected_difficulty": "P4",
+    "actual_difficulty": "P13",
+    "custom_pp": null,
+    "creator_id": "1485520167420297276",
+    "creator_name": "doyunh2011_alt",
+    "created_at": "2026-08-12T12:51:48.286760",
+    "registered_at": "2026-08-12T14:15:16.160224"
   }
 }
