@@ -5140,8 +5140,9 @@
     "name": "거대한 L미노",
     "description": "L미노 4개로 큰 L미노를 만드세요",
     "expected_difficulty": "P3",
-    "status": "pending",
-    "submitted_at": "2026-08-12T12:38:57.140047"
+    "status": "registered",
+    "submitted_at": "2026-08-12T12:38:57.140047",
+    "challenge_id": "1021"
   },
   "f8e68e74": {
     "user_id": "1485520167420297276",
