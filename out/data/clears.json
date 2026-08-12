@@ -13419,5 +13419,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "4f5c6f9b-29f0-4d09-83a1-441cbf35a5f0"
+  },
+  "11cb9496-d274-4fc4-b3c4-25d2ecb037b7": {
+    "user_id": "1218889894659625070",
+    "username": "pongiscute",
+    "challenge_id": "1016",
+    "difficulty": "G7",
+    "custom_pp": null,
+    "challenge_name": "과충전 (싸워요)",
+    "submitted_at": "2026-08-12T07:53:50.917713",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "11cb9496-d274-4fc4-b3c4-25d2ecb037b7"
   }
 }
