@@ -5130,8 +5130,9 @@
     "name": "거대한 I 미노",
     "description": "I미노 4개로 2x8짜리 거대 I미노를 만드세요",
     "expected_difficulty": "P3",
-    "status": "pending",
-    "submitted_at": "2026-08-12T12:38:24.972096"
+    "status": "registered",
+    "submitted_at": "2026-08-12T12:38:24.972096",
+    "challenge_id": "1019"
   },
   "87abbac3": {
     "user_id": "1485520167420297276",
