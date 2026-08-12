@@ -5132,5 +5132,14 @@
     "expected_difficulty": "P3",
     "status": "pending",
     "submitted_at": "2026-08-12T12:38:24.972096"
+  },
+  "87abbac3": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "거대한 L미노",
+    "description": "L미노 4개로 큰 L미노를 만드세요",
+    "expected_difficulty": "P3",
+    "status": "pending",
+    "submitted_at": "2026-08-12T12:38:57.140047"
   }
 }
