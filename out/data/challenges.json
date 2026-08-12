@@ -10556,5 +10556,16 @@
     "creator_name": "doyunh2011_alt",
     "created_at": "2026-08-12T12:38:57.140047",
     "registered_at": "2026-08-12T19:12:15.169466"
+  },
+  "1024": {
+    "name": "거대한 J미노",
+    "description": "J미노 4개로 거대한 J미노를 만드새요",
+    "expected_difficulty": "P3",
+    "actual_difficulty": "P3",
+    "custom_pp": null,
+    "creator_id": "1485520167420297276",
+    "creator_name": "doyunh2011_alt",
+    "created_at": "2026-08-12T12:39:19.743300",
+    "registered_at": "2026-08-12T19:12:32.510595"
   }
 }
