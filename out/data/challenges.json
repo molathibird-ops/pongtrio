@@ -10501,5 +10501,16 @@
     "creator_name": "ria001186",
     "created_at": "2026-08-11T10:48:20.089482",
     "registered_at": "2026-08-11T10:50:56.739335"
+  },
+  "1019": {
+    "name": "거대한 I 미노",
+    "description": "I미노 4개로 2x8짜리 거대 I미노를 만드세요",
+    "expected_difficulty": "P3",
+    "actual_difficulty": "P3",
+    "custom_pp": null,
+    "creator_id": "1485520167420297276",
+    "creator_name": "doyunh2011_alt",
+    "created_at": "2026-08-12T12:38:24.972096",
+    "registered_at": "2026-08-12T14:13:51.331960"
   }
 }
