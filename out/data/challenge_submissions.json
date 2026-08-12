@@ -5158,7 +5158,8 @@
     "name": "구마",
     "description": "double hole garbage 와 duo 모드를 끼고, 상대를 5번 부활시키세요",
     "expected_difficulty": "P4",
-    "status": "pending",
-    "submitted_at": "2026-08-12T12:51:48.286760"
+    "status": "registered",
+    "submitted_at": "2026-08-12T12:51:48.286760",
+    "challenge_id": "1020"
   }
 }
