@@ -5150,5 +5150,14 @@
     "expected_difficulty": "P3",
     "status": "pending",
     "submitted_at": "2026-08-12T12:39:19.743300"
+  },
+  "1cf61c06": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "구마",
+    "description": "double hole garbage 와 duo 모드를 끼고, 상대를 5번 부활시키세요",
+    "expected_difficulty": "P4",
+    "status": "pending",
+    "submitted_at": "2026-08-12T12:51:48.286760"
   }
 }
