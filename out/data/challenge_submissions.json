@@ -5141,5 +5141,14 @@
     "expected_difficulty": "P3",
     "status": "pending",
     "submitted_at": "2026-08-12T12:38:57.140047"
+  },
+  "f8e68e74": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "거대한 J미노",
+    "description": "J미노 4개로 거대한 J미노를 만드새요",
+    "expected_difficulty": "P3",
+    "status": "pending",
+    "submitted_at": "2026-08-12T12:39:19.743300"
   }
 }
