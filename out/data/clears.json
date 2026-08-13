@@ -13455,5 +13455,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "214eec25-ffa8-4613-af4c-1a0848125e7a"
+  },
+  "c080f825-df87-4207-87b5-3de43c573fda": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "challenge_id": "350",
+    "difficulty": "G2",
+    "custom_pp": null,
+    "challenge_name": "과충전 v2.5",
+    "submitted_at": "2026-08-13T05:30:43.835823",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "c080f825-df87-4207-87b5-3de43c573fda"
   }
 }
