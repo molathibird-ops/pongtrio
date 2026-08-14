@@ -3861,7 +3861,10 @@
     "creator_name": "rainbow_water",
     "created_at": "2026-01-21T00:24:32.505492",
     "registered_at": "2026-01-21T00:38:13.857774",
-    "custom_pp": 400.0
+    "custom_pp": 400.0,
+    "tags": [
+      "변경"
+    ]
   },
   "375": {
     "name": "[포와이드: 진(眞)]",
