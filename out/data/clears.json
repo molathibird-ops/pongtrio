@@ -362,7 +362,8 @@
     "submitted_at": "2026-04-18T11:34:51.405735",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "bca7a196-f73e-4975-9e9e-9299f2ca5366"
+    "clear_id": "bca7a196-f73e-4975-9e9e-9299f2ca5366",
+    "custom_pp": 18.0
   },
   "6479cf48-cd3a-4d53-a1e0-766e08b1ecbe": {
     "user_id": "819167210446127105",
@@ -4525,7 +4526,8 @@
     "submitted_at": "2026-05-21T05:57:44.769718",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "5e87f63c-5cb5-4799-a9df-803b440fd07a"
+    "clear_id": "5e87f63c-5cb5-4799-a9df-803b440fd07a",
+    "custom_pp": 18.0
   },
   "58a3c274-188d-40f3-81c5-66e1a5233541": {
     "user_id": "1485520167420297276",
