@@ -4081,7 +4081,10 @@
     "created_at": "2026-01-21T03:13:27.723910",
     "registered_at": "2026-01-21T03:16:11.683489",
     "curation": "T3H",
-    "custom_pp": null
+    "custom_pp": null,
+    "tags": [
+      "체력"
+    ]
   },
   "401": {
     "name": "악질 포와플롱커",
