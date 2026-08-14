@@ -1290,7 +1290,10 @@
     "creator_name": "myuremi",
     "created_at": "2025-11-22T07:00:54.053154",
     "registered_at": "2025-11-22T07:01:34.127715",
-    "custom_pp": 100.0
+    "custom_pp": 100.0,
+    "tags": [
+      "변경"
+    ]
   },
   "129": {
     "name": "방해줄 복사버그;",
