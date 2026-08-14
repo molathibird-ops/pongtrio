@@ -5644,7 +5644,11 @@
     "creator_name": "rainbow_water",
     "created_at": "2026-04-19T12:36:27.939566",
     "registered_at": "2026-04-19T12:51:00.454326",
-    "curation": "T1"
+    "curation": "T1",
+    "tags": [
+      "순수등반",
+      "행동제한"
+    ]
   },
   "542": {
     "name": "투사주법",
