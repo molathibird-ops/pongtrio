@@ -4328,7 +4328,11 @@
     "creator_name": "tremendous5273",
     "created_at": "2026-01-21T09:14:54.108001",
     "registered_at": "2026-01-21T09:17:56.276844",
-    "curation": "T1"
+    "curation": "T1",
+    "tags": [
+      "순수등반",
+      "행동제한"
+    ]
   },
   "416": {
     "name": "이과식 테트리스",
