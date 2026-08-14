@@ -4539,7 +4539,10 @@
     "creator_name": "team.azure",
     "created_at": "2026-01-21T17:59:13.959038",
     "registered_at": "2026-01-22T03:56:37.986160",
-    "custom_pp": 175.0
+    "custom_pp": 175.0,
+    "tags": [
+      "변경"
+    ]
   },
   "437": {
     "name": "장인은 도구 탓을 하지 않는다",
