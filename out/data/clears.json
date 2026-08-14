@@ -490,13 +490,13 @@
     "user_id": "589099128563302483",
     "username": "rainbow_water",
     "challenge_id": "176",
-    "difficulty": "P16",
+    "difficulty": "censored",
     "challenge_name": "충전기고장난;;;;",
     "submitted_at": "2026-04-18T16:14:36.003061",
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "b04f204e-9569-4e80-9b0a-c2435b67acdb",
-    "custom_pp": 19.0
+    "custom_pp": null
   },
   "30a856c3-c65a-44cf-b0fb-bb88f839b71e": {
     "user_id": "589099128563302483",
@@ -3953,13 +3953,13 @@
     "user_id": "1485520167420297276",
     "username": "distortion05423",
     "challenge_id": "176",
-    "difficulty": "P16",
+    "difficulty": "censored",
     "challenge_name": "충전기고장난;;;;",
     "submitted_at": "2026-05-18T17:11:47.836603",
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "9bf4ad8c-7d31-484f-b21b-6fa290200751",
-    "custom_pp": 19.0
+    "custom_pp": null
   },
   "8ef9e78a-fdb6-4fbb-abea-56e0022bdc0e": {
     "user_id": "1485520167420297276",
@@ -10145,8 +10145,8 @@
     "user_id": "1228338306631073815",
     "username": "qqrqqt",
     "challenge_id": "176",
-    "difficulty": "P16",
-    "custom_pp": 19.0,
+    "difficulty": "censored",
+    "custom_pp": null,
     "challenge_name": "충전기고장난;;;;",
     "submitted_at": "2026-07-28T03:55:02.429754",
     "status": "approved",
