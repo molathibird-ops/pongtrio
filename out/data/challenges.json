@@ -6969,7 +6969,10 @@
     "creator_name": "seonghyeni",
     "created_at": "2026-05-21T07:07:05.569662",
     "registered_at": "2026-05-21T08:04:44.326626",
-    "custom_pp": 100.0
+    "custom_pp": 100.0,
+    "tags": [
+      "변경"
+    ]
   },
   "662": {
     "name": "호텔에서 뛰지마세요",
