@@ -5163,5 +5163,14 @@
     "status": "registered",
     "submitted_at": "2026-08-12T12:51:48.286760",
     "challenge_id": "1020"
+  },
+  "b35b8fc1": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "짬뽕",
+    "description": "the escape artist 모드로 5키만 써서 30분 안에 체력 100만을 깎으세요! (10층 가기: 20만, 2500m 가기: 40만, 4000m: 50만) 등반 도중에 서지가 생기면 안됩니다! (영상 요구, 손캠 요구)",
+    "expected_difficulty": "Q0",
+    "status": "pending",
+    "submitted_at": "2026-08-14T13:57:42.898254"
   }
 }
