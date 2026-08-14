@@ -1838,7 +1838,11 @@
     "creator_name": "rainbow_water",
     "created_at": "2025-11-26T15:40:04.322145",
     "registered_at": "2025-11-27T17:53:02.339181",
-    "curation": "T2"
+    "curation": "T2",
+    "tags": [
+      "순수등반",
+      "행동제한"
+    ]
   },
   "181": {
     "name": "저도 테트리스 좋아해요!",
