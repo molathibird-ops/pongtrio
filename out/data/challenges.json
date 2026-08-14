@@ -6566,7 +6566,10 @@
     "creator_name": "seonghyeni",
     "created_at": "2026-05-04T06:35:29.506062",
     "registered_at": "2026-05-04T06:53:07.294683",
-    "custom_pp": 200.0
+    "custom_pp": 200.0,
+    "tags": [
+      "변경"
+    ]
   },
   "627": {
     "name": "이윽고, 마음을 불태워라.",
