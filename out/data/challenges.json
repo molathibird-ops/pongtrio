@@ -7722,7 +7722,10 @@
     "creator_name": "rainbow_water",
     "created_at": "2026-06-13T06:35:03.311052",
     "registered_at": "2026-06-13T06:35:56.023635",
-    "custom_pp": 230.0
+    "custom_pp": 230.0,
+    "tags": [
+      "변경"
+    ]
   },
   "741": {
     "name": "tetrio high level gameplay",
