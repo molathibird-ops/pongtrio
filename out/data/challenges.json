@@ -1308,7 +1308,10 @@
     "creator_name": "myuremi",
     "created_at": "2025-11-22T07:53:21.448858",
     "registered_at": "2025-11-22T07:53:43.683698",
-    "custom_pp": 122.0
+    "custom_pp": 122.0,
+    "tags": [
+      "순수등반"
+    ]
   },
   "131": {
     "name": "김장",
