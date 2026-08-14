@@ -6974,7 +6974,10 @@
     "creator_name": "seonghyeni",
     "created_at": "2026-05-21T07:11:35.164544",
     "registered_at": "2026-05-21T08:06:31.491124",
-    "custom_pp": 120.0
+    "custom_pp": 120.0,
+    "tags": [
+      "변경"
+    ]
   },
   "663": {
     "name": "제한속도",
