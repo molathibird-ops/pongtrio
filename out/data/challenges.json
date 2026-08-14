@@ -1790,12 +1790,12 @@
     "name": "충전기고장난;;;;",
     "description": "서지를 24에서 끊으세요.",
     "expected_difficulty": "P15",
-    "actual_difficulty": "P16",
+    "actual_difficulty": "censored",
     "creator_id": "976461145026203730",
     "creator_name": "tremendous5273",
     "created_at": "2025-11-26T16:05:21.624718",
     "registered_at": "2025-11-26T16:06:36.107184",
-    "custom_pp": 19.0
+    "custom_pp": null
   },
   "177": {
     "name": "죄악",
