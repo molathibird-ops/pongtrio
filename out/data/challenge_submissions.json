@@ -5180,7 +5180,8 @@
     "name": "I am better than mochbot 1.5",
     "description": "1.5pps 모치봇보다 pps를 더 느리게 하거나 같게해서 한판 승리하세요",
     "expected_difficulty": "U2",
-    "status": "pending",
-    "submitted_at": "2026-08-16T11:33:14.462893"
+    "status": "registered",
+    "submitted_at": "2026-08-16T11:33:14.462893",
+    "challenge_id": "1026"
   }
 }
