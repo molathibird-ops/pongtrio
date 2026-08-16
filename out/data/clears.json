@@ -13469,5 +13469,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "c080f825-df87-4207-87b5-3de43c573fda"
+  },
+  "f7033f8e-086a-40b8-b5d8-530b7ee879fa": {
+    "user_id": "1269918374800916543",
+    "username": "sssranker0_60429",
+    "challenge_id": "303",
+    "difficulty": "U2",
+    "custom_pp": null,
+    "challenge_name": "칠죄종",
+    "submitted_at": "2026-08-16T11:25:30.373999",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "f7033f8e-086a-40b8-b5d8-530b7ee879fa"
   }
 }
