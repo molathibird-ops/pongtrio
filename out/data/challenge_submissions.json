@@ -5173,5 +5173,14 @@
     "status": "registered",
     "submitted_at": "2026-08-14T13:57:42.898254",
     "challenge_id": "1025"
+  },
+  "1dcc083d": {
+    "user_id": "1269918374800916543",
+    "username": "sssranker0_60429",
+    "name": "I am better than mochbot 1.5",
+    "description": "1.5pps 모치봇보다 pps를 더 느리게 하거나 같게해서 한판 승리하세요",
+    "expected_difficulty": "U2",
+    "status": "pending",
+    "submitted_at": "2026-08-16T11:33:14.462893"
   }
 }
