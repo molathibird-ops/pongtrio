@@ -1520,11 +1520,12 @@
     "name": "國士無雙 (국사무쌍)",
     "description": "퀵플레이 한국 1위를 달성하세요.(실시간 리더보드가 아닌 기록 리더보드를 기준으로 함)",
     "expected_difficulty": "impossible",
-    "actual_difficulty": "impossible",
+    "actual_difficulty": "censored",
     "creator_id": "976461145026203730",
     "creator_name": "tremendous5273",
     "created_at": "2025-11-24T10:57:18.098503",
-    "registered_at": "2025-11-24T11:39:57.429577"
+    "registered_at": "2025-11-24T11:39:57.429577",
+    "custom_pp": null
   },
   "146": {
     "name": "작별인사",
