@@ -5190,7 +5190,8 @@
     "name": "너는 핵이야 😡",
     "description": "teal루프로 apm 10000를뽑으시오",
     "expected_difficulty": "impossible",
-    "status": "pending",
-    "submitted_at": "2026-08-17T17:19:09.854842"
+    "status": "registered",
+    "submitted_at": "2026-08-17T17:19:09.854842",
+    "challenge_id": "1027"
   }
 }
