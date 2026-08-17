@@ -13493,5 +13493,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "ddfda777-f8c8-4906-ab64-8e543059a6f3"
+  },
+  "9fbe51fe-8fbf-48a1-9bda-6d620120ec9c": {
+    "user_id": "1452435595430199356",
+    "username": "_mara_0225",
+    "challenge_id": "441",
+    "difficulty": "P17",
+    "custom_pp": null,
+    "challenge_name": "전두엽 파괴자",
+    "submitted_at": "2026-08-17T14:06:17.463121",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "9fbe51fe-8fbf-48a1-9bda-6d620120ec9c"
   }
 }
