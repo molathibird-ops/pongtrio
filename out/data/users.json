@@ -273,7 +273,8 @@
     "owned_colors": [],
     "owned_titles": [],
     "equipped_title": null,
-    "profile_color": null
+    "profile_color": null,
+    "got_nerfed": true
   },
   "1304967658663579803": {
     "coins": 202,
@@ -727,7 +728,7 @@
     "holjjak_streak": 7
   },
   "1452435595430199356": {
-    "coins": 2834,
+    "coins": 2835,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [],
@@ -736,7 +737,7 @@
     ],
     "equipped_title": "스텔",
     "profile_color": null,
-    "chat_count": 10302,
+    "chat_count": 10303,
     "best_lottery": 3,
     "bet_wins": 2,
     "holjjak_streak": 0,
