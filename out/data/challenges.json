@@ -6771,7 +6771,10 @@
     "creator_name": "minjirno_loharei",
     "created_at": "2026-04-25T16:08:41.317430",
     "registered_at": "2026-04-25T16:11:42.161377",
-    "curation": "T2H"
+    "curation": "T2H",
+    "tags": [
+      "순수등반"
+    ]
   },
   "609": {
     "name": "Mercury",
