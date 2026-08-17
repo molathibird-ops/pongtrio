@@ -5789,7 +5789,7 @@
     "name": "RAINBOW",
     "description": "퀵플레이에서 스핀 클리어를 하세요. 단, 스핀을 하는 미노의 순서는 무지개 색상의 순서여야 하며( <:piece_z:1234179927385968762> -> <:piece_l:1234179851670388937> -> <:piece_o:1234179871215980594> -> <:piece_s:1234179891419811882> -> <:piece_i:1234179817008664626> -> <:piece_j:1234179835014807696> -> <:piece_t:1234179908326920294> ), 1000미터 이상 등반해야 합니다.",
     "expected_difficulty": "P20",
-    "actual_difficulty": "P17",
+    "actual_difficulty": "impossible",
     "creator_id": "589099128563302483",
     "creator_name": "rainbow_water",
     "created_at": "2026-04-16T06:48:59.147821",
@@ -5798,7 +5798,8 @@
     "tags": [
       "순수등반",
       "행동제한"
-    ]
+    ],
+    "custom_pp": null
   },
   "525": {
     "name": "듀오쇼다운",
