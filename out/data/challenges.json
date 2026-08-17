@@ -2750,7 +2750,11 @@
     "created_at": "2026-01-04T01:16:04.832587",
     "registered_at": "2026-01-05T04:38:32.588132",
     "curation": "T1",
-    "custom_pp": null
+    "custom_pp": null,
+    "tags": [
+      "순수등반",
+      "행동제한"
+    ]
   },
   "256": {
     "name": "Bismuth",
