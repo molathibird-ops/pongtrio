@@ -13518,5 +13518,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "449234a4-73f9-4c6a-a87d-516ded6a5668"
+  },
+  "b226f4a1-aa2a-4847-89a0-6a4b4a9e439a": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "challenge_id": "486",
+    "difficulty": "censored",
+    "custom_pp": null,
+    "challenge_name": "사회적 죽음",
+    "submitted_at": "2026-08-17T17:07:18.214257",
+    "status": "pending",
+    "felt_difficulty": "시발",
+    "clear_id": "b226f4a1-aa2a-4847-89a0-6a4b4a9e439a"
   }
 }
