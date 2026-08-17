@@ -7373,7 +7373,11 @@
     "creator_name": "rainbow_water",
     "created_at": "2026-05-21T07:13:13.479912",
     "registered_at": "2026-05-21T08:07:11.574520",
-    "curation": "T1"
+    "curation": "T1",
+    "tags": [
+      "순수등반",
+      "행동제한"
+    ]
   },
   "664": {
     "name": "과속",
