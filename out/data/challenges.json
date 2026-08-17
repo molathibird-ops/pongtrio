@@ -11278,5 +11278,16 @@
     "creator_name": "sssranker0_60429",
     "created_at": "2026-08-16T11:33:14.462893",
     "registered_at": "2026-08-16T11:36:16.654454"
+  },
+  "1027": {
+    "name": "너는 핵이야 😡",
+    "description": "teal루프로 apm 10000를뽑으시오",
+    "expected_difficulty": "impossible",
+    "actual_difficulty": "impossible",
+    "custom_pp": null,
+    "creator_id": "1452435595430199356",
+    "creator_name": "_mara_0225",
+    "created_at": "2026-08-17T17:19:09.854842",
+    "registered_at": "2026-08-17T17:19:37.009453"
   }
 }
