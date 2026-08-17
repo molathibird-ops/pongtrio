@@ -5495,7 +5495,11 @@
     "created_at": "2026-01-28T09:22:00.243307",
     "registered_at": "2026-01-28T09:31:59.146220",
     "curation": "T2",
-    "custom_pp": null
+    "custom_pp": null,
+    "tags": [
+      "순수등반",
+      "행동제한"
+    ]
   },
   "501": {
     "name": "[ns] - MAXIMUM OUTPUT",
