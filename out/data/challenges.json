@@ -3174,11 +3174,12 @@
     "name": "P E N T A",
     "description": "퀵플에서 penta를 하세요!",
     "expected_difficulty": "G7",
-    "actual_difficulty": "impossible",
+    "actual_difficulty": "epic",
     "creator_id": "1273331318834593814",
     "creator_name": "ria001186",
     "created_at": "2026-01-12T09:01:33.715092",
-    "registered_at": "2026-01-12T09:09:19.624736"
+    "registered_at": "2026-01-12T09:09:19.624736",
+    "custom_pp": null
   },
   "294": {
     "name": "사랑의 최고점",
