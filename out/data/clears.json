@@ -13706,5 +13706,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "6fa952e5-7705-47f8-ba8a-e420ad330c23"
+  },
+  "a565aa36-4e23-43a6-a0f1-f81e9f3e2924": {
+    "user_id": "1452435595430199356",
+    "username": "_mara_0225",
+    "challenge_id": "64",
+    "difficulty": "censored",
+    "custom_pp": null,
+    "challenge_name": "완벽주의자",
+    "submitted_at": "2026-08-19T16:12:52.269764",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "a565aa36-4e23-43a6-a0f1-f81e9f3e2924"
   }
 }
