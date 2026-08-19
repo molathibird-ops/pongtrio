@@ -13607,5 +13607,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "e230d7bc-a59d-4c85-8a0c-aa0938d22409"
+  },
+  "6cb06429-6486-453c-bafa-2e684f45532f": {
+    "user_id": "88848844949",
+    "username": "hunpfer223",
+    "challenge_id": "339",
+    "difficulty": "G2",
+    "challenge_name": "호텔 안 늪지",
+    "submitted_at": "2026-08-19T14:37:30.140392",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "6cb06429-6486-453c-bafa-2e684f45532f"
   }
 }
