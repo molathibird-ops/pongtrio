@@ -13662,5 +13662,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "cfe71829-c5d5-4e7d-9932-a32359b20943"
+  },
+  "be67dab4-7329-4417-ac30-a8ed0d15204b": {
+    "user_id": "04038292010202",
+    "username": "gijunanji",
+    "challenge_id": "669",
+    "difficulty": "P18",
+    "challenge_name": "견습간호사",
+    "submitted_at": "2026-08-19T14:38:48.719409",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "be67dab4-7329-4417-ac30-a8ed0d15204b"
   }
 }
