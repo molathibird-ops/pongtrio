@@ -13574,5 +13574,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "913ce96c-0b8b-4059-bfe3-49b1feb7cd9b"
+  },
+  "85ae2a9e-04e8-4d84-ab9d-ee61498bce84": {
+    "user_id": "4949383893",
+    "username": "swampingpo",
+    "challenge_id": "207",
+    "difficulty": "G2",
+    "challenge_name": "뭐야 이게 돼?",
+    "submitted_at": "2026-08-19T14:36:48.639020",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "85ae2a9e-04e8-4d84-ab9d-ee61498bce84"
   }
 }
