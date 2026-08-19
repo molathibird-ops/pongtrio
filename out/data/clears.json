@@ -13673,5 +13673,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "be67dab4-7329-4417-ac30-a8ed0d15204b"
+  },
+  "01ca9abb-7d84-492b-bae7-9dd0618d710b": {
+    "user_id": "04038292010202",
+    "username": "gijunanji",
+    "challenge_id": "733",
+    "difficulty": "P18",
+    "challenge_name": "쌓기 숙련자",
+    "submitted_at": "2026-08-19T14:39:01.431028",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "01ca9abb-7d84-492b-bae7-9dd0618d710b"
   }
 }
