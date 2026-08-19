@@ -13695,5 +13695,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "6a95d50c-c65b-4887-b8b1-0c2f48378df3"
+  },
+  "6fa952e5-7705-47f8-ba8a-e420ad330c23": {
+    "user_id": "04038292010202",
+    "username": "gijunanji",
+    "challenge_id": "764",
+    "difficulty": "P18",
+    "challenge_name": "파란색...",
+    "submitted_at": "2026-08-19T14:39:11.430175",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "6fa952e5-7705-47f8-ba8a-e420ad330c23"
   }
 }
