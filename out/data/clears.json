@@ -13530,5 +13530,16 @@
     "status": "approved",
     "felt_difficulty": "시발",
     "clear_id": "b226f4a1-aa2a-4847-89a0-6a4b4a9e439a"
+  },
+  "0bc8b4fe-cba8-4b45-b496-b6683f3f840c": {
+    "user_id": "3937362672",
+    "username": "848ejeeo",
+    "challenge_id": "278",
+    "difficulty": "P4",
+    "challenge_name": "좀비는시계!나도왕년엔킹카였다고!",
+    "submitted_at": "2026-08-19T14:32:55.358373",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "0bc8b4fe-cba8-4b45-b496-b6683f3f840c"
   }
 }
