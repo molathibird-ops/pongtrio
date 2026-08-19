@@ -13629,5 +13629,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "40c65890-a64f-4f6b-9b4d-561c119cda15"
+  },
+  "bbe63dee-d0d3-46ce-992b-81ba5b356d2a": {
+    "user_id": "88848844949",
+    "username": "hunpfer223",
+    "challenge_id": "387",
+    "difficulty": "P18",
+    "challenge_name": "우리 자치구 포와 퍼클 왕",
+    "submitted_at": "2026-08-19T14:38:11.183769",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "bbe63dee-d0d3-46ce-992b-81ba5b356d2a"
   }
 }
