@@ -13585,5 +13585,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "85ae2a9e-04e8-4d84-ab9d-ee61498bce84"
+  },
+  "3c9a00ff-67bf-41aa-85aa-874b59a12333": {
+    "user_id": "88848844",
+    "username": "moduledemon",
+    "challenge_id": "207",
+    "difficulty": "G2",
+    "challenge_name": "뭐야 이게 돼?",
+    "submitted_at": "2026-08-19T14:37:05.530665",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "3c9a00ff-67bf-41aa-85aa-874b59a12333"
   }
 }
