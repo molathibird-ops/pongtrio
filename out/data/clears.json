@@ -13640,5 +13640,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "bbe63dee-d0d3-46ce-992b-81ba5b356d2a"
+  },
+  "424ec2fa-901e-41c8-a418-b7f348edc11c": {
+    "user_id": "04038292010202",
+    "username": "gijunanji",
+    "challenge_id": "266",
+    "difficulty": "P18",
+    "challenge_name": "텐코 시부키",
+    "submitted_at": "2026-08-19T14:38:38.432582",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "424ec2fa-901e-41c8-a418-b7f348edc11c"
   }
 }
