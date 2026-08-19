@@ -13684,5 +13684,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "01ca9abb-7d84-492b-bae7-9dd0618d710b"
+  },
+  "6a95d50c-c65b-4887-b8b1-0c2f48378df3": {
+    "user_id": "04038292010202",
+    "username": "gijunanji",
+    "challenge_id": "763",
+    "difficulty": "P18",
+    "challenge_name": "주황색...",
+    "submitted_at": "2026-08-19T14:39:05.929374",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "6a95d50c-c65b-4887-b8b1-0c2f48378df3"
   }
 }
