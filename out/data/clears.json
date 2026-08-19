@@ -13541,5 +13541,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "0bc8b4fe-cba8-4b45-b496-b6683f3f840c"
+  },
+  "21a8ebfc-3563-4afb-82e6-56022e94c1fe": {
+    "user_id": "3837262792049",
+    "username": "earthpcking",
+    "challenge_id": "390",
+    "difficulty": "G15",
+    "challenge_name": "지구 포와 퍼클 왕",
+    "submitted_at": "2026-08-19T14:33:23.577133",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "21a8ebfc-3563-4afb-82e6-56022e94c1fe"
   }
 }
