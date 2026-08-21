@@ -13730,5 +13730,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "8c5b74db-d91e-4876-b8fc-a3c62d290540"
+  },
+  "7fb468c9-1a73-41a9-84c6-22083cf1baf5": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "challenge_id": "1031",
+    "difficulty": "R3",
+    "custom_pp": null,
+    "challenge_name": "maybe faster than you",
+    "submitted_at": "2026-08-21T12:59:22.077584",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "7fb468c9-1a73-41a9-84c6-22083cf1baf5"
   }
 }
