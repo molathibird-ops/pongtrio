@@ -5229,5 +5229,14 @@
     "expected_difficulty": "G15",
     "status": "pending",
     "submitted_at": "2026-08-21T10:56:43.694772"
+  },
+  "ac2de72b": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "5hanになりたい (Nerfed)",
+    "description": "ゲーム中、3pps以上で10階に到達してください！",
+    "expected_difficulty": "G13",
+    "status": "pending",
+    "submitted_at": "2026-08-21T10:57:50.130820"
   }
 }
