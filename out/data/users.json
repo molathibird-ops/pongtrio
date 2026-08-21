@@ -267,7 +267,7 @@
     "got_nerfed": true
   },
   "1268957307522252951": {
-    "coins": 1201,
+    "coins": 1701,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [],
@@ -1415,6 +1415,42 @@
   },
   "88848844949": {
     "coins": 1000,
+    "balance": 0,
+    "total_spent": 0,
+    "owned_colors": [],
+    "owned_titles": [],
+    "equipped_title": null,
+    "profile_color": null
+  },
+  "3837262792049": {
+    "coins": 500,
+    "balance": 0,
+    "total_spent": 0,
+    "owned_colors": [],
+    "owned_titles": [],
+    "equipped_title": null,
+    "profile_color": null
+  },
+  "88848844": {
+    "coins": 500,
+    "balance": 0,
+    "total_spent": 0,
+    "owned_colors": [],
+    "owned_titles": [],
+    "equipped_title": null,
+    "profile_color": null
+  },
+  "4949383893": {
+    "coins": 500,
+    "balance": 0,
+    "total_spent": 0,
+    "owned_colors": [],
+    "owned_titles": [],
+    "equipped_title": null,
+    "profile_color": null
+  },
+  "3937362672": {
+    "coins": 500,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [],
