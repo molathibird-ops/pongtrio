@@ -5240,8 +5240,9 @@
     "name": "5hanになりたい (Nerfed)",
     "description": "ゲーム中、3pps以上で10階に到達してください！",
     "expected_difficulty": "G13",
-    "status": "pending",
-    "submitted_at": "2026-08-21T10:57:50.130820"
+    "status": "registered",
+    "submitted_at": "2026-08-21T10:57:50.130820",
+    "challenge_id": "1032"
   },
   "78576a20": {
     "user_id": "1273331318834593814",
