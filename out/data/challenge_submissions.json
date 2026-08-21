@@ -5247,5 +5247,14 @@
     "expected_difficulty": "G10",
     "status": "pending",
     "submitted_at": "2026-08-21T11:01:25.263040"
+  },
+  "11eb6fd3": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "신중한 결정 (Nerfed)",
+    "description": "No hold, messier garbage 모드를 키고 300m를 가세요!",
+    "expected_difficulty": "P11",
+    "status": "pending",
+    "submitted_at": "2026-08-21T11:03:46.378158"
   }
 }
