@@ -5280,7 +5280,8 @@
     "name": "짬뽕 (Nerfed)",
     "description": "messier, double hole, volatile 모드로 6키만 써서 30분 안에 체력 100만을 깎으세요! (10층 가기: 20만, 2500m 가기: 40만, 4000m: 50만) 등반 도중에 서지가 8 이상이면 안됩니다! (영상 요구, 손캠 요구)",
     "expected_difficulty": "R4",
-    "status": "pending",
-    "submitted_at": "2026-08-21T11:10:32.680461"
+    "status": "registered",
+    "submitted_at": "2026-08-21T11:10:32.680461",
+    "challenge_id": "1036"
   }
 }
