@@ -9879,11 +9879,12 @@
     "name": "신중한 결정",
     "description": "No hold, messier garbage 모드를 키고 스핀 없이 300m를 가세요!",
     "expected_difficulty": "P12",
-    "actual_difficulty": "P12",
+    "actual_difficulty": "P13",
     "creator_id": "1273331318834593814",
     "creator_name": "ria001186",
     "created_at": "2026-07-14T11:59:16.235654",
-    "registered_at": "2026-07-14T11:59:36.635482"
+    "registered_at": "2026-07-14T11:59:36.635482",
+    "custom_pp": null
   },
   "896": {
     "name": "테무산 워록",
