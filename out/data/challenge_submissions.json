@@ -5260,8 +5260,9 @@
     "name": "신중한 결정 (Nerfed)",
     "description": "No hold, messier garbage 모드를 키고 300m를 가세요!",
     "expected_difficulty": "P11",
-    "status": "pending",
-    "submitted_at": "2026-08-21T11:03:46.378158"
+    "status": "registered",
+    "submitted_at": "2026-08-21T11:03:46.378158",
+    "challenge_id": "1034"
   },
   "ac354f2b": {
     "user_id": "1273331318834593814",
