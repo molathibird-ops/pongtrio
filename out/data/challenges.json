@@ -11406,5 +11406,16 @@
     "creator_name": "ria001186",
     "created_at": "2026-08-21T10:49:21.106836",
     "registered_at": "2026-08-21T12:43:50.502166"
+  },
+  "1029": {
+    "name": "퍼클루프 (Nerfed)",
+    "description": "40l에서 퍼클을 4번 하세요!",
+    "expected_difficulty": "P11",
+    "actual_difficulty": "P11",
+    "custom_pp": null,
+    "creator_id": "1273331318834593814",
+    "creator_name": "ria001186",
+    "created_at": "2026-08-21T10:53:04.132129",
+    "registered_at": "2026-08-21T12:45:23.316549"
   }
 }
