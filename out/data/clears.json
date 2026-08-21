@@ -13718,5 +13718,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "a565aa36-4e23-43a6-a0f1-f81e9f3e2924"
+  },
+  "8c5b74db-d91e-4876-b8fc-a3c62d290540": {
+    "user_id": "1452435595430199356",
+    "username": "_mara_0225",
+    "challenge_id": "92",
+    "difficulty": "P13",
+    "custom_pp": null,
+    "challenge_name": "스핀 마스터",
+    "submitted_at": "2026-08-21T06:50:24.837192",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "8c5b74db-d91e-4876-b8fc-a3c62d290540"
   }
 }
