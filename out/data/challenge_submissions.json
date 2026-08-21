@@ -5193,5 +5193,14 @@
     "status": "registered",
     "submitted_at": "2026-08-17T17:19:09.854842",
     "challenge_id": "1027"
+  },
+  "608c0cb7": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "퀵플 아니였나요? (Nerfed)",
+    "description": "센포로만 100m를 가세요!",
+    "expected_difficulty": "P6",
+    "status": "pending",
+    "submitted_at": "2026-08-21T10:49:21.106836"
   }
 }
