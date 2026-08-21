@@ -11456,5 +11456,16 @@
     "creator_name": "ria001186",
     "created_at": "2026-08-21T10:57:50.130820",
     "registered_at": "2026-08-21T13:03:11.383926"
+  },
+  "1033": {
+    "name": "𝓝𝓮𝓸𝓭𝓚𝓪 (Nerfed)",
+    "description": "\"두 인물이 되어 빛을 내리라.\" - 첫번째에는 1.0m, 두번째에는 1999.9m를 간 뒤 마지막은 듀오모드로 1,000.0m를 가세요! (연속플레이 요구, 영상 자료 요구, 마지막 듀오 제외 다른 모드 금지)",
+    "expected_difficulty": "G10",
+    "actual_difficulty": "R1",
+    "custom_pp": null,
+    "creator_id": "1273331318834593814",
+    "creator_name": "ria001186",
+    "created_at": "2026-08-21T11:01:25.263040",
+    "registered_at": "2026-08-21T13:04:15.062073"
   }
 }
