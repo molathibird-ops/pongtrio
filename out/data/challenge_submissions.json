@@ -5210,8 +5210,9 @@
     "name": "퍼클루프 (Nerfed)",
     "description": "40l에서 퍼클을 4번 하세요!",
     "expected_difficulty": "P11",
-    "status": "pending",
-    "submitted_at": "2026-08-21T10:53:04.132129"
+    "status": "registered",
+    "submitted_at": "2026-08-21T10:53:04.132129",
+    "challenge_id": "1029"
   },
   "09b45951": {
     "user_id": "1273331318834593814",
