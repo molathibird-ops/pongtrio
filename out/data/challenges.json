@@ -11431,5 +11431,16 @@
     "tags": [
       "행동제한"
     ]
+  },
+  "1031": {
+    "name": "maybe faster than you",
+    "description": "Finish 40l with 4pps",
+    "expected_difficulty": "G15",
+    "actual_difficulty": "R3",
+    "custom_pp": null,
+    "creator_id": "1273331318834593814",
+    "creator_name": "ria001186",
+    "created_at": "2026-08-21T10:56:43.694772",
+    "registered_at": "2026-08-21T12:50:03.657038"
   }
 }
