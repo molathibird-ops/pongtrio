@@ -5238,5 +5238,14 @@
     "expected_difficulty": "G13",
     "status": "pending",
     "submitted_at": "2026-08-21T10:57:50.130820"
+  },
+  "78576a20": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "𝓝𝓮𝓸𝓭𝓚𝓪 (Nerfed)",
+    "description": "\"두 인물이 되어 빛을 내리라.\" - 첫번째에는 1.0m, 두번째에는 1999.9m를 간 뒤 마지막은 듀오모드로 1,000.0m를 가세요! (연속플레이 요구, 영상 자료 요구, 마지막 듀오 제외 다른 모드 금지)",
+    "expected_difficulty": "G10",
+    "status": "pending",
+    "submitted_at": "2026-08-21T11:01:25.263040"
   }
 }
