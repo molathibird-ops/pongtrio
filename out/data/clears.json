@@ -13766,5 +13766,17 @@
     "status": "approved",
     "felt_difficulty": "P17",
     "clear_id": "730b816f-9236-4200-b886-fd2eebe75111"
+  },
+  "d9985122-65f5-404e-8a99-7e1ba2f08476": {
+    "user_id": "832746057443573801",
+    "username": "simple1011",
+    "challenge_id": "12",
+    "difficulty": "marathon",
+    "custom_pp": null,
+    "challenge_name": "뉴비도 가능한 스피드런",
+    "submitted_at": "2026-08-21T16:35:54.378407",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "d9985122-65f5-404e-8a99-7e1ba2f08476"
   }
 }
