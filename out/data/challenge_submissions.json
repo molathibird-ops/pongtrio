@@ -5230,8 +5230,9 @@
     "name": "maybe faster than you",
     "description": "Finish 40l with 4pps",
     "expected_difficulty": "G15",
-    "status": "pending",
-    "submitted_at": "2026-08-21T10:56:43.694772"
+    "status": "registered",
+    "submitted_at": "2026-08-21T10:56:43.694772",
+    "challenge_id": "1031"
   },
   "ac2de72b": {
     "user_id": "1273331318834593814",
