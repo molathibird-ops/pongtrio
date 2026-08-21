@@ -5283,5 +5283,14 @@
     "status": "registered",
     "submitted_at": "2026-08-21T11:10:32.680461",
     "challenge_id": "1036"
+  },
+  "c461d0fe": {
+    "user_id": "840063640681054228",
+    "username": "justicedragon4",
+    "name": "1분에 180개",
+    "description": "스프린트를 3pps 이상으로 완주하세요.",
+    "expected_difficulty": "R0",
+    "status": "pending",
+    "submitted_at": "2026-08-21T15:02:58.827965"
   }
 }
