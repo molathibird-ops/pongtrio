@@ -5256,5 +5256,14 @@
     "expected_difficulty": "P11",
     "status": "pending",
     "submitted_at": "2026-08-21T11:03:46.378158"
+  },
+  "ac354f2b": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "몸이 기억해 (Nerfed)",
+    "description": "invisible 모드를 켜고 루프빌드를 3번 반복하세요! (dpc까지가 과정이라면 2회처리)",
+    "expected_difficulty": "P10",
+    "status": "pending",
+    "submitted_at": "2026-08-21T11:07:44.510137"
   }
 }
