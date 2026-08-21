@@ -5292,5 +5292,14 @@
     "expected_difficulty": "R0",
     "status": "pending",
     "submitted_at": "2026-08-21T15:02:58.827965"
+  },
+  "2bfe164a": {
+    "user_id": "840063640681054228",
+    "username": "justicedragon4",
+    "name": "하버드 부재중 전화 +99",
+    "description": "1가방이 100%인 자작빌드 하나를 만드세요.",
+    "expected_difficulty": "epic",
+    "status": "pending",
+    "submitted_at": "2026-08-21T15:05:01.352119"
   }
 }
