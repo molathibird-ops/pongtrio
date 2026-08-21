@@ -5220,5 +5220,14 @@
     "expected_difficulty": "G6",
     "status": "pending",
     "submitted_at": "2026-08-21T10:55:27.697181"
+  },
+  "23c7dced": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "maybe faster than you",
+    "description": "Finish 40l with 4pps",
+    "expected_difficulty": "G15",
+    "status": "pending",
+    "submitted_at": "2026-08-21T10:56:43.694772"
   }
 }
