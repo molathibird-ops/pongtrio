@@ -5200,8 +5200,9 @@
     "name": "퀵플 아니였나요? (Nerfed)",
     "description": "센포로만 100m를 가세요!",
     "expected_difficulty": "P6",
-    "status": "pending",
-    "submitted_at": "2026-08-21T10:49:21.106836"
+    "status": "registered",
+    "submitted_at": "2026-08-21T10:49:21.106836",
+    "challenge_id": "1028"
   },
   "c7ec9b7f": {
     "user_id": "1273331318834593814",
