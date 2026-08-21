@@ -5202,5 +5202,14 @@
     "expected_difficulty": "P6",
     "status": "pending",
     "submitted_at": "2026-08-21T10:49:21.106836"
+  },
+  "c7ec9b7f": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "퍼클루프 (Nerfed)",
+    "description": "40l에서 퍼클을 4번 하세요!",
+    "expected_difficulty": "P11",
+    "status": "pending",
+    "submitted_at": "2026-08-21T10:53:04.132129"
   }
 }
