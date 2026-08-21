@@ -5302,5 +5302,14 @@
     "status": "registered",
     "submitted_at": "2026-08-21T15:05:01.352119",
     "challenge_id": "1037"
+  },
+  "20318538": {
+    "user_id": "840063640681054228",
+    "username": "justicedragon4",
+    "name": "꾸이꾸이!!!",
+    "description": "리그에서 자멸하세요.",
+    "expected_difficulty": "censored",
+    "status": "pending",
+    "submitted_at": "2026-08-21T15:06:14.100745"
   }
 }
