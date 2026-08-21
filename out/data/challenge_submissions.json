@@ -5211,5 +5211,14 @@
     "expected_difficulty": "P11",
     "status": "pending",
     "submitted_at": "2026-08-21T10:53:04.132129"
+  },
+  "09b45951": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "OVERLOAD (Nerfed)",
+    "description": "volatile과 expert 모드를 켜고 오직 센포만 써 650m에 도달하세요! (센포 구축을 위한 방해줄 깎기는 인정, 백투백이 4 이상 이면 안됨)",
+    "expected_difficulty": "G6",
+    "status": "pending",
+    "submitted_at": "2026-08-21T10:55:27.697181"
   }
 }
