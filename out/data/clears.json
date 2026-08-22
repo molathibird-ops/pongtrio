@@ -13802,5 +13802,17 @@
     "status": "approved",
     "felt_difficulty": "P6974",
     "clear_id": "8b16d21f-b03d-42b3-9996-0ffcbe1e7546"
+  },
+  "e8be8a72-4090-4163-bf09-47de87098d7a": {
+    "user_id": "1218889894659625070",
+    "username": "pongiscute",
+    "challenge_id": "804",
+    "difficulty": "U2",
+    "custom_pp": 650.0,
+    "challenge_name": "머글 출입금지 (EX)",
+    "submitted_at": "2026-08-22T02:25:19.140715",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "e8be8a72-4090-4163-bf09-47de87098d7a"
   }
 }
