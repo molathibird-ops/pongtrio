@@ -8991,7 +8991,11 @@
     "creator_name": "ria001186",
     "created_at": "2026-06-27T16:19:20.432115",
     "registered_at": "2026-06-27T16:20:05.640156",
-    "curation": "T2H"
+    "curation": "T2H",
+    "tags": [
+      "영상",
+      "손캠"
+    ]
   },
   "812": {
     "name": "마라탕",
