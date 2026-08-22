@@ -13838,5 +13838,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "8673798d-d7b8-4169-9aad-ec909e25fe00"
+  },
+  "24320928-6d3b-471a-a3c4-8d6996ad1fe9": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "challenge_id": "455",
+    "difficulty": "G18",
+    "custom_pp": null,
+    "challenge_name": "다중우주",
+    "submitted_at": "2026-08-22T04:02:54.942116",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "24320928-6d3b-471a-a3c4-8d6996ad1fe9"
   }
 }
