@@ -13814,5 +13814,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "e8be8a72-4090-4163-bf09-47de87098d7a"
+  },
+  "3288de7d-0404-4c5e-a42a-489619364373": {
+    "user_id": "1487076669843050516",
+    "username": "d.axe_",
+    "challenge_id": "375",
+    "difficulty": "U2",
+    "custom_pp": null,
+    "challenge_name": "[포와이드: 진(眞)]",
+    "submitted_at": "2026-08-22T02:43:11.586151",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "3288de7d-0404-4c5e-a42a-489619364373"
   }
 }
