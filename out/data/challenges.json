@@ -11556,5 +11556,16 @@
     "creator_name": "myuremi",
     "created_at": "2026-08-23T15:20:44.969947",
     "registered_at": "2026-08-23T15:20:56.924226"
+  },
+  "1040": {
+    "name": "シェリーちゃ可愛い大好きえらいねすごいね天才",
+    "description": "파란색 계열로 미노로 스핀을 50번 형성하세요!",
+    "expected_difficulty": "R1",
+    "actual_difficulty": "R1",
+    "custom_pp": null,
+    "creator_id": "1273331318834593814",
+    "creator_name": "ria001186",
+    "created_at": "2026-08-23T15:56:55.454700",
+    "registered_at": "2026-08-23T16:41:00.015260"
   }
 }
