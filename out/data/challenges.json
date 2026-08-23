@@ -11126,7 +11126,7 @@
     "name": "1001",
     "description": "퀵플레이에서 1001m를 달성하세요.",
     "expected_difficulty": "P14",
-    "actual_difficulty": "P15",
+    "actual_difficulty": "censored",
     "custom_pp": null,
     "creator_id": "840063640681054228",
     "creator_name": "justicedragon4",
