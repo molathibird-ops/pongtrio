@@ -5322,5 +5322,14 @@
     "status": "registered",
     "submitted_at": "2026-08-23T15:20:44.969947",
     "challenge_id": "1039"
+  },
+  "3895c8aa": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "シェリーちゃ可愛い大好きえらいねすごいね天才",
+    "description": "파란색 계열로 미노로 스핀을 50번 형성하세요!",
+    "expected_difficulty": "R1",
+    "status": "pending",
+    "submitted_at": "2026-08-23T15:56:55.454700"
   }
 }
