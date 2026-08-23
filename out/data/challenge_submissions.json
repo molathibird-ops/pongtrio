@@ -5312,5 +5312,14 @@
     "status": "registered",
     "submitted_at": "2026-08-21T15:06:14.100745",
     "challenge_id": "1038"
+  },
+  "108d1d95": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "name": "강제뉴비",
+    "description": "전문가 모드를 켠 상태로 등반 속도를 2 이하를 유지해 5층을 가세요!",
+    "expected_difficulty": "G8",
+    "status": "pending",
+    "submitted_at": "2026-08-23T15:20:44.969947"
   }
 }
