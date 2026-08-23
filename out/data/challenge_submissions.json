@@ -5329,7 +5329,8 @@
     "name": "シェリーちゃ可愛い大好きえらいねすごいね天才",
     "description": "파란색 계열로 미노로 스핀을 50번 형성하세요!",
     "expected_difficulty": "R1",
-    "status": "pending",
-    "submitted_at": "2026-08-23T15:56:55.454700"
+    "status": "registered",
+    "submitted_at": "2026-08-23T15:56:55.454700",
+    "challenge_id": "1040"
   }
 }
