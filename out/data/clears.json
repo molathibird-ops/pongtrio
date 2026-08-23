@@ -13874,5 +13874,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "f6976158-62ce-4575-8c15-ec142067c84f"
+  },
+  "cfd30c05-f0ae-41ae-8b87-f2f5058bab43": {
+    "user_id": "1269918374800916543",
+    "username": "sssranker0_60429",
+    "challenge_id": "337",
+    "difficulty": "R3",
+    "custom_pp": null,
+    "challenge_name": "무(無)재능",
+    "submitted_at": "2026-08-23T07:48:33.904503",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "cfd30c05-f0ae-41ae-8b87-f2f5058bab43"
   }
 }
