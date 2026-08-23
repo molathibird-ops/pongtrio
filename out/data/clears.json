@@ -13862,5 +13862,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "fc6c27db-dcd2-4c5f-bd33-307ca2b91907"
+  },
+  "68c68a70-7bd3-424f-bdbb-bec65daae783": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "challenge_id": "555",
+    "difficulty": "gimmick",
+    "custom_pp": null,
+    "challenge_name": "볼드모트",
+    "submitted_at": "2026-08-23T05:28:14.508868",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "68c68a70-7bd3-424f-bdbb-bec65daae783"
   }
 }
