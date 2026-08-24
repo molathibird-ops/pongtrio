@@ -14043,5 +14043,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "bb8976f9-471d-41fe-9cde-9e61556908b4"
+  },
+  "1bbfe7eb-e0d1-42af-8a1b-75fe7aa7c080": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "challenge_id": "953",
+    "difficulty": "R0",
+    "custom_pp": null,
+    "challenge_name": "우주쓰레기",
+    "submitted_at": "2026-08-24T14:04:56.735505",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "1bbfe7eb-e0d1-42af-8a1b-75fe7aa7c080"
   }
 }
