@@ -13921,5 +13921,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "1f66e21b-e5fe-49d2-9a54-9c24642c4adf"
+  },
+  "a04436ea-2007-4fdd-b895-2c2cec755f81": {
+    "user_id": "94837289550",
+    "username": "firstingang",
+    "challenge_id": "11",
+    "difficulty": "G1",
+    "challenge_name": "정상",
+    "submitted_at": "2026-08-24T13:00:51.055219",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "a04436ea-2007-4fdd-b895-2c2cec755f81"
   }
 }
