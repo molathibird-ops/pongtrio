@@ -10527,7 +10527,7 @@
     "name": "우주쓰레기",
     "description": "messier garbage 모드를 킨 상태로 10층을 가세요!",
     "expected_difficulty": "G4",
-    "actual_difficulty": "R0",
+    "actual_difficulty": "G2",
     "custom_pp": null,
     "creator_id": "1273331318834593814",
     "creator_name": "ria001186",
