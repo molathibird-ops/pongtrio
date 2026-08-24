@@ -14020,5 +14020,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "079e949e-0dae-487c-96bb-12847dac3e9e"
+  },
+  "249fd3ca-a71d-4033-9421-e309a770973f": {
+    "user_id": "303375373",
+    "username": "quartzhired",
+    "challenge_id": "804",
+    "difficulty": "U2",
+    "challenge_name": "머글 출입금지 (EX)",
+    "submitted_at": "2026-08-24T13:06:23.545829",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "249fd3ca-a71d-4033-9421-e309a770973f"
   }
 }
