@@ -13976,5 +13976,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "63559eae-427a-4974-8622-518119619bd0"
+  },
+  "804ea960-c275-4881-a63a-4bdd1d134969": {
+    "user_id": "281374",
+    "username": "thirdiltwo",
+    "challenge_id": "281",
+    "difficulty": "G20",
+    "challenge_name": "F1 드라이버",
+    "submitted_at": "2026-08-24T13:04:09.159958",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "804ea960-c275-4881-a63a-4bdd1d134969"
   }
 }
