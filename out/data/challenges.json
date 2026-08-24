@@ -10631,7 +10631,7 @@
     "name": "효율의 극치",
     "description": "Block Rationing 모드로 공격을 300 이상 보내세요.",
     "expected_difficulty": "R1",
-    "actual_difficulty": "R1",
+    "actual_difficulty": "G4",
     "custom_pp": null,
     "creator_id": "976461145026203730",
     "creator_name": "tremendous5273",
