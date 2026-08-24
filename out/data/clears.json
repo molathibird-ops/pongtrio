@@ -13898,5 +13898,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "701d6588-c365-461f-8073-3633e6830f8b"
+  },
+  "b0cab64d-0b41-460e-8746-6ddaf1ccc1ed": {
+    "user_id": "1218889894659625070",
+    "username": "pongiscute",
+    "challenge_id": "281",
+    "difficulty": "G20",
+    "custom_pp": null,
+    "challenge_name": "F1 드라이버",
+    "submitted_at": "2026-08-24T12:13:17.885558",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "b0cab64d-0b41-460e-8746-6ddaf1ccc1ed"
   }
 }
