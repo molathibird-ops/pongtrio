@@ -13998,5 +13998,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "86bd6ab0-88fa-4db0-8087-8e2c26eb850d"
+  },
+  "950db02b-340f-45d8-b2db-fd590e102639": {
+    "user_id": "303375373",
+    "username": "quartzhired",
+    "challenge_id": "303",
+    "difficulty": "U2",
+    "challenge_name": "칠죄종",
+    "submitted_at": "2026-08-24T13:06:07.863018",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "950db02b-340f-45d8-b2db-fd590e102639"
   }
 }
