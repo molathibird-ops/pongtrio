@@ -13987,5 +13987,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "804ea960-c275-4881-a63a-4bdd1d134969"
+  },
+  "86bd6ab0-88fa-4db0-8087-8e2c26eb850d": {
+    "user_id": "281374",
+    "username": "thirdiltwo",
+    "challenge_id": "374",
+    "difficulty": "G20",
+    "challenge_name": "포와이드 챌린저",
+    "submitted_at": "2026-08-24T13:04:15.025679",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "86bd6ab0-88fa-4db0-8087-8e2c26eb850d"
   }
 }
