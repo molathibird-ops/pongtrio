@@ -13943,5 +13943,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "c5237842-fef0-4fc6-a0b1-f10d3756a130"
+  },
+  "b250e49c-dc9d-477c-8c9c-390aec26de76": {
+    "user_id": "848472829",
+    "username": "secondilemma",
+    "challenge_id": "381",
+    "difficulty": "G18",
+    "challenge_name": "모던한 클래식",
+    "submitted_at": "2026-08-24T13:03:23.426899",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "b250e49c-dc9d-477c-8c9c-390aec26de76"
   }
 }
