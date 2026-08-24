@@ -13886,5 +13886,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "cfd30c05-f0ae-41ae-8b87-f2f5058bab43"
+  },
+  "701d6588-c365-461f-8073-3633e6830f8b": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "598",
+    "difficulty": "P20",
+    "custom_pp": 95.0,
+    "challenge_name": "아쉬운거죠 뭐...",
+    "submitted_at": "2026-08-24T11:48:43.561295",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "701d6588-c365-461f-8073-3633e6830f8b"
   }
 }
