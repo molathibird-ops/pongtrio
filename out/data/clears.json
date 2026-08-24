@@ -13932,5 +13932,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "a04436ea-2007-4fdd-b895-2c2cec755f81"
+  },
+  "c5237842-fef0-4fc6-a0b1-f10d3756a130": {
+    "user_id": "94837289550",
+    "username": "firstingang",
+    "challenge_id": "127",
+    "difficulty": "G1",
+    "challenge_name": "차르봄바",
+    "submitted_at": "2026-08-24T13:01:00.094748",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "c5237842-fef0-4fc6-a0b1-f10d3756a130"
   }
 }
