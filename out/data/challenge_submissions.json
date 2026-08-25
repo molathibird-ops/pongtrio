@@ -5514,5 +5514,14 @@
     "expected_difficulty": "R3",
     "status": "pending",
     "submitted_at": "2026-08-25T23:27:47.395803"
+  },
+  "b36211cc": {
+    "user_id": "1228338306631073815",
+    "username": "gim.jon",
+    "name": "느엥",
+    "description": "올스핀 모드로 1분 10초 이내 10층에 도달하세요!",
+    "expected_difficulty": "U2",
+    "status": "pending",
+    "submitted_at": "2026-08-25T23:56:41.788432"
   }
 }
