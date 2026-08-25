@@ -11567,5 +11567,16 @@
     "creator_name": "ria001186",
     "created_at": "2026-08-23T15:56:55.454700",
     "registered_at": "2026-08-23T16:41:00.015260"
+  },
+  "1041": {
+    "name": "FIN!!!!",
+    "description": "FIN을 만들고 성공시키세요",
+    "expected_difficulty": "P5",
+    "actual_difficulty": "P5",
+    "custom_pp": null,
+    "creator_id": "1485520167420297276",
+    "creator_name": "doyunh2011_alt",
+    "created_at": "2026-08-25T11:40:40.044371",
+    "registered_at": "2026-08-25T11:41:44.913110"
   }
 }
