@@ -1464,5 +1464,15 @@
     "owned_titles": [],
     "equipped_title": null,
     "profile_color": null
+  },
+  "1541833948097937555": {
+    "coins": 1,
+    "balance": 0,
+    "total_spent": 0,
+    "owned_colors": [],
+    "owned_titles": [],
+    "equipped_title": null,
+    "profile_color": null,
+    "chat_count": 1
   }
 }
