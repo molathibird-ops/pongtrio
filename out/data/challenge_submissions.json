@@ -5414,5 +5414,14 @@
     "expected_difficulty": "G3",
     "status": "pending",
     "submitted_at": "2026-08-25T16:25:33.552824"
+  },
+  "3dbf05d5": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "흉터도 많으면 아파요",
+    "description": "올스핀 모드로(warlock ㄴㄴ) 흉터 20줄을 받으세요",
+    "expected_difficulty": "P3",
+    "status": "pending",
+    "submitted_at": "2026-08-25T16:28:15.238552"
   }
 }
