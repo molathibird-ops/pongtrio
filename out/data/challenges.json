@@ -11578,5 +11578,16 @@
     "creator_name": "doyunh2011_alt",
     "created_at": "2026-08-25T11:40:40.044371",
     "registered_at": "2026-08-25T11:41:44.913110"
+  },
+  "1042": {
+    "name": "NĀGALOKAḤ",
+    "description": "10콤보를 잇는데 콤보 중 O미노 더블이 포함되세요!",
+    "expected_difficulty": "P14",
+    "actual_difficulty": "P13",
+    "custom_pp": null,
+    "creator_id": "1541833948097937555",
+    "creator_name": "team_chimera",
+    "created_at": "2026-08-25T15:52:06.208750",
+    "registered_at": "2026-08-25T16:31:02.844736"
   }
 }
