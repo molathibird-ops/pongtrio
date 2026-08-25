@@ -5349,8 +5349,9 @@
     "name": "NĀGALOKAḤ",
     "description": "10콤보를 잇는데 콤보 중 O미노 더블이 포함되세요!",
     "expected_difficulty": "P14",
-    "status": "pending",
-    "submitted_at": "2026-08-25T15:52:06.208750"
+    "status": "registered",
+    "submitted_at": "2026-08-25T15:52:06.208750",
+    "challenge_id": "1042"
   },
   "a1a04099": {
     "user_id": "1541833948097937555",
