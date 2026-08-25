@@ -5460,5 +5460,14 @@
     "expected_difficulty": "marathon",
     "status": "pending",
     "submitted_at": "2026-08-25T23:20:05.292467"
+  },
+  "a3d64630": {
+    "user_id": "1228338306631073815",
+    "username": "gim.jon",
+    "name": "느엥 v2",
+    "description": "올스핀 모드로 2분 50초 이내 7층에 도달하세요!",
+    "expected_difficulty": "G5",
+    "status": "pending",
+    "submitted_at": "2026-08-25T23:24:00.974921"
   }
 }
