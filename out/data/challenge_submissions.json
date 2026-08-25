@@ -5360,5 +5360,14 @@
     "expected_difficulty": "P20",
     "status": "pending",
     "submitted_at": "2026-08-25T15:54:30.359654"
+  },
+  "0a86ceee": {
+    "user_id": "1541833948097937555",
+    "username": "team_chimera",
+    "name": "LET ME COOK",
+    "description": "중반 Td어택을 만들고 방해줄을 받아 죽으세요!",
+    "expected_difficulty": "P9",
+    "status": "pending",
+    "submitted_at": "2026-08-25T15:59:48.121660"
   }
 }
