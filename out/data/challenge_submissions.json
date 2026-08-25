@@ -5339,7 +5339,8 @@
     "name": "FIN!!!!",
     "description": "FIN을 만들고 성공시키세요",
     "expected_difficulty": "P5",
-    "status": "pending",
-    "submitted_at": "2026-08-25T11:40:40.044371"
+    "status": "registered",
+    "submitted_at": "2026-08-25T11:40:40.044371",
+    "challenge_id": "1041"
   }
 }
