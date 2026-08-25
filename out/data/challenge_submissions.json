@@ -5451,5 +5451,14 @@
     "expected_difficulty": "G4",
     "status": "pending",
     "submitted_at": "2026-08-25T23:18:40.847953"
+  },
+  "1d35a980": {
+    "user_id": "1541833948097937555",
+    "username": "team_chimera",
+    "name": "BITE ME MORE PLS",
+    "description": "퀵플에서 1시간 이내에 200번 자결하세요!",
+    "expected_difficulty": "marathon",
+    "status": "pending",
+    "submitted_at": "2026-08-25T23:20:05.292467"
   }
 }
