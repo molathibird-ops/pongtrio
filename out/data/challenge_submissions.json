@@ -5342,5 +5342,14 @@
     "status": "registered",
     "submitted_at": "2026-08-25T11:40:40.044371",
     "challenge_id": "1041"
+  },
+  "fdf32594": {
+    "user_id": "1541833948097937555",
+    "username": "team_chimera",
+    "name": "NĀGALOKAḤ",
+    "description": "10콤보를 잇는데 콤보 중 O미노 더블이 포함되세요!",
+    "expected_difficulty": "P14",
+    "status": "pending",
+    "submitted_at": "2026-08-25T15:52:06.208750"
   }
 }
