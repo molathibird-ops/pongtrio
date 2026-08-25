@@ -5442,5 +5442,14 @@
     "expected_difficulty": "P19",
     "status": "pending",
     "submitted_at": "2026-08-25T23:16:13.116210"
+  },
+  "2d489a55": {
+    "user_id": "1541833948097937555",
+    "username": "team_chimera",
+    "name": "MAMBO COMBO",
+    "description": "오직 센포만을 써 하이퍼스피드를 실행시키세요!",
+    "expected_difficulty": "G4",
+    "status": "pending",
+    "submitted_at": "2026-08-25T23:18:40.847953"
   }
 }
