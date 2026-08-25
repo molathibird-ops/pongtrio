@@ -14055,5 +14055,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "1bbfe7eb-e0d1-42af-8a1b-75fe7aa7c080"
+  },
+  "cec4dcb0-3710-4850-b220-06018aac0c7b": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "1041",
+    "difficulty": "P5",
+    "custom_pp": null,
+    "challenge_name": "FIN!!!!",
+    "submitted_at": "2026-08-25T11:56:13.328398",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "cec4dcb0-3710-4850-b220-06018aac0c7b"
   }
 }
