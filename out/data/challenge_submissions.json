@@ -5351,5 +5351,14 @@
     "expected_difficulty": "P14",
     "status": "pending",
     "submitted_at": "2026-08-25T15:52:06.208750"
+  },
+  "a1a04099": {
+    "user_id": "1541833948097937555",
+    "username": "team_chimera",
+    "name": "Blackfire Backfire",
+    "description": "14대미지 이상 플롱킹 하고 10초 이내 30스파이크 이상 보내세요!",
+    "expected_difficulty": "P20",
+    "status": "pending",
+    "submitted_at": "2026-08-25T15:54:30.359654"
   }
 }
