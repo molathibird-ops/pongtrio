@@ -5332,5 +5332,14 @@
     "status": "registered",
     "submitted_at": "2026-08-23T15:56:55.454700",
     "challenge_id": "1040"
+  },
+  "2beeb87c": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "FIN!!!!",
+    "description": "FIN을 만들고 성공시키세요",
+    "expected_difficulty": "P5",
+    "status": "pending",
+    "submitted_at": "2026-08-25T11:40:40.044371"
   }
 }
