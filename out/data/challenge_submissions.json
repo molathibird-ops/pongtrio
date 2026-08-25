@@ -5424,5 +5424,14 @@
     "expected_difficulty": "P3",
     "status": "pending",
     "submitted_at": "2026-08-25T16:28:15.238552"
+  },
+  "48def8dc": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "왜 살",
+    "description": "warlock 모드에서 특수 쓰레기줄을 받고 살아남으세요",
+    "expected_difficulty": "P15",
+    "status": "pending",
+    "submitted_at": "2026-08-25T22:57:23.327850"
   }
 }
