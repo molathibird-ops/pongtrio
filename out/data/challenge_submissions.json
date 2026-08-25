@@ -5396,5 +5396,14 @@
     "expected_difficulty": "P4",
     "status": "pending",
     "submitted_at": "2026-08-25T16:07:44.551094"
+  },
+  "d82d90d6": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "더도 말고 덜도 말고....",
+    "description": "100에서 200사이의 난수를 하나 설정한 후, 정확히 그 숫자만큼의 줄을 퀵플에서 지우고 죽으세요",
+    "expected_difficulty": "P3",
+    "status": "pending",
+    "submitted_at": "2026-08-25T16:17:42.457378"
   }
 }
