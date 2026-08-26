@@ -11666,5 +11666,16 @@
     "creator_name": "gim.jon",
     "created_at": "2026-08-25T16:25:33.552824",
     "registered_at": "2026-08-26T07:46:45.788154"
+  },
+  "1050": {
+    "name": "흉터도 많으면 아파요",
+    "description": "올스핀 모드로(warlock ㄴㄴ) 흉터 20줄을 받으세요",
+    "expected_difficulty": "P3",
+    "actual_difficulty": "P3",
+    "custom_pp": null,
+    "creator_id": "1485520167420297276",
+    "creator_name": "doyunh2011_alt",
+    "created_at": "2026-08-25T16:28:15.238552",
+    "registered_at": "2026-08-26T07:49:18.394951"
   }
 }
