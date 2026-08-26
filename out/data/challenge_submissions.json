@@ -5568,7 +5568,8 @@
     "name": "Chimera Dragons",
     "description": "10층을 가는데 조건이 있습니다!\n\n0~1분: 스핀 금지\n1~2분: T-spin, QUAD만 허용\n2~3분: 시간 안에 8콤보하기\n3분+: 쓰레기줄 싱글로만 깎기",
     "expected_difficulty": "R4",
-    "status": "pending",
-    "submitted_at": "2026-08-26T07:12:48.878114"
+    "status": "registered",
+    "submitted_at": "2026-08-26T07:12:48.878114",
+    "challenge_id": "1063"
   }
 }
