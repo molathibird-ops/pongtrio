@@ -5610,5 +5610,14 @@
     "expected_difficulty": "G17",
     "status": "pending",
     "submitted_at": "2026-08-26T11:17:39.392199"
+  },
+  "a69b70ff": {
+    "user_id": "1541833948097937555",
+    "username": "team_chimera",
+    "name": "__XYBERR//DRACOO__",
+    "description": "custom에서 3분 안에 total mayhem 가방으로 b2b 60을 모으세요!",
+    "expected_difficulty": "U5",
+    "status": "pending",
+    "submitted_at": "2026-08-26T11:20:37.529759"
   }
 }
