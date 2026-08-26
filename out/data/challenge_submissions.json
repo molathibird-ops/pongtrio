@@ -5409,8 +5409,9 @@
     "name": "더도 말고 덜도 말고....",
     "description": "100에서 200사이의 난수를 하나 설정한 후, 정확히 그 숫자만큼의 줄을 퀵플에서 지우고 죽으세요",
     "expected_difficulty": "P3",
-    "status": "pending",
-    "submitted_at": "2026-08-25T16:17:42.457378"
+    "status": "registered",
+    "submitted_at": "2026-08-25T16:17:42.457378",
+    "challenge_id": "1048"
   },
   "1720b983": {
     "user_id": "1228338306631073815",
