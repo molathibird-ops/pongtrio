@@ -11611,5 +11611,16 @@
     "creator_name": "team_chimera",
     "created_at": "2026-08-25T15:59:48.121660",
     "registered_at": "2026-08-26T07:41:08.732520"
+  },
+  "1045": {
+    "name": "DT 중독자",
+    "description": "퀵플 한판에서 중반 DT를 3번 이상 성공하세요",
+    "expected_difficulty": "P12",
+    "actual_difficulty": "P11",
+    "custom_pp": null,
+    "creator_id": "1485520167420297276",
+    "creator_name": "doyunh2011_alt",
+    "created_at": "2026-08-25T16:01:08.619449",
+    "registered_at": "2026-08-26T07:41:43.561629"
   }
 }
