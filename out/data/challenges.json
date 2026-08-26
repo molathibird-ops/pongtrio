@@ -11881,5 +11881,16 @@
     "creator_name": "team_chimera",
     "created_at": "2026-08-26T11:20:37.529759",
     "registered_at": "2026-08-26T11:46:34.935188"
+  },
+  "1069": {
+    "name": "Glitch Out",
+    "description": "홀수번째 미노를 둘 순서에서는 홀드, 짝수번째는 홀드를 쓰지 않은 채로 5층을 가세요!",
+    "expected_difficulty": "P18",
+    "actual_difficulty": "P17",
+    "custom_pp": null,
+    "creator_id": "1541833948097937555",
+    "creator_name": "team_chimera",
+    "created_at": "2026-08-26T11:22:58.243972",
+    "registered_at": "2026-08-26T11:47:25.379870"
   }
 }
