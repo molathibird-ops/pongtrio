@@ -14160,7 +14160,7 @@
     "custom_pp": null,
     "challenge_name": "퀵플 아니였나요? (Nerfed)",
     "submitted_at": "2026-08-26T08:18:54.551368",
-    "status": "pending",
+    "status": "approved",
     "felt_difficulty": null,
     "clear_id": "3be11a3e-c25b-4db2-b9e3-77243dbd3c56"
   },
@@ -14172,7 +14172,7 @@
     "custom_pp": 0.5,
     "challenge_name": "운빨스프린터",
     "submitted_at": "2026-08-26T08:22:03.606971",
-    "status": "pending",
+    "status": "approved",
     "felt_difficulty": null,
     "clear_id": "8de17db7-5609-4b88-bdff-0012e5068a67"
   }
