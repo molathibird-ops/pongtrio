@@ -14136,7 +14136,7 @@
     "custom_pp": null,
     "challenge_name": "NĀGALOKAḤ",
     "submitted_at": "2026-08-26T08:12:30.366049",
-    "status": "pending",
+    "status": "approved",
     "felt_difficulty": null,
     "clear_id": "7c633673-03ac-40be-b081-ee98d45da34d"
   },
@@ -14148,7 +14148,7 @@
     "custom_pp": 3.0,
     "challenge_name": "신중한 결정 (Nerfed)",
     "submitted_at": "2026-08-26T08:16:21.649246",
-    "status": "pending",
+    "status": "approved",
     "felt_difficulty": null,
     "clear_id": "f80f7a0e-ea52-4a36-aa14-4cc082133bda"
   },
