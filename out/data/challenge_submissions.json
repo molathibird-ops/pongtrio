@@ -5655,5 +5655,14 @@
     "expected_difficulty": "G14",
     "status": "pending",
     "submitted_at": "2026-08-26T11:36:48.692421"
+  },
+  "37e1d6d4": {
+    "user_id": "1541833948097937555",
+    "username": "team_chimera",
+    "name": "Hottest Take Machine",
+    "description": "expert 모드를 킨 채로 30줄을 지우세요! (단, APP가 0이여야 함.)",
+    "expected_difficulty": "G1",
+    "status": "pending",
+    "submitted_at": "2026-08-26T11:40:48.083358"
   }
 }
