@@ -5429,8 +5429,9 @@
     "name": "흉터도 많으면 아파요",
     "description": "올스핀 모드로(warlock ㄴㄴ) 흉터 20줄을 받으세요",
     "expected_difficulty": "P3",
-    "status": "pending",
-    "submitted_at": "2026-08-25T16:28:15.238552"
+    "status": "registered",
+    "submitted_at": "2026-08-25T16:28:15.238552",
+    "challenge_id": "1050"
   },
   "48def8dc": {
     "user_id": "1485520167420297276",
