@@ -14091,5 +14091,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "0f1ed611-efff-49ce-b664-f05b5df8937a"
+  },
+  "462a3010-2ea5-4137-b5e2-5ddb518b7f56": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "1023",
+    "difficulty": "P3",
+    "custom_pp": null,
+    "challenge_name": "거대한 L미노",
+    "submitted_at": "2026-08-26T07:58:17.069992",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "462a3010-2ea5-4137-b5e2-5ddb518b7f56"
   }
 }
