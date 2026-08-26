@@ -11743,5 +11743,16 @@
     "creator_name": "team_chimera",
     "created_at": "2026-08-25T23:24:30.012427",
     "registered_at": "2026-08-26T07:52:47.722303"
+  },
+  "1057": {
+    "name": "느엥v3",
+    "description": "올스핀 모드로 1분 50초 이내 7층에 도달하세요!",
+    "expected_difficulty": "G16",
+    "actual_difficulty": "R2",
+    "custom_pp": null,
+    "creator_id": "1228338306631073815",
+    "creator_name": "gim.jon",
+    "created_at": "2026-08-25T23:25:16.493619",
+    "registered_at": "2026-08-26T07:54:09.748217"
   }
 }
