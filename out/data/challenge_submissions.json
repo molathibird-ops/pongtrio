@@ -5558,8 +5558,9 @@
     "name": "흐에v3",
     "description": "올스핀 모드로 3분 50초 이내 2000m에 도달하세요!",
     "expected_difficulty": "U2",
-    "status": "pending",
-    "submitted_at": "2026-08-25T23:58:23.100317"
+    "status": "registered",
+    "submitted_at": "2026-08-25T23:58:23.100317",
+    "challenge_id": "1062"
   },
   "d9f8ec5e": {
     "user_id": "1541833948097937555",
