@@ -5664,5 +5664,14 @@
     "expected_difficulty": "G1",
     "status": "pending",
     "submitted_at": "2026-08-26T11:40:48.083358"
+  },
+  "96b65b1a": {
+    "user_id": "1541833948097937555",
+    "username": "team_chimera",
+    "name": "magical, very magical world",
+    "description": "all spin 모드를 켠 채로 5층을 가세요! (단, 스핀은 트리플만 가능하고, 5층을 가는 도중 백투백이 한번이라도 생겨야합니다.)",
+    "expected_difficulty": "G1",
+    "status": "pending",
+    "submitted_at": "2026-08-26T11:43:11.885926"
   }
 }
