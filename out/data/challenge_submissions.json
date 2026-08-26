@@ -5459,8 +5459,9 @@
     "name": "MAMBO COMBO",
     "description": "오직 센포만을 써 하이퍼스피드를 실행시키세요!",
     "expected_difficulty": "G4",
-    "status": "pending",
-    "submitted_at": "2026-08-25T23:18:40.847953"
+    "status": "registered",
+    "submitted_at": "2026-08-25T23:18:40.847953",
+    "challenge_id": "1053"
   },
   "1d35a980": {
     "user_id": "1541833948097937555",
