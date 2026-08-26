@@ -5618,8 +5618,9 @@
     "name": "__XYBERR//DRACOO__",
     "description": "custom에서 3분 안에 total mayhem 가방으로 b2b 60을 모으세요!",
     "expected_difficulty": "U5",
-    "status": "pending",
-    "submitted_at": "2026-08-26T11:20:37.529759"
+    "status": "registered",
+    "submitted_at": "2026-08-26T11:20:37.529759",
+    "challenge_id": "1068"
   },
   "f36c799e": {
     "user_id": "1541833948097937555",
