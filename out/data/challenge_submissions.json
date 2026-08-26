@@ -5548,8 +5548,9 @@
     "name": "흐에 v2",
     "description": "올스핀 모드로 3분 50초 이내 10층에 도달하세요!",
     "expected_difficulty": "G18",
-    "status": "pending",
-    "submitted_at": "2026-08-25T23:57:39.927540"
+    "status": "registered",
+    "submitted_at": "2026-08-25T23:57:39.927540",
+    "challenge_id": "1061"
   },
   "a709eae4": {
     "user_id": "1228338306631073815",
