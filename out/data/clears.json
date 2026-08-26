@@ -14139,5 +14139,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "7c633673-03ac-40be-b081-ee98d45da34d"
+  },
+  "f80f7a0e-ea52-4a36-aa14-4cc082133bda": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "1034",
+    "difficulty": "P11",
+    "custom_pp": 3.0,
+    "challenge_name": "신중한 결정 (Nerfed)",
+    "submitted_at": "2026-08-26T08:16:21.649246",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "f80f7a0e-ea52-4a36-aa14-4cc082133bda"
   }
 }
