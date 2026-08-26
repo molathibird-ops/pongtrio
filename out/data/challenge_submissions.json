@@ -5379,8 +5379,9 @@
     "name": "DT 중독자",
     "description": "퀵플 한판에서 중반 DT를 3번 이상 성공하세요",
     "expected_difficulty": "P12",
-    "status": "pending",
-    "submitted_at": "2026-08-25T16:01:08.619449"
+    "status": "registered",
+    "submitted_at": "2026-08-25T16:01:08.619449",
+    "challenge_id": "1045"
   },
   "906c0791": {
     "user_id": "1485520167420297276",
