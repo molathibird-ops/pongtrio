@@ -14175,5 +14175,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "8de17db7-5609-4b88-bdff-0012e5068a67"
+  },
+  "272e57ce-a215-4255-8009-8126ee75cedc": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "1065",
+    "difficulty": "P15",
+    "custom_pp": null,
+    "challenge_name": "죄송하지만당신은잘못된곳에서플레이를하고잇어요",
+    "submitted_at": "2026-08-26T08:50:29.844816",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "272e57ce-a215-4255-8009-8126ee75cedc"
   }
 }
