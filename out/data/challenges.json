@@ -11892,5 +11892,16 @@
     "creator_name": "team_chimera",
     "created_at": "2026-08-26T11:22:58.243972",
     "registered_at": "2026-08-26T11:47:25.379870"
+  },
+  "1070": {
+    "name": "GHOST GIRL CANNOT BE KILLED",
+    "description": "고스트 없이 플레이 해 apm 100 이상을 뽑으세요! 1000m 이상 가야함, 오프너 금지)",
+    "expected_difficulty": "G13",
+    "actual_difficulty": "R3",
+    "custom_pp": null,
+    "creator_id": "1541833948097937555",
+    "creator_name": "team_chimera",
+    "created_at": "2026-08-26T11:26:48.281930",
+    "registered_at": "2026-08-26T11:47:47.738784"
   }
 }
