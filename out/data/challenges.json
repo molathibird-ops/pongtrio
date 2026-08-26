@@ -11622,5 +11622,16 @@
     "creator_name": "doyunh2011_alt",
     "created_at": "2026-08-25T16:01:08.619449",
     "registered_at": "2026-08-26T07:41:43.561629"
+  },
+  "1046": {
+    "name": "ㅗ스핀",
+    "description": "T미노를 ㅗ 모양으로 놔서 Tsd를 성공하세요",
+    "expected_difficulty": "P3",
+    "actual_difficulty": "P4",
+    "custom_pp": null,
+    "creator_id": "1485520167420297276",
+    "creator_name": "doyunh2011_alt",
+    "created_at": "2026-08-25T16:02:50.211661",
+    "registered_at": "2026-08-26T07:42:32.483227"
   }
 }
