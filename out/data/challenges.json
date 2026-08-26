@@ -11903,5 +11903,16 @@
     "creator_name": "team_chimera",
     "created_at": "2026-08-26T11:26:48.281930",
     "registered_at": "2026-08-26T11:47:47.738784"
+  },
+  "1071": {
+    "name": "Kikai No Tsubasa",
+    "description": "매층마다 증가하는 수를 n이라고 하자.(ex: n층) n층에서의 요구되는 속도는 √n pps 이상이다. 이 조건을 지켜 2,000m에 도달하면 된다.",
+    "expected_difficulty": "R3",
+    "actual_difficulty": "R3",
+    "custom_pp": null,
+    "creator_id": "1541833948097937555",
+    "creator_name": "team_chimera",
+    "created_at": "2026-08-26T11:30:38.439095",
+    "registered_at": "2026-08-26T11:48:09.332148"
   }
 }
