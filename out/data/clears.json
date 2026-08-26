@@ -14211,5 +14211,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "e3137cc7-4a6c-4ba2-a893-359a74150f7c"
+  },
+  "c1814a0a-ed84-48e3-899a-1060640277f1": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "challenge_id": "935",
+    "difficulty": "G4",
+    "custom_pp": null,
+    "challenge_name": "타치바나 셰리",
+    "submitted_at": "2026-08-26T12:37:22.826373",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "c1814a0a-ed84-48e3-899a-1060640277f1"
   }
 }
