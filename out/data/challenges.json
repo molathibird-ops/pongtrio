@@ -11688,5 +11688,16 @@
     "creator_name": "doyunh2011_alt",
     "created_at": "2026-08-25T22:57:23.327850",
     "registered_at": "2026-08-26T07:50:16.746964"
+  },
+  "1052": {
+    "name": "Backbeat Revenge",
+    "description": "왼손과 오른손을 2:3 폴리리듬으로 키를 눌러 100m를 가세요!",
+    "expected_difficulty": "P19",
+    "actual_difficulty": "P20",
+    "custom_pp": null,
+    "creator_id": "1541833948097937555",
+    "creator_name": "team_chimera",
+    "created_at": "2026-08-25T23:16:13.116210",
+    "registered_at": "2026-08-26T07:51:17.759139"
   }
 }
