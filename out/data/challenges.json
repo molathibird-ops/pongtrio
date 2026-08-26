@@ -11837,5 +11837,16 @@
     "creator_name": "doyunh2011_alt",
     "created_at": "2026-08-26T08:23:43.200918",
     "registered_at": "2026-08-26T08:42:31.232367"
+  },
+  "1065": {
+    "name": "죄송하지만당신은잘못된곳에서플레이를하고잇어요",
+    "description": "퀵플에서 40줄 이상을 1분 이내에 지우세요",
+    "expected_difficulty": "epic",
+    "actual_difficulty": "P15",
+    "custom_pp": null,
+    "creator_id": "1485520167420297276",
+    "creator_name": "doyunh2011_alt",
+    "created_at": "2026-08-26T08:26:39.084770",
+    "registered_at": "2026-08-26T08:42:50.562053"
   }
 }
