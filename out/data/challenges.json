@@ -11732,5 +11732,16 @@
     "creator_name": "gim.jon",
     "created_at": "2026-08-25T23:24:00.974921",
     "registered_at": "2026-08-26T07:52:27.627800"
+  },
+  "1056": {
+    "name": "QuomodocunquizE",
+    "description": "the escape artist 모드로 JST 혹은 LST를 30번 성공시키세요!",
+    "expected_difficulty": "U1",
+    "actual_difficulty": "Q0",
+    "custom_pp": null,
+    "creator_id": "1541833948097937555",
+    "creator_name": "team_chimera",
+    "created_at": "2026-08-25T23:24:30.012427",
+    "registered_at": "2026-08-26T07:52:47.722303"
   }
 }
