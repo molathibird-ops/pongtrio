@@ -11644,5 +11644,16 @@
     "creator_name": "doyunh2011_alt",
     "created_at": "2026-08-25T16:07:44.551094",
     "registered_at": "2026-08-26T07:43:09.994070"
+  },
+  "1048": {
+    "name": "더도 말고 덜도 말고....",
+    "description": "100에서 200사이의 난수를 하나 설정한 후, 정확히 그 숫자만큼의 줄을 퀵플에서 지우고 죽으세요",
+    "expected_difficulty": "P3",
+    "actual_difficulty": "gimmick",
+    "custom_pp": 2.0,
+    "creator_id": "1485520167420297276",
+    "creator_name": "doyunh2011_alt",
+    "created_at": "2026-08-25T16:17:42.457378",
+    "registered_at": "2026-08-26T07:46:12.982695"
   }
 }
