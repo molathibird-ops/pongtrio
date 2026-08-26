@@ -5601,5 +5601,14 @@
     "status": "registered",
     "submitted_at": "2026-08-26T09:16:25.595261",
     "challenge_id": "1066"
+  },
+  "2e25bca7": {
+    "user_id": "1541833948097937555",
+    "username": "team_chimera",
+    "name": "UmbЯal",
+    "description": "invisible, messier, double hole 모드를 낀 채로 백투백을 한번도 끊지 않고 500m를 가세요! (오프너 루프 금지)",
+    "expected_difficulty": "G17",
+    "status": "pending",
+    "submitted_at": "2026-08-26T11:17:39.392199"
   }
 }
