@@ -11754,5 +11754,16 @@
     "creator_name": "gim.jon",
     "created_at": "2026-08-25T23:25:16.493619",
     "registered_at": "2026-08-26T07:54:09.748217"
+  },
+  "1058": {
+    "name": "느엥 v4",
+    "description": "올스핀 모드로 50초 이내 7층에 도달하세요!",
+    "expected_difficulty": "U3",
+    "actual_difficulty": "Q0",
+    "custom_pp": null,
+    "creator_id": "1228338306631073815",
+    "creator_name": "gim.jon",
+    "created_at": "2026-08-25T23:26:14.512256",
+    "registered_at": "2026-08-26T07:54:25.435490"
   }
 }
