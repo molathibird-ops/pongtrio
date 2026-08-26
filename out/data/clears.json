@@ -14067,5 +14067,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "cec4dcb0-3710-4850-b220-06018aac0c7b"
+  },
+  "797ec759-5eb0-4639-84fe-685c964968de": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "1024",
+    "difficulty": "P3",
+    "custom_pp": null,
+    "challenge_name": "거대한 J미노",
+    "submitted_at": "2026-08-26T07:57:04.785664",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "797ec759-5eb0-4639-84fe-685c964968de"
   }
 }
