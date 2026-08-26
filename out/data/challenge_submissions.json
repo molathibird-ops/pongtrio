@@ -5619,5 +5619,14 @@
     "expected_difficulty": "U5",
     "status": "pending",
     "submitted_at": "2026-08-26T11:20:37.529759"
+  },
+  "f36c799e": {
+    "user_id": "1541833948097937555",
+    "username": "team_chimera",
+    "name": "Glitch Out",
+    "description": "홀수번째 미노를 둘 순서에서는 홀드, 짝수번째는 홀드를 쓰지 않은 채로 5층을 가세요!",
+    "expected_difficulty": "P18",
+    "status": "pending",
+    "submitted_at": "2026-08-26T11:22:58.243972"
   }
 }
