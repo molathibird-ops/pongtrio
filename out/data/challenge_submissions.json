@@ -5628,5 +5628,14 @@
     "expected_difficulty": "P18",
     "status": "pending",
     "submitted_at": "2026-08-26T11:22:58.243972"
+  },
+  "4c9a518c": {
+    "user_id": "1541833948097937555",
+    "username": "team_chimera",
+    "name": "GHOST GIRL CANNOT BE KILLED",
+    "description": "고스트 없이 플레이 해 apm 100 이상을 뽑으세요! 1000m 이상 가야함, 오프너 금지)",
+    "expected_difficulty": "G13",
+    "status": "pending",
+    "submitted_at": "2026-08-26T11:26:48.281930"
   }
 }
