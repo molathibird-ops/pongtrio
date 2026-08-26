@@ -5528,8 +5528,9 @@
     "name": "느엥v5",
     "description": "올스핀 모드로 7초 이내 7층에 도달하세요!",
     "expected_difficulty": "R3",
-    "status": "pending",
-    "submitted_at": "2026-08-25T23:27:47.395803"
+    "status": "registered",
+    "submitted_at": "2026-08-25T23:27:47.395803",
+    "challenge_id": "1059"
   },
   "b36211cc": {
     "user_id": "1228338306631073815",
