@@ -14163,5 +14163,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "3be11a3e-c25b-4db2-b9e3-77243dbd3c56"
+  },
+  "8de17db7-5609-4b88-bdff-0012e5068a67": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "1013",
+    "difficulty": "P8",
+    "custom_pp": 0.5,
+    "challenge_name": "운빨스프린터",
+    "submitted_at": "2026-08-26T08:22:03.606971",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "8de17db7-5609-4b88-bdff-0012e5068a67"
   }
 }
