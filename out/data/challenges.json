@@ -11589,5 +11589,16 @@
     "creator_name": "team_chimera",
     "created_at": "2026-08-25T15:52:06.208750",
     "registered_at": "2026-08-25T16:31:02.844736"
+  },
+  "1043": {
+    "name": "Blackfire Backfire",
+    "description": "14대미지 이상 플롱킹 하고 10초 이내 30스파이크 이상 보내세요!",
+    "expected_difficulty": "P20",
+    "actual_difficulty": "P20",
+    "custom_pp": null,
+    "creator_id": "1541833948097937555",
+    "creator_name": "team_chimera",
+    "created_at": "2026-08-25T15:54:30.359654",
+    "registered_at": "2026-08-26T07:38:36.221273"
   }
 }
