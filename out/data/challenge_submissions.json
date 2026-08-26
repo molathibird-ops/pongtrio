@@ -5399,8 +5399,9 @@
     "name": "그렇게까지 확장을 할 필요는 없어...",
     "description": "solo custom 모드에서 SDPC 확장 빌드를 10번 이상 확장하세요",
     "expected_difficulty": "P4",
-    "status": "pending",
-    "submitted_at": "2026-08-25T16:07:44.551094"
+    "status": "registered",
+    "submitted_at": "2026-08-25T16:07:44.551094",
+    "challenge_id": "1047"
   },
   "d82d90d6": {
     "user_id": "1485520167420297276",
