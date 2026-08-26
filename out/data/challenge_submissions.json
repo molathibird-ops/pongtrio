@@ -5591,5 +5591,14 @@
     "status": "registered",
     "submitted_at": "2026-08-26T08:26:39.084770",
     "challenge_id": "1065"
+  },
+  "42b15e32": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "헷갈려 이러지마",
+    "description": "오른쪽 왼쪽 이동 키를 바꾼채로 300m 등반하기",
+    "expected_difficulty": "P10",
+    "status": "pending",
+    "submitted_at": "2026-08-26T09:16:25.595261"
   }
 }
