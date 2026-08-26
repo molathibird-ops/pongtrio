@@ -5668,8 +5668,9 @@
     "name": "Hottest Take Machine",
     "description": "expert 모드를 킨 채로 30줄을 지우세요! (단, APP가 0이여야 함.)",
     "expected_difficulty": "G1",
-    "status": "pending",
-    "submitted_at": "2026-08-26T11:40:48.083358"
+    "status": "registered",
+    "submitted_at": "2026-08-26T11:40:48.083358",
+    "challenge_id": "1073"
   },
   "96b65b1a": {
     "user_id": "1541833948097937555",
