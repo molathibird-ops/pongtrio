@@ -14223,5 +14223,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "c1814a0a-ed84-48e3-899a-1060640277f1"
+  },
+  "7f078644-fd64-4632-aab6-81aba2060b5c": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "challenge_id": "143",
+    "difficulty": "G13",
+    "custom_pp": null,
+    "challenge_name": "포와이드 마스터 Ⅴ",
+    "submitted_at": "2026-08-26T18:36:37.112571",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "7f078644-fd64-4632-aab6-81aba2060b5c"
   }
 }
