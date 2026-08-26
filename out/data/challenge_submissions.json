@@ -5389,8 +5389,9 @@
     "name": "ㅗ스핀",
     "description": "T미노를 ㅗ 모양으로 놔서 Tsd를 성공하세요",
     "expected_difficulty": "P3",
-    "status": "pending",
-    "submitted_at": "2026-08-25T16:02:50.211661"
+    "status": "registered",
+    "submitted_at": "2026-08-25T16:02:50.211661",
+    "challenge_id": "1046"
   },
   "a87288cb": {
     "user_id": "1485520167420297276",
