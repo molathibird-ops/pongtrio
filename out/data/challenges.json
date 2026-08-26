@@ -11765,5 +11765,16 @@
     "creator_name": "gim.jon",
     "created_at": "2026-08-25T23:26:14.512256",
     "registered_at": "2026-08-26T07:54:25.435490"
+  },
+  "1059": {
+    "name": "느엥v5",
+    "description": "올스핀 모드로 7초 이내 7층에 도달하세요!",
+    "expected_difficulty": "R3",
+    "actual_difficulty": "Q4",
+    "custom_pp": null,
+    "creator_id": "1228338306631073815",
+    "creator_name": "gim.jon",
+    "created_at": "2026-08-25T23:27:47.395803",
+    "registered_at": "2026-08-26T07:55:01.696507"
   }
 }
