@@ -11936,5 +11936,16 @@
     "creator_name": "team_chimera",
     "created_at": "2026-08-26T11:40:48.083358",
     "registered_at": "2026-08-26T11:49:00.483561"
+  },
+  "1074": {
+    "name": "magical, very magical world",
+    "description": "all spin 모드를 켠 채로 5층을 가세요! (단, 스핀은 트리플만 가능하고, 5층을 가는 도중 백투백이 한번이라도 생겨야합니다.)",
+    "expected_difficulty": "G1",
+    "actual_difficulty": "R0",
+    "custom_pp": null,
+    "creator_id": "1541833948097937555",
+    "creator_name": "team_chimera",
+    "created_at": "2026-08-26T11:43:11.885926",
+    "registered_at": "2026-08-26T11:49:15.160612"
   }
 }
