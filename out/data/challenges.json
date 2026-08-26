@@ -11848,5 +11848,16 @@
     "creator_name": "doyunh2011_alt",
     "created_at": "2026-08-26T08:26:39.084770",
     "registered_at": "2026-08-26T08:42:50.562053"
+  },
+  "1066": {
+    "name": "헷갈려 이러지마",
+    "description": "오른쪽 왼쪽 이동 키를 바꾼채로 300m 등반하기",
+    "expected_difficulty": "P10",
+    "actual_difficulty": "P10",
+    "custom_pp": null,
+    "creator_id": "1485520167420297276",
+    "creator_name": "doyunh2011_alt",
+    "created_at": "2026-08-26T09:16:25.595261",
+    "registered_at": "2026-08-26T10:45:49.957057"
   }
 }
