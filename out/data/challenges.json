@@ -11925,5 +11925,16 @@
     "creator_name": "team_chimera",
     "created_at": "2026-08-26T11:36:48.692421",
     "registered_at": "2026-08-26T11:48:30.817096"
+  },
+  "1073": {
+    "name": "Hottest Take Machine",
+    "description": "expert 모드를 킨 채로 30줄을 지우세요! (단, APP가 0이여야 함.)",
+    "expected_difficulty": "G1",
+    "actual_difficulty": "R0",
+    "custom_pp": null,
+    "creator_id": "1541833948097937555",
+    "creator_name": "team_chimera",
+    "created_at": "2026-08-26T11:40:48.083358",
+    "registered_at": "2026-08-26T11:49:00.483561"
   }
 }
