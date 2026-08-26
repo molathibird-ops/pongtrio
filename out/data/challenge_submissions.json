@@ -5359,8 +5359,9 @@
     "name": "Blackfire Backfire",
     "description": "14대미지 이상 플롱킹 하고 10초 이내 30스파이크 이상 보내세요!",
     "expected_difficulty": "P20",
-    "status": "pending",
-    "submitted_at": "2026-08-25T15:54:30.359654"
+    "status": "registered",
+    "submitted_at": "2026-08-25T15:54:30.359654",
+    "challenge_id": "1043"
   },
   "0a86ceee": {
     "user_id": "1541833948097937555",
