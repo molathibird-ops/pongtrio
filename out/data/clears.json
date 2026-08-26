@@ -14187,5 +14187,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "272e57ce-a215-4255-8009-8126ee75cedc"
+  },
+  "04a4b64a-b6e5-45ad-a4a1-46d35ecce8ba": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "1064",
+    "difficulty": "P3",
+    "custom_pp": 0.2,
+    "challenge_name": "실근이존재할확률",
+    "submitted_at": "2026-08-26T08:53:56.636544",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "04a4b64a-b6e5-45ad-a4a1-46d35ecce8ba"
   }
 }
