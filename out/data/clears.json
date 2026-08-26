@@ -14199,5 +14199,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "04a4b64a-b6e5-45ad-a4a1-46d35ecce8ba"
+  },
+  "e3137cc7-4a6c-4ba2-a893-359a74150f7c": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "1050",
+    "difficulty": "P3",
+    "custom_pp": null,
+    "challenge_name": "흉터도 많으면 아파요",
+    "submitted_at": "2026-08-26T08:55:23.550344",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "e3137cc7-4a6c-4ba2-a893-359a74150f7c"
   }
 }
