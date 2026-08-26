@@ -11809,5 +11809,16 @@
     "creator_name": "gim.jon",
     "created_at": "2026-08-25T23:58:23.100317",
     "registered_at": "2026-08-26T07:58:03.563586"
+  },
+  "1063": {
+    "name": "Chimera Dragons",
+    "description": "10층을 가는데 조건이 있습니다!\n\n0~1분: 스핀 금지\n1~2분: T-spin, QUAD만 허용\n2~3분: 시간 안에 8콤보하기\n3분+: 쓰레기줄 싱글로만 깎기",
+    "expected_difficulty": "R4",
+    "actual_difficulty": "R4",
+    "custom_pp": null,
+    "creator_id": "1541833948097937555",
+    "creator_name": "team_chimera",
+    "created_at": "2026-08-26T07:12:48.878114",
+    "registered_at": "2026-08-26T07:58:51.616963"
   }
 }
