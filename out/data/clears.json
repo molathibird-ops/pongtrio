@@ -14079,5 +14079,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "797ec759-5eb0-4639-84fe-685c964968de"
+  },
+  "0f1ed611-efff-49ce-b664-f05b5df8937a": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "1046",
+    "difficulty": "P4",
+    "custom_pp": null,
+    "challenge_name": "ㅗ스핀",
+    "submitted_at": "2026-08-26T07:57:39.358462",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "0f1ed611-efff-49ce-b664-f05b5df8937a"
   }
 }
