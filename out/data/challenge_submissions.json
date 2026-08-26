@@ -5571,5 +5571,14 @@
     "status": "registered",
     "submitted_at": "2026-08-26T07:12:48.878114",
     "challenge_id": "1063"
+  },
+  "6053cd2a": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "실근이존재할확률",
+    "description": "3판의 퀵플을 돌린 후, 3개의 기록 순서대로 a, b, c라 했을때, ax^2+bx+c = 0이 중근을 가지도록 하세요",
+    "expected_difficulty": "epic",
+    "status": "pending",
+    "submitted_at": "2026-08-26T08:23:43.200918"
   }
 }
