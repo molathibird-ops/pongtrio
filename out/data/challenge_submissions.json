@@ -5469,8 +5469,9 @@
     "name": "BITE ME MORE PLS",
     "description": "퀵플에서 1시간 이내에 200번 자결하세요!",
     "expected_difficulty": "marathon",
-    "status": "pending",
-    "submitted_at": "2026-08-25T23:20:05.292467"
+    "status": "registered",
+    "submitted_at": "2026-08-25T23:20:05.292467",
+    "challenge_id": "1054"
   },
   "a3d64630": {
     "user_id": "1228338306631073815",
