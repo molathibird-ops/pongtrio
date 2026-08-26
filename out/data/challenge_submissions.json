@@ -5646,5 +5646,14 @@
     "expected_difficulty": "R3",
     "status": "pending",
     "submitted_at": "2026-08-26T11:30:38.439095"
+  },
+  "8993333a": {
+    "user_id": "1541833948097937555",
+    "username": "team_chimera",
+    "name": "24-Dimensional Non-Euclidean Deep Blue Starfall Vertigo",
+    "description": "last stand 모드를 켜고 회전키와 이동키의 방향을 대칭으로 바꾼 채로 250대미지를 보내세요!",
+    "expected_difficulty": "G14",
+    "status": "pending",
+    "submitted_at": "2026-08-26T11:36:48.692421"
   }
 }
