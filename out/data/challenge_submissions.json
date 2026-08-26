@@ -5580,5 +5580,14 @@
     "expected_difficulty": "epic",
     "status": "pending",
     "submitted_at": "2026-08-26T08:23:43.200918"
+  },
+  "27bdfa3b": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "죄송하지만당신은잘못된곳에서플레이를하고잇어요",
+    "description": "퀵플에서 40줄 이상을 1분 이내에 지우세요",
+    "expected_difficulty": "epic",
+    "status": "pending",
+    "submitted_at": "2026-08-26T08:26:39.084770"
   }
 }
