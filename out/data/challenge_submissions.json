@@ -5638,8 +5638,9 @@
     "name": "GHOST GIRL CANNOT BE KILLED",
     "description": "고스트 없이 플레이 해 apm 100 이상을 뽑으세요! 1000m 이상 가야함, 오프너 금지)",
     "expected_difficulty": "G13",
-    "status": "pending",
-    "submitted_at": "2026-08-26T11:26:48.281930"
+    "status": "registered",
+    "submitted_at": "2026-08-26T11:26:48.281930",
+    "challenge_id": "1070"
   },
   "9c81a2d2": {
     "user_id": "1541833948097937555",
