@@ -5688,7 +5688,8 @@
     "name": "NĀGALĪLĀ",
     "description": "asceticism 모드를 켠 채로 스핀 트리플을 하세요!",
     "expected_difficulty": "P15",
-    "status": "pending",
-    "submitted_at": "2026-08-26T11:45:07.649116"
+    "status": "registered",
+    "submitted_at": "2026-08-26T11:45:07.649116",
+    "challenge_id": "1075"
   }
 }
