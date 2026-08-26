@@ -5538,8 +5538,9 @@
     "name": "느엥",
     "description": "올스핀 모드로 1분 10초 이내 10층에 도달하세요!",
     "expected_difficulty": "U2",
-    "status": "pending",
-    "submitted_at": "2026-08-25T23:56:41.788432"
+    "status": "registered",
+    "submitted_at": "2026-08-25T23:56:41.788432",
+    "challenge_id": "1060"
   },
   "b9a43b83": {
     "user_id": "1228338306631073815",
