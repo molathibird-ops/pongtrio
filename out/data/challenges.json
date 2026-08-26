@@ -11776,5 +11776,16 @@
     "creator_name": "gim.jon",
     "created_at": "2026-08-25T23:27:47.395803",
     "registered_at": "2026-08-26T07:55:01.696507"
+  },
+  "1060": {
+    "name": "느엥",
+    "description": "올스핀 모드로 1분 10초 이내 10층에 도달하세요!",
+    "expected_difficulty": "U2",
+    "actual_difficulty": "Q3",
+    "custom_pp": null,
+    "creator_id": "1228338306631073815",
+    "creator_name": "gim.jon",
+    "created_at": "2026-08-25T23:56:41.788432",
+    "registered_at": "2026-08-26T07:56:01.924122"
   }
 }
