@@ -5369,8 +5369,9 @@
     "name": "LET ME COOK",
     "description": "중반 Td어택을 만들고 방해줄을 받아 죽으세요!",
     "expected_difficulty": "P9",
-    "status": "pending",
-    "submitted_at": "2026-08-25T15:59:48.121660"
+    "status": "registered",
+    "submitted_at": "2026-08-25T15:59:48.121660",
+    "challenge_id": "1044"
   },
   "ae097310": {
     "user_id": "1485520167420297276",
