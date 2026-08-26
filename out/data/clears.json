@@ -14115,5 +14115,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "fe591ca9-0494-4132-b325-3f17114b1a4f"
+  },
+  "fe3384ce-d8a9-4795-acba-f19b4236b414": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "1047",
+    "difficulty": "P5",
+    "custom_pp": 0.3,
+    "challenge_name": "그렇게까지 확장을 할 필요는 없어...",
+    "submitted_at": "2026-08-26T08:06:35.648553",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "fe3384ce-d8a9-4795-acba-f19b4236b414"
   }
 }
