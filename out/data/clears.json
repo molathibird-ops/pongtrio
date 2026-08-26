@@ -14151,5 +14151,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "f80f7a0e-ea52-4a36-aa14-4cc082133bda"
+  },
+  "3be11a3e-c25b-4db2-b9e3-77243dbd3c56": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "1028",
+    "difficulty": "P6",
+    "custom_pp": null,
+    "challenge_name": "퀵플 아니였나요? (Nerfed)",
+    "submitted_at": "2026-08-26T08:18:54.551368",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "3be11a3e-c25b-4db2-b9e3-77243dbd3c56"
   }
 }
