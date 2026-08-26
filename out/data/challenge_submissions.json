@@ -5673,5 +5673,14 @@
     "expected_difficulty": "G1",
     "status": "pending",
     "submitted_at": "2026-08-26T11:43:11.885926"
+  },
+  "0cfa7e40": {
+    "user_id": "1541833948097937555",
+    "username": "team_chimera",
+    "name": "NĀGALĪLĀ",
+    "description": "asceticism 모드를 켠 채로 스핀 트리플을 하세요!",
+    "expected_difficulty": "P15",
+    "status": "pending",
+    "submitted_at": "2026-08-26T11:45:07.649116"
   }
 }
