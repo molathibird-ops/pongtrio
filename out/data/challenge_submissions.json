@@ -5449,8 +5449,9 @@
     "name": "Backbeat Revenge",
     "description": "왼손과 오른손을 2:3 폴리리듬으로 키를 눌러 100m를 가세요!",
     "expected_difficulty": "P19",
-    "status": "pending",
-    "submitted_at": "2026-08-25T23:16:13.116210"
+    "status": "registered",
+    "submitted_at": "2026-08-25T23:16:13.116210",
+    "challenge_id": "1052"
   },
   "2d489a55": {
     "user_id": "1541833948097937555",
