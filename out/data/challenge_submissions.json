@@ -5943,5 +5943,14 @@
     "expected_difficulty": "epic",
     "status": "pending",
     "submitted_at": "2026-08-27T16:28:39.531476"
+  },
+  "37112176": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "선배에게대들지마랫",
+    "description": "후배를 테트에서 이기세요",
+    "expected_difficulty": "censored",
+    "status": "pending",
+    "submitted_at": "2026-08-27T16:42:07.234743"
   }
 }
