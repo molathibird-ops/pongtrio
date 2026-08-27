@@ -5930,5 +5930,14 @@
     "expected_difficulty": "gimmick",
     "status": "pending",
     "submitted_at": "2026-08-27T16:24:47.830749"
+  },
+  "53db7e3d": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "while(1){continue;}",
+    "description": "루프 빌드를 5번 이상 반복하세요! (퀵플에서)",
+    "expected_difficulty": "epic",
+    "status": "pending",
+    "submitted_at": "2026-08-27T16:28:39.531476"
   }
 }
