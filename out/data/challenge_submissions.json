@@ -5826,5 +5826,14 @@
     "expected_difficulty": "epic",
     "status": "pending",
     "submitted_at": "2026-08-27T15:48:47.979365"
+  },
+  "b13887de": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "필드 2개 = 미노 1개",
+    "description": "volatile 모드를 켠 채로 40 블루 스파이크(상쇄)를 띄우세요!",
+    "expected_difficulty": "R4",
+    "status": "pending",
+    "submitted_at": "2026-08-27T15:50:14.648873"
   }
 }
