@@ -5855,8 +5855,9 @@
     "name": "attack with zero",
     "description": "warlock 모드를 켠 상태에서 spin zero로 도합 20대미지를 보내세요!",
     "expected_difficulty": "R3",
-    "status": "pending",
-    "submitted_at": "2026-08-27T15:52:25.015372"
+    "status": "registered",
+    "submitted_at": "2026-08-27T15:52:25.015372",
+    "challenge_id": "1089"
   },
   "3e5d200b": {
     "user_id": "1273331318834593814",
