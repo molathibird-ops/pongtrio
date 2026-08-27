@@ -5835,5 +5835,14 @@
     "expected_difficulty": "R4",
     "status": "pending",
     "submitted_at": "2026-08-27T15:50:14.648873"
+  },
+  "663c6e52": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "블루투스 샤워기",
+    "description": "테트리오에서 샤워기를 만드세요!",
+    "expected_difficulty": "epic",
+    "status": "pending",
+    "submitted_at": "2026-08-27T15:50:37.433077"
   }
 }
