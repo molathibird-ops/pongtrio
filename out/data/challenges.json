@@ -12146,5 +12146,16 @@
     "creator_name": "_mara_0225",
     "created_at": "2026-08-27T16:14:14.923326",
     "registered_at": "2026-08-27T16:31:30.101118"
+  },
+  "1093": {
+    "name": "피네스(ex)",
+    "description": "피네스 90%이상으로 블리츠 70만점을찍으세요.",
+    "expected_difficulty": "G8",
+    "actual_difficulty": "R3",
+    "custom_pp": null,
+    "creator_id": "1452435595430199356",
+    "creator_name": "_mara_0225",
+    "created_at": "2026-08-27T16:15:43.772701",
+    "registered_at": "2026-08-27T16:32:25.193496"
   }
 }
