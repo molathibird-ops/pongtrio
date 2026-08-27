@@ -5954,8 +5954,9 @@
     "name": "선배에게대들지마랫",
     "description": "후배를 테트에서 이기세요",
     "expected_difficulty": "censored",
-    "status": "pending",
-    "submitted_at": "2026-08-27T16:42:07.234743"
+    "status": "registered",
+    "submitted_at": "2026-08-27T16:42:07.234743",
+    "challenge_id": "1098"
   },
   "3bb4eb19": {
     "user_id": "1485520167420297276",
