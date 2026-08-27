@@ -5718,5 +5718,14 @@
     "expected_difficulty": "U1",
     "status": "pending",
     "submitted_at": "2026-08-27T09:57:42.697657"
+  },
+  "a8502fb8": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "2 중독",
+    "description": "2층까지 2pps로 더블만 하고, 등반속도 2를 넘지 않도록 하세요",
+    "expected_difficulty": "P5",
+    "status": "pending",
+    "submitted_at": "2026-08-27T10:00:31.424429"
   }
 }
