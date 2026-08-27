@@ -14283,5 +14283,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "04007398-6828-45a3-bf0a-2a6e913e708d"
+  },
+  "b66271a5-21fa-45d9-bb05-83a98a9ec492": {
+    "user_id": "1228338306631073815",
+    "username": "gim.jon",
+    "challenge_id": "137",
+    "difficulty": "P19",
+    "custom_pp": null,
+    "challenge_name": "과충전 v2",
+    "submitted_at": "2026-08-27T15:11:10.702318",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "b66271a5-21fa-45d9-bb05-83a98a9ec492"
   }
 }
