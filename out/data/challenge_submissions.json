@@ -5835,8 +5835,9 @@
     "name": "필드 2개 = 미노 1개",
     "description": "volatile 모드를 켠 채로 40 블루 스파이크(상쇄)를 띄우세요!",
     "expected_difficulty": "R4",
-    "status": "pending",
-    "submitted_at": "2026-08-27T15:50:14.648873"
+    "status": "registered",
+    "submitted_at": "2026-08-27T15:50:14.648873",
+    "challenge_id": "1087"
   },
   "663c6e52": {
     "user_id": "1273331318834593814",
