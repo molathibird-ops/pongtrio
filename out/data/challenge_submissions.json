@@ -5898,5 +5898,14 @@
     "expected_difficulty": "G20",
     "status": "pending",
     "submitted_at": "2026-08-27T16:17:07.507246"
+  },
+  "76f9bf29": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "소프트와 하드의 차이",
+    "description": "소프트드랍과 하드드랍 키를 바꾸고 300m를 가세요",
+    "expected_difficulty": "P5",
+    "status": "pending",
+    "submitted_at": "2026-08-27T16:17:34.620542"
   }
 }
