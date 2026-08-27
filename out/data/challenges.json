@@ -12179,5 +12179,16 @@
     "creator_name": "rainbow_water",
     "created_at": "2026-08-27T16:24:17.473392",
     "registered_at": "2026-08-27T17:05:46.269699"
+  },
+  "1096": {
+    "name": "비트마스킹",
+    "description": "8개의 모드에 각각 하나의 자리(비트)를 배정하고, 0~255 사이의 랜덤한 숫자 하나로 어떤 모드가 선택되어 있는지 표시합니다. 이후 해당 숫자에서 활성화된 비트에 대응하는 모드를 선택하여 300m를 등반하세요. (아앗 비트를 모르신다구요..? 공부하세요....ㄱ-)",
+    "expected_difficulty": "gimmick",
+    "actual_difficulty": "gimmick",
+    "custom_pp": null,
+    "creator_id": "1485520167420297276",
+    "creator_name": "doyunh2011_alt",
+    "created_at": "2026-08-27T16:24:47.830749",
+    "registered_at": "2026-08-27T17:07:13.170301"
   }
 }
