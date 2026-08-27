@@ -5825,8 +5825,9 @@
     "name": "laVI",
     "description": "테트리오에서 라플레시아를 만드세요!",
     "expected_difficulty": "epic",
-    "status": "pending",
-    "submitted_at": "2026-08-27T15:48:47.979365"
+    "status": "registered",
+    "submitted_at": "2026-08-27T15:48:47.979365",
+    "challenge_id": "1086"
   },
   "b13887de": {
     "user_id": "1273331318834593814",
