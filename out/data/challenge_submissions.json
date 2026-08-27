@@ -5708,8 +5708,9 @@
     "name": "나는 4가지를 모두 사랑해요",
     "description": "40L을 싱글->더블->트리플->쿼드->싱글....루프로 마무리하세요",
     "expected_difficulty": "P3",
-    "status": "pending",
-    "submitted_at": "2026-08-27T09:54:19.269177"
+    "status": "registered",
+    "submitted_at": "2026-08-27T09:54:19.269177",
+    "challenge_id": "1077"
   },
   "6e277d37": {
     "user_id": "1452435595430199356",
