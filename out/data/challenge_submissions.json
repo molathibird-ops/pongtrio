@@ -5808,5 +5808,14 @@
     "status": "registered",
     "submitted_at": "2026-08-27T11:29:56.378815",
     "challenge_id": "1084"
+  },
+  "d203e071": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "탈주",
+    "description": "퀵플을 시작하고 난 쥐 30초 뒤 탈주 하세요(죽기 X)",
+    "expected_difficulty": "epic",
+    "status": "pending",
+    "submitted_at": "2026-08-27T15:45:03.836556"
   }
 }
