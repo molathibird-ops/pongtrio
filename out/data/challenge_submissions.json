@@ -5967,5 +5967,14 @@
     "status": "registered",
     "submitted_at": "2026-08-27T16:47:25.135747",
     "challenge_id": "1099"
+  },
+  "73cce6a7": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "빌라",
+    "description": "퀵플레이에서 3층짜리 빌라를 건축하세요.\n\n건축 방법: J미노 2개 혹은 L미노 2개를 이용해서 ▢ 모양으로 쌓은걸 탑처럼 쌓으시면 됩니다.\n\n<그림 예시>\n▢\n▢\n▢",
+    "expected_difficulty": "P4",
+    "status": "pending",
+    "submitted_at": "2026-08-27T17:13:55.366776"
   }
 }
