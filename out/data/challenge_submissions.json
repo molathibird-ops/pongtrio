@@ -5805,7 +5805,8 @@
     "name": "아이시테아이시테아이시테...",
     "description": "퀵플레이에서 하트를 5번 이상 만드세요",
     "expected_difficulty": "epic",
-    "status": "pending",
-    "submitted_at": "2026-08-27T11:29:56.378815"
+    "status": "registered",
+    "submitted_at": "2026-08-27T11:29:56.378815",
+    "challenge_id": "1084"
   }
 }
