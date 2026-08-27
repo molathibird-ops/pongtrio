@@ -5795,8 +5795,9 @@
     "name": "준비성이업서 브로",
     "description": "테트리그를돌리다가 컴이꺼지거나/노트북배터리가 나가 강종당하세요!",
     "expected_difficulty": "epic",
-    "status": "pending",
-    "submitted_at": "2026-08-27T11:28:36.917934"
+    "status": "registered",
+    "submitted_at": "2026-08-27T11:28:36.917934",
+    "challenge_id": "1083"
   },
   "3b0f21b2": {
     "user_id": "1485520167420297276",
