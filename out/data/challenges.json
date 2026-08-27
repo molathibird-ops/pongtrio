@@ -12190,5 +12190,16 @@
     "creator_name": "doyunh2011_alt",
     "created_at": "2026-08-27T16:24:47.830749",
     "registered_at": "2026-08-27T17:07:13.170301"
+  },
+  "1097": {
+    "name": "while(1){continue;}",
+    "description": "루프 빌드를 5번 이상 반복하세요! (퀵플에서)",
+    "expected_difficulty": "epic",
+    "actual_difficulty": "epic",
+    "custom_pp": null,
+    "creator_id": "1485520167420297276",
+    "creator_name": "doyunh2011_alt",
+    "created_at": "2026-08-27T16:28:39.531476",
+    "registered_at": "2026-08-27T17:07:42.556153"
   }
 }
