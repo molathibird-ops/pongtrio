@@ -5871,5 +5871,14 @@
     "expected_difficulty": "censored",
     "status": "pending",
     "submitted_at": "2026-08-27T16:13:34.360985"
+  },
+  "09357923": {
+    "user_id": "1452435595430199356",
+    "username": "_mara_0225",
+    "name": "피네스",
+    "description": "블리츠에서 피네스 80이상으로 30만점을찍으세요!",
+    "expected_difficulty": "P20",
+    "status": "pending",
+    "submitted_at": "2026-08-27T16:14:14.923326"
   }
 }
