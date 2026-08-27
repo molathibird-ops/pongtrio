@@ -14235,5 +14235,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "7f078644-fd64-4632-aab6-81aba2060b5c"
+  },
+  "166f9db8-4ee7-42e2-8e2a-d0be58c7db66": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "1073",
+    "difficulty": "R0",
+    "custom_pp": null,
+    "challenge_name": "Hottest Take Machine",
+    "submitted_at": "2026-08-27T09:12:52.169597",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "166f9db8-4ee7-42e2-8e2a-d0be58c7db66"
   }
 }
