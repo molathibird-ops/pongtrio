@@ -5700,5 +5700,14 @@
     "expected_difficulty": "P15",
     "status": "pending",
     "submitted_at": "2026-08-27T09:22:18.041560"
+  },
+  "811d35c6": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "나는 4가지를 모두 사랑해요",
+    "description": "40L을 싱글->더블->트리플->쿼드->싱글....루프로 마무리하세요",
+    "expected_difficulty": "P3",
+    "status": "pending",
+    "submitted_at": "2026-08-27T09:54:19.269177"
   }
 }
