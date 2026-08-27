@@ -12014,5 +12014,16 @@
     "creator_name": "doyunh2011_alt",
     "created_at": "2026-08-27T10:34:54.401452",
     "registered_at": "2026-08-27T10:50:53.389328"
+  },
+  "1081": {
+    "name": "rich",
+    "description": "포르쉐 911에서 테트하기",
+    "expected_difficulty": "epic",
+    "actual_difficulty": "epic",
+    "custom_pp": null,
+    "creator_id": "1452435595430199356",
+    "creator_name": "_mara_0225",
+    "created_at": "2026-08-27T11:27:06.803273",
+    "registered_at": "2026-08-27T11:27:20.635488"
   }
 }
