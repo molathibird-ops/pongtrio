@@ -12102,5 +12102,16 @@
     "creator_name": "ria001186",
     "created_at": "2026-08-27T15:50:37.433077",
     "registered_at": "2026-08-27T16:21:28.745555"
+  },
+  "1089": {
+    "name": "attack with zero",
+    "description": "warlock 모드를 켠 상태에서 spin zero로 도합 20대미지를 보내세요!",
+    "expected_difficulty": "R3",
+    "actual_difficulty": "R3",
+    "custom_pp": null,
+    "creator_id": "1273331318834593814",
+    "creator_name": "ria001186",
+    "created_at": "2026-08-27T15:52:25.015372",
+    "registered_at": "2026-08-27T16:28:32.393220"
   }
 }
