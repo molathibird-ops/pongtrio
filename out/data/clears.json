@@ -14259,5 +14259,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "3967747c-6b6f-476a-afa8-3d7e920e73dc"
+  },
+  "4844237d-3f16-4665-9007-bac29ed14e4e": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "challenge_id": "938",
+    "difficulty": "P15",
+    "custom_pp": null,
+    "challenge_name": "beyond the 169k wall",
+    "submitted_at": "2026-08-27T10:59:30.560248",
+    "status": "pending",
+    "felt_difficulty": "P15",
+    "clear_id": "4844237d-3f16-4665-9007-bac29ed14e4e"
   }
 }
