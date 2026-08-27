@@ -5727,5 +5727,14 @@
     "expected_difficulty": "P5",
     "status": "pending",
     "submitted_at": "2026-08-27T10:00:31.424429"
+  },
+  "1fd203c1": {
+    "user_id": "1452435595430199356",
+    "username": "_mara_0225",
+    "name": "brithday",
+    "description": "블리츠 71만을찍으세요",
+    "expected_difficulty": "G20",
+    "status": "pending",
+    "submitted_at": "2026-08-27T10:01:10.291559"
   }
 }
