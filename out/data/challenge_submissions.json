@@ -5895,8 +5895,9 @@
     "name": "피네스(ex)",
     "description": "피네스 90%이상으로 블리츠 70만점을찍으세요.",
     "expected_difficulty": "G8",
-    "status": "pending",
-    "submitted_at": "2026-08-27T16:15:43.772701"
+    "status": "registered",
+    "submitted_at": "2026-08-27T16:15:43.772701",
+    "challenge_id": "1093"
   },
   "652878a8": {
     "user_id": "1452435595430199356",
