@@ -5889,5 +5889,14 @@
     "expected_difficulty": "G8",
     "status": "pending",
     "submitted_at": "2026-08-27T16:15:43.772701"
+  },
+  "652878a8": {
+    "user_id": "1452435595430199356",
+    "username": "_mara_0225",
+    "name": "피네스(ex of ex)",
+    "description": "피네스 98% 이상으로 블리츠를 80만점이상찍으세요",
+    "expected_difficulty": "G20",
+    "status": "pending",
+    "submitted_at": "2026-08-27T16:17:07.507246"
   }
 }
