@@ -5785,8 +5785,9 @@
     "name": "라면끓는시간",
     "description": "라면을 끓이면서 40L을 하세요",
     "expected_difficulty": "epic",
-    "status": "pending",
-    "submitted_at": "2026-08-27T11:28:03.652903"
+    "status": "registered",
+    "submitted_at": "2026-08-27T11:28:03.652903",
+    "challenge_id": "1082"
   },
   "8361996f": {
     "user_id": "1452435595430199356",
