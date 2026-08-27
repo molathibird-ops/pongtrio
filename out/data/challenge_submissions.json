@@ -5885,8 +5885,9 @@
     "name": "피네스",
     "description": "블리츠에서 피네스 80이상으로 30만점을찍으세요!",
     "expected_difficulty": "P20",
-    "status": "pending",
-    "submitted_at": "2026-08-27T16:14:14.923326"
+    "status": "registered",
+    "submitted_at": "2026-08-27T16:14:14.923326",
+    "challenge_id": "1092"
   },
   "2c2b81b3": {
     "user_id": "1452435595430199356",
