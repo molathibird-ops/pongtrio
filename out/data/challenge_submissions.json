@@ -5796,5 +5796,14 @@
     "expected_difficulty": "epic",
     "status": "pending",
     "submitted_at": "2026-08-27T11:28:36.917934"
+  },
+  "3b0f21b2": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "아이시테아이시테아이시테...",
+    "description": "퀵플레이에서 하트를 5번 이상 만드세요",
+    "expected_difficulty": "epic",
+    "status": "pending",
+    "submitted_at": "2026-08-27T11:29:56.378815"
   }
 }
