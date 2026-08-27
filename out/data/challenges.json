@@ -11980,5 +11980,16 @@
     "creator_name": "doyunh2011_alt",
     "created_at": "2026-08-27T09:54:19.269177",
     "registered_at": "2026-08-27T10:26:38.568921"
+  },
+  "1078": {
+    "name": "brithday",
+    "description": "블리츠 71만을찍으세요",
+    "expected_difficulty": "G20",
+    "actual_difficulty": "R3",
+    "custom_pp": null,
+    "creator_id": "1452435595430199356",
+    "creator_name": "_mara_0225",
+    "created_at": "2026-08-27T10:01:10.291559",
+    "registered_at": "2026-08-27T10:38:02.369515"
   }
 }
