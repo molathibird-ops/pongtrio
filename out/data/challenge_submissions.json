@@ -5844,5 +5844,14 @@
     "expected_difficulty": "epic",
     "status": "pending",
     "submitted_at": "2026-08-27T15:50:37.433077"
+  },
+  "2b8e8752": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "attack with zero",
+    "description": "warlock 모드를 켠 상태에서 spin zero로 도합 20대미지를 보내세요!",
+    "expected_difficulty": "R3",
+    "status": "pending",
+    "submitted_at": "2026-08-27T15:52:25.015372"
   }
 }
