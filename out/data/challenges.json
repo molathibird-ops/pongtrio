@@ -12091,5 +12091,16 @@
     "creator_name": "ria001186",
     "created_at": "2026-08-27T15:50:14.648873",
     "registered_at": "2026-08-27T16:19:36.762386"
+  },
+  "1088": {
+    "name": "블루투스 샤워기",
+    "description": "테트리오에서 샤워기를 만드세요!",
+    "expected_difficulty": "epic",
+    "actual_difficulty": "epic",
+    "custom_pp": null,
+    "creator_id": "1273331318834593814",
+    "creator_name": "ria001186",
+    "created_at": "2026-08-27T15:50:37.433077",
+    "registered_at": "2026-08-27T16:21:28.745555"
   }
 }
