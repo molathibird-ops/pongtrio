@@ -5759,5 +5759,14 @@
     "status": "registered",
     "submitted_at": "2026-08-27T10:34:54.401452",
     "challenge_id": "1080"
+  },
+  "a1e253e7": {
+    "user_id": "1452435595430199356",
+    "username": "_mara_0225",
+    "name": "버스 ㄱㅅ",
+    "description": "기어도 90%이상으로 2000m를가세오(듀오)",
+    "expected_difficulty": "G17",
+    "status": "pending",
+    "submitted_at": "2026-08-27T11:06:33.828046"
   }
 }
