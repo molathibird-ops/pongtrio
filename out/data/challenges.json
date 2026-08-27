@@ -12069,5 +12069,16 @@
     "creator_name": "ria001186",
     "created_at": "2026-08-27T15:45:03.836556",
     "registered_at": "2026-08-27T16:17:44.950201"
+  },
+  "1086": {
+    "name": "laVI",
+    "description": "테트리오에서 라플레시아를 만드세요!",
+    "expected_difficulty": "epic",
+    "actual_difficulty": "epic",
+    "custom_pp": null,
+    "creator_id": "1273331318834593814",
+    "creator_name": "ria001186",
+    "created_at": "2026-08-27T15:48:47.979365",
+    "registered_at": "2026-08-27T16:18:47.799519"
   }
 }
