@@ -5862,5 +5862,14 @@
     "expected_difficulty": "epic",
     "status": "pending",
     "submitted_at": "2026-08-27T16:13:13.619953"
+  },
+  "356ee857": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "모범시민 (Reversed)",
+    "description": "누군가를 허위신고 하세요!",
+    "expected_difficulty": "censored",
+    "status": "pending",
+    "submitted_at": "2026-08-27T16:13:34.360985"
   }
 }
