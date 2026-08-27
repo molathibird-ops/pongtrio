@@ -14268,7 +14268,7 @@
     "custom_pp": null,
     "challenge_name": "beyond the 169k wall",
     "submitted_at": "2026-08-27T10:59:30.560248",
-    "status": "pending",
+    "status": "approved",
     "felt_difficulty": "P15",
     "clear_id": "4844237d-3f16-4665-9007-bac29ed14e4e"
   },
@@ -14280,7 +14280,7 @@
     "custom_pp": null,
     "challenge_name": "beyond the reaches (SS)",
     "submitted_at": "2026-08-27T10:59:37.458080",
-    "status": "pending",
+    "status": "approved",
     "felt_difficulty": null,
     "clear_id": "04007398-6828-45a3-bf0a-2a6e913e708d"
   }
