@@ -5709,5 +5709,14 @@
     "expected_difficulty": "P3",
     "status": "pending",
     "submitted_at": "2026-08-27T09:54:19.269177"
+  },
+  "6e277d37": {
+    "user_id": "1452435595430199356",
+    "username": "_mara_0225",
+    "name": "<:rank_x_plus:1486362871825961020>",
+    "description": "40L을 17이하로완주하세요.",
+    "expected_difficulty": "U1",
+    "status": "pending",
+    "submitted_at": "2026-08-27T09:57:42.697657"
   }
 }
