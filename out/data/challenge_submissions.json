@@ -5736,8 +5736,9 @@
     "name": "brithday",
     "description": "블리츠 71만을찍으세요",
     "expected_difficulty": "G20",
-    "status": "pending",
-    "submitted_at": "2026-08-27T10:01:10.291559"
+    "status": "registered",
+    "submitted_at": "2026-08-27T10:01:10.291559",
+    "challenge_id": "1078"
   },
   "c323d115": {
     "user_id": "1485520167420297276",
