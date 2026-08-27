@@ -5768,5 +5768,14 @@
     "expected_difficulty": "G17",
     "status": "pending",
     "submitted_at": "2026-08-27T11:06:33.828046"
+  },
+  "9058609a": {
+    "user_id": "1452435595430199356",
+    "username": "_mara_0225",
+    "name": "rich",
+    "description": "포르쉐 911에서 테트하기",
+    "expected_difficulty": "epic",
+    "status": "pending",
+    "submitted_at": "2026-08-27T11:27:06.803273"
   }
 }
