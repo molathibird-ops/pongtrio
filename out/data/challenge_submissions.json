@@ -5756,7 +5756,8 @@
     "name": "....아니 피네스 ㄱ-",
     "description": "피네스 50% 이하로 40L을 완주하세요",
     "expected_difficulty": "epic",
-    "status": "pending",
-    "submitted_at": "2026-08-27T10:34:54.401452"
+    "status": "registered",
+    "submitted_at": "2026-08-27T10:34:54.401452",
+    "challenge_id": "1080"
   }
 }
