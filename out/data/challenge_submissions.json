@@ -5952,5 +5952,14 @@
     "expected_difficulty": "censored",
     "status": "pending",
     "submitted_at": "2026-08-27T16:42:07.234743"
+  },
+  "3bb4eb19": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "테트가나를억까해요",
+    "description": "빌드를 쓰지 않고 상쇄병에 걸려서, 가방을 붕괴시키세요",
+    "expected_difficulty": "epic",
+    "status": "pending",
+    "submitted_at": "2026-08-27T16:47:25.135747"
   }
 }
