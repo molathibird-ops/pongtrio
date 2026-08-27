@@ -5880,5 +5880,14 @@
     "expected_difficulty": "P20",
     "status": "pending",
     "submitted_at": "2026-08-27T16:14:14.923326"
+  },
+  "2c2b81b3": {
+    "user_id": "1452435595430199356",
+    "username": "_mara_0225",
+    "name": "피네스(ex)",
+    "description": "피네스 90%이상으로 블리츠 70만점을찍으세요.",
+    "expected_difficulty": "G8",
+    "status": "pending",
+    "submitted_at": "2026-08-27T16:15:43.772701"
   }
 }
