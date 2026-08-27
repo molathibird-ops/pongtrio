@@ -12113,5 +12113,16 @@
     "creator_name": "ria001186",
     "created_at": "2026-08-27T15:52:25.015372",
     "registered_at": "2026-08-27T16:28:32.393220"
+  },
+  "1090": {
+    "name": "모범시민",
+    "description": "누군가를 신고해서 그 대상이 처벌을 받게 하세요!",
+    "expected_difficulty": "epic",
+    "actual_difficulty": "epic",
+    "custom_pp": null,
+    "creator_id": "1273331318834593814",
+    "creator_name": "ria001186",
+    "created_at": "2026-08-27T16:13:13.619953",
+    "registered_at": "2026-08-27T16:28:54.287383"
   }
 }
