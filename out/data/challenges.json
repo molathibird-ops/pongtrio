@@ -11931,7 +11931,7 @@
     "name": "Hottest Take Machine",
     "description": "expert 모드를 킨 채로 30줄을 지우세요! (단, APP가 0이여야 함.)",
     "expected_difficulty": "G1",
-    "actual_difficulty": "R0",
+    "actual_difficulty": "P16",
     "custom_pp": null,
     "creator_id": "1541833948097937555",
     "creator_name": "team_chimera",
