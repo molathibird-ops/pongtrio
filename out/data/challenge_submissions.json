@@ -5924,8 +5924,9 @@
     "name": "1점",
     "description": "블리츠에서 1점을 달성하세요.",
     "expected_difficulty": "P0",
-    "status": "pending",
-    "submitted_at": "2026-08-27T16:24:17.473392"
+    "status": "registered",
+    "submitted_at": "2026-08-27T16:24:17.473392",
+    "challenge_id": "1095"
   },
   "5904c46c": {
     "user_id": "1485520167420297276",
