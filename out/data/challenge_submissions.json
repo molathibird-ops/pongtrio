@@ -5914,8 +5914,9 @@
     "name": "소프트와 하드의 차이",
     "description": "소프트드랍과 하드드랍 키를 바꾸고 300m를 가세요",
     "expected_difficulty": "P5",
-    "status": "pending",
-    "submitted_at": "2026-08-27T16:17:34.620542"
+    "status": "registered",
+    "submitted_at": "2026-08-27T16:17:34.620542",
+    "challenge_id": "1094"
   },
   "0ff9b64a": {
     "user_id": "589099128563302483",
