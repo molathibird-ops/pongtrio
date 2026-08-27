@@ -5865,8 +5865,9 @@
     "name": "모범시민",
     "description": "누군가를 신고해서 그 대상이 처벌을 받게 하세요!",
     "expected_difficulty": "epic",
-    "status": "pending",
-    "submitted_at": "2026-08-27T16:13:13.619953"
+    "status": "registered",
+    "submitted_at": "2026-08-27T16:13:13.619953",
+    "challenge_id": "1090"
   },
   "356ee857": {
     "user_id": "1273331318834593814",
