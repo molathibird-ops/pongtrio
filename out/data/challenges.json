@@ -12002,5 +12002,16 @@
     "creator_name": "doyunh2011_alt",
     "created_at": "2026-08-27T10:24:12.431602",
     "registered_at": "2026-08-27T10:50:18.275586"
+  },
+  "1080": {
+    "name": "....아니 피네스 ㄱ-",
+    "description": "피네스 50% 이하로 40L을 완주하세요",
+    "expected_difficulty": "epic",
+    "actual_difficulty": "P2",
+    "custom_pp": null,
+    "creator_id": "1485520167420297276",
+    "creator_name": "doyunh2011_alt",
+    "created_at": "2026-08-27T10:34:54.401452",
+    "registered_at": "2026-08-27T10:50:53.389328"
   }
 }
