@@ -5911,5 +5911,14 @@
     "expected_difficulty": "P5",
     "status": "pending",
     "submitted_at": "2026-08-27T16:17:34.620542"
+  },
+  "0ff9b64a": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "1점",
+    "description": "블리츠에서 1점을 달성하세요.",
+    "expected_difficulty": "P0",
+    "status": "pending",
+    "submitted_at": "2026-08-27T16:24:17.473392"
   }
 }
