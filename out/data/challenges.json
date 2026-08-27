@@ -12036,5 +12036,16 @@
     "creator_name": "doyunh2011_alt",
     "created_at": "2026-08-27T11:28:03.652903",
     "registered_at": "2026-08-27T11:32:58.436323"
+  },
+  "1083": {
+    "name": "준비성이업서 브로",
+    "description": "테트리그를돌리다가 컴이꺼지거나/노트북배터리가 나가 강종당하세요!",
+    "expected_difficulty": "epic",
+    "actual_difficulty": "epic",
+    "custom_pp": null,
+    "creator_id": "1452435595430199356",
+    "creator_name": "_mara_0225",
+    "created_at": "2026-08-27T11:28:36.917934",
+    "registered_at": "2026-08-27T11:34:02.916791"
   }
 }
