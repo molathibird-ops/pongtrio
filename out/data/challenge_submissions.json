@@ -5853,5 +5853,14 @@
     "expected_difficulty": "R3",
     "status": "pending",
     "submitted_at": "2026-08-27T15:52:25.015372"
+  },
+  "3e5d200b": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "모범시민",
+    "description": "누군가를 신고해서 그 대상이 처벌을 받게 하세요!",
+    "expected_difficulty": "epic",
+    "status": "pending",
+    "submitted_at": "2026-08-27T16:13:13.619953"
   }
 }
