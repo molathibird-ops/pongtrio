@@ -5875,8 +5875,9 @@
     "name": "모범시민 (Reversed)",
     "description": "누군가를 허위신고 하세요!",
     "expected_difficulty": "censored",
-    "status": "pending",
-    "submitted_at": "2026-08-27T16:13:34.360985"
+    "status": "registered",
+    "submitted_at": "2026-08-27T16:13:34.360985",
+    "challenge_id": "1091"
   },
   "09357923": {
     "user_id": "1452435595430199356",
