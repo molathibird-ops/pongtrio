@@ -12201,5 +12201,16 @@
     "creator_name": "doyunh2011_alt",
     "created_at": "2026-08-27T16:28:39.531476",
     "registered_at": "2026-08-27T17:07:42.556153"
+  },
+  "1098": {
+    "name": "선배에게대들지마랫",
+    "description": "후배를 테트에서 이기세요",
+    "expected_difficulty": "censored",
+    "actual_difficulty": "censored",
+    "custom_pp": null,
+    "creator_id": "1485520167420297276",
+    "creator_name": "doyunh2011_alt",
+    "created_at": "2026-08-27T16:42:07.234743",
+    "registered_at": "2026-08-27T17:08:15.707334"
   }
 }
