@@ -5746,8 +5746,9 @@
     "name": "2 중독",
     "description": "2층까지 2pps로 더블만 하고, 등반속도 2를 넘지 않도록 하세요",
     "expected_difficulty": "P5",
-    "status": "pending",
-    "submitted_at": "2026-08-27T10:24:12.431602"
+    "status": "registered",
+    "submitted_at": "2026-08-27T10:24:12.431602",
+    "challenge_id": "1079"
   },
   "3d713c1c": {
     "user_id": "1485520167420297276",
