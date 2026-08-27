@@ -11991,5 +11991,16 @@
     "creator_name": "_mara_0225",
     "created_at": "2026-08-27T10:01:10.291559",
     "registered_at": "2026-08-27T10:38:02.369515"
+  },
+  "1079": {
+    "name": "2 중독",
+    "description": "2층까지 2pps로 더블만 하고, 등반속도 2를 넘지 않도록 하세요",
+    "expected_difficulty": "P5",
+    "actual_difficulty": "R0",
+    "custom_pp": null,
+    "creator_id": "1485520167420297276",
+    "creator_name": "doyunh2011_alt",
+    "created_at": "2026-08-27T10:24:12.431602",
+    "registered_at": "2026-08-27T10:50:18.275586"
   }
 }
