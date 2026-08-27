@@ -5787,5 +5787,14 @@
     "expected_difficulty": "epic",
     "status": "pending",
     "submitted_at": "2026-08-27T11:28:03.652903"
+  },
+  "8361996f": {
+    "user_id": "1452435595430199356",
+    "username": "_mara_0225",
+    "name": "준비성이업서 브로",
+    "description": "테트리그를돌리다가 컴이꺼지거나/노트북배터리가 나가 강종당하세요!",
+    "expected_difficulty": "epic",
+    "status": "pending",
+    "submitted_at": "2026-08-27T11:28:36.917934"
   }
 }
