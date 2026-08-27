@@ -12135,5 +12135,16 @@
     "creator_name": "ria001186",
     "created_at": "2026-08-27T16:13:34.360985",
     "registered_at": "2026-08-27T16:29:15.266266"
+  },
+  "1092": {
+    "name": "피네스",
+    "description": "블리츠에서 피네스 80이상으로 30만점을찍으세요!",
+    "expected_difficulty": "P20",
+    "actual_difficulty": "P20",
+    "custom_pp": null,
+    "creator_id": "1452435595430199356",
+    "creator_name": "_mara_0225",
+    "created_at": "2026-08-27T16:14:14.923326",
+    "registered_at": "2026-08-27T16:31:30.101118"
   }
 }
