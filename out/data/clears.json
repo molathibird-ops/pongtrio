@@ -14319,5 +14319,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "3919b941-6bfc-4eec-b590-c79bdfc7f50a"
+  },
+  "62a11b92-5e95-4589-9a83-d2e3aee0165c": {
+    "user_id": "1269918374800916543",
+    "username": "sssranker0_60429",
+    "challenge_id": "370",
+    "difficulty": "G5",
+    "custom_pp": null,
+    "challenge_name": "머글 출입금지",
+    "submitted_at": "2026-08-28T17:24:02.887181",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "62a11b92-5e95-4589-9a83-d2e3aee0165c"
   }
 }
