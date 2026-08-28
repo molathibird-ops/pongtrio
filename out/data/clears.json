@@ -14331,5 +14331,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "62a11b92-5e95-4589-9a83-d2e3aee0165c"
+  },
+  "8a60c50b-d093-42d7-9df3-a8d6968d8fa8": {
+    "user_id": "1269918374800916543",
+    "username": "sssranker0_60429",
+    "challenge_id": "955",
+    "difficulty": "G4",
+    "custom_pp": null,
+    "challenge_name": "악마를 보았다",
+    "submitted_at": "2026-08-28T17:27:40.793147",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "8a60c50b-d093-42d7-9df3-a8d6968d8fa8"
   }
 }
