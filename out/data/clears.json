@@ -14307,5 +14307,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "77c9ce43-52af-40fc-9a41-11f0ed89e316"
+  },
+  "ab3dd09a-3ff6-4640-a1c3-7e6511a4749a": {
+    "user_id": "1452435595430199356",
+    "username": "_mara_0225",
+    "challenge_id": "448",
+    "difficulty": "P14",
+    "custom_pp": null,
+    "challenge_name": "UFC",
+    "submitted_at": "2026-08-28T15:09:29.640940",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "ab3dd09a-3ff6-4640-a1c3-7e6511a4749a"
   }
 }
