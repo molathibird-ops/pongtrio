@@ -5984,7 +5984,8 @@
     "name": "화학식량",
     "description": "원자번호가 50번 이상인 원소를 하나 이상 포함하며, 구성 원자가 3개 이상인 화합물을 하나 고릅니다. 그리고 이 화합물을 구성하는 각 원자마다 원자번호 × 10만큼 퀵플레이에서 등반합니다. (예: SnCl₂의 경우 500m 1번, 170m 2번 등반)",
     "expected_difficulty": "gimmick",
-    "status": "pending",
-    "submitted_at": "2026-08-28T02:39:33.693728"
+    "status": "registered",
+    "submitted_at": "2026-08-28T02:39:33.693728",
+    "challenge_id": "1101"
   }
 }
