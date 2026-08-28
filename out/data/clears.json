@@ -6537,12 +6537,13 @@
     "user_id": "1514630812375580903",
     "username": "gohansub_30741",
     "challenge_id": "381",
-    "difficulty": "G18",
+    "difficulty": "U4",
     "challenge_name": "모던한 클래식",
     "submitted_at": "2026-06-20T16:45:14.096151",
     "status": "approved",
     "felt_difficulty": "G18",
-    "clear_id": "6e2e060e-0a1e-495a-88f4-408eed9f0024"
+    "clear_id": "6e2e060e-0a1e-495a-88f4-408eed9f0024",
+    "custom_pp": null
   },
   "1d3468c5-435c-4629-9831-36274762364c": {
     "user_id": "1514630812375580903",
@@ -13948,12 +13949,13 @@
     "user_id": "848472829",
     "username": "secondilemma",
     "challenge_id": "381",
-    "difficulty": "G18",
+    "difficulty": "U4",
     "challenge_name": "모던한 클래식",
     "submitted_at": "2026-08-24T13:03:23.426899",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "b250e49c-dc9d-477c-8c9c-390aec26de76"
+    "clear_id": "b250e49c-dc9d-477c-8c9c-390aec26de76",
+    "custom_pp": null
   },
   "9af5aa29-fb95-4046-afab-bd51d800a95f": {
     "user_id": "848472829",
