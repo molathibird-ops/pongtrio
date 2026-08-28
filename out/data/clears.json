@@ -14307,5 +14307,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "ab3dd09a-3ff6-4640-a1c3-7e6511a4749a"
+  },
+  "3919b941-6bfc-4eec-b590-c79bdfc7f50a": {
+    "user_id": "1452435595430199356",
+    "username": "_mara_0225",
+    "challenge_id": "509",
+    "difficulty": "P12",
+    "custom_pp": null,
+    "challenge_name": "sdpc-extended-extended-extended",
+    "submitted_at": "2026-08-28T16:48:18.092786",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "3919b941-6bfc-4eec-b590-c79bdfc7f50a"
   }
 }
