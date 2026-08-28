@@ -1994,7 +1994,7 @@
     "name": "[ns]",
     "description": "파티클 150%인 상태에서 전문가 모드를 키고 퀵플레이 700m를 가세요!",
     "expected_difficulty": "P20",
-    "actual_difficulty": "P19",
+    "actual_difficulty": "G2",
     "creator_id": "1304967658663579803",
     "creator_name": "bangdiboo",
     "created_at": "2025-11-27T17:37:32.548660",
@@ -2002,7 +2002,8 @@
     "curation": "T2H",
     "tags": [
       "영상"
-    ]
+    ],
+    "custom_pp": null
   },
   "189": {
     "name": "I SPIN QUAD요??",
