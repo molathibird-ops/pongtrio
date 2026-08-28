@@ -14369,5 +14369,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "e516fb79-191e-4cd3-9ad4-b14ceadce67e"
+  },
+  "90e2a52b-bb4b-43f7-8f8b-b414630c6d84": {
+    "user_id": "1269918374800916543",
+    "username": "sssranker0_60429",
+    "challenge_id": "359",
+    "difficulty": "R2",
+    "custom_pp": null,
+    "challenge_name": "Black Diamond",
+    "submitted_at": "2026-08-28T18:41:28.309609",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "90e2a52b-bb4b-43f7-8f8b-b414630c6d84"
   }
 }
