@@ -14343,5 +14343,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "8a60c50b-d093-42d7-9df3-a8d6968d8fa8"
+  },
+  "3807d523-2396-482d-83d5-b3bc32e29eaa": {
+    "user_id": "1269918374800916543",
+    "username": "sssranker0_60429",
+    "challenge_id": "371",
+    "difficulty": "G11",
+    "custom_pp": null,
+    "challenge_name": "뉴턴 제2법칙",
+    "submitted_at": "2026-08-28T17:31:05.665417",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "3807d523-2396-482d-83d5-b3bc32e29eaa"
   }
 }
