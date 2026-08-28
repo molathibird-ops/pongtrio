@@ -11706,7 +11706,10 @@
     "creator_name": "team_chimera",
     "created_at": "2026-08-25T23:16:13.116210",
     "registered_at": "2026-08-26T07:51:17.759139",
-    "curation": "T1"
+    "curation": "T1",
+    "tags": [
+      "순수등반"
+    ]
   },
   "1053": {
     "name": "MAMBO COMBO",
