@@ -4152,11 +4152,12 @@
     "name": "모던한 클래식",
     "description": "No Hold, Gravity 모드들을 적용한 채로 10층을 달성하세요!",
     "expected_difficulty": "G13",
-    "actual_difficulty": "G18",
+    "actual_difficulty": "U4",
     "creator_id": "1218889894659625070",
     "creator_name": "pongiscute",
     "created_at": "2026-01-18T09:03:07.575272",
-    "registered_at": "2026-01-21T00:41:13.872696"
+    "registered_at": "2026-01-21T00:41:13.872696",
+    "custom_pp": null
   },
   "382": {
     "name": "사멸회유",
