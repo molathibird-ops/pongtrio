@@ -6014,8 +6014,9 @@
     "name": "올스핀 메인",
     "description": "the starving artist 모드로 10층을 가세요!",
     "expected_difficulty": "G17",
-    "status": "pending",
-    "submitted_at": "2026-08-29T02:57:46.279334"
+    "status": "registered",
+    "submitted_at": "2026-08-29T02:57:46.279334",
+    "challenge_id": "1104"
   },
   "7fc5b0f1": {
     "user_id": "1273331318834593814",
