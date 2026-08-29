@@ -12375,5 +12375,16 @@
     "creator_name": "ria001186",
     "created_at": "2026-08-29T08:22:25.060773",
     "registered_at": "2026-08-29T09:21:54.368571"
+  },
+  "1108": {
+    "name": "퇴물황제",
+    "description": "Emperor's Decadence 모드로 10층을 가세요!",
+    "expected_difficulty": "U11",
+    "actual_difficulty": "Q2",
+    "custom_pp": null,
+    "creator_id": "1273331318834593814",
+    "creator_name": "ria001186",
+    "created_at": "2026-08-29T12:06:06.843765",
+    "registered_at": "2026-08-29T13:05:21.481280"
   }
 }
