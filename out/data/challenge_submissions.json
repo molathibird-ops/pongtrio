@@ -6015,5 +6015,14 @@
     "expected_difficulty": "G17",
     "status": "pending",
     "submitted_at": "2026-08-29T02:57:46.279334"
+  },
+  "7fc5b0f1": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "도마뱀",
+    "description": "the con artist 모드로 10층을 가세요!",
+    "expected_difficulty": "U4",
+    "status": "pending",
+    "submitted_at": "2026-08-29T08:09:03.014470"
   }
 }
