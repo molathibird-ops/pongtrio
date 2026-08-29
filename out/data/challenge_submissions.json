@@ -6066,5 +6066,14 @@
     "expected_difficulty": "U5",
     "status": "pending",
     "submitted_at": "2026-08-29T13:51:55.663489"
+  },
+  "c85d67b9": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "APP by EFFORT",
+    "description": "block rationing 모드로 스핀 없이 400개 기록 320대미지를 보내세요!",
+    "expected_difficulty": "U7",
+    "status": "pending",
+    "submitted_at": "2026-08-29T14:15:21.599547"
   }
 }
