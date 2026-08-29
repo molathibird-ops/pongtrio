@@ -14393,5 +14393,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "e61f746c-8572-41e9-b8ff-ad31c9b9622d"
+  },
+  "7bc42842-c15d-477e-b3e6-33c953235942": {
+    "user_id": "1264967714095497268",
+    "username": "mangpu_cat",
+    "challenge_id": "647",
+    "difficulty": "P4",
+    "custom_pp": null,
+    "challenge_name": "막대그래프",
+    "submitted_at": "2026-08-29T12:22:11.653893",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "7bc42842-c15d-477e-b3e6-33c953235942"
   }
 }
