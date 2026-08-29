@@ -6064,8 +6064,9 @@
     "name": "숙련 고수",
     "description": "divine mastery 모드로 10층을 가세요!",
     "expected_difficulty": "U5",
-    "status": "pending",
-    "submitted_at": "2026-08-29T13:51:55.663489"
+    "status": "registered",
+    "submitted_at": "2026-08-29T13:51:55.663489",
+    "challenge_id": "1109"
   },
   "c85d67b9": {
     "user_id": "1273331318834593814",
