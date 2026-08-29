@@ -6024,8 +6024,9 @@
     "name": "도마뱀",
     "description": "the con artist 모드로 10층을 가세요!",
     "expected_difficulty": "U4",
-    "status": "pending",
-    "submitted_at": "2026-08-29T08:09:03.014470"
+    "status": "registered",
+    "submitted_at": "2026-08-29T08:09:03.014470",
+    "challenge_id": "1105"
   },
   "c168488e": {
     "user_id": "1228338306631073815",
