@@ -5997,5 +5997,14 @@
     "status": "registered",
     "submitted_at": "2026-08-28T11:35:20.105392",
     "challenge_id": "1102"
+  },
+  "77bf65f3": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "deadlocked",
+    "description": "deadlock 모드로 10층을 가세요!",
+    "expected_difficulty": "G16",
+    "status": "pending",
+    "submitted_at": "2026-08-29T00:58:24.641618"
   }
 }
