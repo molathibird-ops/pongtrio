@@ -12353,5 +12353,16 @@
     "creator_name": "ria001186",
     "created_at": "2026-08-29T08:09:03.014470",
     "registered_at": "2026-08-29T09:21:08.356825"
+  },
+  "1106": {
+    "name": "made in heaven",
+    "description": "그 누구보다 빠르게 5000m를 도달하세요!(설명: 하이퍼스피드를 3층부터 킨 상태로 5000m를 가세요)",
+    "expected_difficulty": "U10",
+    "actual_difficulty": "censored",
+    "custom_pp": null,
+    "creator_id": "1228338306631073815",
+    "creator_name": "gim.jon",
+    "created_at": "2026-08-29T08:11:42.892456",
+    "registered_at": "2026-08-29T09:21:23.378267"
   }
 }
