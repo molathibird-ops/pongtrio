@@ -6033,5 +6033,14 @@
     "expected_difficulty": "U10",
     "status": "pending",
     "submitted_at": "2026-08-29T08:11:42.892456"
+  },
+  "bf5fddf6": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "그마 1",
+    "description": "the grand master 모드로 10층을 가세요!",
+    "expected_difficulty": "G18",
+    "status": "pending",
+    "submitted_at": "2026-08-29T08:22:25.060773"
   }
 }
