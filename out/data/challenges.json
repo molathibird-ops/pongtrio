@@ -12397,5 +12397,16 @@
     "creator_name": "ria001186",
     "created_at": "2026-08-29T13:51:55.663489",
     "registered_at": "2026-08-29T14:26:14.810843"
+  },
+  "1110": {
+    "name": "APP by EFFORT",
+    "description": "block rationing 모드로 스핀 없이 400개 기록 320대미지를 보내세요!",
+    "expected_difficulty": "U7",
+    "actual_difficulty": "Q1",
+    "custom_pp": null,
+    "creator_id": "1273331318834593814",
+    "creator_name": "ria001186",
+    "created_at": "2026-08-29T14:15:21.599547",
+    "registered_at": "2026-08-29T14:26:34.188148"
   }
 }
