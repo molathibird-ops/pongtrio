@@ -12320,5 +12320,16 @@
       "한손",
       "순수등반"
     ]
+  },
+  "1103": {
+    "name": "deadlocked",
+    "description": "deadlock 모드로 10층을 가세요!",
+    "expected_difficulty": "G16",
+    "actual_difficulty": "R3",
+    "custom_pp": null,
+    "creator_id": "1273331318834593814",
+    "creator_name": "ria001186",
+    "created_at": "2026-08-29T00:58:24.641618",
+    "registered_at": "2026-08-29T09:14:52.464153"
   }
 }
