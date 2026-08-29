@@ -12364,5 +12364,16 @@
     "creator_name": "gim.jon",
     "created_at": "2026-08-29T08:11:42.892456",
     "registered_at": "2026-08-29T09:21:23.378267"
+  },
+  "1107": {
+    "name": "그마 1",
+    "description": "the grand master 모드로 10층을 가세요!",
+    "expected_difficulty": "G18",
+    "actual_difficulty": "R4",
+    "custom_pp": null,
+    "creator_id": "1273331318834593814",
+    "creator_name": "ria001186",
+    "created_at": "2026-08-29T08:22:25.060773",
+    "registered_at": "2026-08-29T09:21:54.368571"
   }
 }
