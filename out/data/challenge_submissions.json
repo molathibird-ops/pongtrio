@@ -6074,7 +6074,8 @@
     "name": "APP by EFFORT",
     "description": "block rationing 모드로 스핀 없이 400개 기록 320대미지를 보내세요!",
     "expected_difficulty": "U7",
-    "status": "pending",
-    "submitted_at": "2026-08-29T14:15:21.599547"
+    "status": "registered",
+    "submitted_at": "2026-08-29T14:15:21.599547",
+    "challenge_id": "1110"
   }
 }
