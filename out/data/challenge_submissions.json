@@ -6057,5 +6057,14 @@
     "status": "registered",
     "submitted_at": "2026-08-29T12:06:06.843765",
     "challenge_id": "1108"
+  },
+  "bb790fe0": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "숙련 고수",
+    "description": "divine mastery 모드로 10층을 가세요!",
+    "expected_difficulty": "U5",
+    "status": "pending",
+    "submitted_at": "2026-08-29T13:51:55.663489"
   }
 }
