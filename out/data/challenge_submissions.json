@@ -6034,8 +6034,9 @@
     "name": "made in heaven",
     "description": "그 누구보다 빠르게 5000m를 도달하세요!(설명: 하이퍼스피드를 3층부터 킨 상태로 5000m를 가세요)",
     "expected_difficulty": "U10",
-    "status": "pending",
-    "submitted_at": "2026-08-29T08:11:42.892456"
+    "status": "registered",
+    "submitted_at": "2026-08-29T08:11:42.892456",
+    "challenge_id": "1106"
   },
   "bf5fddf6": {
     "user_id": "1273331318834593814",
