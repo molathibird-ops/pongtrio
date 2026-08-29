@@ -6047,5 +6047,14 @@
     "status": "registered",
     "submitted_at": "2026-08-29T08:22:25.060773",
     "challenge_id": "1107"
+  },
+  "409902c8": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "퇴물황제",
+    "description": "Emperor's Decadence 모드로 10층을 가세요!",
+    "expected_difficulty": "U11",
+    "status": "pending",
+    "submitted_at": "2026-08-29T12:06:06.843765"
   }
 }
