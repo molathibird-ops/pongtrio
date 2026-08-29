@@ -3914,14 +3914,15 @@
     "name": "Black Diamond",
     "description": "10층이 되기 전에 12분이 된 뒤, 그 이후 10층에 도달하세요!",
     "expected_difficulty": "G13",
-    "actual_difficulty": "R2",
+    "actual_difficulty": "G10",
     "creator_id": "1304967658663579803",
     "creator_name": "team_bangdiboo",
     "created_at": "2026-01-12T06:00:03.287421",
     "registered_at": "2026-01-16T02:31:02.230391",
     "tags": [
       "순수등반"
-    ]
+    ],
+    "custom_pp": null
   },
   "360": {
     "name": "서바이벌 모드 입문",
