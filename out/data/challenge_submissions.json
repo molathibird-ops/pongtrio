@@ -6004,8 +6004,9 @@
     "name": "deadlocked",
     "description": "deadlock 모드로 10층을 가세요!",
     "expected_difficulty": "G16",
-    "status": "pending",
-    "submitted_at": "2026-08-29T00:58:24.641618"
+    "status": "registered",
+    "submitted_at": "2026-08-29T00:58:24.641618",
+    "challenge_id": "1103"
   },
   "dc3a1685": {
     "user_id": "1273331318834593814",
