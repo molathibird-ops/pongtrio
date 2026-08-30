@@ -14405,5 +14405,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "7bc42842-c15d-477e-b3e6-33c953235942"
+  },
+  "d1fa7b02-7a3a-428a-8baa-1179f79035dd": {
+    "user_id": "1269918374800916543",
+    "username": "sssranker0_60429",
+    "challenge_id": "1107",
+    "difficulty": "R4",
+    "custom_pp": null,
+    "challenge_name": "그마 1",
+    "submitted_at": "2026-08-30T10:53:23.869684",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "d1fa7b02-7a3a-428a-8baa-1179f79035dd"
   }
 }
