@@ -12408,5 +12408,16 @@
     "creator_name": "ria001186",
     "created_at": "2026-08-29T14:15:21.599547",
     "registered_at": "2026-08-29T14:26:34.188148"
+  },
+  "1111": {
+    "name": "[퀵플레이 : 노아맛]",
+    "description": "노아산 우유를 마시면서 퀵플레이를 플레이하세요.",
+    "expected_difficulty": "P1",
+    "actual_difficulty": "censored",
+    "custom_pp": null,
+    "creator_id": "840063640681054228",
+    "creator_name": "justicedragon4",
+    "created_at": "2026-08-30T07:04:19.638765",
+    "registered_at": "2026-08-30T07:12:40.173917"
   }
 }
