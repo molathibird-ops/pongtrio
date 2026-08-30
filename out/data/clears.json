@@ -14417,5 +14417,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "d1fa7b02-7a3a-428a-8baa-1179f79035dd"
+  },
+  "49e84030-3f51-4c57-8a7e-537dde975dce": {
+    "user_id": "1228338306631073815",
+    "username": "gim.jon",
+    "challenge_id": "1055",
+    "difficulty": "R0",
+    "custom_pp": null,
+    "challenge_name": "느엥 v2",
+    "submitted_at": "2026-08-30T14:55:09.756479",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "49e84030-3f51-4c57-8a7e-537dde975dce"
   }
 }
