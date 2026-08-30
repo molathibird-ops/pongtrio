@@ -6084,7 +6084,8 @@
     "name": "[퀵플레이 : 노아맛]",
     "description": "노아산 우유를 마시면서 퀵플레이를 플레이하세요.",
     "expected_difficulty": "P1",
-    "status": "pending",
-    "submitted_at": "2026-08-30T07:04:19.638765"
+    "status": "registered",
+    "submitted_at": "2026-08-30T07:04:19.638765",
+    "challenge_id": "1111"
   }
 }
