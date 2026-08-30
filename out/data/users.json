@@ -29,7 +29,7 @@
     "bet_wins": 2
   },
   "819167210446127105": {
-    "coins": 11004,
+    "coins": 11005,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [
@@ -43,7 +43,7 @@
     ],
     "equipped_title": "다이아수저",
     "profile_color": "11레벨",
-    "chat_count": 5222,
+    "chat_count": 5223,
     "best_lottery": 5,
     "got_nerfed": true,
     "holjjak_streak": 0,
@@ -480,14 +480,14 @@
     "profile_color": null
   },
   "1269918374800916543": {
-    "coins": 4550,
+    "coins": 4551,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [],
     "owned_titles": [],
     "equipped_title": null,
     "profile_color": null,
-    "chat_count": 23,
+    "chat_count": 24,
     "night_clears": 4
   },
   "1450130496045580390": {
