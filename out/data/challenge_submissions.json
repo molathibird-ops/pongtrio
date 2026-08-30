@@ -6087,5 +6087,14 @@
     "status": "registered",
     "submitted_at": "2026-08-30T07:04:19.638765",
     "challenge_id": "1111"
+  },
+  "6d1aa826": {
+    "user_id": "1269918374800916543",
+    "username": "sssranker0_60429",
+    "name": "THE CHALLENGER",
+    "description": "the grandmaster 모드로 10층에 도달하세요!",
+    "expected_difficulty": "U1",
+    "status": "pending",
+    "submitted_at": "2026-08-30T10:50:29.609760"
   }
 }
