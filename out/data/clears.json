@@ -14417,17 +14417,5 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "d1fa7b02-7a3a-428a-8baa-1179f79035dd"
-  },
-  "a7787165-32d2-4330-b9b4-1414e4d13387": {
-    "user_id": "1543156376291901492",
-    "username": "_mara_0138",
-    "challenge_id": "187",
-    "difficulty": "G1",
-    "custom_pp": null,
-    "challenge_name": "Galactic 입문",
-    "submitted_at": "2026-08-30T11:29:27.946915",
-    "status": "pending",
-    "felt_difficulty": null,
-    "clear_id": "a7787165-32d2-4330-b9b4-1414e4d13387"
   }
 }
