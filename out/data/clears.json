@@ -14576,7 +14576,7 @@
     "custom_pp": null,
     "challenge_name": "while(1){continue;}",
     "submitted_at": "2026-08-31T13:35:03.866105",
-    "status": "pending",
+    "status": "approved",
     "felt_difficulty": null,
     "clear_id": "50aa9302-5081-4642-bed6-b416b4c1f4d0"
   }
