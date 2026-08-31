@@ -6105,5 +6105,14 @@
     "expected_difficulty": "U10",
     "status": "pending",
     "submitted_at": "2026-08-31T11:56:09.766106"
+  },
+  "52413282": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "World Wrestling Entertainment",
+    "description": "loaded dice 모드로 10층을 가세요!",
+    "expected_difficulty": "U6",
+    "status": "pending",
+    "submitted_at": "2026-08-31T12:04:39.332023"
   }
 }
