@@ -14489,5 +14489,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "82c85304-75f6-48fa-8f40-823114f9b3f1"
+  },
+  "519b0f08-e3b3-41be-888f-624c522dc98b": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "1035",
+    "difficulty": "P10",
+    "custom_pp": null,
+    "challenge_name": "몸이 기억해 (Nerfed)",
+    "submitted_at": "2026-08-31T12:58:34.494787",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "519b0f08-e3b3-41be-888f-624c522dc98b"
   }
 }
