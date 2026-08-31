@@ -14477,5 +14477,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "19814f09-716b-4c86-8794-9d7879411a28"
+  },
+  "82c85304-75f6-48fa-8f40-823114f9b3f1": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "1084",
+    "difficulty": "P4",
+    "custom_pp": null,
+    "challenge_name": "아이시테아이시테아이시테...",
+    "submitted_at": "2026-08-31T12:51:13.857689",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "82c85304-75f6-48fa-8f40-823114f9b3f1"
   }
 }
