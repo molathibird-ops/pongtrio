@@ -201,7 +201,7 @@
   },
   "1485520167420297276": {
     "username": "distortion05423",
-    "general_score": 3685.4100000000003,
+    "general_score": 3685.41,
     "rank_score": 1291.0
   },
   "1452435595430199356": {
@@ -483,5 +483,20 @@
     "username": "quartzhired",
     "general_score": 1800,
     "rank_score": 1710.0
+  },
+  "331": {
+    "username": "exilelord",
+    "general_score": 850,
+    "rank_score": 850.0
+  },
+  "393938474": {
+    "username": "ge_mania",
+    "general_score": 340,
+    "rank_score": 331.5
+  },
+  "3939384743": {
+    "username": "gi_mania",
+    "general_score": 300,
+    "rank_score": 285.0
   }
 }
