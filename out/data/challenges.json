@@ -12453,5 +12453,16 @@
     "creator_name": "ria001186",
     "created_at": "2026-08-31T12:15:09.568965",
     "registered_at": "2026-08-31T13:35:52.493311"
+  },
+  "1115": {
+    "name": "염라대왕도 거절할 실력",
+    "description": "Damnation 모드로 10층을 가세요!",
+    "expected_difficulty": "U5",
+    "actual_difficulty": "Q0",
+    "custom_pp": null,
+    "creator_id": "1273331318834593814",
+    "creator_name": "ria001186",
+    "created_at": "2026-08-31T12:17:30.722991",
+    "registered_at": "2026-08-31T13:36:48.395885"
   }
 }
