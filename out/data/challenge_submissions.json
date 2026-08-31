@@ -6103,8 +6103,9 @@
     "name": "스토아학파의 금욕주의",
     "description": "asceticism 모드로 10층을 가세요!",
     "expected_difficulty": "U10",
-    "status": "pending",
-    "submitted_at": "2026-08-31T11:56:09.766106"
+    "status": "registered",
+    "submitted_at": "2026-08-31T11:56:09.766106",
+    "challenge_id": "1112"
   },
   "52413282": {
     "user_id": "1273331318834593814",
