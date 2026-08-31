@@ -14556,5 +14556,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "4e8161fd-a141-4080-a202-38bea09a8440"
+  },
+  "61c283ba-f64f-4aeb-8b48-2c6ec90419d0": {
+    "user_id": "3939384743",
+    "username": "gi_mania",
+    "challenge_id": "97",
+    "difficulty": "G1",
+    "challenge_name": "불사조",
+    "submitted_at": "2026-08-31T13:16:22.391474",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "61c283ba-f64f-4aeb-8b48-2c6ec90419d0"
   }
 }
