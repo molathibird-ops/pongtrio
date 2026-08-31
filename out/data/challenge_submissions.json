@@ -6113,8 +6113,9 @@
     "name": "World Wrestling Entertainment",
     "description": "loaded dice 모드로 10층을 가세요!",
     "expected_difficulty": "U6",
-    "status": "pending",
-    "submitted_at": "2026-08-31T12:04:39.332023"
+    "status": "registered",
+    "submitted_at": "2026-08-31T12:04:39.332023",
+    "challenge_id": "1113"
   },
   "aa0f942f": {
     "user_id": "1273331318834593814",
