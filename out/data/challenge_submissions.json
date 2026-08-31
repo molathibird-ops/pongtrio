@@ -6096,5 +6096,14 @@
     "expected_difficulty": "U1",
     "status": "pending",
     "submitted_at": "2026-08-30T10:50:29.609760"
+  },
+  "953f9d8c": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "스토아학파의 금욕주의",
+    "description": "asceticism 모드로 10층을 가세요!",
+    "expected_difficulty": "U10",
+    "status": "pending",
+    "submitted_at": "2026-08-31T11:56:09.766106"
   }
 }
