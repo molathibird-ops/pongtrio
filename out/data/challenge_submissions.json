@@ -6123,5 +6123,14 @@
     "expected_difficulty": "U5",
     "status": "pending",
     "submitted_at": "2026-08-31T12:15:09.568965"
+  },
+  "c6109f70": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "염라대왕도 거절할 실력",
+    "description": "Damnation 모드로 10층을 가세요!",
+    "expected_difficulty": "U5",
+    "status": "pending",
+    "submitted_at": "2026-08-31T12:17:30.722991"
   }
 }
