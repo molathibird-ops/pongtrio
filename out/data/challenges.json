@@ -12475,5 +12475,16 @@
     "creator_name": "ria001186",
     "created_at": "2026-08-31T12:36:34.071412",
     "registered_at": "2026-08-31T13:37:08.117323"
+  },
+  "1117": {
+    "name": "ASHES",
+    "description": "줄을 깎을 때 반드시 방해줄을 포함해서 깎아야 하고, 어떠한 모드도 껴선 안됩니다. 이 조건을 가진 채로 10층에 등반하세요. (3 key limit, 손캠,영상 요구)",
+    "expected_difficulty": "Q3",
+    "actual_difficulty": "Q3",
+    "custom_pp": null,
+    "creator_id": "1273331318834593814",
+    "creator_name": "ria001186",
+    "created_at": "2026-08-31T13:07:24.873013",
+    "registered_at": "2026-08-31T13:37:20.397529"
   }
 }
