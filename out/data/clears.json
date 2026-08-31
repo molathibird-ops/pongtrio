@@ -14567,5 +14567,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "61c283ba-f64f-4aeb-8b48-2c6ec90419d0"
+  },
+  "50aa9302-5081-4642-bed6-b416b4c1f4d0": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "1097",
+    "difficulty": "epic",
+    "custom_pp": null,
+    "challenge_name": "while(1){continue;}",
+    "submitted_at": "2026-08-31T13:35:03.866105",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "50aa9302-5081-4642-bed6-b416b4c1f4d0"
   }
 }
