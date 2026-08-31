@@ -6123,8 +6123,9 @@
     "name": "9.8 m/s",
     "description": "Freefall 모드로 10층을 가세요!",
     "expected_difficulty": "U5",
-    "status": "pending",
-    "submitted_at": "2026-08-31T12:15:09.568965"
+    "status": "registered",
+    "submitted_at": "2026-08-31T12:15:09.568965",
+    "challenge_id": "1114"
   },
   "c6109f70": {
     "user_id": "1273331318834593814",
