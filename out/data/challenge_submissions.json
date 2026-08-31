@@ -6163,7 +6163,8 @@
     "name": "저는 저런 더러운 것을 만지지 않아요",
     "description": "쓰레기줄을 지우지 않고 3층 등반하기",
     "expected_difficulty": "P5",
-    "status": "pending",
-    "submitted_at": "2026-08-31T13:41:51.272905"
+    "status": "registered",
+    "submitted_at": "2026-08-31T13:41:51.272905",
+    "challenge_id": "1118"
   }
 }
