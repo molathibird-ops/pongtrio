@@ -14501,5 +14501,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "519b0f08-e3b3-41be-888f-624c522dc98b"
+  },
+  "d7de076d-dcb8-459b-84ce-67857838c688": {
+    "user_id": "331",
+    "username": "exilelord",
+    "challenge_id": "331",
+    "difficulty": "U4",
+    "challenge_name": "한 치 앞도 보이지 않아...",
+    "submitted_at": "2026-08-31T13:14:00.818604",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "d7de076d-dcb8-459b-84ce-67857838c688"
   }
 }
