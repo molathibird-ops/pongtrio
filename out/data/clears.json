@@ -14545,5 +14545,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "f6eacc01-827c-4d59-96ed-43d2612a5fae"
+  },
+  "4e8161fd-a141-4080-a202-38bea09a8440": {
+    "user_id": "3939384743",
+    "username": "gi_mania",
+    "challenge_id": "93",
+    "difficulty": "G1",
+    "challenge_name": "폭주기관차",
+    "submitted_at": "2026-08-31T13:16:18.725794",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "4e8161fd-a141-4080-a202-38bea09a8440"
   }
 }
