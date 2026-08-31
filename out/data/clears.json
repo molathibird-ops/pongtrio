@@ -14579,5 +14579,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "50aa9302-5081-4642-bed6-b416b4c1f4d0"
+  },
+  "106b5811-fd63-446b-b92b-0c6faebb8029": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "1118",
+    "difficulty": "P7",
+    "custom_pp": null,
+    "challenge_name": "저는 저런 더러운 것을 만지지 않아요",
+    "submitted_at": "2026-08-31T13:49:43.727672",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "106b5811-fd63-446b-b92b-0c6faebb8029"
   }
 }
