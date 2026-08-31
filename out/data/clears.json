@@ -14429,5 +14429,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "49e84030-3f51-4c57-8a7e-537dde975dce"
+  },
+  "048e64f0-651d-4305-9bdd-69b692e8579a": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "56",
+    "difficulty": "P2",
+    "custom_pp": null,
+    "challenge_name": "상대 살려주기",
+    "submitted_at": "2026-08-31T11:57:19.145804",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "048e64f0-651d-4305-9bdd-69b692e8579a"
   }
 }
