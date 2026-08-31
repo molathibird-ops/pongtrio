@@ -12431,5 +12431,16 @@
     "creator_name": "ria001186",
     "created_at": "2026-08-31T11:56:09.766106",
     "registered_at": "2026-08-31T13:31:04.656261"
+  },
+  "1113": {
+    "name": "World Wrestling Entertainment",
+    "description": "loaded dice 모드로 10층을 가세요!",
+    "expected_difficulty": "U6",
+    "actual_difficulty": "Q1",
+    "custom_pp": null,
+    "creator_id": "1273331318834593814",
+    "creator_name": "ria001186",
+    "created_at": "2026-08-31T12:04:39.332023",
+    "registered_at": "2026-08-31T13:35:05.493287"
   }
 }
