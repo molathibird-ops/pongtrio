@@ -6141,5 +6141,14 @@
     "expected_difficulty": "U11",
     "status": "pending",
     "submitted_at": "2026-08-31T12:36:34.071412"
+  },
+  "91da0473": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "ASHES",
+    "description": "줄을 깎을 때 반드시 방해줄을 포함해서 깎아야 하고, 어떠한 모드도 껴선 안됩니다. 이 조건을 가진 채로 10층에 등반하세요. (3 key limit, 손캠,영상 요구)",
+    "expected_difficulty": "Q3",
+    "status": "pending",
+    "submitted_at": "2026-08-31T13:07:24.873013"
   }
 }
