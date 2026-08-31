@@ -14453,5 +14453,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "cf8dfc06-e433-4731-a1d8-e998b7f5e726"
+  },
+  "97df8764-7046-49f1-bc0c-518473362c6e": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "1100",
+    "difficulty": "P3",
+    "custom_pp": null,
+    "challenge_name": "빌라",
+    "submitted_at": "2026-08-31T12:21:36.616235",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "97df8764-7046-49f1-bc0c-518473362c6e"
   }
 }
