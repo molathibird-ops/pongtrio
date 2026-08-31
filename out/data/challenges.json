@@ -12419,5 +12419,16 @@
     "creator_name": "justicedragon4",
     "created_at": "2026-08-30T07:04:19.638765",
     "registered_at": "2026-08-30T07:12:40.173917"
+  },
+  "1112": {
+    "name": "스토아학파의 금욕주의",
+    "description": "asceticism 모드로 10층을 가세요!",
+    "expected_difficulty": "U10",
+    "actual_difficulty": "Q2",
+    "custom_pp": null,
+    "creator_id": "1273331318834593814",
+    "creator_name": "ria001186",
+    "created_at": "2026-08-31T11:56:09.766106",
+    "registered_at": "2026-08-31T13:31:04.656261"
   }
 }
