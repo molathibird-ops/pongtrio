@@ -14438,7 +14438,7 @@
     "custom_pp": null,
     "challenge_name": "상대 살려주기",
     "submitted_at": "2026-08-31T11:57:19.145804",
-    "status": "pending",
+    "status": "approved",
     "felt_difficulty": null,
     "clear_id": "048e64f0-651d-4305-9bdd-69b692e8579a"
   },
@@ -14450,7 +14450,7 @@
     "custom_pp": null,
     "challenge_name": "뜨거운 밤",
     "submitted_at": "2026-08-31T11:57:37.646003",
-    "status": "pending",
+    "status": "approved",
     "felt_difficulty": null,
     "clear_id": "cf8dfc06-e433-4731-a1d8-e998b7f5e726"
   }
