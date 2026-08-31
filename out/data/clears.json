@@ -14441,5 +14441,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "048e64f0-651d-4305-9bdd-69b692e8579a"
+  },
+  "cf8dfc06-e433-4731-a1d8-e998b7f5e726": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "57",
+    "difficulty": "P2",
+    "custom_pp": null,
+    "challenge_name": "뜨거운 밤",
+    "submitted_at": "2026-08-31T11:57:37.646003",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "cf8dfc06-e433-4731-a1d8-e998b7f5e726"
   }
 }
