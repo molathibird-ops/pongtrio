@@ -14512,5 +14512,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "d7de076d-dcb8-459b-84ce-67857838c688"
+  },
+  "b6da3a83-53ff-4cd7-bcf1-80f2c0103d5c": {
+    "user_id": "393938474",
+    "username": "ge_mania",
+    "challenge_id": "304",
+    "difficulty": "G8",
+    "challenge_name": "Ruby",
+    "submitted_at": "2026-08-31T13:14:48.752545",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "b6da3a83-53ff-4cd7-bcf1-80f2c0103d5c"
   }
 }
