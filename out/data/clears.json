@@ -14534,5 +14534,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "b23b75c5-cc34-42f2-bc64-5363015243c2"
+  },
+  "f6eacc01-827c-4d59-96ed-43d2612a5fae": {
+    "user_id": "3939384743",
+    "username": "gi_mania",
+    "challenge_id": "11",
+    "difficulty": "G1",
+    "challenge_name": "정상",
+    "submitted_at": "2026-08-31T13:16:14.582703",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "f6eacc01-827c-4d59-96ed-43d2612a5fae"
   }
 }
