@@ -14591,5 +14591,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "106b5811-fd63-446b-b92b-0c6faebb8029"
+  },
+  "d87af33b-0ccd-4ef5-8e97-0cab919701b8": {
+    "user_id": "1228338306631073815",
+    "username": "gim.jon",
+    "challenge_id": "1049",
+    "difficulty": "P20",
+    "custom_pp": null,
+    "challenge_name": "흐에",
+    "submitted_at": "2026-08-31T14:58:50.251627",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "d87af33b-0ccd-4ef5-8e97-0cab919701b8"
   }
 }
