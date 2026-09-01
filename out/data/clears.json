@@ -14651,5 +14651,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "3bd3ad58-1081-44aa-ae64-d9a6615407f1"
+  },
+  "36bfa10e-bcfa-434f-8580-a16a1337669e": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "challenge_id": "1065",
+    "difficulty": "P15",
+    "custom_pp": null,
+    "challenge_name": "죄송하지만당신은잘못된곳에서플레이를하고잇어요",
+    "submitted_at": "2026-09-01T16:22:24.638434",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "36bfa10e-bcfa-434f-8580-a16a1337669e"
   }
 }
