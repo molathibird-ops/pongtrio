@@ -489,7 +489,8 @@
     "equipped_title": null,
     "profile_color": null,
     "chat_count": 27,
-    "night_clears": 4
+    "night_clears": 4,
+    "got_nerfed": true
   },
   "1450130496045580390": {
     "coins": 37,
