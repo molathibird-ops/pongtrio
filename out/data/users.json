@@ -721,13 +721,15 @@
     "chat_count": 768
   },
   "1485520167420297276": {
-    "coins": 45653,
+    "coins": 53,
     "balance": 0,
     "total_spent": 0,
-    "owned_colors": [],
+    "owned_colors": [
+      "11레벨"
+    ],
     "owned_titles": [],
     "equipped_title": null,
-    "profile_color": null,
+    "profile_color": "11레벨",
     "chat_count": 6194,
     "best_lottery": 25,
     "bet_wins": 29,
