@@ -12508,5 +12508,16 @@
       "순수등반",
       "행동제한"
     ]
+  },
+  "1119": {
+    "name": "...? 미니 더블이요??",
+    "description": "T스핀 미니 더블을 하세요",
+    "expected_difficulty": "P2",
+    "actual_difficulty": "P3",
+    "custom_pp": null,
+    "creator_id": "1485520167420297276",
+    "creator_name": "doyunh2011_alt",
+    "created_at": "2026-09-01T08:44:20.548589",
+    "registered_at": "2026-09-01T08:48:10.155093"
   }
 }
