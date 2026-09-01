@@ -6166,5 +6166,14 @@
     "status": "registered",
     "submitted_at": "2026-08-31T13:41:51.272905",
     "challenge_id": "1118"
+  },
+  "966c0259": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "...? 미니 더블이요??",
+    "description": "T스핀 미니 더블을 하세요",
+    "expected_difficulty": "P2",
+    "status": "pending",
+    "submitted_at": "2026-09-01T08:44:20.548589"
   }
 }
