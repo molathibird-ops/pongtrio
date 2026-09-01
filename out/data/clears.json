@@ -14627,5 +14627,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "77d45fc8-5662-4b63-95e5-1cae5ae4943d"
+  },
+  "c3d8b289-ee73-432f-a4e3-e6f93707de8f": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "challenge_id": "348",
+    "difficulty": "U1",
+    "custom_pp": null,
+    "challenge_name": "과충전 v5",
+    "submitted_at": "2026-09-01T08:20:55.923022",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "c3d8b289-ee73-432f-a4e3-e6f93707de8f"
   }
 }
