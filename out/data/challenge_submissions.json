@@ -6173,7 +6173,8 @@
     "name": "...? 미니 더블이요??",
     "description": "T스핀 미니 더블을 하세요",
     "expected_difficulty": "P2",
-    "status": "pending",
-    "submitted_at": "2026-09-01T08:44:20.548589"
+    "status": "registered",
+    "submitted_at": "2026-09-01T08:44:20.548589",
+    "challenge_id": "1119"
   }
 }
