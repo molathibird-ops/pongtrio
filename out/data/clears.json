@@ -14603,5 +14603,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "d87af33b-0ccd-4ef5-8e97-0cab919701b8"
+  },
+  "3d95c129-9961-4730-bd87-9d68987c3ce1": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "challenge_id": "218",
+    "difficulty": "P18",
+    "custom_pp": null,
+    "challenge_name": "quartz",
+    "submitted_at": "2026-09-01T07:29:31.515054",
+    "status": "pending",
+    "felt_difficulty": "P18",
+    "clear_id": "3d95c129-9961-4730-bd87-9d68987c3ce1"
   }
 }
