@@ -14615,5 +14615,17 @@
     "status": "approved",
     "felt_difficulty": "P18",
     "clear_id": "3d95c129-9961-4730-bd87-9d68987c3ce1"
+  },
+  "77d45fc8-5662-4b63-95e5-1cae5ae4943d": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "challenge_id": "393",
+    "difficulty": "P19",
+    "custom_pp": null,
+    "challenge_name": "권총",
+    "submitted_at": "2026-09-01T07:59:36.715371",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "77d45fc8-5662-4b63-95e5-1cae5ae4943d"
   }
 }
