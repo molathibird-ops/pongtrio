@@ -14663,5 +14663,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "36bfa10e-bcfa-434f-8580-a16a1337669e"
+  },
+  "48aed328-fa50-41de-8a61-481816363d47": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "challenge_id": "122",
+    "difficulty": "G9",
+    "custom_pp": null,
+    "challenge_name": "2초에 1가방?",
+    "submitted_at": "2026-09-01T16:40:53.427236",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "48aed328-fa50-41de-8a61-481816363d47"
   }
 }
