@@ -14687,5 +14687,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "0975d983-2bb1-4f93-a335-365411ed1f14"
+  },
+  "68a7cc3c-3630-4148-af8b-89d6fccba1f2": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "challenge_id": "1055",
+    "difficulty": "G8",
+    "custom_pp": null,
+    "challenge_name": "느엥 v2",
+    "submitted_at": "2026-09-01T17:12:59.452139",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "68a7cc3c-3630-4148-af8b-89d6fccba1f2"
   }
 }
