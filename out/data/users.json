@@ -1490,5 +1490,32 @@
     "equipped_title": null,
     "profile_color": null,
     "chat_count": 9
+  },
+  "281374": {
+    "coins": 500,
+    "balance": 0,
+    "total_spent": 0,
+    "owned_colors": [],
+    "owned_titles": [],
+    "equipped_title": null,
+    "profile_color": null
+  },
+  "393938474": {
+    "coins": 500,
+    "balance": 0,
+    "total_spent": 0,
+    "owned_colors": [],
+    "owned_titles": [],
+    "equipped_title": null,
+    "profile_color": null
+  },
+  "94837289550": {
+    "coins": 500,
+    "balance": 0,
+    "total_spent": 0,
+    "owned_colors": [],
+    "owned_titles": [],
+    "equipped_title": null,
+    "profile_color": null
   }
 }
