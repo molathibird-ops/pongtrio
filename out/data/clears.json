@@ -14699,5 +14699,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "c93056ef-76d7-484e-9c9c-6ac265c71f92"
+  },
+  "1388f502-d0b9-43d5-8f6e-f9859b65ff72": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "1029",
+    "difficulty": "P11",
+    "custom_pp": null,
+    "challenge_name": "퍼클루프 (Nerfed)",
+    "submitted_at": "2026-09-02T03:01:08.927224",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "1388f502-d0b9-43d5-8f6e-f9859b65ff72"
   }
 }
