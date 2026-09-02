@@ -6183,7 +6183,8 @@
     "name": "나는 예언자",
     "description": "예측 T스핀을 하세요",
     "expected_difficulty": "P2",
-    "status": "pending",
-    "submitted_at": "2026-09-02T11:29:57.052893"
+    "status": "registered",
+    "submitted_at": "2026-09-02T11:29:57.052893",
+    "challenge_id": "1120"
   }
 }
