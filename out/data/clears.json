@@ -14711,5 +14711,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "1388f502-d0b9-43d5-8f6e-f9859b65ff72"
+  },
+  "e4c04f9f-8a2c-4331-9c4c-026fd2d548db": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "challenge_id": "735",
+    "difficulty": "epic",
+    "custom_pp": null,
+    "challenge_name": "연속 출석",
+    "submitted_at": "2026-09-02T15:38:13.757591",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "e4c04f9f-8a2c-4331-9c4c-026fd2d548db"
   }
 }
