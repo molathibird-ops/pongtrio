@@ -12553,5 +12553,16 @@
     "creator_name": "doyunh2011_alt",
     "created_at": "2026-09-01T08:44:20.548589",
     "registered_at": "2026-09-01T08:48:10.155093"
+  },
+  "1120": {
+    "name": "나는 예언자",
+    "description": "예측 T스핀을 하세요",
+    "expected_difficulty": "P2",
+    "actual_difficulty": "P2",
+    "custom_pp": null,
+    "creator_id": "1485520167420297276",
+    "creator_name": "doyunh2011_alt",
+    "created_at": "2026-09-02T11:29:57.052893",
+    "registered_at": "2026-09-02T11:30:24.548434"
   }
 }
