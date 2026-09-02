@@ -6176,5 +6176,14 @@
     "status": "registered",
     "submitted_at": "2026-09-01T08:44:20.548589",
     "challenge_id": "1119"
+  },
+  "651d379a": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "나는 예언자",
+    "description": "예측 T스핀을 하세요",
+    "expected_difficulty": "P2",
+    "status": "pending",
+    "submitted_at": "2026-09-02T11:29:57.052893"
   }
 }
