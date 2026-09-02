@@ -14723,5 +14723,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "e4c04f9f-8a2c-4331-9c4c-026fd2d548db"
+  },
+  "d1fb9e3a-c65a-4ce8-abc4-398f59a4694d": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "challenge_id": "336",
+    "difficulty": "R0",
+    "custom_pp": null,
+    "challenge_name": "미니 스핀",
+    "submitted_at": "2026-09-02T15:52:12.274132",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "d1fb9e3a-c65a-4ce8-abc4-398f59a4694d"
   }
 }
