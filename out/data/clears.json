@@ -14879,5 +14879,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "73362601-6716-4f83-91c0-c4fda260a6da"
+  },
+  "b2df8c58-1225-4fb6-b45d-d31949c63c66": {
+    "user_id": "93838259",
+    "username": "bro._.ski",
+    "challenge_id": "259",
+    "difficulty": "P0",
+    "challenge_name": "튜토리얼",
+    "submitted_at": "2026-09-03T14:33:03.550583",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "b2df8c58-1225-4fb6-b45d-d31949c63c66"
   }
 }
