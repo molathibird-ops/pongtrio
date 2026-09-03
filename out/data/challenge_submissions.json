@@ -6243,7 +6243,8 @@
     "name": "90의 극단적 한계",
     "description": "tyrant 모드로 90스태킹만을 사용해 3층에 가세요! (90이 풀리면 안됨, 요시히로 셋업 같은 것도 금지, 무조건 10열에 클리어)",
     "expected_difficulty": "U1",
-    "status": "pending",
-    "submitted_at": "2026-09-03T12:47:42.620505"
+    "status": "registered",
+    "submitted_at": "2026-09-03T12:47:42.620505",
+    "challenge_id": "1126"
   }
 }
