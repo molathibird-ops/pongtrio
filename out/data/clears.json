@@ -14867,5 +14867,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "c8b96888-c68a-4360-903c-0221f33c5ac8"
+  },
+  "73362601-6716-4f83-91c0-c4fda260a6da": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "1018",
+    "difficulty": "P2",
+    "custom_pp": null,
+    "challenge_name": "<:emoji_65:1505205881204244591>",
+    "submitted_at": "2026-09-03T12:51:42.284387",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "73362601-6716-4f83-91c0-c4fda260a6da"
   }
 }
