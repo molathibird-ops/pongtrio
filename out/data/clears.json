@@ -14783,5 +14783,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "895a7469-fe7d-4987-905d-35ac89a73d39"
+  },
+  "5fe7724c-c051-4319-bfcb-2a008bf26e37": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "challenge_id": "1073",
+    "difficulty": "P16",
+    "custom_pp": null,
+    "challenge_name": "Hottest Take Machine",
+    "submitted_at": "2026-09-03T10:48:41.577915",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "5fe7724c-c051-4319-bfcb-2a008bf26e37"
   }
 }
