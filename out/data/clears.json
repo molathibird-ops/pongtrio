@@ -14735,5 +14735,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "d1fb9e3a-c65a-4ce8-abc4-398f59a4694d"
+  },
+  "8b5c9a52-920f-4df4-b634-0ac806e40dcf": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "806",
+    "difficulty": "R0",
+    "custom_pp": null,
+    "challenge_name": "하이퍼스피드 막차",
+    "submitted_at": "2026-09-03T08:15:44.613870",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "8b5c9a52-920f-4df4-b634-0ac806e40dcf"
   }
 }
