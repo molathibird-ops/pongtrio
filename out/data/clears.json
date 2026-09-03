@@ -14855,5 +14855,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "7faba69e-e4d0-4080-830f-387f97cd8a1c"
+  },
+  "25194fc5-bab3-4b03-990b-51c1c5a96dac": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "100",
+    "difficulty": "censored",
+    "custom_pp": null,
+    "challenge_name": "무한~ 무야호~",
+    "submitted_at": "2026-09-03T12:34:14.219744",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "25194fc5-bab3-4b03-990b-51c1c5a96dac"
   }
 }
