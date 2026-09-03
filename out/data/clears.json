@@ -14855,5 +14855,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "25194fc5-bab3-4b03-990b-51c1c5a96dac"
+  },
+  "c8b96888-c68a-4360-903c-0221f33c5ac8": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "challenge_id": "704",
+    "difficulty": "P17",
+    "custom_pp": null,
+    "challenge_name": "무한루프",
+    "submitted_at": "2026-09-03T12:47:48.029786",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "c8b96888-c68a-4360-903c-0221f33c5ac8"
   }
 }
