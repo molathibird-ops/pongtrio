@@ -15044,5 +15044,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "2660f909-80dd-484b-8b8a-99d778215717"
+  },
+  "3057709e-d32c-4370-880c-b5038b9882c3": {
+    "user_id": "446",
+    "username": "six_to_seven.maker",
+    "challenge_id": "137",
+    "difficulty": "P19",
+    "challenge_name": "과충전 v2",
+    "submitted_at": "2026-09-03T14:46:51.293341",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "3057709e-d32c-4370-880c-b5038b9882c3"
   }
 }
