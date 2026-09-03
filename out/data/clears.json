@@ -14967,5 +14967,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "46527314-65f9-4dac-bb30-62bee250c5d5"
+  },
+  "30810002-edfe-485c-9563-c50f2843c8b8": {
+    "user_id": "838373728",
+    "username": "uemuienyue",
+    "challenge_id": "258",
+    "difficulty": "P1",
+    "challenge_name": "천리 길도 한 걸음부터",
+    "submitted_at": "2026-09-03T14:42:54.001123",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "30810002-edfe-485c-9563-c50f2843c8b8"
   }
 }
