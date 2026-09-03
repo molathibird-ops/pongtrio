@@ -15033,5 +15033,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "66a30cb0-dd16-4c0e-9f23-0e3c9bef9249"
+  },
+  "2660f909-80dd-484b-8b8a-99d778215717": {
+    "user_id": "446",
+    "username": "six_to_seven.maker",
+    "challenge_id": "93",
+    "difficulty": "G1",
+    "challenge_name": "폭주기관차",
+    "submitted_at": "2026-09-03T14:46:45.647470",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "2660f909-80dd-484b-8b8a-99d778215717"
   }
 }
