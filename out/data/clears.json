@@ -14945,5 +14945,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "927be61a-7d4c-4715-9bae-fd5421444692"
+  },
+  "03fada17-e14e-4c1a-aae6-aeefec77ead2": {
+    "user_id": "93838259393",
+    "username": "gaoxing_zhanliao",
+    "challenge_id": "11",
+    "difficulty": "G1",
+    "challenge_name": "정상",
+    "submitted_at": "2026-09-03T14:34:24.212903",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "03fada17-e14e-4c1a-aae6-aeefec77ead2"
   }
 }
