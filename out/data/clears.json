@@ -14759,5 +14759,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "ea578c30-a526-4253-a9a7-02a74eea806f"
+  },
+  "820e4d89-92f5-4613-883f-43c9379023f6": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "1119",
+    "difficulty": "P3",
+    "custom_pp": null,
+    "challenge_name": "...? 미니 더블이요??",
+    "submitted_at": "2026-09-03T10:08:47.409112",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "820e4d89-92f5-4613-883f-43c9379023f6"
   }
 }
