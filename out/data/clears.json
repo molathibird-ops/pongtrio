@@ -14843,5 +14843,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "75802b18-4e74-4245-bcb0-3ea2f792bc34"
+  },
+  "7faba69e-e4d0-4080-830f-387f97cd8a1c": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "challenge_id": "878",
+    "difficulty": "P19",
+    "custom_pp": null,
+    "challenge_name": "안이 그딴 스태킹 하지 마라구요;;",
+    "submitted_at": "2026-09-03T12:33:26.817659",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "7faba69e-e4d0-4080-830f-387f97cd8a1c"
   }
 }
