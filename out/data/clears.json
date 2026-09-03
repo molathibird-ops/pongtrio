@@ -15011,5 +15011,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "d63a72f1-15ea-4b8c-ae16-59826ade14f5"
+  },
+  "b74e3a18-d123-4f2c-b8e6-57d50a9c8951": {
+    "user_id": "446",
+    "username": "six_to_seven.maker",
+    "challenge_id": "434",
+    "difficulty": "P16",
+    "challenge_name": "핵심",
+    "submitted_at": "2026-09-03T14:45:52.033836",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "b74e3a18-d123-4f2c-b8e6-57d50a9c8951"
   }
 }
