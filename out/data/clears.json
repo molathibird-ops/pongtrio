@@ -14956,5 +14956,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "03fada17-e14e-4c1a-aae6-aeefec77ead2"
+  },
+  "46527314-65f9-4dac-bb30-62bee250c5d5": {
+    "user_id": "93838259393",
+    "username": "gaoxing_zhanliao",
+    "challenge_id": "1",
+    "difficulty": "P11",
+    "challenge_name": "운!지",
+    "submitted_at": "2026-09-03T14:34:28.727744",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "46527314-65f9-4dac-bb30-62bee250c5d5"
   }
 }
