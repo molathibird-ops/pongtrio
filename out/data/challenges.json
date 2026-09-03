@@ -8948,11 +8948,12 @@
     "name": "하이퍼스피드 막차",
     "description": "5층에서 하이퍼스피드 모드를 활성화시키세요.",
     "expected_difficulty": "R2",
-    "actual_difficulty": "R0",
+    "actual_difficulty": "censored",
     "creator_id": "976461145026203730",
     "creator_name": "tremendous5273",
     "created_at": "2026-06-27T07:33:24.266918",
-    "registered_at": "2026-06-27T09:23:04.854858"
+    "registered_at": "2026-06-27T09:23:04.854858",
+    "custom_pp": 102.0
   },
   "807": {
     "name": "정확도 5%",
