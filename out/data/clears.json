@@ -14771,5 +14771,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "820e4d89-92f5-4613-883f-43c9379023f6"
+  },
+  "895a7469-fe7d-4987-905d-35ac89a73d39": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "1120",
+    "difficulty": "P2",
+    "custom_pp": null,
+    "challenge_name": "나는 예언자",
+    "submitted_at": "2026-09-03T10:16:53.809290",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "895a7469-fe7d-4987-905d-35ac89a73d39"
   }
 }
