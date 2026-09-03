@@ -6186,5 +6186,14 @@
     "status": "registered",
     "submitted_at": "2026-09-02T11:29:57.052893",
     "challenge_id": "1120"
+  },
+  "aecf482d": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "불가능한 챌린지",
+    "description": "double hole garbage를 끼지 않되, 받은 쓰레기줄은 모두 구멍이 2개 이상 뚫려있도록 하여 4층을 등반하세요",
+    "expected_difficulty": "P10",
+    "status": "pending",
+    "submitted_at": "2026-09-03T10:20:28.910794"
   }
 }
