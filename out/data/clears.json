@@ -14747,5 +14747,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "8b5c9a52-920f-4df4-b634-0ac806e40dcf"
+  },
+  "ea578c30-a526-4253-a9a7-02a74eea806f": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "challenge_id": "598",
+    "difficulty": "P20",
+    "custom_pp": 95.0,
+    "challenge_name": "아쉬운거죠 뭐...",
+    "submitted_at": "2026-09-03T09:08:43.952843",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "ea578c30-a526-4253-a9a7-02a74eea806f"
   }
 }
