@@ -14831,5 +14831,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "ce571d15-6ab2-46db-90b9-04d593c7bec7"
+  },
+  "75802b18-4e74-4245-bcb0-3ea2f792bc34": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "challenge_id": "100",
+    "difficulty": "censored",
+    "custom_pp": null,
+    "challenge_name": "무한~ 무야호~",
+    "submitted_at": "2026-09-03T12:17:30.982729",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "75802b18-4e74-4245-bcb0-3ea2f792bc34"
   }
 }
