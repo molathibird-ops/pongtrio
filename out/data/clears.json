@@ -14890,5 +14890,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "b2df8c58-1225-4fb6-b45d-d31949c63c66"
+  },
+  "c8ec57e1-4bee-4f88-9c20-3ee08e27589a": {
+    "user_id": "93838259",
+    "username": "bro._.ski",
+    "challenge_id": "20",
+    "difficulty": "P16",
+    "challenge_name": "과충전",
+    "submitted_at": "2026-09-03T14:33:10.114538",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "c8ec57e1-4bee-4f88-9c20-3ee08e27589a"
   }
 }
