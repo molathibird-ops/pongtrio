@@ -15022,5 +15022,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "b74e3a18-d123-4f2c-b8e6-57d50a9c8951"
+  },
+  "66a30cb0-dd16-4c0e-9f23-0e3c9bef9249": {
+    "user_id": "446",
+    "username": "six_to_seven.maker",
+    "challenge_id": "446",
+    "difficulty": "P4",
+    "challenge_name": "무거운 한 걸음",
+    "submitted_at": "2026-09-03T14:45:58.386881",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "66a30cb0-dd16-4c0e-9f23-0e3c9bef9249"
   }
 }
