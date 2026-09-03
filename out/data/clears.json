@@ -14923,5 +14923,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "621d07fc-6e0b-4476-b0b7-cd2e683856be"
+  },
+  "8622f83d-a4f0-4c8c-b21e-7442661e604c": {
+    "user_id": "938382593",
+    "username": "fork.crying",
+    "challenge_id": "20",
+    "difficulty": "P16",
+    "challenge_name": "과충전",
+    "submitted_at": "2026-09-03T14:33:50.888416",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "8622f83d-a4f0-4c8c-b21e-7442661e604c"
   }
 }
