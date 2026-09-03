@@ -14807,5 +14807,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "f933c13b-5c97-4cf7-84fe-14940b124165"
+  },
+  "7e0df3e2-e5f0-4ca8-8eaa-0fd4720b019c": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "99",
+    "difficulty": "P19",
+    "custom_pp": null,
+    "challenge_name": "내 손이 멈추지 않는 탓일까?ㅠㅠ",
+    "submitted_at": "2026-09-03T11:26:32.084093",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "7e0df3e2-e5f0-4ca8-8eaa-0fd4720b019c"
   }
 }
