@@ -14901,5 +14901,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "c8ec57e1-4bee-4f88-9c20-3ee08e27589a"
+  },
+  "3d036d45-a470-4926-a613-9ba667bfbbba": {
+    "user_id": "93838259",
+    "username": "bro._.ski",
+    "challenge_id": "390",
+    "difficulty": "G15",
+    "challenge_name": "지구 포와 퍼클 왕",
+    "submitted_at": "2026-09-03T14:33:24.149743",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "3d036d45-a470-4926-a613-9ba667bfbbba"
   }
 }
