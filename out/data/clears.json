@@ -14934,5 +14934,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "8622f83d-a4f0-4c8c-b21e-7442661e604c"
+  },
+  "927be61a-7d4c-4715-9bae-fd5421444692": {
+    "user_id": "93838259393",
+    "username": "gaoxing_zhanliao",
+    "challenge_id": "20",
+    "difficulty": "P16",
+    "challenge_name": "과충전",
+    "submitted_at": "2026-09-03T14:34:19.169464",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "927be61a-7d4c-4715-9bae-fd5421444692"
   }
 }
