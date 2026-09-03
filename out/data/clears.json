@@ -14819,5 +14819,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "7e0df3e2-e5f0-4ca8-8eaa-0fd4720b019c"
+  },
+  "ce571d15-6ab2-46db-90b9-04d593c7bec7": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "243",
+    "difficulty": "P14",
+    "custom_pp": null,
+    "challenge_name": "퀵플 아니였나요?",
+    "submitted_at": "2026-09-03T11:39:07.345251",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "ce571d15-6ab2-46db-90b9-04d593c7bec7"
   }
 }
