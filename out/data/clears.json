@@ -11531,7 +11531,8 @@
     "submitted_at": "2026-08-03T06:34:06.485844",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "d3173229-5adc-4d05-82c7-aed8c8e0dd13"
+    "clear_id": "d3173229-5adc-4d05-82c7-aed8c8e0dd13",
+    "custom_pp": 2500.0
   },
   "b78469fd-2641-4eff-8ae6-7a385241f8cf": {
     "user_id": "976461145026203730",
