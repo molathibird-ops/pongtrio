@@ -6175,12 +6175,12 @@
     "name": "과충전 v9",
     "description": "퀵플레이에서 서지를 500 이상 채우고 끊으세요.",
     "expected_difficulty": "Q4",
-    "actual_difficulty": "U12",
+    "actual_difficulty": "U11",
     "creator_id": "589099128563302483",
     "creator_name": "rainbow_water",
     "created_at": "2026-04-19T13:13:52.839183",
     "registered_at": "2026-04-19T13:14:38.045082",
-    "custom_pp": null
+    "custom_pp": 3500.0
   },
   "558": {
     "name": "배터리 0%",
