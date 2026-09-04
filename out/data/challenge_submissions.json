@@ -6301,7 +6301,8 @@
     "name": "빌드딸깍금지ㅋ",
     "description": "다음 빌드를 사용하지 않고 올스핀 모드에서 120 apm 이상을 3분동안 유지하세요 : TeaL, Mechanical Heart",
     "expected_difficulty": "R2",
-    "status": "pending",
-    "submitted_at": "2026-09-04T15:14:29.812947"
+    "status": "registered",
+    "submitted_at": "2026-09-04T15:14:29.812947",
+    "challenge_id": "1130"
   }
 }
