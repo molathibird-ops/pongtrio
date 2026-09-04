@@ -449,7 +449,7 @@
     "profile_color": null
   },
   "1144563458268999750": {
-    "coins": 13210,
+    "coins": 13211,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [
@@ -458,7 +458,7 @@
     "owned_titles": [],
     "equipped_title": null,
     "profile_color": "2레벨",
-    "chat_count": 393,
+    "chat_count": 394,
     "got_nerfed": true,
     "holjjak_streak": 1
   },
@@ -1223,14 +1223,14 @@
     "profile_color": null
   },
   "1228338306631073815": {
-    "coins": 7473,
+    "coins": 7474,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [],
     "owned_titles": [],
     "equipped_title": null,
     "profile_color": null,
-    "chat_count": 2141,
+    "chat_count": 2142,
     "best_lottery": 3,
     "got_nerfed": true
   },
