@@ -12654,5 +12654,16 @@
     "creator_name": "ria001186",
     "created_at": "2026-09-04T05:17:12.435439",
     "registered_at": "2026-09-04T06:17:31.497683"
+  },
+  "1128": {
+    "name": "how to get censored",
+    "description": "본인 스탯 apm의 50%를 넘으면 안되고 pps는 본인 스탯의 80% 이상을 유지해야 하며 와인드업 4단계를 3번 받고, 도합 100~150대미지를 상쇄하며 퀵플레이 실시간 1등을 38초간 하세요!",
+    "expected_difficulty": "U20",
+    "actual_difficulty": "censored",
+    "custom_pp": null,
+    "creator_id": "1273331318834593814",
+    "creator_name": "ria001186",
+    "created_at": "2026-09-04T05:04:00.772665",
+    "registered_at": "2026-09-04T06:18:23.160480"
   }
 }
