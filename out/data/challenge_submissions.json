@@ -6262,7 +6262,8 @@
     "name": "peaceful contury",
     "description": "퀵플레이에서 대미지를 받지 않고 0.1m 이상 등반하세요!",
     "expected_difficulty": "P0",
-    "status": "pending",
-    "submitted_at": "2026-09-04T05:17:12.435439"
+    "status": "registered",
+    "submitted_at": "2026-09-04T05:17:12.435439",
+    "challenge_id": "1127"
   }
 }
