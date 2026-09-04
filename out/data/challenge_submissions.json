@@ -6255,5 +6255,14 @@
     "expected_difficulty": "U20",
     "status": "pending",
     "submitted_at": "2026-09-04T05:04:00.772665"
+  },
+  "6df7e6d9": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "peaceful contury",
+    "description": "퀵플레이에서 대미지를 받지 않고 0.1m 이상 등반하세요!",
+    "expected_difficulty": "P0",
+    "status": "pending",
+    "submitted_at": "2026-09-04T05:17:12.435439"
   }
 }
