@@ -12676,5 +12676,16 @@
     "creator_name": "ria001186",
     "created_at": "2026-09-04T11:08:24.340065",
     "registered_at": "2026-09-04T11:10:31.328470"
+  },
+  "1130": {
+    "name": "빌드딸깍금지ㅋ",
+    "description": "다음 빌드를 사용하지 않고 올스핀 모드에서 120 apm 이상을 3분동안 유지하세요 : TeaL, Mechanical Heart",
+    "expected_difficulty": "R2",
+    "actual_difficulty": "R2",
+    "custom_pp": null,
+    "creator_id": "840063640681054228",
+    "creator_name": "justicedragon4",
+    "created_at": "2026-09-04T15:14:29.812947",
+    "registered_at": "2026-09-04T15:34:34.606271"
   }
 }
