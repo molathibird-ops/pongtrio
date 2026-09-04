@@ -15078,5 +15078,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "34096004-a6ef-48ec-aa81-dd813fceb13c"
+  },
+  "f7976a4d-328a-48fb-95b2-d13543db3952": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "challenge_id": "128",
+    "difficulty": "G5",
+    "custom_pp": 100.0,
+    "challenge_name": "222",
+    "submitted_at": "2026-09-04T10:21:18.660853",
+    "status": "pending",
+    "felt_difficulty": "G4",
+    "clear_id": "f7976a4d-328a-48fb-95b2-d13543db3952"
   }
 }
