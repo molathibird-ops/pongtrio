@@ -1325,7 +1325,8 @@
     "owned_colors": [],
     "owned_titles": [],
     "equipped_title": null,
-    "profile_color": null
+    "profile_color": null,
+    "got_nerfed": true
   },
   "700345617": {
     "coins": 500,
