@@ -11305,13 +11305,13 @@
     "user_id": "6767",
     "username": "icly",
     "challenge_id": "557",
-    "difficulty": "U12",
+    "difficulty": "U11",
     "challenge_name": "과충전 v9",
     "submitted_at": "2026-08-03T05:57:46.495064",
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "23261872-7ee8-4898-818c-07b830c4d038",
-    "custom_pp": null
+    "custom_pp": 3500.0
   },
   "adf282c0-9b9e-4df6-b31c-94cb03843243": {
     "user_id": "6767",
