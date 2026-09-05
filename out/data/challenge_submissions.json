@@ -6341,7 +6341,8 @@
     "name": "SON😭",
     "description": "퀵플에서 S미노와 O미노를 둔 다음 최소 4x4 이상 사이즈의 N 모양을 만드세요!",
     "expected_difficulty": "P3",
-    "status": "pending",
-    "submitted_at": "2026-09-05T15:25:06.848395"
+    "status": "registered",
+    "submitted_at": "2026-09-05T15:25:06.848395",
+    "challenge_id": "1134"
   }
 }
