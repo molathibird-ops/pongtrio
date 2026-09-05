@@ -6321,7 +6321,8 @@
     "name": "fledgling",
     "description": "sot-c - fledgling을 들을 때 멜로디에 맞춰 키를 누르세요! (이 조건으로 노래가 끝나기 전까지 500m를 등반 해야합니다.)\n\n다음 멜로디가 들리기 전 혹은 들린 후에 입력할 시 실패입니다. Vr, HCr",
     "expected_difficulty": "U4",
-    "status": "pending",
-    "submitted_at": "2026-09-05T05:03:29.490996"
+    "status": "registered",
+    "submitted_at": "2026-09-05T05:03:29.490996",
+    "challenge_id": "1132"
   }
 }
