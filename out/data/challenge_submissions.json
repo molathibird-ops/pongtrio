@@ -6304,5 +6304,14 @@
     "status": "registered",
     "submitted_at": "2026-09-04T15:14:29.812947",
     "challenge_id": "1130"
+  },
+  "88354ad0": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "cursed metamorph",
+    "description": "4800m를 가세요! 다만 어떠한 스핀 싱글을 하면 안됩니다! (미니도 포함)",
+    "expected_difficulty": "U7",
+    "status": "pending",
+    "submitted_at": "2026-09-05T04:49:46.029194"
   }
 }
