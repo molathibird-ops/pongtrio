@@ -6324,5 +6324,14 @@
     "status": "registered",
     "submitted_at": "2026-09-05T05:03:29.490996",
     "challenge_id": "1132"
+  },
+  "5b132ac7": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "유전자 변형",
+    "description": "퀵플레이에서 다음 스탯 이상으로 750m를 가세요!\n\nAPM 30\nPPS 1.5\nVS 50\nFINESSE 50%",
+    "expected_difficulty": "P16",
+    "status": "pending",
+    "submitted_at": "2026-09-05T05:34:27.835180"
   }
 }
