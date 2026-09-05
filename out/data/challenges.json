@@ -12724,5 +12724,16 @@
       "영상",
       "손캠"
     ]
+  },
+  "1133": {
+    "name": "유전자 변형",
+    "description": "퀵플레이에서 다음 스탯 이상으로 750m를 가세요!\n\nAPM 30\nPPS 1.5\nVS 50\nFINESSE 50%",
+    "expected_difficulty": "P16",
+    "actual_difficulty": "P16",
+    "custom_pp": null,
+    "creator_id": "1273331318834593814",
+    "creator_name": "ria001186",
+    "created_at": "2026-09-05T05:34:27.835180",
+    "registered_at": "2026-09-05T05:36:55.654720"
   }
 }
