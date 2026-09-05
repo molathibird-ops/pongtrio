@@ -15092,5 +15092,17 @@
     "status": "approved",
     "felt_difficulty": "G4",
     "clear_id": "f7976a4d-328a-48fb-95b2-d13543db3952"
+  },
+  "0d1d469a-fc2d-420a-ad8d-c0c75e8b3c26": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "challenge_id": "526",
+    "difficulty": "G17",
+    "custom_pp": null,
+    "challenge_name": "드디어 깨달앗다 주력의 해ㄱ심!!!",
+    "submitted_at": "2026-09-05T01:17:36.124115",
+    "status": "pending",
+    "felt_difficulty": "G15",
+    "clear_id": "0d1d469a-fc2d-420a-ad8d-c0c75e8b3c26"
   }
 }
