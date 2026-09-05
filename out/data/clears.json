@@ -15116,5 +15116,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "645d6685-b24c-4864-9b67-85d304ad364d"
+  },
+  "f8ef7ca4-3f91-46f1-bcf8-add411445023": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "challenge_id": "742",
+    "difficulty": "P11",
+    "custom_pp": null,
+    "challenge_name": "밝은 청년",
+    "submitted_at": "2026-09-05T16:12:37.665430",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "f8ef7ca4-3f91-46f1-bcf8-add411445023"
   }
 }
