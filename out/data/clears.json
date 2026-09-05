@@ -15128,5 +15128,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "f8ef7ca4-3f91-46f1-bcf8-add411445023"
+  },
+  "8b0b248c-8df7-42f8-8c53-1dd7ce4f78f9": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "challenge_id": "775",
+    "difficulty": "G3",
+    "custom_pp": null,
+    "challenge_name": "총체적 난국",
+    "submitted_at": "2026-09-05T16:39:44.052393",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "8b0b248c-8df7-42f8-8c53-1dd7ce4f78f9"
   }
 }
