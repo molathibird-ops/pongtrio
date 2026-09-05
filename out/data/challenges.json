@@ -12687,5 +12687,16 @@
     "creator_name": "justicedragon4",
     "created_at": "2026-09-04T15:14:29.812947",
     "registered_at": "2026-09-04T15:34:34.606271"
+  },
+  "1131": {
+    "name": "cursed metamorph",
+    "description": "4800m를 가세요! 다만 어떠한 스핀 싱글을 하면 안됩니다! (미니도 포함)",
+    "expected_difficulty": "U7",
+    "actual_difficulty": "Q1",
+    "custom_pp": null,
+    "creator_id": "1273331318834593814",
+    "creator_name": "ria001186",
+    "created_at": "2026-09-05T04:49:46.029194",
+    "registered_at": "2026-09-05T04:57:11.045935"
   }
 }
