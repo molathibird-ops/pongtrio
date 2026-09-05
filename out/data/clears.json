@@ -15140,5 +15140,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "8b0b248c-8df7-42f8-8c53-1dd7ce4f78f9"
+  },
+  "38ce9404-f5af-48c3-a698-060b2a7a3d55": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "challenge_id": "779",
+    "difficulty": "G2",
+    "custom_pp": null,
+    "challenge_name": "방해줄 천국",
+    "submitted_at": "2026-09-05T16:59:09.191475",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "38ce9404-f5af-48c3-a698-060b2a7a3d55"
   }
 }
