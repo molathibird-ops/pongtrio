@@ -1,13 +1,13 @@
 {
   "544184205429440533": {
-    "coins": 7360,
+    "coins": 7361,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [],
     "owned_titles": [],
     "equipped_title": null,
     "profile_color": null,
-    "chat_count": 861,
+    "chat_count": 862,
     "got_nerfed": true
   },
   "589099128563302483": {
@@ -105,7 +105,7 @@
     "got_nerfed": true
   },
   "1273331318834593814": {
-    "coins": 6532,
+    "coins": 6533,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [
@@ -117,7 +117,7 @@
     ],
     "equipped_title": "橘シェリー",
     "profile_color": "5레벨",
-    "chat_count": 2681,
+    "chat_count": 2682,
     "best_lottery": 50,
     "holjjak_streak": 0,
     "got_nerfed": true
