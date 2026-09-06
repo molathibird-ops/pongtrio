@@ -6344,5 +6344,14 @@
     "status": "registered",
     "submitted_at": "2026-09-05T15:25:06.848395",
     "challenge_id": "1134"
+  },
+  "7eb08ed5": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "before:<:emoji_38:1494910153080963162>",
+    "description": "40라인인데 1분 안에 스핀 제로를 10번 이상 하고 완주하세요!",
+    "expected_difficulty": "G1",
+    "status": "pending",
+    "submitted_at": "2026-09-06T10:51:53.728120"
   }
 }
