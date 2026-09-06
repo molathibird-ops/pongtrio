@@ -15200,5 +15200,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "f2a962ea-de00-4570-82d4-9eb609ba13bb"
+  },
+  "c06a7c08-88c9-41fd-a21c-b55e165c0441": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "1127",
+    "difficulty": "P0",
+    "custom_pp": null,
+    "challenge_name": "peaceful contury",
+    "submitted_at": "2026-09-06T12:28:13.844186",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "c06a7c08-88c9-41fd-a21c-b55e165c0441"
   }
 }
