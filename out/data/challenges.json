@@ -12764,7 +12764,7 @@
     "name": "before:<:emoji_38:1494910153080963162>",
     "description": "40라인인데 1분 안에 스핀 제로를 10번 이상 하고 완주하세요!",
     "expected_difficulty": "G1",
-    "actual_difficulty": "R0",
+    "actual_difficulty": "P16",
     "custom_pp": null,
     "creator_id": "1273331318834593814",
     "creator_name": "ria001186",
