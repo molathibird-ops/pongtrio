@@ -15212,5 +15212,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "c06a7c08-88c9-41fd-a21c-b55e165c0441"
+  },
+  "d2b4d0d7-21dd-4ac7-ae9b-a47e675915e4": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "challenge_id": "605",
+    "difficulty": "G4",
+    "custom_pp": null,
+    "challenge_name": "뭐하는 애임?",
+    "submitted_at": "2026-09-06T13:20:35.507494",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "d2b4d0d7-21dd-4ac7-ae9b-a47e675915e4"
   }
 }
