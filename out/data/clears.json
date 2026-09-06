@@ -15188,5 +15188,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "c143e1ad-8b1d-4ac3-876b-be078f35f152"
+  },
+  "f2a962ea-de00-4570-82d4-9eb609ba13bb": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "1133",
+    "difficulty": "P16",
+    "custom_pp": null,
+    "challenge_name": "유전자 변형",
+    "submitted_at": "2026-09-06T12:25:53.020790",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "f2a962ea-de00-4570-82d4-9eb609ba13bb"
   }
 }
