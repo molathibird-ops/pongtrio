@@ -15152,5 +15152,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "38ce9404-f5af-48c3-a698-060b2a7a3d55"
+  },
+  "cb5bff7c-db8c-409f-9991-3848d0c8799f": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "challenge_id": "169",
+    "difficulty": "epic",
+    "custom_pp": null,
+    "challenge_name": "플랜트리 올 클리어",
+    "submitted_at": "2026-09-06T03:43:40.854305",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "cb5bff7c-db8c-409f-9991-3848d0c8799f"
   }
 }
