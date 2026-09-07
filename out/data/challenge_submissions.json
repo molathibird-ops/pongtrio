@@ -6374,5 +6374,14 @@
     "status": "registered",
     "submitted_at": "2026-09-07T14:29:10.110402",
     "challenge_id": "1137"
+  },
+  "069f4cf4": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "find 1",
+    "description": "모든 라인 클리어를 스핀으로만 해서 1,000m에 가세요! (No mod)",
+    "expected_difficulty": "U4",
+    "status": "pending",
+    "submitted_at": "2026-09-07T15:43:10.379958"
   }
 }
