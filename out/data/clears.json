@@ -15261,5 +15261,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "cbff0e68-8dac-4a45-b534-2a6d14621559"
+  },
+  "f104745f-3767-4983-952e-4f8bfb725d45": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "491",
+    "difficulty": "R0",
+    "custom_pp": null,
+    "challenge_name": "수상한 등반가",
+    "submitted_at": "2026-09-07T13:21:06.424019",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "f104745f-3767-4983-952e-4f8bfb725d45"
   }
 }
