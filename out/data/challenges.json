@@ -12796,5 +12796,16 @@
     "creator_name": "rainbow_water",
     "created_at": "2026-09-07T14:29:10.110402",
     "registered_at": "2026-09-07T14:31:49.142389"
+  },
+  "1138": {
+    "name": "find 1",
+    "description": "모든 라인 클리어를 스핀으로만 해서 1,000m에 가세요! (No mod)",
+    "expected_difficulty": "U4",
+    "actual_difficulty": "Q0",
+    "custom_pp": null,
+    "creator_id": "1273331318834593814",
+    "creator_name": "ria001186",
+    "created_at": "2026-09-07T15:43:10.379958",
+    "registered_at": "2026-09-07T15:43:56.707669"
   }
 }
