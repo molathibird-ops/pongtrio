@@ -6401,7 +6401,8 @@
     "name": "find 4",
     "description": "4,444m를 가세요!",
     "expected_difficulty": "U5",
-    "status": "pending",
-    "submitted_at": "2026-09-07T15:46:12.104231"
+    "status": "registered",
+    "submitted_at": "2026-09-07T15:46:12.104231",
+    "challenge_id": "1140"
   }
 }
