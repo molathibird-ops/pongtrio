@@ -1554,5 +1554,23 @@
     "owned_titles": [],
     "equipped_title": null,
     "profile_color": null
+  },
+  "363": {
+    "coins": 500,
+    "balance": 0,
+    "total_spent": 0,
+    "owned_colors": [],
+    "owned_titles": [],
+    "equipped_title": null,
+    "profile_color": null
+  },
+  "93838259": {
+    "coins": 1000,
+    "balance": 0,
+    "total_spent": 0,
+    "owned_colors": [],
+    "owned_titles": [],
+    "equipped_title": null,
+    "profile_color": null
   }
 }
