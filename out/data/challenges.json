@@ -12785,5 +12785,16 @@
     "creator_name": "ria001186",
     "created_at": "2026-09-07T11:00:21.913009",
     "registered_at": "2026-09-07T13:06:49.949899"
+  },
+  "1137": {
+    "name": "소화가 잘 안되는 치즈",
+    "description": "퀵플레이에서 『Expert』, 『No Hold』, 『Messiness』, 『Double Hole』, 『Invisible』 모드를 켠 상태로 10층에 도달하세요.",
+    "expected_difficulty": "R4",
+    "actual_difficulty": "Q1",
+    "custom_pp": null,
+    "creator_id": "589099128563302483",
+    "creator_name": "rainbow_water",
+    "created_at": "2026-09-07T14:29:10.110402",
+    "registered_at": "2026-09-07T14:31:49.142389"
   }
 }
