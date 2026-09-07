@@ -15248,5 +15248,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "c5d38a55-9c36-4ae8-a95c-653c3ae44ff8"
+  },
+  "cbff0e68-8dac-4a45-b534-2a6d14621559": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "710",
+    "difficulty": "G9",
+    "custom_pp": null,
+    "challenge_name": "[퀵플레이: 민트맛]",
+    "submitted_at": "2026-09-07T13:05:59.382592",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "cbff0e68-8dac-4a45-b534-2a6d14621559"
   }
 }
