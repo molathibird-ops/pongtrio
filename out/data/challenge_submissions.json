@@ -6391,7 +6391,8 @@
     "name": "find 2",
     "description": "하이퍼스피드를 5분 50초~5분 55초 사이로 완주하세요!",
     "expected_difficulty": "G9",
-    "status": "pending",
-    "submitted_at": "2026-09-07T15:45:11.316102"
+    "status": "registered",
+    "submitted_at": "2026-09-07T15:45:11.316102",
+    "challenge_id": "1139"
   }
 }
