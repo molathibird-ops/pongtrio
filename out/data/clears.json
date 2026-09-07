@@ -6177,12 +6177,13 @@
     "user_id": "819167210446127105",
     "username": "myuremi",
     "challenge_id": "710",
-    "difficulty": "G9",
+    "difficulty": "G8",
     "challenge_name": "[퀵플레이: 민트맛]",
     "submitted_at": "2026-06-18T14:35:25.652531",
     "status": "approved",
     "felt_difficulty": "G9",
-    "clear_id": "8e16bf0e-93b1-4ee2-b106-7f748d012f95"
+    "clear_id": "8e16bf0e-93b1-4ee2-b106-7f748d012f95",
+    "custom_pp": null
   },
   "d4c0e067-7e67-42c7-8242-581901f9c5bc": {
     "user_id": "819167210446127105",
@@ -15253,7 +15254,7 @@
     "user_id": "1485520167420297276",
     "username": "doyunh2011_alt",
     "challenge_id": "710",
-    "difficulty": "G9",
+    "difficulty": "G8",
     "custom_pp": null,
     "challenge_name": "[퀵플레이: 민트맛]",
     "submitted_at": "2026-09-07T13:05:59.382592",
