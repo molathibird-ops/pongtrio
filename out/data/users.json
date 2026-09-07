@@ -29,7 +29,7 @@
     "bet_wins": 9
   },
   "819167210446127105": {
-    "coins": 11602,
+    "coins": 11603,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [
@@ -43,7 +43,7 @@
     ],
     "equipped_title": "다이아수저",
     "profile_color": "11레벨",
-    "chat_count": 5415,
+    "chat_count": 5416,
     "best_lottery": 5,
     "got_nerfed": true,
     "holjjak_streak": 0,
@@ -738,7 +738,7 @@
     "holjjak_streak": 1
   },
   "1452435595430199356": {
-    "coins": 647,
+    "coins": 648,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [],
@@ -747,7 +747,7 @@
     ],
     "equipped_title": "스텔",
     "profile_color": null,
-    "chat_count": 11789,
+    "chat_count": 11790,
     "best_lottery": 3,
     "bet_wins": 4,
     "holjjak_streak": 0,
@@ -1223,14 +1223,14 @@
     "profile_color": null
   },
   "1228338306631073815": {
-    "coins": 7543,
+    "coins": 7544,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [],
     "owned_titles": [],
     "equipped_title": null,
     "profile_color": null,
-    "chat_count": 2211,
+    "chat_count": 2212,
     "best_lottery": 3,
     "got_nerfed": true
   },
