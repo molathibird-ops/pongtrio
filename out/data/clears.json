@@ -15224,5 +15224,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "d2b4d0d7-21dd-4ac7-ae9b-a47e675915e4"
+  },
+  "d2d903fc-cebe-4730-a59c-48c86c74e398": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "challenge_id": "925",
+    "difficulty": "P7",
+    "custom_pp": null,
+    "challenge_name": "네네코 마시로",
+    "submitted_at": "2026-09-07T06:47:50.757853",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "d2d903fc-cebe-4730-a59c-48c86c74e398"
   }
 }
