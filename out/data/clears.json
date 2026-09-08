@@ -15274,5 +15274,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "f104745f-3767-4983-952e-4f8bfb725d45"
+  },
+  "bf80937f-08e4-44e9-ba07-f7576d0e99ea": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "94",
+    "difficulty": "G3",
+    "custom_pp": null,
+    "challenge_name": "무술의 달인",
+    "submitted_at": "2026-09-08T09:25:57.913948",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "bf80937f-08e4-44e9-ba07-f7576d0e99ea"
   }
 }
