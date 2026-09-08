@@ -1,6 +1,6 @@
 {
   "544184205429440533": {
-    "coins": 7373,
+    "coins": 8183,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [],
@@ -11,7 +11,7 @@
     "got_nerfed": true
   },
   "589099128563302483": {
-    "coins": 52,
+    "coins": 77,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [
@@ -73,7 +73,7 @@
     "got_nerfed": true
   },
   "976461145026203730": {
-    "coins": 6700,
+    "coins": 6725,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [
