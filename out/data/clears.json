@@ -15286,5 +15286,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "bf80937f-08e4-44e9-ba07-f7576d0e99ea"
+  },
+  "89eab8b4-eb3f-4ccb-afd8-85ba32addb2e": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "challenge_id": "877",
+    "difficulty": "R4",
+    "custom_pp": null,
+    "challenge_name": "화력 중독",
+    "submitted_at": "2026-09-08T09:43:25.553298",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "89eab8b4-eb3f-4ccb-afd8-85ba32addb2e"
   }
 }
