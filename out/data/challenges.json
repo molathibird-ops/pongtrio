@@ -9239,11 +9239,12 @@
     "name": "[난이도:Can you clear this?]",
     "description": "퀵플레이에서 등반속도 13단계를 달성하세요.",
     "expected_difficulty": "Q0",
-    "actual_difficulty": "R2",
+    "actual_difficulty": "G8",
     "creator_id": "589099128563302483",
     "creator_name": "rainbow_water",
     "created_at": "2026-06-29T04:39:51.556854",
-    "registered_at": "2026-06-29T08:41:21.485592"
+    "registered_at": "2026-06-29T08:41:21.485592",
+    "custom_pp": null
   },
   "832": {
     "name": "[This is possible?]",
