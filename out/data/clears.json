@@ -15298,5 +15298,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "89eab8b4-eb3f-4ccb-afd8-85ba32addb2e"
+  },
+  "bd587963-4120-4893-ab72-21ea06d6f3b1": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "challenge_id": "831",
+    "difficulty": "R2",
+    "custom_pp": null,
+    "challenge_name": "[난이도:Can you clear this?]",
+    "submitted_at": "2026-09-08T09:45:46.644716",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "bd587963-4120-4893-ab72-21ea06d6f3b1"
   }
 }
