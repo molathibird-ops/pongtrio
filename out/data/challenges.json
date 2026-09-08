@@ -9722,11 +9722,12 @@
     "name": "화력 중독",
     "description": "등반속도 11 이상을 1분간 유지하세요.",
     "expected_difficulty": "R4",
-    "actual_difficulty": "R4",
+    "actual_difficulty": "G15",
     "creator_id": "976461145026203730",
     "creator_name": "tremendous5273",
     "created_at": "2026-06-29T23:52:33.690521",
-    "registered_at": "2026-06-30T04:30:05.890636"
+    "registered_at": "2026-06-30T04:30:05.890636",
+    "custom_pp": 230.0
   },
   "878": {
     "name": "안이 그딴 스태킹 하지 마라구요;;",
