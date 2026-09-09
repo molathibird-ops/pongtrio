@@ -15370,5 +15370,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "c0e0cb9d-097f-4b61-b8cb-ce87d6eac4f1"
+  },
+  "8a967e2e-87f7-4fd5-ae14-3e0ed2d0f66f": {
+    "user_id": "1234567890",
+    "username": "MIINHUYVCL",
+    "challenge_id": "830",
+    "difficulty": "U8",
+    "challenge_name": "[난이도:Maybe Possible]",
+    "submitted_at": "2026-09-09T13:04:30.446448",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "8a967e2e-87f7-4fd5-ae14-3e0ed2d0f66f"
   }
 }
