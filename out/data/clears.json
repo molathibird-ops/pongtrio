@@ -15334,5 +15334,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "d7d2848e-88b5-4842-8868-a75cf6c38c7a"
+  },
+  "e8a091a2-d539-4889-bd5f-8c456a2b443d": {
+    "user_id": "840063640681054228",
+    "username": "justicedragon4",
+    "challenge_id": "11",
+    "difficulty": "G1",
+    "custom_pp": null,
+    "challenge_name": "정상",
+    "submitted_at": "2026-09-09T11:48:00.317751",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "e8a091a2-d539-4889-bd5f-8c456a2b443d"
   }
 }
