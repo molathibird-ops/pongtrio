@@ -6404,5 +6404,14 @@
     "status": "registered",
     "submitted_at": "2026-09-07T15:46:12.104231",
     "challenge_id": "1140"
+  },
+  "8a1c8a1e": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "병 구이[炙りビン]",
+    "description": "I미노로 5x5의 크기를 구축하세요! 그치만 가운데 9칸(3x3)은 비워야 합니다! 이후에 가운데-한칸오른쪽 열에 o미노를 두세요!",
+    "expected_difficulty": "P10",
+    "status": "pending",
+    "submitted_at": "2026-09-09T07:00:15.418019"
   }
 }
