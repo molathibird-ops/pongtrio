@@ -15322,5 +15322,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "80457d16-8ae0-4bd5-9178-511cad03f4b5"
+  },
+  "d7d2848e-88b5-4842-8868-a75cf6c38c7a": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "197",
+    "difficulty": "G3",
+    "custom_pp": null,
+    "challenge_name": "한라산",
+    "submitted_at": "2026-09-09T11:47:23.153224",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "d7d2848e-88b5-4842-8868-a75cf6c38c7a"
   }
 }
