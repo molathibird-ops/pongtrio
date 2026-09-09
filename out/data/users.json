@@ -1627,5 +1627,14 @@
     "equipped_title": null,
     "profile_color": null,
     "chat_count": 1
+  },
+  "1234567890": {
+    "coins": 500,
+    "balance": 0,
+    "total_spent": 0,
+    "owned_colors": [],
+    "owned_titles": [],
+    "equipped_title": null,
+    "profile_color": null
   }
 }
