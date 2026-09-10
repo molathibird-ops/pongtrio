@@ -15393,5 +15393,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "f1c6802c-3822-4048-a6be-fed58e02282d"
+  },
+  "64f973d3-3f97-4405-b5af-4115bf6186b5": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "927",
+    "difficulty": "R0",
+    "custom_pp": null,
+    "challenge_name": "완벽주의",
+    "submitted_at": "2026-09-10T12:20:50.904729",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "64f973d3-3f97-4405-b5af-4115bf6186b5"
   }
 }
