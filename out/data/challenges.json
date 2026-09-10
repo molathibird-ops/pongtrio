@@ -667,11 +667,12 @@
     "name": "완벽주의자",
     "description": "테트라리그에서 필드에 아무것도 없는 상태에서 상대 이기기",
     "expected_difficulty": "P12",
-    "actual_difficulty": "censored",
+    "actual_difficulty": "G3",
     "creator_id": "1360569227970609293",
     "creator_name": ".mang_pu.",
     "created_at": "2025-11-20T15:03:43.054316",
-    "registered_at": "2025-11-20T15:17:07.726145"
+    "registered_at": "2025-11-20T15:17:07.726145",
+    "custom_pp": null
   },
   "65": {
     "name": "깎기 못하세요?",
