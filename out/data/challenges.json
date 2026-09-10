@@ -12869,5 +12869,16 @@
     "creator_name": "justicedragon4",
     "created_at": "2026-09-10T14:20:18.970134",
     "registered_at": "2026-09-10T14:22:51.949356"
+  },
+  "1144": {
+    "name": "3배로 깎기",
+    "description": "last stand 모드로 quad 없이 500m 가기",
+    "expected_difficulty": "G7",
+    "actual_difficulty": "R1",
+    "custom_pp": null,
+    "creator_id": "819167210446127105",
+    "creator_name": "myuremi",
+    "created_at": "2026-09-10T14:42:09.595833",
+    "registered_at": "2026-09-10T17:40:42.869387"
   }
 }
