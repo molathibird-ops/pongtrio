@@ -6434,5 +6434,14 @@
     "status": "registered",
     "submitted_at": "2026-09-10T14:20:18.970134",
     "challenge_id": "1143"
+  },
+  "36418599": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "name": "3배로 깎기",
+    "description": "last stand 모드로 quad 없이 500m 가기",
+    "expected_difficulty": "G7",
+    "status": "pending",
+    "submitted_at": "2026-09-10T14:42:09.595833"
   }
 }
