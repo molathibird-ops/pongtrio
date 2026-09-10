@@ -6421,7 +6421,8 @@
     "name": "노력파",
     "description": "게임 내내 40apm 이하로 10층에 도달하세요.",
     "expected_difficulty": "R3",
-    "status": "pending",
-    "submitted_at": "2026-09-10T11:36:26.704035"
+    "status": "registered",
+    "submitted_at": "2026-09-10T11:36:26.704035",
+    "challenge_id": "1142"
   }
 }
