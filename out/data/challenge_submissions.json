@@ -6424,5 +6424,14 @@
     "status": "registered",
     "submitted_at": "2026-09-10T11:36:26.704035",
     "challenge_id": "1142"
+  },
+  "d2c2d901": {
+    "user_id": "840063640681054228",
+    "username": "justicedragon4",
+    "name": "익스트림 백두산",
+    "description": "엑스퍼트 모드,방해줄 2배 모드를 키고 2744m를 등반하세요.",
+    "expected_difficulty": "Q0",
+    "status": "pending",
+    "submitted_at": "2026-09-10T14:20:18.970134"
   }
 }
