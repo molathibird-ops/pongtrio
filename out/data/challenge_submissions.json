@@ -6414,5 +6414,14 @@
     "status": "registered",
     "submitted_at": "2026-09-09T07:00:15.418019",
     "challenge_id": "1141"
+  },
+  "0fe3584a": {
+    "user_id": "840063640681054228",
+    "username": "justicedragon4",
+    "name": "노력파",
+    "description": "게임 내내 40apm 이하로 10층에 도달하세요.",
+    "expected_difficulty": "R3",
+    "status": "pending",
+    "submitted_at": "2026-09-10T11:36:26.704035"
   }
 }
