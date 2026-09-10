@@ -12846,5 +12846,16 @@
     "creator_name": "ria001186",
     "created_at": "2026-09-09T07:00:15.418019",
     "registered_at": "2026-09-09T11:13:38.689724"
+  },
+  "1142": {
+    "name": "노력파",
+    "description": "게임 내내 40apm 이하로 10층에 도달하세요.",
+    "expected_difficulty": "R3",
+    "actual_difficulty": "R2",
+    "custom_pp": null,
+    "creator_id": "840063640681054228",
+    "creator_name": "justicedragon4",
+    "created_at": "2026-09-10T11:36:26.704035",
+    "registered_at": "2026-09-10T11:44:38.756970"
   }
 }
