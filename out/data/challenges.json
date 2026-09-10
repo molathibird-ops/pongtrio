@@ -12858,5 +12858,16 @@
     "creator_name": "justicedragon4",
     "created_at": "2026-09-10T11:36:26.704035",
     "registered_at": "2026-09-10T11:44:38.756970"
+  },
+  "1143": {
+    "name": "익스트림 백두산",
+    "description": "엑스퍼트 모드,방해줄 2배 모드를 키고 2744m를 등반하세요.",
+    "expected_difficulty": "Q0",
+    "actual_difficulty": "Q1",
+    "custom_pp": null,
+    "creator_id": "840063640681054228",
+    "creator_name": "justicedragon4",
+    "created_at": "2026-09-10T14:20:18.970134",
+    "registered_at": "2026-09-10T14:22:51.949356"
   }
 }
