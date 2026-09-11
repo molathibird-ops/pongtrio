@@ -5146,11 +5146,12 @@
     "name": "나 좀 빨라",
     "description": "포와이드 모드에서 3분동안 2pps 이상을 유지하세요.",
     "expected_difficulty": "P7",
-    "actual_difficulty": "P15",
+    "actual_difficulty": "P18",
     "creator_id": "544184205429440533",
     "creator_name": "seonghyeni",
     "created_at": "2026-01-24T20:43:39.285219",
-    "registered_at": "2026-01-25T03:46:31.536219"
+    "registered_at": "2026-01-25T03:46:31.536219",
+    "custom_pp": null
   },
   "469": {
     "name": "슈퍼방장",
