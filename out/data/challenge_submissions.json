@@ -6444,5 +6444,14 @@
     "status": "registered",
     "submitted_at": "2026-09-10T14:42:09.595833",
     "challenge_id": "1144"
+  },
+  "8ccf6996": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "name": "주기수열",
+    "description": "깎을 때 무조건 single - double - triple - quad 순서로 해 5층에 도달하세요! (No mod)",
+    "expected_difficulty": "P20",
+    "status": "pending",
+    "submitted_at": "2026-09-11T00:14:11.530080"
   }
 }
