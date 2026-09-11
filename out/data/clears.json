@@ -2438,13 +2438,13 @@
     "user_id": "1273331318834593814",
     "username": "ria001186",
     "challenge_id": "210",
-    "difficulty": "G1",
+    "difficulty": "G9",
     "challenge_name": "허니콤보인데 맵습니다;;",
     "submitted_at": "2026-05-04T06:20:10.097636",
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "8d97191e-a0f1-41cf-bf90-c886dd19329a",
-    "custom_pp": 105.0
+    "custom_pp": 175.0
   },
   "a12fb728-80b3-43ef-ad4f-d06adc9b8da5": {
     "user_id": "1273331318834593814",
@@ -4814,13 +4814,13 @@
     "user_id": "1144563458268999750",
     "username": "sihoo927",
     "challenge_id": "210",
-    "difficulty": "G1",
+    "difficulty": "G9",
     "challenge_name": "허니콤보인데 맵습니다;;",
     "submitted_at": "2026-05-29T23:26:20.353867",
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "2c16baf8-8228-4bc9-833b-4abedd07bb8b",
-    "custom_pp": 105.0
+    "custom_pp": 175.0
   },
   "929fe15e-7629-4539-9941-6d59d4f03ea7": {
     "user_id": "1485520167420297276",
@@ -8319,37 +8319,37 @@
     "user_id": "819167210446127105",
     "username": "myuremi",
     "challenge_id": "210",
-    "difficulty": "G1",
+    "difficulty": "G9",
     "challenge_name": "허니콤보인데 맵습니다;;",
     "submitted_at": "2026-06-30T15:38:57.468611",
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "023e2f5c-92da-4797-9f97-df588767e2cb",
-    "custom_pp": 105.0
+    "custom_pp": 175.0
   },
   "61241002-7634-45a1-ae59-209c1fd726a0": {
     "user_id": "1213414162076799059",
     "username": "min._a.",
     "challenge_id": "210",
-    "difficulty": "G1",
+    "difficulty": "G9",
     "challenge_name": "허니콤보인데 맵습니다;;",
     "submitted_at": "2026-06-30T15:39:03.995655",
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "61241002-7634-45a1-ae59-209c1fd726a0",
-    "custom_pp": 105.0
+    "custom_pp": 175.0
   },
   "f6db47ee-d6a3-4e0a-a42b-10c350d8ba7f": {
     "user_id": "1218889894659625070",
     "username": "pongiscute",
     "challenge_id": "210",
-    "difficulty": "G1",
+    "difficulty": "G9",
     "challenge_name": "허니콤보인데 맵습니다;;",
     "submitted_at": "2026-06-30T15:39:14.173719",
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "f6db47ee-d6a3-4e0a-a42b-10c350d8ba7f",
-    "custom_pp": 105.0
+    "custom_pp": 175.0
   },
   "29dd974d-4905-47ca-b255-c6548e8860fd": {
     "user_id": "1273331318834593814",
@@ -10616,12 +10616,13 @@
     "user_id": "1302050564036890696",
     "username": "eve120928",
     "challenge_id": "210",
-    "difficulty": "G1",
+    "difficulty": "G9",
     "challenge_name": "허니콤보인데 맵습니다;;",
     "submitted_at": "2026-07-31T12:34:21.941211",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "a3e9a64c-39ad-415a-b7b0-404d61185655"
+    "clear_id": "a3e9a64c-39ad-415a-b7b0-404d61185655",
+    "custom_pp": 175.0
   },
   "e386fd5b-8b59-4678-aab3-d4d5241884d1": {
     "user_id": "1302050564036890696",
@@ -15068,12 +15069,13 @@
     "user_id": "446",
     "username": "six_to_seven.maker",
     "challenge_id": "210",
-    "difficulty": "G1",
+    "difficulty": "G9",
     "challenge_name": "허니콤보인데 맵습니다;;",
     "submitted_at": "2026-09-03T14:46:56.237926",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "e70b5d6e-f8ef-4e91-bc3f-a25c867fae17"
+    "clear_id": "e70b5d6e-f8ef-4e91-bc3f-a25c867fae17",
+    "custom_pp": 175.0
   },
   "34096004-a6ef-48ec-aa81-dd813fceb13c": {
     "user_id": "589099128563302483",
