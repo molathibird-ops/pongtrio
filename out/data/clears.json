@@ -15459,5 +15459,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "3dc75955-437c-45a6-bbde-a8b01867a525"
+  },
+  "14395612-afed-4df1-bb0a-fdf43ba74245": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "challenge_id": "831",
+    "difficulty": "G8",
+    "custom_pp": null,
+    "challenge_name": "[난이도:Can you clear this?]",
+    "submitted_at": "2026-09-11T12:08:18.973732",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "14395612-afed-4df1-bb0a-fdf43ba74245"
   }
 }
