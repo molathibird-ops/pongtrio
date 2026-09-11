@@ -6494,5 +6494,14 @@
     "status": "registered",
     "submitted_at": "2026-09-11T17:20:36.669319",
     "challenge_id": "1149"
+  },
+  "41fa8b86": {
+    "user_id": "840063640681054228",
+    "username": "justicedragon4",
+    "name": "무제한",
+    "description": "다음 스탯 이상으로 10층에 가세요(no mod):\n3pps 이상\n0.9app ~ 1.0app\n등반 속도 14 이상 달성",
+    "expected_difficulty": "Q0",
+    "status": "pending",
+    "submitted_at": "2026-09-11T17:23:47.424410"
   }
 }
