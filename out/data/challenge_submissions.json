@@ -6471,7 +6471,8 @@
     "name": "PIANO GUY",
     "description": "Dr Ocelot - False God을 연주하세요!",
     "expected_difficulty": "epic",
-    "status": "pending",
-    "submitted_at": "2026-09-11T06:10:54.602958"
+    "status": "registered",
+    "submitted_at": "2026-09-11T06:10:54.602958",
+    "challenge_id": "1147"
   }
 }
