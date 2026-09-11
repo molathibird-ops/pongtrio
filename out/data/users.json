@@ -1,6 +1,6 @@
 {
   "544184205429440533": {
-    "coins": 8444,
+    "coins": 8594,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [],
@@ -8,10 +8,11 @@
     "equipped_title": null,
     "profile_color": null,
     "chat_count": 935,
-    "got_nerfed": true
+    "got_nerfed": true,
+    "night_clears": 1
   },
   "589099128563302483": {
-    "coins": 357,
+    "coins": 382,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [
