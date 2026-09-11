@@ -6514,5 +6514,14 @@
     "status": "registered",
     "submitted_at": "2026-09-11T17:25:27.313421",
     "challenge_id": "1151"
+  },
+  "0057ec54": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "name": "아이디어 주머니에서 바람만 나오다",
+    "description": "심사숙고해서 만든 챌린지가 검열이 되세요!",
+    "expected_difficulty": "censored",
+    "status": "pending",
+    "submitted_at": "2026-09-11T17:38:31.562190"
   }
 }
