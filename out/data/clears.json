@@ -2472,13 +2472,13 @@
     "user_id": "819167210446127105",
     "username": "myuremi",
     "challenge_id": "626",
-    "difficulty": "G8",
+    "difficulty": "G14",
     "challenge_name": "그리고, 다시금 타오르리라.",
     "submitted_at": "2026-05-04T06:53:52.857599",
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "5b05c087-5680-4d68-9fbf-3c6e445585f0",
-    "custom_pp": 190.0
+    "custom_pp": null
   },
   "00ac3a33-9658-4e66-bb97-8038862051f9": {
     "user_id": "834038348388499467",
@@ -4021,13 +4021,13 @@
     "user_id": "544184205429440533",
     "username": "seonghyeni",
     "challenge_id": "626",
-    "difficulty": "G8",
+    "difficulty": "G14",
     "challenge_name": "그리고, 다시금 타오르리라.",
     "submitted_at": "2026-05-18T19:23:43.953989",
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "8c7d7cc6-17b4-4eab-ba45-6d5c99108513",
-    "custom_pp": 190.0
+    "custom_pp": null
   },
   "216fd64b-564b-407f-8345-6d3453e4fdac": {
     "user_id": "544184205429440533",
