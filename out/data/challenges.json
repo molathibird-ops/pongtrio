@@ -12944,5 +12944,16 @@
     "creator_name": "justicedragon4",
     "created_at": "2026-09-11T17:20:36.669319",
     "registered_at": "2026-09-11T17:21:39.973933"
+  },
+  "1150": {
+    "name": "무제한",
+    "description": "다음 스탯 이상으로 10층에 가세요(no mod):\n3pps 이상\n0.9app ~ 1.0app\n등반 속도 14 이상 달성",
+    "expected_difficulty": "Q0",
+    "actual_difficulty": "Q0",
+    "custom_pp": null,
+    "creator_id": "840063640681054228",
+    "creator_name": "justicedragon4",
+    "created_at": "2026-09-11T17:23:47.424410",
+    "registered_at": "2026-09-11T17:24:51.752646"
   }
 }
