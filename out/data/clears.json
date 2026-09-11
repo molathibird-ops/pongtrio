@@ -1545,13 +1545,13 @@
     "user_id": "544184205429440533",
     "username": "seonghyeni",
     "challenge_id": "511",
-    "difficulty": "G9",
+    "difficulty": "G15",
     "challenge_name": "Operation Apex Down",
     "submitted_at": "2026-04-24T06:28:44.525882",
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "d4fefdf3-a224-4d4f-b53f-3e0abdf8bfb9",
-    "custom_pp": 205.0
+    "custom_pp": null
   },
   "480fcde3-44d3-47c3-9dc2-769c2ca2b284": {
     "user_id": "544184205429440533",
@@ -1971,13 +1971,13 @@
     "user_id": "819167210446127105",
     "username": "myuremi",
     "challenge_id": "511",
-    "difficulty": "G9",
+    "difficulty": "G15",
     "challenge_name": "Operation Apex Down",
     "submitted_at": "2026-04-26T10:54:46.674678",
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "01d3c5b2-ee5b-4328-be0f-dc88b5e49bd9",
-    "custom_pp": 205.0
+    "custom_pp": null
   },
   "d1c465f1-4d2a-4f42-833c-77c220bfe5ae": {
     "user_id": "1191187268250120253",
@@ -2517,13 +2517,13 @@
     "user_id": "1218889894659625070",
     "username": "pongiscute",
     "challenge_id": "511",
-    "difficulty": "G9",
+    "difficulty": "G15",
     "challenge_name": "Operation Apex Down",
     "submitted_at": "2026-05-05T07:41:12.476601",
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "f7058187-1fa3-429f-b7b3-f8a11d02ca07",
-    "custom_pp": 205.0
+    "custom_pp": null
   },
   "4418a89b-cdfa-4130-8303-02b4a69d1ced": {
     "user_id": "544184205429440533",
@@ -6054,13 +6054,13 @@
     "user_id": "1516825810785538051",
     "username": "operation_92415",
     "challenge_id": "511",
-    "difficulty": "G9",
+    "difficulty": "G15",
     "challenge_name": "Operation Apex Down",
     "submitted_at": "2026-06-17T15:27:49.515895",
     "status": "approved",
     "felt_difficulty": "P9",
     "clear_id": "10b32651-0c78-4eac-aecd-c5328bda08c3",
-    "custom_pp": 205.0
+    "custom_pp": null
   },
   "5ad49087-191f-405d-9c04-a3de2f3b7ae1": {
     "user_id": "556069440341540874",
@@ -8987,13 +8987,13 @@
     "user_id": "1144563458268999750",
     "username": "sihoo927",
     "challenge_id": "511",
-    "difficulty": "G9",
+    "difficulty": "G15",
     "challenge_name": "Operation Apex Down",
     "submitted_at": "2026-07-03T07:31:53.540879",
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "57c25051-fe51-4527-b5f9-28e5d2fbda76",
-    "custom_pp": 205.0
+    "custom_pp": null
   },
   "9a6c7b61-3178-4156-bee3-19eb9f3d1851": {
     "user_id": "1144563458268999750",
@@ -11192,12 +11192,13 @@
     "user_id": "398724987234",
     "username": "twelvevision",
     "challenge_id": "511",
-    "difficulty": "G9",
+    "difficulty": "G15",
     "challenge_name": "Operation Apex Down",
     "submitted_at": "2026-08-02T02:58:42.533305",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "63297672-b8ce-4f36-84eb-cd0817276ea7"
+    "clear_id": "63297672-b8ce-4f36-84eb-cd0817276ea7",
+    "custom_pp": null
   },
   "fb9ab3d0-a01c-4629-ba27-c6ca4816ec35": {
     "user_id": "774848749444137013",
