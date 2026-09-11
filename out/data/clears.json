@@ -5191,12 +5191,13 @@
     "user_id": "589099128563302483",
     "username": "rainbow_water",
     "challenge_id": "468",
-    "difficulty": "P15",
+    "difficulty": "P18",
     "challenge_name": "나 좀 빨라",
     "submitted_at": "2026-06-12T11:41:58.457900",
     "status": "approved",
     "felt_difficulty": "P13인 것 같아요",
-    "clear_id": "7ab21e08-b4bb-497f-afe0-41ec71df960c"
+    "clear_id": "7ab21e08-b4bb-497f-afe0-41ec71df960c",
+    "custom_pp": null
   },
   "cfb2935d-87d0-4c63-81a3-bde155518b10": {
     "user_id": "589099128563302483",
@@ -5270,12 +5271,13 @@
     "user_id": "1144563458268999750",
     "username": "sihoo927",
     "challenge_id": "468",
-    "difficulty": "P15",
+    "difficulty": "P18",
     "challenge_name": "나 좀 빨라",
     "submitted_at": "2026-06-12T13:59:44.909403",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "67fc0fdf-5095-4ff2-9544-bb1fba369ebc"
+    "clear_id": "67fc0fdf-5095-4ff2-9544-bb1fba369ebc",
+    "custom_pp": null
   },
   "04f392aa-6826-40be-ad56-c41ed0525534": {
     "user_id": "1144563458268999750",
