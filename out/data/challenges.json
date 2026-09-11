@@ -5655,13 +5655,13 @@
     "name": "Operation Apex Down",
     "description": "포와이드 100l을 19.54초 안에 완주하세요!",
     "expected_difficulty": "G16",
-    "actual_difficulty": "G9",
+    "actual_difficulty": "G15",
     "creator_id": "1218889894659625070",
     "creator_name": "pongiscute",
     "created_at": "2026-02-01T19:52:51.674647",
     "registered_at": "2026-02-01T20:23:27.597987",
     "curation": "T1",
-    "custom_pp": 205.0,
+    "custom_pp": null,
     "tags": [
       "변경"
     ]
