@@ -6451,8 +6451,9 @@
     "name": "주기수열",
     "description": "깎을 때 무조건 single - double - triple - quad 순서로 해 5층에 도달하세요! (No mod)",
     "expected_difficulty": "P20",
-    "status": "pending",
-    "submitted_at": "2026-09-11T00:14:11.530080"
+    "status": "registered",
+    "submitted_at": "2026-09-11T00:14:11.530080",
+    "challenge_id": "1145"
   },
   "057a8e8f": {
     "user_id": "819167210446127105",
