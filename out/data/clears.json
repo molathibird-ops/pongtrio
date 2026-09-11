@@ -15429,5 +15429,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "e0ef5539-2da6-41a2-9aca-c44891ef96af"
+  },
+  "273b4899-16e9-45f1-9895-e4dc896cb4f7": {
+    "user_id": "1487076669843050516",
+    "username": "d.axe_",
+    "challenge_id": "660",
+    "difficulty": "censored",
+    "custom_pp": null,
+    "challenge_name": "나 좀 강함",
+    "submitted_at": "2026-09-11T06:31:17.088296",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "273b4899-16e9-45f1-9895-e4dc896cb4f7"
   }
 }
