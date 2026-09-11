@@ -15471,5 +15471,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "14395612-afed-4df1-bb0a-fdf43ba74245"
+  },
+  "0cb92ab3-940f-44c8-bfd5-63b245e33d40": {
+    "user_id": "1269918374800916543",
+    "username": "sssranker0_60429",
+    "challenge_id": "1105",
+    "difficulty": "Q0",
+    "custom_pp": null,
+    "challenge_name": "도마뱀",
+    "submitted_at": "2026-09-11T16:19:56.612317",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "0cb92ab3-940f-44c8-bfd5-63b245e33d40"
   }
 }
