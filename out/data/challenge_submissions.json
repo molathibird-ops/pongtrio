@@ -6521,7 +6521,8 @@
     "name": "아이디어 주머니에서 바람만 나오다",
     "description": "심사숙고해서 만든 챌린지가 검열이 되세요!",
     "expected_difficulty": "censored",
-    "status": "pending",
-    "submitted_at": "2026-09-11T17:38:31.562190"
+    "status": "registered",
+    "submitted_at": "2026-09-11T17:38:31.562190",
+    "challenge_id": "1152"
   }
 }
