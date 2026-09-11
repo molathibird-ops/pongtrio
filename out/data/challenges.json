@@ -6991,12 +6991,12 @@
     "name": "그리고, 다시금 타오르리라.",
     "description": "5pps로 포와이드 100콤보를 달성하세요!",
     "expected_difficulty": "G8",
-    "actual_difficulty": "G8",
+    "actual_difficulty": "G14",
     "creator_id": "544184205429440533",
     "creator_name": "seonghyeni",
     "created_at": "2026-05-04T06:35:29.506062",
     "registered_at": "2026-05-04T06:53:07.294683",
-    "custom_pp": 190.0,
+    "custom_pp": null,
     "tags": [
       "변경"
     ]
