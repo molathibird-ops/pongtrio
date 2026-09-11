@@ -6481,7 +6481,8 @@
     "name": "나락퀴즈쇼",
     "description": "나락을 간 크리에이터의 챌린지를 깨세요.",
     "expected_difficulty": "epic",
-    "status": "pending",
-    "submitted_at": "2026-09-11T17:16:56.883761"
+    "status": "registered",
+    "submitted_at": "2026-09-11T17:16:56.883761",
+    "challenge_id": "1148"
   }
 }
