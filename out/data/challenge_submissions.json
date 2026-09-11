@@ -6453,5 +6453,14 @@
     "expected_difficulty": "P20",
     "status": "pending",
     "submitted_at": "2026-09-11T00:14:11.530080"
+  },
+  "057a8e8f": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "name": "주기수열 (crown)",
+    "description": "깎을 때 무조건 single - double - triple - quad 순서로 백투백을 유지한 채로 5층에 도달하세요! (expert, volatile, messier, double hole 모드를 껴야 하며 이 외에 모드를 추가 적용할 시 실패입니다)",
+    "expected_difficulty": "U4",
+    "status": "pending",
+    "submitted_at": "2026-09-11T00:17:28.062510"
   }
 }
