@@ -2529,12 +2529,13 @@
     "user_id": "544184205429440533",
     "username": "seonghyeni",
     "challenge_id": "273",
-    "difficulty": "G6",
+    "difficulty": "G9",
     "challenge_name": "개매운 허니콤보",
     "submitted_at": "2026-05-05T19:05:56.581617",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "4418a89b-cdfa-4130-8303-02b4a69d1ced"
+    "clear_id": "4418a89b-cdfa-4130-8303-02b4a69d1ced",
+    "custom_pp": null
   },
   "af6e9da7-2c92-4784-82f1-1df1c7f0f94e": {
     "user_id": "544184205429440533",
