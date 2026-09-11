@@ -15483,5 +15483,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "0e8ab0a7-274b-40cb-ad7b-0e89398bf322"
+  },
+  "65ac006f-eabd-4190-af78-71629d622111": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "challenge_id": "369",
+    "difficulty": "R2",
+    "custom_pp": null,
+    "challenge_name": "핵불닭 맛 허니콤보",
+    "submitted_at": "2026-09-11T17:16:33.724338",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "65ac006f-eabd-4190-af78-71629d622111"
   }
 }
