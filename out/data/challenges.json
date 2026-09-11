@@ -12933,5 +12933,16 @@
     "creator_name": "justicedragon4",
     "created_at": "2026-09-11T17:16:56.883761",
     "registered_at": "2026-09-11T17:17:35.104778"
+  },
+  "1149": {
+    "name": "응우옌",
+    "description": "올스핀 모드로 8000m에 도달하세요.",
+    "expected_difficulty": "Q1",
+    "actual_difficulty": "Q2",
+    "custom_pp": null,
+    "creator_id": "840063640681054228",
+    "creator_name": "justicedragon4",
+    "created_at": "2026-09-11T17:20:36.669319",
+    "registered_at": "2026-09-11T17:21:39.973933"
   }
 }
