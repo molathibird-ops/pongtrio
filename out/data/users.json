@@ -1,13 +1,13 @@
 {
   "544184205429440533": {
-    "coins": 8349,
+    "coins": 8350,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [],
     "owned_titles": [],
     "equipped_title": null,
     "profile_color": null,
-    "chat_count": 890,
+    "chat_count": 891,
     "got_nerfed": true
   },
   "589099128563302483": {
@@ -604,14 +604,14 @@
     "profile_color": null
   },
   "333577858729639937": {
-    "coins": 7,
+    "coins": 8,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [],
     "owned_titles": [],
     "equipped_title": null,
     "profile_color": null,
-    "chat_count": 3
+    "chat_count": 4
   },
   "1344452205939392582": {
     "coins": 201,
