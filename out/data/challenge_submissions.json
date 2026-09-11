@@ -6464,5 +6464,14 @@
     "status": "registered",
     "submitted_at": "2026-09-11T00:17:28.062510",
     "challenge_id": "1146"
+  },
+  "c98c36c9": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "name": "PIANO GUY",
+    "description": "Dr Ocelot - False God을 연주하세요!",
+    "expected_difficulty": "epic",
+    "status": "pending",
+    "submitted_at": "2026-09-11T06:10:54.602958"
   }
 }
