@@ -2971,11 +2971,12 @@
     "name": "개매운 허니콤보",
     "description": "4pps로 포와이드 200콤보를 달성하세요!",
     "expected_difficulty": "G4",
-    "actual_difficulty": "G6",
+    "actual_difficulty": "G9",
     "creator_id": "1273331318834593814",
     "creator_name": "ria001186",
     "created_at": "2026-01-09T22:28:40.101469",
-    "registered_at": "2026-01-10T08:52:38.513912"
+    "registered_at": "2026-01-10T08:52:38.513912",
+    "custom_pp": null
   },
   "274": {
     "name": "부르ㅡ른ㅇㅇ",
