@@ -6484,5 +6484,14 @@
     "status": "registered",
     "submitted_at": "2026-09-11T17:16:56.883761",
     "challenge_id": "1148"
+  },
+  "dbe9469a": {
+    "user_id": "840063640681054228",
+    "username": "justicedragon4",
+    "name": "응우옌",
+    "description": "올스핀 모드로 8000m에 도달하세요.",
+    "expected_difficulty": "Q1",
+    "status": "pending",
+    "submitted_at": "2026-09-11T17:20:36.669319"
   }
 }
