@@ -6533,5 +6533,14 @@
     "expected_difficulty": "R4",
     "status": "pending",
     "submitted_at": "2026-09-12T06:36:22.982336"
+  },
+  "222f27e3": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "name": "모든걸 재로 만들어라.",
+    "description": "5pps로 포와이드 300콤보를 달성하세요.",
+    "expected_difficulty": "R3",
+    "status": "pending",
+    "submitted_at": "2026-09-12T06:37:32.913602"
   }
 }
