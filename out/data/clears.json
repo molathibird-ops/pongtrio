@@ -15563,5 +15563,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "d49c7848-ee16-4324-af97-f816717c6614"
+  },
+  "cf583c68-afdd-48cd-8762-3a3fe7468b17": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "challenge_id": "631",
+    "difficulty": "G19",
+    "custom_pp": null,
+    "challenge_name": "우주 포와 퍼클 왕",
+    "submitted_at": "2026-09-12T19:51:03.052385",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "cf583c68-afdd-48cd-8762-3a3fe7468b17"
   }
 }
