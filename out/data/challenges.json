@@ -13010,5 +13010,16 @@
     "creator_name": "myuremi",
     "created_at": "2026-09-12T06:46:09.120266",
     "registered_at": "2026-09-12T06:46:19.462364"
+  },
+  "1155": {
+    "name": "참는 법",
+    "description": "퀵플레이에서 1APP 이상으로  60apm을 넘지말고 10층을 가세요.",
+    "expected_difficulty": "R4",
+    "actual_difficulty": "Q0",
+    "custom_pp": null,
+    "creator_id": "544184205429440533",
+    "creator_name": "seonghyeni",
+    "created_at": "2026-09-12T06:51:49.805682",
+    "registered_at": "2026-09-12T06:57:53.873407"
   }
 }
