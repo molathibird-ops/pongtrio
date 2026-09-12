@@ -6540,7 +6540,8 @@
     "name": "모든걸 재로 만들어라.",
     "description": "5pps로 포와이드 300콤보를 달성하세요.",
     "expected_difficulty": "R3",
-    "status": "pending",
-    "submitted_at": "2026-09-12T06:37:32.913602"
+    "status": "registered",
+    "submitted_at": "2026-09-12T06:37:32.913602",
+    "challenge_id": "1153"
   }
 }
