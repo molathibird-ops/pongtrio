@@ -16,7 +16,7 @@
   },
   "589099128563302483": {
     "username": "rainbow_water",
-    "general_score": 2613.7400000000002,
+    "general_score": 2613.74,
     "rank_score": 1149.0
   },
   "1218889894659625070": {
@@ -536,7 +536,12 @@
   },
   "1234567890": {
     "username": "MIINHUYVCL",
-    "general_score": 1750,
-    "rank_score": 1750.0
+    "general_score": 4360,
+    "rank_score": 4261.5
+  },
+  "8000": {
+    "username": "MIINHUYVCL",
+    "general_score": 0,
+    "rank_score": 0.0
   }
 }
