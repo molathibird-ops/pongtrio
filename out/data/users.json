@@ -1,18 +1,18 @@
 {
   "544184205429440533": {
-    "coins": 8676,
+    "coins": 8677,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [],
     "owned_titles": [],
     "equipped_title": null,
     "profile_color": null,
-    "chat_count": 967,
+    "chat_count": 968,
     "got_nerfed": true,
     "night_clears": 1
   },
   "589099128563302483": {
-    "coins": 487,
+    "coins": 488,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [
@@ -22,7 +22,7 @@
     "owned_titles": [],
     "equipped_title": null,
     "profile_color": "3레벨",
-    "chat_count": 3189,
+    "chat_count": 3190,
     "best_lottery": 100,
     "got_nerfed": true,
     "holjjak_streak": 0,
