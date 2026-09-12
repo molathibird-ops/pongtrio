@@ -6543,5 +6543,14 @@
     "status": "registered",
     "submitted_at": "2026-09-12T06:37:32.913602",
     "challenge_id": "1153"
+  },
+  "453d6a43": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "name": "국가기밀의 유저",
+    "description": "포와이드에서 500pps로 1만콤보를 이으세요",
+    "expected_difficulty": "impossible",
+    "status": "pending",
+    "submitted_at": "2026-09-12T06:46:09.120266"
   }
 }
