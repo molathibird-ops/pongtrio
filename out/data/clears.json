@@ -15529,5 +15529,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "f9057622-b9e7-41de-9863-3d22da9d2c96"
+  },
+  "23e91731-6b83-4f1a-b110-0db2ba33c257": {
+    "user_id": "1234567890",
+    "username": "MIINHUYVCL",
+    "challenge_id": "479",
+    "difficulty": "U10",
+    "challenge_name": "신의 후계자",
+    "submitted_at": "2026-09-12T14:11:31.431340",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "23e91731-6b83-4f1a-b110-0db2ba33c257"
   }
 }
