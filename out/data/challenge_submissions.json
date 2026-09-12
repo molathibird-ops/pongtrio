@@ -6524,5 +6524,14 @@
     "status": "registered",
     "submitted_at": "2026-09-11T17:38:31.562190",
     "challenge_id": "1152"
+  },
+  "26d1529d": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "name": "캡사이신 콤보",
+    "description": "4pps 이상으로 포와이드 500콤보 이상을 달성하세요.",
+    "expected_difficulty": "R4",
+    "status": "pending",
+    "submitted_at": "2026-09-12T06:36:22.982336"
   }
 }
