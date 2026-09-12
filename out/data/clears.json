@@ -15507,5 +15507,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "6efa4ffa-5258-4717-83ad-bffb9bd55727"
+  },
+  "17216b93-8cb0-4ce0-9ad7-49815bf7fc6a": {
+    "user_id": "8000",
+    "username": "MIINHUYVCL",
+    "challenge_id": "1151",
+    "difficulty": "Q1",
+    "challenge_name": "우주선",
+    "submitted_at": "2026-09-12T14:04:44.256771",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "17216b93-8cb0-4ce0-9ad7-49815bf7fc6a"
   }
 }
