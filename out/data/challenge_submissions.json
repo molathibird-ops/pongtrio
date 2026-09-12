@@ -6553,5 +6553,14 @@
     "status": "registered",
     "submitted_at": "2026-09-12T06:46:09.120266",
     "challenge_id": "1154"
+  },
+  "0a9c3c1a": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "name": "참는 법",
+    "description": "퀵플레이에서 1APP 이상으로  60apm을 넘지말고 10층을 가세요.",
+    "expected_difficulty": "R4",
+    "status": "pending",
+    "submitted_at": "2026-09-12T06:51:49.805682"
   }
 }
