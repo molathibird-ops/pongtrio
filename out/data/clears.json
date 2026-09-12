@@ -15551,5 +15551,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "000d89cc-bde0-45bd-836d-46b507bf4696"
+  },
+  "d49c7848-ee16-4324-af97-f816717c6614": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "challenge_id": "211",
+    "difficulty": "G14",
+    "custom_pp": null,
+    "challenge_name": "과충전 v4",
+    "submitted_at": "2026-09-12T19:13:04.396298",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "d49c7848-ee16-4324-af97-f816717c6614"
   }
 }
