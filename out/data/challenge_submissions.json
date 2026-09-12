@@ -6563,5 +6563,14 @@
     "status": "registered",
     "submitted_at": "2026-09-12T06:51:49.805682",
     "challenge_id": "1155"
+  },
+  "97946e39": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "흑백 모드",
+    "description": "모든 미노의 색상을 방해줄 색상으로 해서 1000m에 가세요!",
+    "expected_difficulty": "P19",
+    "status": "pending",
+    "submitted_at": "2026-09-12T09:56:49.234060"
   }
 }
