@@ -9611,13 +9611,13 @@
     "user_id": "1494301362647990383",
     "username": "pineapple_09421",
     "challenge_id": "631",
-    "difficulty": "G19",
+    "difficulty": "G20",
     "challenge_name": "우주 포와 퍼클 왕",
     "submitted_at": "2026-07-18T10:26:21.519490",
     "status": "approved",
     "felt_difficulty": "G19",
     "clear_id": "2de16a2e-eea0-4ac7-95f3-94e718fce4be",
-    "custom_pp": null
+    "custom_pp": 475.0
   },
   "6a90288c-6977-4086-9fe0-91bd7b5272d7": {
     "user_id": "1494301362647990383",
@@ -15571,8 +15571,8 @@
     "user_id": "544184205429440533",
     "username": "seonghyeni",
     "challenge_id": "631",
-    "difficulty": "G19",
-    "custom_pp": null,
+    "difficulty": "G20",
+    "custom_pp": 475.0,
     "challenge_name": "우주 포와 퍼클 왕",
     "submitted_at": "2026-09-12T19:51:03.052385",
     "status": "approved",
