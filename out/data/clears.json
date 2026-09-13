@@ -9616,7 +9616,8 @@
     "submitted_at": "2026-07-18T10:26:21.519490",
     "status": "approved",
     "felt_difficulty": "G19",
-    "clear_id": "2de16a2e-eea0-4ac7-95f3-94e718fce4be"
+    "clear_id": "2de16a2e-eea0-4ac7-95f3-94e718fce4be",
+    "custom_pp": null
   },
   "6a90288c-6977-4086-9fe0-91bd7b5272d7": {
     "user_id": "1494301362647990383",
