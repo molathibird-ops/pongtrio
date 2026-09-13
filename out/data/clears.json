@@ -9623,12 +9623,13 @@
     "user_id": "1494301362647990383",
     "username": "pineapple_09421",
     "challenge_id": "633",
-    "difficulty": "U2",
+    "difficulty": "U4",
     "challenge_name": "다중차원 포와 퍼클 왕",
     "submitted_at": "2026-07-18T10:26:38.772931",
     "status": "approved",
     "felt_difficulty": "U2",
-    "clear_id": "6a90288c-6977-4086-9fe0-91bd7b5272d7"
+    "clear_id": "6a90288c-6977-4086-9fe0-91bd7b5272d7",
+    "custom_pp": 750.0
   },
   "e457f01e-73b5-4184-884f-5671886d8975": {
     "user_id": "1494301362647990383",
