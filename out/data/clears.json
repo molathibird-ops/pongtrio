@@ -15560,7 +15560,7 @@
     "custom_pp": null,
     "challenge_name": "과충전 v4",
     "submitted_at": "2026-09-12T19:13:04.396298",
-    "status": "pending",
+    "status": "approved",
     "felt_difficulty": null,
     "clear_id": "d49c7848-ee16-4324-af97-f816717c6614"
   },
@@ -15572,7 +15572,7 @@
     "custom_pp": null,
     "challenge_name": "우주 포와 퍼클 왕",
     "submitted_at": "2026-09-12T19:51:03.052385",
-    "status": "pending",
+    "status": "approved",
     "felt_difficulty": null,
     "clear_id": "cf583c68-afdd-48cd-8762-3a3fe7468b17"
   }
