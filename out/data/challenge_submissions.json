@@ -6599,7 +6599,8 @@
     "name": "society",
     "description": "《영상과 손캠이 필요합니다! 4키 플레이를 요구합니다!》\n\n오전 4시 44분 44초에 등반을 시작하여 올스핀 모드를 켜고 444m 안에 백투백 44를 모으세요!",
     "expected_difficulty": "G16",
-    "status": "pending",
-    "submitted_at": "2026-09-15T08:32:20.726946"
+    "status": "registered",
+    "submitted_at": "2026-09-15T08:32:20.726946",
+    "challenge_id": "1158"
   }
 }
