@@ -1,13 +1,13 @@
 {
   "544184205429440533": {
-    "coins": 9308,
+    "coins": 9309,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [],
     "owned_titles": [],
     "equipped_title": null,
     "profile_color": null,
-    "chat_count": 1029,
+    "chat_count": 1030,
     "got_nerfed": true,
     "night_clears": 1
   },
@@ -723,7 +723,7 @@
     "chat_count": 856
   },
   "1485520167420297276": {
-    "coins": 5499,
+    "coins": 5500,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [
@@ -732,7 +732,7 @@
     "owned_titles": [],
     "equipped_title": null,
     "profile_color": "11레벨",
-    "chat_count": 6783,
+    "chat_count": 6784,
     "best_lottery": 25,
     "bet_wins": 30,
     "got_nerfed": true,
