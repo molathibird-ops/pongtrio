@@ -1,13 +1,13 @@
 {
   "544184205429440533": {
-    "coins": 9409,
+    "coins": 9410,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [],
     "owned_titles": [],
     "equipped_title": null,
     "profile_color": null,
-    "chat_count": 1080,
+    "chat_count": 1081,
     "got_nerfed": true,
     "night_clears": 1
   },
@@ -739,7 +739,7 @@
     "holjjak_streak": 2
   },
   "1452435595430199356": {
-    "coins": 1152,
+    "coins": 1153,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [],
@@ -748,7 +748,7 @@
     ],
     "equipped_title": "스텔",
     "profile_color": null,
-    "chat_count": 11994,
+    "chat_count": 11995,
     "best_lottery": 3,
     "bet_wins": 4,
     "holjjak_streak": 0,
