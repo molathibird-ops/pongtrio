@@ -13045,5 +13045,16 @@
     "creator_name": "seonghyeni",
     "created_at": "2026-09-15T08:04:34.802460",
     "registered_at": "2026-09-15T08:06:10.195982"
+  },
+  "1158": {
+    "name": "society",
+    "description": "《영상과 손캠이 필요합니다! 4키 플레이를 요구합니다!》\n\n오전 4시 44분 44초에 등반을 시작하여 올스핀 모드를 켜고 444m 안에 백투백 44를 모으세요!",
+    "expected_difficulty": "G16",
+    "actual_difficulty": "R4",
+    "custom_pp": null,
+    "creator_id": "1273331318834593814",
+    "creator_name": "ria001186",
+    "created_at": "2026-09-15T08:32:20.726946",
+    "registered_at": "2026-09-15T08:32:50.805528"
   }
 }
