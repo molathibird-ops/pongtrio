@@ -15591,17 +15591,5 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "94161754-af56-4f03-803b-6ea40be1a2ab"
-  },
-  "bf9fc2c6-7a45-4278-99fd-9286ee981206": {
-    "user_id": "544184205429440533",
-    "username": "seonghyeni",
-    "challenge_id": "1078",
-    "difficulty": "R3",
-    "custom_pp": null,
-    "challenge_name": "brithday",
-    "submitted_at": "2026-09-15T08:00:40.456953",
-    "status": "approved",
-    "felt_difficulty": null,
-    "clear_id": "bf9fc2c6-7a45-4278-99fd-9286ee981206"
   }
 }
