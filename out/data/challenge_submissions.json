@@ -6573,5 +6573,14 @@
     "status": "registered",
     "submitted_at": "2026-09-12T09:56:49.234060",
     "challenge_id": "1156"
+  },
+  "e0f7438c": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "name": "오프너, 그 모든것의 종점이자 정점",
+    "description": "블리츠 국내 랭킹 10위안에 드세요!",
+    "expected_difficulty": "Q1",
+    "status": "pending",
+    "submitted_at": "2026-09-15T08:04:34.802460"
   }
 }
