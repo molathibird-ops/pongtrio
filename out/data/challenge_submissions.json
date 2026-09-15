@@ -6583,5 +6583,14 @@
     "status": "registered",
     "submitted_at": "2026-09-15T08:04:34.802460",
     "challenge_id": "1157"
+  },
+  "561f5ff0": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "name": "오프너메인 명예의 전당",
+    "description": "3가방 퍼클 빌드(TDpc, SDPC 등)와 DPC만을 사용하여 블리츠 100만점 이상을 달성하세요!",
+    "expected_difficulty": "Q0",
+    "status": "pending",
+    "submitted_at": "2026-09-15T08:16:25.181727"
   }
 }
