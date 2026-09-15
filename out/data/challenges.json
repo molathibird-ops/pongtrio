@@ -13034,5 +13034,16 @@
     "creator_name": "ria001186",
     "created_at": "2026-09-12T09:56:49.234060",
     "registered_at": "2026-09-12T09:57:05.203028"
+  },
+  "1157": {
+    "name": "오프너, 그 모든것의 종점이자 정점",
+    "description": "블리츠 국내 랭킹 10위안에 드세요!",
+    "expected_difficulty": "Q1",
+    "actual_difficulty": "Q0",
+    "custom_pp": null,
+    "creator_id": "544184205429440533",
+    "creator_name": "seonghyeni",
+    "created_at": "2026-09-15T08:04:34.802460",
+    "registered_at": "2026-09-15T08:06:10.195982"
   }
 }
