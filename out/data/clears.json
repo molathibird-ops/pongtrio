@@ -15579,5 +15579,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "cf583c68-afdd-48cd-8762-3a3fe7468b17"
+  },
+  "94161754-af56-4f03-803b-6ea40be1a2ab": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "challenge_id": "1093",
+    "difficulty": "R3",
+    "custom_pp": null,
+    "challenge_name": "피네스(ex)",
+    "submitted_at": "2026-09-15T08:00:33.429288",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "94161754-af56-4f03-803b-6ea40be1a2ab"
   }
 }
