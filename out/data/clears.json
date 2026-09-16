@@ -15603,5 +15603,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "42b77245-2ec3-4e70-9602-44aa0b665619"
+  },
+  "766b77e2-91e3-4f7b-990b-89d307b5036a": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "challenge_id": "640",
+    "difficulty": "R1",
+    "custom_pp": null,
+    "challenge_name": "오프너메인 기초다지기",
+    "submitted_at": "2026-09-16T12:08:47.879893",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "766b77e2-91e3-4f7b-990b-89d307b5036a"
   }
 }
