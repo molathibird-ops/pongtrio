@@ -6612,5 +6612,14 @@
     "status": "registered",
     "submitted_at": "2026-09-16T01:37:14.929846",
     "challenge_id": "1159"
+  },
+  "9555f9cf": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "society (nerfed)",
+    "description": "《영상과 손캠이 필요합니다! 4키 플레이를 요구합니다!》\n\n오전 4시 44분 44초에 등반을 시작하여 444m 안에 백투백 44를 모으세요!",
+    "expected_difficulty": "P20",
+    "status": "pending",
+    "submitted_at": "2026-09-16T03:22:46.463149"
   }
 }
