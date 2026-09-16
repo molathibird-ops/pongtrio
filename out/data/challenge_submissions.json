@@ -6629,7 +6629,8 @@
     "name": "Increase keys",
     "description": "3키로 시작해서 4층부터 등반할 때마다 매 층마다 쓸 수 있는 키가 1개 늘어납니다! (ex. 2층=3키, 4층=4키, 6층=6키)",
     "expected_difficulty": "P19",
-    "status": "pending",
-    "submitted_at": "2026-09-16T15:28:30.760899"
+    "status": "registered",
+    "submitted_at": "2026-09-16T15:28:30.760899",
+    "challenge_id": "1161"
   }
 }
