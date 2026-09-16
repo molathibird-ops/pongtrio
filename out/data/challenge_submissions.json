@@ -6602,5 +6602,14 @@
     "status": "registered",
     "submitted_at": "2026-09-15T08:32:20.726946",
     "challenge_id": "1158"
+  },
+  "e0b95b2f": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "참는 법 (nerfed)",
+    "description": "퀵플레이에서 0.9APP 이상으로 90apm을 넘지 말고 10층을 가세요.",
+    "expected_difficulty": "G9",
+    "status": "pending",
+    "submitted_at": "2026-09-16T01:37:14.929846"
   }
 }
