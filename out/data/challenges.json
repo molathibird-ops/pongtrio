@@ -13079,5 +13079,16 @@
     "creator_name": "ria001186",
     "created_at": "2026-09-16T03:22:46.463149",
     "registered_at": "2026-09-16T13:50:56.680799"
+  },
+  "1161": {
+    "name": "Increase keys",
+    "description": "3키로 시작해서 4층부터 등반할 때마다 매 층마다 쓸 수 있는 키가 1개 늘어납니다! (ex. 2층=3키, 4층=4키, 6층=6키)",
+    "expected_difficulty": "P19",
+    "actual_difficulty": "P19",
+    "custom_pp": null,
+    "creator_id": "1273331318834593814",
+    "creator_name": "ria001186",
+    "created_at": "2026-09-16T15:28:30.760899",
+    "registered_at": "2026-09-16T15:29:07.995155"
   }
 }
