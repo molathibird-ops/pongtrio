@@ -13068,5 +13068,16 @@
     "creator_name": "ria001186",
     "created_at": "2026-09-16T01:37:14.929846",
     "registered_at": "2026-09-16T01:50:12.329989"
+  },
+  "1160": {
+    "name": "society (nerfed)",
+    "description": "《영상과 손캠이 필요합니다! 4키 플레이를 요구합니다!》\n\n오전 4시 44분 44초에 등반을 시작하여 444m 안에 백투백 44를 모으세요!",
+    "expected_difficulty": "P20",
+    "actual_difficulty": "R1",
+    "custom_pp": null,
+    "creator_id": "1273331318834593814",
+    "creator_name": "ria001186",
+    "created_at": "2026-09-16T03:22:46.463149",
+    "registered_at": "2026-09-16T13:50:56.680799"
   }
 }
