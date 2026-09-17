@@ -739,15 +739,17 @@
     "holjjak_streak": 0
   },
   "1452435595430199356": {
-    "coins": 1453,
+    "coins": 253,
     "balance": 0,
     "total_spent": 0,
-    "owned_colors": [],
+    "owned_colors": [
+      "4레벨"
+    ],
     "owned_titles": [
       "스텔"
     ],
     "equipped_title": "스텔",
-    "profile_color": null,
+    "profile_color": "4레벨",
     "chat_count": 12270,
     "best_lottery": 3,
     "bet_wins": 4,
