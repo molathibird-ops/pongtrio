@@ -187,15 +187,17 @@
     "got_nerfed": true
   },
   "840063640681054228": {
-    "coins": 1170,
+    "coins": 570,
     "balance": 0,
     "total_spent": 0,
-    "owned_colors": [],
+    "owned_colors": [
+      "3레벨"
+    ],
     "owned_titles": [
       "망푸애미"
     ],
     "equipped_title": "망푸애미",
-    "profile_color": null,
+    "profile_color": "3레벨",
     "chat_count": 1053,
     "bet_wins": 4,
     "holjjak_streak": 0,
