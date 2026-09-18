@@ -6632,5 +6632,14 @@
     "status": "registered",
     "submitted_at": "2026-09-16T15:28:30.760899",
     "challenge_id": "1161"
+  },
+  "6ecab5f4": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "다다다다!!",
+    "description": "퀵플레이에서 60pps를 달성하세요.",
+    "expected_difficulty": "epic",
+    "status": "pending",
+    "submitted_at": "2026-09-18T06:24:16.156504"
   }
 }
