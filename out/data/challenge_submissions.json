@@ -6651,5 +6651,14 @@
     "expected_difficulty": "impossible",
     "status": "pending",
     "submitted_at": "2026-09-18T06:31:00.474049"
+  },
+  "ce11de10": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "Anyone Never Clear",
+    "description": "테트리오 환경에서 TPS를 3 이하로 조정 해 모든 모드를 끼고 3pps 이상으로 3000m를 가세요!",
+    "expected_difficulty": "impossible",
+    "status": "pending",
+    "submitted_at": "2026-09-18T15:18:51.648155"
   }
 }
