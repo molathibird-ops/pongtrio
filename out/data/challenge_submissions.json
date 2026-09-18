@@ -6642,5 +6642,14 @@
     "status": "registered",
     "submitted_at": "2026-09-18T06:24:16.156504",
     "challenge_id": "1162"
+  },
+  "fde8f726": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "이게 무슨...;;",
+    "description": "256pps를 달성하세요",
+    "expected_difficulty": "impossible",
+    "status": "pending",
+    "submitted_at": "2026-09-18T06:31:00.474049"
   }
 }
