@@ -6639,7 +6639,8 @@
     "name": "다다다다!!",
     "description": "퀵플레이에서 60pps를 달성하세요.",
     "expected_difficulty": "epic",
-    "status": "pending",
-    "submitted_at": "2026-09-18T06:24:16.156504"
+    "status": "registered",
+    "submitted_at": "2026-09-18T06:24:16.156504",
+    "challenge_id": "1162"
   }
 }
