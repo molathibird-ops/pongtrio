@@ -13226,5 +13226,16 @@
     "creator_name": "rainbow_water",
     "created_at": "2026-09-18T06:24:16.156504",
     "registered_at": "2026-09-18T06:24:33.411663"
+  },
+  "1163": {
+    "name": "Anyone Never Clear",
+    "description": "테트리오 환경에서 TPS를 3 이하로 조정 해 모든 모드를 끼고 3pps 이상으로 3000m를 가세요!",
+    "expected_difficulty": "impossible",
+    "actual_difficulty": "impossible",
+    "custom_pp": null,
+    "creator_id": "1273331318834593814",
+    "creator_name": "ria001186",
+    "created_at": "2026-09-18T15:18:51.648155",
+    "registered_at": "2026-09-18T16:47:52.832238"
   }
 }
