@@ -3420,12 +3420,13 @@
     "user_id": "544184205429440533",
     "username": "seonghyeni",
     "challenge_id": "638",
-    "difficulty": "G6",
+    "difficulty": "G12",
     "challenge_name": "실전에서도 이렇게 됐으면...",
     "submitted_at": "2026-05-13T04:34:22.119390",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "e27b6d90-7aad-4dc0-9b66-afb709c9d9a1"
+    "clear_id": "e27b6d90-7aad-4dc0-9b66-afb709c9d9a1",
+    "custom_pp": null
   },
   "2750dcfd-2627-45ab-953e-b9522282cc76": {
     "user_id": "1218889894659625070",
