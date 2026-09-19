@@ -7150,11 +7150,12 @@
     "name": "나도 이제 블리츠 전문가",
     "description": "블리츠 국내 랭킹 100위안에 드세요!",
     "expected_difficulty": "R2",
-    "actual_difficulty": "G12",
+    "actual_difficulty": "G14",
     "creator_id": "544184205429440533",
     "creator_name": "seonghyeni",
     "created_at": "2026-05-12T20:46:43.626017",
-    "registered_at": "2026-05-12T23:08:03.881106"
+    "registered_at": "2026-05-12T23:08:03.881106",
+    "custom_pp": null
   },
   "640": {
     "name": "오프너메인 기초다지기",
