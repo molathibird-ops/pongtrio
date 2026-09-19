@@ -142,13 +142,15 @@
     "profile_color": null
   },
   "1218889894659625070": {
-    "coins": 9025,
+    "coins": 225,
     "balance": 0,
     "total_spent": 0,
-    "owned_colors": [],
+    "owned_colors": [
+      "8레벨"
+    ],
     "owned_titles": [],
     "equipped_title": null,
-    "profile_color": null,
+    "profile_color": "8레벨",
     "chat_count": 337,
     "got_nerfed": true,
     "night_clears": 1,
