@@ -7140,11 +7140,12 @@
     "name": "실전에서도 이렇게 됐으면...",
     "description": "블리츠에서 15번 이상의 퍼클을 성공후 클리어하세요!",
     "expected_difficulty": "G10",
-    "actual_difficulty": "G6",
+    "actual_difficulty": "G12",
     "creator_id": "544184205429440533",
     "creator_name": "seonghyeni",
     "created_at": "2026-05-12T20:45:47.775543",
-    "registered_at": "2026-05-12T23:03:07.780512"
+    "registered_at": "2026-05-12T23:03:07.780512",
+    "custom_pp": null
   },
   "639": {
     "name": "나도 이제 블리츠 전문가",
