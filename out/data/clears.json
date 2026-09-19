@@ -3488,12 +3488,13 @@
     "user_id": "819167210446127105",
     "username": "myuremi",
     "challenge_id": "641",
-    "difficulty": "G2",
+    "difficulty": "G6",
     "challenge_name": "실전에서도 이렇게 될까?",
     "submitted_at": "2026-05-16T11:03:29.668260",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "62c6a918-82fe-4122-b0b7-6daa2e0e6258"
+    "clear_id": "62c6a918-82fe-4122-b0b7-6daa2e0e6258",
+    "custom_pp": null
   },
   "17e66bb5-7c54-46dc-9b84-c41bc40be2df": {
     "user_id": "819167210446127105",
@@ -9709,12 +9710,13 @@
     "user_id": "832746057443573801",
     "username": "simple1011",
     "challenge_id": "641",
-    "difficulty": "G2",
+    "difficulty": "G6",
     "challenge_name": "실전에서도 이렇게 될까?",
     "submitted_at": "2026-07-19T13:23:19.014504",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "a8a337d3-f613-455c-976f-f1009af7be0c"
+    "clear_id": "a8a337d3-f613-455c-976f-f1009af7be0c",
+    "custom_pp": null
   },
   "14e056c7-a6a3-4f3d-b976-279ddecccf4d": {
     "user_id": "1452435595430199356",
