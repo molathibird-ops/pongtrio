@@ -6678,7 +6678,8 @@
     "name": "이론상 불가능",
     "description": "40라인에서 퍼클을 20번 이상 하세요.",
     "expected_difficulty": "impossible",
-    "status": "pending",
-    "submitted_at": "2026-09-19T17:00:56.515648"
+    "status": "registered",
+    "submitted_at": "2026-09-19T17:00:56.515648",
+    "challenge_id": "1165"
   }
 }
