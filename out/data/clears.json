@@ -3442,12 +3442,13 @@
     "user_id": "544184205429440533",
     "username": "seonghyeni",
     "challenge_id": "639",
-    "difficulty": "G12",
+    "difficulty": "G14",
     "challenge_name": "나도 이제 블리츠 전문가",
     "submitted_at": "2026-05-16T01:02:32.079968",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "c62ee37a-9f5c-4dfc-9f1e-39a991bde424"
+    "clear_id": "c62ee37a-9f5c-4dfc-9f1e-39a991bde424",
+    "custom_pp": null
   },
   "c2bb6426-590a-4cd5-899e-3fbbe5909141": {
     "user_id": "1218889894659625070",
