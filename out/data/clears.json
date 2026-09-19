@@ -6415,12 +6415,13 @@
     "user_id": "819167210446127105",
     "username": "myuremi",
     "challenge_id": "772",
-    "difficulty": "G9",
+    "difficulty": "G12",
     "challenge_name": "단속된 카지노",
     "submitted_at": "2026-06-19T16:12:27.889144",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "a194507c-39d5-4459-ba40-66d6342367f6"
+    "clear_id": "a194507c-39d5-4459-ba40-66d6342367f6",
+    "custom_pp": 225.0
   },
   "a71f2a37-e343-4c11-8824-d4d950a14587": {
     "user_id": "1452435595430199356",
@@ -9467,12 +9468,13 @@
     "user_id": "1273331318834593814",
     "username": "ria001186",
     "challenge_id": "772",
-    "difficulty": "G9",
+    "difficulty": "G12",
     "challenge_name": "단속된 카지노",
     "submitted_at": "2026-07-16T12:58:35.275422",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "51339974-14c3-4adb-855c-0abd6a8f8acb"
+    "clear_id": "51339974-14c3-4adb-855c-0abd6a8f8acb",
+    "custom_pp": 225.0
   },
   "e744351b-acfc-4cc8-834a-cfd6ca2313e7": {
     "user_id": "819167210446127105",
