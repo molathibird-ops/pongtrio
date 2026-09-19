@@ -6688,7 +6688,8 @@
     "name": "하지만 간지났죠?",
     "description": "퀵플레이에서 트리플타워를 5번 이상 만드세요.",
     "expected_difficulty": "R0",
-    "status": "pending",
-    "submitted_at": "2026-09-19T17:02:28.936714"
+    "status": "registered",
+    "submitted_at": "2026-09-19T17:02:28.936714",
+    "challenge_id": "1166"
   }
 }
