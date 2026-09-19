@@ -3548,7 +3548,7 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "b57ab7df-4855-4bcd-829b-9bc0713acfcf",
-    "custom_pp": 260.0
+    "custom_pp": 280.0
   },
   "5244a7b4-64fe-48d8-b3ef-799a63b9d099": {
     "user_id": "1218889894659625070",
@@ -6919,7 +6919,7 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "b6458240-c00a-4e96-acff-67fc2875a8b8",
-    "custom_pp": 260.0
+    "custom_pp": 280.0
   },
   "de19c533-bc93-4b66-ab36-ad35555c03e8": {
     "user_id": "1485520167420297276",
@@ -10463,7 +10463,7 @@
     "status": "approved",
     "felt_difficulty": "G21",
     "clear_id": "d2bc9740-1e91-49eb-a1b3-1ee9ab773b83",
-    "custom_pp": 260.0
+    "custom_pp": 280.0
   },
   "4905a20a-e3c5-4cbe-ae1d-8b9a88916964": {
     "user_id": "842938560093093949",
