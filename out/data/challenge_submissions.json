@@ -6661,5 +6661,14 @@
     "status": "registered",
     "submitted_at": "2026-09-18T15:18:51.648155",
     "challenge_id": "1163"
+  },
+  "843d8c42": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "HARDCORE",
+    "description": "양손 검지손가락만 사용해 600BPM 이상으로 키보드를 눌러 3pps 이상을 유지한 채 10층에 가세요! (5k, hc)",
+    "expected_difficulty": "Q0",
+    "status": "pending",
+    "submitted_at": "2026-09-19T16:50:04.363310"
   }
 }
