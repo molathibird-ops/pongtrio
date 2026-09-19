@@ -15639,5 +15639,17 @@
     "status": "approved",
     "felt_difficulty": "P18",
     "clear_id": "e176d123-7360-4f28-a5da-e99d70e80bf4"
+  },
+  "1225b054-8558-4220-b6bd-bea305b507d0": {
+    "user_id": "1218889894659625070",
+    "username": "pongiscute",
+    "challenge_id": "1055",
+    "difficulty": "G8",
+    "custom_pp": null,
+    "challenge_name": "느엥 v2",
+    "submitted_at": "2026-09-19T04:56:59.074697",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "1225b054-8558-4220-b6bd-bea305b507d0"
   }
 }
