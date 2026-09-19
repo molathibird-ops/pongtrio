@@ -15627,5 +15627,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "42c79791-7173-4165-8d9e-21427b0813cf"
+  },
+  "e176d123-7360-4f28-a5da-e99d70e80bf4": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "challenge_id": "1055",
+    "difficulty": "G8",
+    "custom_pp": null,
+    "challenge_name": "느엥 v2",
+    "submitted_at": "2026-09-19T03:57:20.215530",
+    "status": "pending",
+    "felt_difficulty": "P18",
+    "clear_id": "e176d123-7360-4f28-a5da-e99d70e80bf4"
   }
 }
