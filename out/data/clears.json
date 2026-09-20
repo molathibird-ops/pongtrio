@@ -15687,5 +15687,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "8b839ce3-61e5-441e-a78b-83fe0591158d"
+  },
+  "a4adaa66-18cb-4190-862b-def705f600df": {
+    "user_id": "840063640681054228",
+    "username": "justicedragon4",
+    "challenge_id": "363",
+    "difficulty": "G2",
+    "custom_pp": null,
+    "challenge_name": "LATEST STAND",
+    "submitted_at": "2026-09-20T16:02:51.170897",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "a4adaa66-18cb-4190-862b-def705f600df"
   }
 }
