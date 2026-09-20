@@ -15711,5 +15711,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "8e2083bb-1574-4d10-88f8-c3b3790277b2"
+  },
+  "2cda3b76-78b3-4bf0-b1b2-7de8ac534e54": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "challenge_id": "1061",
+    "difficulty": "R4",
+    "custom_pp": null,
+    "challenge_name": "흐에 v2",
+    "submitted_at": "2026-09-20T16:25:41.306775",
+    "status": "pending",
+    "felt_difficulty": "U1",
+    "clear_id": "2cda3b76-78b3-4bf0-b1b2-7de8ac534e54"
   }
 }
