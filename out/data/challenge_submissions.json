@@ -6701,5 +6701,14 @@
     "status": "registered",
     "submitted_at": "2026-09-20T10:08:51.548155",
     "challenge_id": "1167"
+  },
+  "0546534e": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "멀티탭",
+    "description": "퀵플레이에서 듀오 모드를 켠 상태로 100 서지를 모으세요!",
+    "expected_difficulty": "R0",
+    "status": "pending",
+    "submitted_at": "2026-09-20T12:48:19.839908"
   }
 }
