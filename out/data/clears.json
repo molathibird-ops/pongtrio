@@ -7457,7 +7457,7 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "15423d53-bd1a-48a9-8bcb-e9722dd29fcb",
-    "custom_pp": 650.0
+    "custom_pp": null
   },
   "295153a2-e605-4662-82d6-9b9eec7d0dbb": {
     "user_id": "1315215857743302746",
@@ -7803,7 +7803,7 @@
     "status": "approved",
     "felt_difficulty": "U1",
     "clear_id": "1536ce5c-8cad-46df-a113-906b1da7d990",
-    "custom_pp": 650.0
+    "custom_pp": null
   },
   "9dba42de-be25-455e-ab04-d6fba68cd962": {
     "user_id": "819167210446127105",
@@ -8736,7 +8736,7 @@
     "status": "approved",
     "felt_difficulty": "U4",
     "clear_id": "46ce46b1-1912-43a2-8116-2e2d0c3c7a78",
-    "custom_pp": 650.0
+    "custom_pp": null
   },
   "c8b3b010-a6f4-4235-b0b8-c113341254e2": {
     "user_id": "385",
@@ -13772,7 +13772,7 @@
     "username": "myuremi",
     "challenge_id": "804",
     "difficulty": "U2",
-    "custom_pp": 650.0,
+    "custom_pp": null,
     "challenge_name": "머글 출입금지 (EX)",
     "submitted_at": "2026-08-21T14:01:08.031239",
     "status": "approved",
@@ -13832,7 +13832,7 @@
     "username": "pongiscute",
     "challenge_id": "804",
     "difficulty": "U2",
-    "custom_pp": 650.0,
+    "custom_pp": null,
     "challenge_name": "머글 출입금지 (EX)",
     "submitted_at": "2026-08-22T02:25:19.140715",
     "status": "approved",
@@ -14055,7 +14055,8 @@
     "submitted_at": "2026-08-24T13:06:23.545829",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "249fd3ca-a71d-4033-9421-e309a770973f"
+    "clear_id": "249fd3ca-a71d-4033-9421-e309a770973f",
+    "custom_pp": null
   },
   "bb8976f9-471d-41fe-9cde-9e61556908b4": {
     "user_id": "819167210446127105",
