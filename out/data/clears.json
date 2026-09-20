@@ -7469,7 +7469,7 @@
     "status": "approved",
     "felt_difficulty": "G18",
     "clear_id": "295153a2-e605-4662-82d6-9b9eec7d0dbb",
-    "custom_pp": 550.0
+    "custom_pp": null
   },
   "facd806f-6a52-42b6-af87-8554fb9318e2": {
     "user_id": "976461145026203730",
@@ -9447,7 +9447,7 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "3b17b607-085d-4568-b864-f03d368160a9",
-    "custom_pp": 550.0
+    "custom_pp": null
   },
   "1dfa8b42-8494-4b02-9017-d76ebb78d928": {
     "user_id": "1273331318834593814",
@@ -9504,7 +9504,7 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "4a1ac29a-4bfa-4e19-835f-cd71e64621f8",
-    "custom_pp": 550.0
+    "custom_pp": null
   },
   "bc5bbc49-21af-4ba7-a028-481d2fd641eb": {
     "user_id": "1514630812375580903",
