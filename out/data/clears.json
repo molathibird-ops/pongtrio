@@ -15724,5 +15724,17 @@
     "status": "approved",
     "felt_difficulty": "U1",
     "clear_id": "2cda3b76-78b3-4bf0-b1b2-7de8ac534e54"
+  },
+  "506f3228-6344-4605-9118-fbe6f6c3d362": {
+    "user_id": "840063640681054228",
+    "username": "justicedragon4",
+    "challenge_id": "466",
+    "difficulty": "G4",
+    "custom_pp": null,
+    "challenge_name": "기어서 라스베가스 가기",
+    "submitted_at": "2026-09-20T16:39:27.301897",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "506f3228-6344-4605-9118-fbe6f6c3d362"
   }
 }
