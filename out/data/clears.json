@@ -15736,5 +15736,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "506f3228-6344-4605-9118-fbe6f6c3d362"
+  },
+  "023eff2c-1c79-4727-b452-8a81aae4a25d": {
+    "user_id": "840063640681054228",
+    "username": "justicedragon4",
+    "challenge_id": "130",
+    "difficulty": "G3",
+    "custom_pp": 122.0,
+    "challenge_name": "2000",
+    "submitted_at": "2026-09-20T17:59:30.117957",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "023eff2c-1c79-4727-b452-8a81aae4a25d"
   }
 }
