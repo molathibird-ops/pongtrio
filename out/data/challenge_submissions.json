@@ -6691,5 +6691,14 @@
     "status": "registered",
     "submitted_at": "2026-09-19T17:02:28.936714",
     "challenge_id": "1166"
+  },
+  "17cb67e5": {
+    "user_id": "1273331318834593814",
+    "username": "ria001186",
+    "name": "CICADA 3301",
+    "description": "https://discord.gg/gqZmzRZNja **@**",
+    "expected_difficulty": "censored",
+    "status": "pending",
+    "submitted_at": "2026-09-20T10:08:51.548155"
   }
 }
