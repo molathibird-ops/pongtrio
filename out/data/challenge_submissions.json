@@ -6698,7 +6698,8 @@
     "name": "CICADA 3301",
     "description": "https://discord.gg/gqZmzRZNja **@**",
     "expected_difficulty": "censored",
-    "status": "pending",
-    "submitted_at": "2026-09-20T10:08:51.548155"
+    "status": "registered",
+    "submitted_at": "2026-09-20T10:08:51.548155",
+    "challenge_id": "1167"
   }
 }
