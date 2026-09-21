@@ -3058,14 +3058,15 @@
     "name": "F1 드라이버",
     "description": "4분 이내에 10층에 도달하세요.",
     "expected_difficulty": "G16",
-    "actual_difficulty": "G20",
+    "actual_difficulty": "G18",
     "creator_id": "976461145026203730",
     "creator_name": "tremendous5273",
     "created_at": "2026-01-11T08:13:53.180766",
     "registered_at": "2026-01-11T19:11:37.777016",
     "tags": [
       "순수등반"
-    ]
+    ],
+    "custom_pp": null
   },
   "282": {
     "name": "Mystic Topaz",
