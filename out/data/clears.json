@@ -3591,12 +3591,13 @@
     "user_id": "1377590764552589344",
     "username": "sugap0wder",
     "challenge_id": "281",
-    "difficulty": "G20",
+    "difficulty": "G18",
     "challenge_name": "F1 드라이버",
     "submitted_at": "2026-05-17T07:07:25.409178",
     "status": "approved",
     "felt_difficulty": "U는 아닌듯",
-    "clear_id": "2bced9c4-0ac8-48c8-b423-48685220ac7a"
+    "clear_id": "2bced9c4-0ac8-48c8-b423-48685220ac7a",
+    "custom_pp": null
   },
   "9b2ff6e9-5a16-4465-beaf-76eba26fa63c": {
     "user_id": "976461145026203730",
@@ -4984,12 +4985,13 @@
     "user_id": "1315215857743302746",
     "username": "mi.xjerry",
     "challenge_id": "281",
-    "difficulty": "G20",
+    "difficulty": "G18",
     "challenge_name": "F1 드라이버",
     "submitted_at": "2026-06-11T08:28:36.044915",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "1609dbb1-280b-4c31-8e0d-cee8748b5a2e"
+    "clear_id": "1609dbb1-280b-4c31-8e0d-cee8748b5a2e",
+    "custom_pp": null
   },
   "273665bb-fea1-49ad-b86e-0a61a99a0233": {
     "user_id": "1315215857743302746",
@@ -8551,12 +8553,13 @@
     "user_id": "819167210446127105",
     "username": "myuremi",
     "challenge_id": "281",
-    "difficulty": "G20",
+    "difficulty": "G18",
     "challenge_name": "F1 드라이버",
     "submitted_at": "2026-07-02T08:28:15.005219",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "305006ef-6c1d-48a0-a72a-dbb761f4c7c1"
+    "clear_id": "305006ef-6c1d-48a0-a72a-dbb761f4c7c1",
+    "custom_pp": null
   },
   "8f0b9415-6741-4b3f-8699-e94b81ccad81": {
     "user_id": "1339538910878896181",
@@ -9084,12 +9087,13 @@
     "user_id": "1339538910878896181",
     "username": "kipuru_",
     "challenge_id": "281",
-    "difficulty": "G20",
+    "difficulty": "G18",
     "challenge_name": "F1 드라이버",
     "submitted_at": "2026-07-04T02:57:17.477989",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "6ca0d0e1-b850-43d2-9ce8-01b1a9c8ac67"
+    "clear_id": "6ca0d0e1-b850-43d2-9ce8-01b1a9c8ac67",
+    "custom_pp": null
   },
   "f8ccb990-f6f6-44ed-b00e-72f3c3b1e9a0": {
     "user_id": "1264967714095497268",
@@ -11020,12 +11024,13 @@
     "user_id": "1304989957747642400",
     "username": "astralsecond_30857",
     "challenge_id": "281",
-    "difficulty": "G20",
+    "difficulty": "G18",
     "challenge_name": "F1 드라이버",
     "submitted_at": "2026-08-02T02:51:21.851189",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "29854ba1-dcf1-44bc-94bb-c80ed607f233"
+    "clear_id": "29854ba1-dcf1-44bc-94bb-c80ed607f233",
+    "custom_pp": null
   },
   "ca13f829-6c56-446d-9541-bd51fb6dc5d4": {
     "user_id": "1304994010225573918",
@@ -13927,7 +13932,7 @@
     "user_id": "1218889894659625070",
     "username": "pongiscute",
     "challenge_id": "281",
-    "difficulty": "G20",
+    "difficulty": "G18",
     "custom_pp": null,
     "challenge_name": "F1 드라이버",
     "submitted_at": "2026-08-24T12:13:17.885558",
@@ -14006,12 +14011,13 @@
     "user_id": "281374",
     "username": "thirdiltwo",
     "challenge_id": "281",
-    "difficulty": "G20",
+    "difficulty": "G18",
     "challenge_name": "F1 드라이버",
     "submitted_at": "2026-08-24T13:04:09.159958",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "804ea960-c275-4881-a63a-4bdd1d134969"
+    "clear_id": "804ea960-c275-4881-a63a-4bdd1d134969",
+    "custom_pp": null
   },
   "86bd6ab0-88fa-4db0-8087-8e2c26eb850d": {
     "user_id": "281374",
