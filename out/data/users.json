@@ -721,17 +721,17 @@
     "got_nerfed": true
   },
   "856315672212799488": {
-    "coins": 1646,
+    "coins": 1647,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [],
     "owned_titles": [],
     "equipped_title": null,
     "profile_color": null,
-    "chat_count": 965
+    "chat_count": 966
   },
   "1485520167420297276": {
-    "coins": 443,
+    "coins": 445,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [
@@ -740,14 +740,14 @@
     "owned_titles": [],
     "equipped_title": null,
     "profile_color": "11레벨",
-    "chat_count": 7056,
+    "chat_count": 7058,
     "best_lottery": 25,
     "bet_wins": 31,
     "got_nerfed": true,
     "holjjak_streak": 0
   },
   "1452435595430199356": {
-    "coins": 452,
+    "coins": 455,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [
@@ -758,7 +758,7 @@
     ],
     "equipped_title": "스텔",
     "profile_color": "4레벨",
-    "chat_count": 12569,
+    "chat_count": 12572,
     "best_lottery": 3,
     "bet_wins": 4,
     "holjjak_streak": 0,
