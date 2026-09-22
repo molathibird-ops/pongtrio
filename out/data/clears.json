@@ -15754,5 +15754,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "023eff2c-1c79-4727-b452-8a81aae4a25d"
+  },
+  "70e844fd-a347-4911-9861-c206ff5b0f97": {
+    "user_id": "1452435595430199356",
+    "username": "_mara_0225",
+    "challenge_id": "662",
+    "difficulty": "G4",
+    "custom_pp": 120.0,
+    "challenge_name": "호텔에서 뛰지마세요",
+    "submitted_at": "2026-09-22T08:07:44.524479",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "70e844fd-a347-4911-9861-c206ff5b0f97"
   }
 }
