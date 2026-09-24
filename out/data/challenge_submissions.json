@@ -6718,8 +6718,9 @@
     "name": "오프너메인의 정점, 종점",
     "description": "3가방 퍼클 빌드(TDpc, SDPC 등)와 DPC만을 사용하여 블리츠 101만점 이상을 달성하세요!",
     "expected_difficulty": "U2",
-    "status": "pending",
-    "submitted_at": "2026-09-24T05:08:59.561537"
+    "status": "registered",
+    "submitted_at": "2026-09-24T05:08:59.561537",
+    "challenge_id": "1169"
   },
   "09e31cb0": {
     "user_id": "819167210446127105",
