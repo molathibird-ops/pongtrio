@@ -6711,5 +6711,14 @@
     "status": "registered",
     "submitted_at": "2026-09-20T12:48:19.839908",
     "challenge_id": "1168"
+  },
+  "eaf86f0c": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "name": "오프너메인의 정점, 종점",
+    "description": "3가방 퍼클 빌드(TDpc, SDPC 등)와 DPC만을 사용하여 블리츠 101만점 이상을 달성하세요!",
+    "expected_difficulty": "U2",
+    "status": "pending",
+    "submitted_at": "2026-09-24T05:08:59.561537"
   }
 }
