@@ -6728,7 +6728,8 @@
     "name": "L를 가져가",
     "description": "L미노를 L모양으로 9줄을 깎으세요!",
     "expected_difficulty": "P12",
-    "status": "pending",
-    "submitted_at": "2026-09-24T05:12:12.439978"
+    "status": "registered",
+    "submitted_at": "2026-09-24T05:12:12.439978",
+    "challenge_id": "1170"
   }
 }
