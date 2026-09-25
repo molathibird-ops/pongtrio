@@ -15790,5 +15790,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "2b0f6c24-a9c0-489b-8c5b-4b4fd587f0e5"
+  },
+  "4fd298d0-28a0-4c70-a561-f5adaaa5279b": {
+    "user_id": "1144563458268999750",
+    "username": "sihoo927",
+    "challenge_id": "376",
+    "difficulty": "Q1",
+    "custom_pp": null,
+    "challenge_name": "[포와이드: 궁극의 오의(奧義)]",
+    "submitted_at": "2026-09-25T11:38:26.864155",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "4fd298d0-28a0-4c70-a561-f5adaaa5279b"
   }
 }
