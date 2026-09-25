@@ -15778,5 +15778,17 @@
     "status": "approved",
     "felt_difficulty": "U3",
     "clear_id": "c2f7c299-ffa0-4e50-8a09-347cb00fb2cc"
+  },
+  "2b0f6c24-a9c0-489b-8c5b-4b4fd587f0e5": {
+    "user_id": "832746057443573801",
+    "username": "simple1011",
+    "challenge_id": "640",
+    "difficulty": "G7",
+    "custom_pp": null,
+    "challenge_name": "오프너메인 기초다지기",
+    "submitted_at": "2026-09-25T03:01:37.385081",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "2b0f6c24-a9c0-489b-8c5b-4b4fd587f0e5"
   }
 }
