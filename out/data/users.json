@@ -1,13 +1,13 @@
 {
   "544184205429440533": {
-    "coins": 10012,
+    "coins": 10013,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [],
     "owned_titles": [],
     "equipped_title": null,
     "profile_color": null,
-    "chat_count": 1298,
+    "chat_count": 1299,
     "got_nerfed": true,
     "night_clears": 1
   },
@@ -30,7 +30,7 @@
     "bet_wins": 15
   },
   "819167210446127105": {
-    "coins": 12989,
+    "coins": 12990,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [
@@ -44,7 +44,7 @@
     ],
     "equipped_title": "다이아수저",
     "profile_color": "11레벨",
-    "chat_count": 6002,
+    "chat_count": 6003,
     "best_lottery": 5,
     "got_nerfed": true,
     "holjjak_streak": 0,
@@ -747,7 +747,7 @@
     "holjjak_streak": 0
   },
   "1452435595430199356": {
-    "coins": 604,
+    "coins": 605,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [
@@ -758,7 +758,7 @@
     ],
     "equipped_title": "스텔",
     "profile_color": "4레벨",
-    "chat_count": 12710,
+    "chat_count": 12711,
     "best_lottery": 3,
     "bet_wins": 4,
     "holjjak_streak": 0,
