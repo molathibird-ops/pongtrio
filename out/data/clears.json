@@ -15802,5 +15802,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "4fd298d0-28a0-4c70-a561-f5adaaa5279b"
+  },
+  "1225a1a7-3982-4a94-ab14-ef5ffb25f104": {
+    "user_id": "544184205429440533",
+    "username": "seonghyeni",
+    "challenge_id": "453",
+    "difficulty": "G7",
+    "custom_pp": null,
+    "challenge_name": "펜타곤의 중심",
+    "submitted_at": "2026-09-26T07:29:50.315277",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "1225a1a7-3982-4a94-ab14-ef5ffb25f104"
   }
 }
