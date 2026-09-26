@@ -15814,5 +15814,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "1225a1a7-3982-4a94-ab14-ef5ffb25f104"
+  },
+  "c52cc78f-fe94-4886-a520-738223aa7955": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "challenge_id": "369",
+    "difficulty": "G12",
+    "custom_pp": null,
+    "challenge_name": "핵불닭 맛 허니콤보",
+    "submitted_at": "2026-09-26T12:36:09.884834",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "c52cc78f-fe94-4886-a520-738223aa7955"
   }
 }
