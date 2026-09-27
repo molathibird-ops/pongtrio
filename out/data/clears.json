@@ -15826,5 +15826,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "c52cc78f-fe94-4886-a520-738223aa7955"
+  },
+  "c467373d-46ea-4fab-bf75-6f2cdfbda69a": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "challenge_id": "831",
+    "difficulty": "G8",
+    "custom_pp": null,
+    "challenge_name": "[난이도:Can you clear this?]",
+    "submitted_at": "2026-09-27T14:33:28.009460",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "c467373d-46ea-4fab-bf75-6f2cdfbda69a"
   }
 }
