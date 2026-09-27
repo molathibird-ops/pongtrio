@@ -6731,5 +6731,14 @@
     "status": "registered",
     "submitted_at": "2026-09-24T05:12:12.439978",
     "challenge_id": "1170"
+  },
+  "995b9904": {
+    "user_id": "589099128563302483",
+    "username": "rainbow_water",
+    "name": "빛의 속도",
+    "description": "퀵플레이에서 아무 모드 없이 평균 등반속도 17 이상을 달성하세요.",
+    "expected_difficulty": "Q0",
+    "status": "pending",
+    "submitted_at": "2026-09-27T14:33:33.294222"
   }
 }
