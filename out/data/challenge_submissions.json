@@ -6748,7 +6748,8 @@
     "name": "측면 대 측면",
     "description": "1열과 10열에 I미노가 있는 채로 quad 3번을 하세요!",
     "expected_difficulty": "P6",
-    "status": "pending",
-    "submitted_at": "2026-10-02T18:32:03.636045"
+    "status": "registered",
+    "submitted_at": "2026-10-02T18:32:03.636045",
+    "challenge_id": "1172"
   }
 }
