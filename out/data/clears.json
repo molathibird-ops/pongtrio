@@ -15838,5 +15838,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "c467373d-46ea-4fab-bf75-6f2cdfbda69a"
+  },
+  "2a097f78-ff3c-44a7-b80e-3d745e192e40": {
+    "user_id": "976461145026203730",
+    "username": "tremendous5273",
+    "challenge_id": "298",
+    "difficulty": "G7",
+    "custom_pp": null,
+    "challenge_name": "분노",
+    "submitted_at": "2026-10-02T18:06:37.265796",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "2a097f78-ff3c-44a7-b80e-3d745e192e40"
   }
 }
