@@ -13344,5 +13344,16 @@
     "creator_name": "rainbow_water",
     "created_at": "2026-09-27T14:33:33.294222",
     "registered_at": "2026-10-02T15:36:09.829679"
+  },
+  "1172": {
+    "name": "측면 대 측면",
+    "description": "1열과 10열에 I미노가 있는 채로 quad 3번을 하세요!",
+    "expected_difficulty": "P6",
+    "actual_difficulty": "P6",
+    "custom_pp": null,
+    "creator_id": "1273331318834593814",
+    "creator_name": "ria001186",
+    "created_at": "2026-10-02T18:32:03.636045",
+    "registered_at": "2026-10-02T18:35:41.882089"
   }
 }
