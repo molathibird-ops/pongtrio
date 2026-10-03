@@ -6751,5 +6751,14 @@
     "status": "registered",
     "submitted_at": "2026-10-02T18:32:03.636045",
     "challenge_id": "1172"
+  },
+  "3f8c89c8": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "내가 asceticism이 total mayhem인지 몰랐던 이유:",
+    "description": "asceticism 모드에서 빌드 1가방을 성공하세요",
+    "expected_difficulty": "epic",
+    "status": "pending",
+    "submitted_at": "2026-10-03T10:00:31.068909"
   }
 }
