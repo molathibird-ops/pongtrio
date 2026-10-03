@@ -6758,8 +6758,9 @@
     "name": "내가 asceticism이 total mayhem인지 몰랐던 이유:",
     "description": "asceticism 모드에서 빌드 1가방을 성공하세요",
     "expected_difficulty": "epic",
-    "status": "pending",
-    "submitted_at": "2026-10-03T10:00:31.068909"
+    "status": "registered",
+    "submitted_at": "2026-10-03T10:00:31.068909",
+    "challenge_id": "1173"
   },
   "be7c9cbd": {
     "user_id": "1485520167420297276",
