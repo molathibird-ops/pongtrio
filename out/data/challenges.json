@@ -13355,5 +13355,16 @@
     "creator_name": "ria001186",
     "created_at": "2026-10-02T18:32:03.636045",
     "registered_at": "2026-10-02T18:35:41.882089"
+  },
+  "1173": {
+    "name": "내가 asceticism이 total mayhem인지 몰랐던 이유:",
+    "description": "asceticism 모드에서 빌드 1가방을 성공하세요",
+    "expected_difficulty": "epic",
+    "actual_difficulty": "epic",
+    "custom_pp": null,
+    "creator_id": "1485520167420297276",
+    "creator_name": "doyunh2011_alt",
+    "created_at": "2026-10-03T10:00:31.068909",
+    "registered_at": "2026-10-03T10:40:48.886603"
   }
 }
