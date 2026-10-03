@@ -13366,5 +13366,16 @@
     "creator_name": "doyunh2011_alt",
     "created_at": "2026-10-03T10:00:31.068909",
     "registered_at": "2026-10-03T10:40:48.886603"
+  },
+  "1174": {
+    "name": "0.0952581872434%",
+    "description": "asceticism 모드로 처음 5개 미노로 2줄 퍼클을 하세요",
+    "expected_difficulty": "epic",
+    "actual_difficulty": "epic",
+    "custom_pp": null,
+    "creator_id": "1485520167420297276",
+    "creator_name": "doyunh2011_alt",
+    "created_at": "2026-10-03T10:05:12.283676",
+    "registered_at": "2026-10-03T10:43:22.141784"
   }
 }
