@@ -6760,5 +6760,14 @@
     "expected_difficulty": "epic",
     "status": "pending",
     "submitted_at": "2026-10-03T10:00:31.068909"
+  },
+  "be7c9cbd": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "name": "0.0952581872434%",
+    "description": "asceticism 모드로 처음 5개 미노로 2줄 퍼클을 하세요",
+    "expected_difficulty": "epic",
+    "status": "pending",
+    "submitted_at": "2026-10-03T10:05:12.283676"
   }
 }
