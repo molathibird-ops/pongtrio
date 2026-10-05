@@ -6788,7 +6788,8 @@
     "name": "셀카",
     "description": "셀카를 찍어 올리세요",
     "expected_difficulty": "epic",
-    "status": "pending",
-    "submitted_at": "2026-10-05T10:02:40.415900"
+    "status": "registered",
+    "submitted_at": "2026-10-05T10:02:40.415900",
+    "challenge_id": "1176"
   }
 }
