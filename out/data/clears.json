@@ -15874,5 +15874,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "b892128d-2673-4cab-b0ce-88a33333a901"
+  },
+  "a9f1af80-57d1-4ae2-aa78-4640351d21a1": {
+    "user_id": "1487076669843050516",
+    "username": "d.axe_",
+    "challenge_id": "1176",
+    "difficulty": "epic",
+    "custom_pp": null,
+    "challenge_name": "셀카",
+    "submitted_at": "2026-10-05T21:29:01.759947",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "a9f1af80-57d1-4ae2-aa78-4640351d21a1"
   }
 }
