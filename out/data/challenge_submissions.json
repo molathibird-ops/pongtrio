@@ -6778,7 +6778,8 @@
     "name": "effortless",
     "description": "아무런 모드 없이 2와이드로만 깎아서 10층에 도달하세요! (방해줄을 위한 깎기는 인정)",
     "expected_difficulty": "G13",
-    "status": "pending",
-    "submitted_at": "2026-10-05T00:53:10.193931"
+    "status": "registered",
+    "submitted_at": "2026-10-05T00:53:10.193931",
+    "challenge_id": "1175"
   }
 }
