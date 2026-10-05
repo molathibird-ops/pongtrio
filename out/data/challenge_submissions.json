@@ -6798,7 +6798,8 @@
     "name": "nostalgia is the most painful happiness",
     "description": "asceticism 모드로 소프트드랍 키를 꾹 누른 채로 3층에 가세요...",
     "expected_difficulty": "R0",
-    "status": "pending",
-    "submitted_at": "2026-10-05T10:35:51.037212"
+    "status": "registered",
+    "submitted_at": "2026-10-05T10:35:51.037212",
+    "challenge_id": "1177"
   }
 }
