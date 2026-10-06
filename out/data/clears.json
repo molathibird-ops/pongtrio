@@ -15886,5 +15886,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "a9f1af80-57d1-4ae2-aa78-4640351d21a1"
+  },
+  "740f8528-03d4-4733-8397-94ce1899bef8": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "1170",
+    "difficulty": "P12",
+    "custom_pp": null,
+    "challenge_name": "L를 가져가",
+    "submitted_at": "2026-10-06T08:33:29.415867",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "740f8528-03d4-4733-8397-94ce1899bef8"
   }
 }
