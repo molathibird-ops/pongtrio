@@ -15898,5 +15898,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "740f8528-03d4-4733-8397-94ce1899bef8"
+  },
+  "250c1fdf-0837-4269-a30f-9ed9789592e9": {
+    "user_id": "1452435595430199356",
+    "username": "_mara_0225",
+    "challenge_id": "93",
+    "difficulty": "G1",
+    "custom_pp": null,
+    "challenge_name": "폭주기관차",
+    "submitted_at": "2026-10-06T11:29:31.919947",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "250c1fdf-0837-4269-a30f-9ed9789592e9"
   }
 }
