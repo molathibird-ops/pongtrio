@@ -15934,5 +15934,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "59803468-67ce-4cfc-a3d3-7fb67951592a"
+  },
+  "f4e42933-e469-4662-a1cf-711978ec15ac": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "1095",
+    "difficulty": "P0",
+    "custom_pp": null,
+    "challenge_name": "1점",
+    "submitted_at": "2026-10-07T01:46:30.954148",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "f4e42933-e469-4662-a1cf-711978ec15ac"
   }
 }
