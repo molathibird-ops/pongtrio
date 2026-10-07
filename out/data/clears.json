@@ -15994,5 +15994,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "d61dab28-e0a5-4547-964b-2ec41eb326e4"
+  },
+  "12b34a77-238c-4faa-9d2b-dd8443306647": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "951",
+    "difficulty": "censored",
+    "custom_pp": 0.0,
+    "challenge_name": "똥",
+    "submitted_at": "2026-10-07T02:15:17.755590",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "12b34a77-238c-4faa-9d2b-dd8443306647"
   }
 }
