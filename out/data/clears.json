@@ -15922,5 +15922,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "0362e923-5f85-4e4f-b071-20b09a463154"
+  },
+  "59803468-67ce-4cfc-a3d3-7fb67951592a": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "1099",
+    "difficulty": "epic",
+    "custom_pp": null,
+    "challenge_name": "테트가나를억까해요",
+    "submitted_at": "2026-10-07T01:45:19.143837",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "59803468-67ce-4cfc-a3d3-7fb67951592a"
   }
 }
