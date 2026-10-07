@@ -15982,5 +15982,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "b33bfe9d-c2bd-421d-8edd-da9e72fdbe96"
+  },
+  "d61dab28-e0a5-4547-964b-2ec41eb326e4": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "1044",
+    "difficulty": "P8",
+    "custom_pp": null,
+    "challenge_name": "LET ME COOK",
+    "submitted_at": "2026-10-07T02:07:31.902262",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "d61dab28-e0a5-4547-964b-2ec41eb326e4"
   }
 }
