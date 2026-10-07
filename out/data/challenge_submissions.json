@@ -6811,5 +6811,14 @@
     "status": "registered",
     "submitted_at": "2026-10-05T11:59:40.717874",
     "challenge_id": "1178"
+  },
+  "766bd28a": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "name": "크리스 크로스",
+    "description": "기존 키배치에서 좌우반전을 하지 않은 상태로 팔을 크로스 해 500m를 가세요!",
+    "expected_difficulty": "gimmick",
+    "status": "pending",
+    "submitted_at": "2026-10-07T10:45:42.512805"
   }
 }
