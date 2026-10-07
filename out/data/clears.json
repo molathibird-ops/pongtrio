@@ -16006,5 +16006,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "12b34a77-238c-4faa-9d2b-dd8443306647"
+  },
+  "7d3780a7-9fad-49a2-868d-6c8e69579642": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "1141",
+    "difficulty": "P7",
+    "custom_pp": null,
+    "challenge_name": "병 구이[炙りビン]",
+    "submitted_at": "2026-10-07T02:34:29.548925",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "7d3780a7-9fad-49a2-868d-6c8e69579642"
   }
 }
