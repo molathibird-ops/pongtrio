@@ -15970,5 +15970,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "be2fde7c-d1ad-4b42-9428-cea50a98a1ce"
+  },
+  "b33bfe9d-c2bd-421d-8edd-da9e72fdbe96": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "1045",
+    "difficulty": "P11",
+    "custom_pp": null,
+    "challenge_name": "DT 중독자",
+    "submitted_at": "2026-10-07T01:59:02.979153",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "b33bfe9d-c2bd-421d-8edd-da9e72fdbe96"
   }
 }
