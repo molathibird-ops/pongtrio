@@ -16018,5 +16018,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "56b8ace7-fb11-45c7-9d2b-cd2f01ee9f10"
+  },
+  "ab3a9154-2c2e-440f-b18c-0f927b586387": {
+    "user_id": "1452435595430199356",
+    "username": "_mara_0225",
+    "challenge_id": "127",
+    "difficulty": "G1",
+    "custom_pp": 75.0,
+    "challenge_name": "차르봄바",
+    "submitted_at": "2026-10-07T10:54:32.981579",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "ab3a9154-2c2e-440f-b18c-0f927b586387"
   }
 }
