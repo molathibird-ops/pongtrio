@@ -16006,5 +16006,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "7d3780a7-9fad-49a2-868d-6c8e69579642"
+  },
+  "56b8ace7-fb11-45c7-9d2b-cd2f01ee9f10": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "653",
+    "difficulty": "censored",
+    "custom_pp": null,
+    "challenge_name": "한판승부",
+    "submitted_at": "2026-10-07T08:40:04.025119",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "56b8ace7-fb11-45c7-9d2b-cd2f01ee9f10"
   }
 }
