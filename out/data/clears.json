@@ -15958,5 +15958,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "f94a72ed-acc8-4bf7-956d-05186fed4269"
+  },
+  "be2fde7c-d1ad-4b42-9428-cea50a98a1ce": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "1075",
+    "difficulty": "P14",
+    "custom_pp": null,
+    "challenge_name": "NĀGALĪLĀ",
+    "submitted_at": "2026-10-07T01:54:56.146623",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "be2fde7c-d1ad-4b42-9428-cea50a98a1ce"
   }
 }
