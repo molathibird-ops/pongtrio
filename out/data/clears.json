@@ -16078,5 +16078,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "7ff06c07-52ff-4fec-ad27-5386b565f051"
+  },
+  "3219841c-8fb3-4b15-bdd1-f2ad8d561a89": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "challenge_id": "1053",
+    "difficulty": "R0",
+    "custom_pp": null,
+    "challenge_name": "MAMBO COMBO",
+    "submitted_at": "2026-10-08T16:02:10.637351",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "3219841c-8fb3-4b15-bdd1-f2ad8d561a89"
   }
 }
