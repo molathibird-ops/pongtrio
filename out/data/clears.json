@@ -16066,5 +16066,17 @@
     "status": "approved",
     "felt_difficulty": "G3",
     "clear_id": "1be93ce0-6b5b-4f93-9de4-689358f09073"
+  },
+  "7ff06c07-52ff-4fec-ad27-5386b565f051": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "challenge_id": "966",
+    "difficulty": "R0",
+    "custom_pp": null,
+    "challenge_name": "통제",
+    "submitted_at": "2026-10-08T15:57:07.815021",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "7ff06c07-52ff-4fec-ad27-5386b565f051"
   }
 }
