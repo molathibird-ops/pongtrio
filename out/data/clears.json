@@ -16030,5 +16030,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "ab3a9154-2c2e-440f-b18c-0f927b586387"
+  },
+  "df2cb198-4494-4c9f-a830-4d296eb6d22d": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "challenge_id": "149",
+    "difficulty": "R0",
+    "custom_pp": null,
+    "challenge_name": "버서커",
+    "submitted_at": "2026-10-08T15:16:23.415678",
+    "status": "pending",
+    "felt_difficulty": "P19",
+    "clear_id": "df2cb198-4494-4c9f-a830-4d296eb6d22d"
   }
 }
