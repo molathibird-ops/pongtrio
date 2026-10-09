@@ -16115,5 +16115,16 @@
     "status": "approved",
     "felt_difficulty": "G7",
     "clear_id": "bbd84fcf-728a-46e8-a407-4d42259cbeb5"
+  },
+  "5bdcc8b3-8a2e-4ad0-ac2a-d210ac115915": {
+    "user_id": "10030",
+    "username": "VEXSERY",
+    "challenge_id": "557",
+    "difficulty": "U11",
+    "challenge_name": "과충전 v9",
+    "submitted_at": "2026-10-09T06:41:22.554138",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "5bdcc8b3-8a2e-4ad0-ac2a-d210ac115915"
   }
 }
