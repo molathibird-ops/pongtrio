@@ -812,13 +812,14 @@
     "profile_color": null
   },
   "412669279427756063": {
-    "coins": 1,
+    "coins": 2,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [],
     "owned_titles": [],
     "equipped_title": null,
-    "profile_color": null
+    "profile_color": null,
+    "chat_count": 1
   },
   "643789296083533844": {
     "coins": 1,
