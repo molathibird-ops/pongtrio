@@ -6571,12 +6571,13 @@
     "user_id": "1514630812375580903",
     "username": "gohansub_30741",
     "challenge_id": "526",
-    "difficulty": "G17",
+    "difficulty": "G16",
     "challenge_name": "드디어 깨달앗다 주력의 해ㄱ심!!!",
     "submitted_at": "2026-06-20T16:49:10.961883",
     "status": "approved",
     "felt_difficulty": "G17",
-    "clear_id": "806fefaa-88d2-4649-b97e-65188df59663"
+    "clear_id": "806fefaa-88d2-4649-b97e-65188df59663",
+    "custom_pp": null
   },
   "322ed80c-8009-4150-8c07-26df42e1f0dc": {
     "user_id": "1514630812375580903",
@@ -13788,7 +13789,7 @@
     "user_id": "819167210446127105",
     "username": "myuremi",
     "challenge_id": "526",
-    "difficulty": "G17",
+    "difficulty": "G16",
     "custom_pp": null,
     "challenge_name": "드디어 깨달앗다 주력의 해ㄱ심!!!",
     "submitted_at": "2026-08-21T15:00:41.804382",
@@ -15126,7 +15127,7 @@
     "user_id": "1273331318834593814",
     "username": "ria001186",
     "challenge_id": "526",
-    "difficulty": "G17",
+    "difficulty": "G16",
     "custom_pp": null,
     "challenge_name": "드디어 깨달앗다 주력의 해ㄱ심!!!",
     "submitted_at": "2026-09-05T01:17:36.124115",
