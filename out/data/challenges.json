@@ -5845,11 +5845,12 @@
     "name": "드디어 깨달앗다 주력의 해ㄱ심!!!",
     "description": "엑스퍼트,올 스핀 모드를 키고 8층을 가세요.",
     "expected_difficulty": "G17",
-    "actual_difficulty": "G17",
+    "actual_difficulty": "G16",
     "creator_id": "976461145026203730",
     "creator_name": "tremendous5273",
     "created_at": "2026-04-17T05:25:45.334677",
-    "registered_at": "2026-04-17T22:34:24.620124"
+    "registered_at": "2026-04-17T22:34:24.620124",
+    "custom_pp": null
   },
   "527": {
     "name": "언행이 나쁜 청년",
