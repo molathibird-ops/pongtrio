@@ -11854,7 +11854,7 @@
     "name": "MAMBO COMBO",
     "description": "오직 센포만을 써 하이퍼스피드를 실행시키세요!",
     "expected_difficulty": "G4",
-    "actual_difficulty": "R0",
+    "actual_difficulty": "G3",
     "custom_pp": null,
     "creator_id": "1541833948097937555",
     "creator_name": "team_chimera",
