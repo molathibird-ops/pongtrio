@@ -1239,11 +1239,13 @@
     "profile_color": null
   },
   "1228338306631073815": {
-    "coins": 7787,
+    "coins": 1787,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [],
-    "owned_titles": [],
+    "owned_titles": [
+      "하나코 나나"
+    ],
     "equipped_title": null,
     "profile_color": null,
     "chat_count": 2324,
