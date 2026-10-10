@@ -6838,7 +6838,8 @@
     "name": "공허 추종자 (Nerfed)",
     "description": "올스핀 리버스 모드로 서지가 생기지 않고 10층을 가세요.",
     "expected_difficulty": "U4",
-    "status": "pending",
-    "submitted_at": "2026-10-10T11:39:29.996906"
+    "status": "registered",
+    "submitted_at": "2026-10-10T11:39:29.996906",
+    "challenge_id": "1181"
   }
 }
