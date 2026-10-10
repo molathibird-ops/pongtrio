@@ -16138,5 +16138,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "5f72391b-1069-48d7-ba1b-83c000b5fbef"
+  },
+  "4ddd640e-5bf7-49e2-87f4-8a065d639ecd": {
+    "user_id": "1452435595430199356",
+    "username": "_mara_0225",
+    "challenge_id": "434",
+    "difficulty": "P16",
+    "custom_pp": null,
+    "challenge_name": "핵심",
+    "submitted_at": "2026-10-10T09:13:57.280383",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "4ddd640e-5bf7-49e2-87f4-8a065d639ecd"
   }
 }
