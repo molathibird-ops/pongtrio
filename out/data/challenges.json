@@ -13462,5 +13462,16 @@
     "creator_name": "myuremi",
     "created_at": "2026-10-10T10:22:57.557595",
     "registered_at": "2026-10-10T11:05:18.870833"
+  },
+  "1181": {
+    "name": "공허 추종자 (Nerfed)",
+    "description": "올스핀 리버스 모드로 서지가 생기지 않고 10층을 가세요.",
+    "expected_difficulty": "U4",
+    "actual_difficulty": "Q0",
+    "custom_pp": null,
+    "creator_id": "819167210446127105",
+    "creator_name": "myuremi",
+    "created_at": "2026-10-10T11:39:29.996906",
+    "registered_at": "2026-10-10T11:40:14.111569"
   }
 }
