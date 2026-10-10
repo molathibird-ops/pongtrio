@@ -6828,7 +6828,8 @@
     "name": "Riding on the Wave of Hadron",
     "description": "500m에 도달하기 전 차례대로미노별 미션과 추가미션을 모두 수행하세요! (No mod require, 추가미션은 순서대로 안해도 됨)\n\nz - z미노로 4대미지 보내기\nl - l스핀만 써서 백투백 2 획득하기\no - 양쪽 끝 열에 O미노 두기\ns - sz리덕션에서 S스핀만 하기\ni - isd 혹은 ist 하기\nj - jst 하기\nt - 3콤보 이상에서 tsd 하기\n\n추가미션 - 하이퍼스피드 실행시키기",
     "expected_difficulty": "G17",
-    "status": "pending",
-    "submitted_at": "2026-10-10T10:22:57.557595"
+    "status": "registered",
+    "submitted_at": "2026-10-10T10:22:57.557595",
+    "challenge_id": "1180"
   }
 }
