@@ -16172,5 +16172,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "fc471ffb-1b49-429f-87ab-89a2cd7f8089"
+  },
+  "421689ff-ad7f-4a66-b309-651903b29148": {
+    "user_id": "992003484737",
+    "username": "yieldroral",
+    "challenge_id": "804",
+    "difficulty": "U2",
+    "challenge_name": "머글 출입금지 (EX)",
+    "submitted_at": "2026-10-11T14:42:40.488459",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "421689ff-ad7f-4a66-b309-651903b29148"
   }
 }
