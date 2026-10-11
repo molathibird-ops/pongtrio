@@ -16161,5 +16161,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "7e7b5327-6758-45c9-8f55-f3da4772b8f7"
+  },
+  "fc471ffb-1b49-429f-87ab-89a2cd7f8089": {
+    "user_id": "992003484737",
+    "username": "yieldroral",
+    "challenge_id": "573",
+    "difficulty": "U2",
+    "challenge_name": "아이리 칸나",
+    "submitted_at": "2026-10-11T14:42:22.521429",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "fc471ffb-1b49-429f-87ab-89a2cd7f8089"
   }
 }
