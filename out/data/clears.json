@@ -16183,5 +16183,16 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "421689ff-ad7f-4a66-b309-651903b29148"
+  },
+  "d5a903ae-c3aa-44c5-98af-b0b5e0d2ecd2": {
+    "user_id": "992003484737",
+    "username": "yieldroral",
+    "challenge_id": "1105",
+    "difficulty": "U2",
+    "challenge_name": "도마뱀",
+    "submitted_at": "2026-10-11T14:42:49.101965",
+    "status": "approved",
+    "felt_difficulty": null,
+    "clear_id": "d5a903ae-c3aa-44c5-98af-b0b5e0d2ecd2"
   }
 }
