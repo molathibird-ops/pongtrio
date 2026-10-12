@@ -13504,5 +13504,16 @@
     "tags": [
       "행동제한"
     ]
+  },
+  "1184": {
+    "name": "오프너충이되",
+    "description": "리그에서 오프너루프 혹은 특정 비매너 셋업만을 사용해 상대를 이긴 뒤 채팅으로 욕을 먹으세요!",
+    "expected_difficulty": "epic",
+    "actual_difficulty": "epic",
+    "custom_pp": null,
+    "creator_id": "819167210446127105",
+    "creator_name": "myuremi",
+    "created_at": "2026-10-12T12:14:07.542066",
+    "registered_at": "2026-10-12T13:11:07.641211"
   }
 }
