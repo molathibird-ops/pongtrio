@@ -6848,7 +6848,8 @@
     "name": "재능충",
     "description": "올스핀 모드에서 T스핀과 테트리스 없이 10층에 도달하세요.",
     "expected_difficulty": "R2",
-    "status": "pending",
-    "submitted_at": "2026-10-11T23:47:23.530641"
+    "status": "registered",
+    "submitted_at": "2026-10-11T23:47:23.530641",
+    "challenge_id": "1182"
   }
 }
