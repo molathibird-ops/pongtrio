@@ -6877,7 +6877,8 @@
     "name": "오프너충이되",
     "description": "리그에서 오프너루프 혹은 특정 비매너 셋업만을 사용해 상대를 이긴 뒤 채팅으로 욕을 먹으세요!",
     "expected_difficulty": "epic",
-    "status": "pending",
-    "submitted_at": "2026-10-12T12:14:07.542066"
+    "status": "registered",
+    "submitted_at": "2026-10-12T12:14:07.542066",
+    "challenge_id": "1184"
   }
 }
