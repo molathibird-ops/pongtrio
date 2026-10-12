@@ -13495,7 +13495,7 @@
     "name": "불굴의 의지",
     "description": "탤런트리스(올스핀 모드에서 올스핀 하지 않기)에서 10분을 넘긴 상태에서 상처줄(올스핀을 하지않아서 생기는 방해줄)을 최소 9줄이상을 가진 상태로 10층에 도달하세요",
     "expected_difficulty": "P19",
-    "actual_difficulty": "Q0",
+    "actual_difficulty": "U3",
     "custom_pp": null,
     "creator_id": "1269918374800916543",
     "creator_name": "sssranker0_60429",
