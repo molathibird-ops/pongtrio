@@ -1241,7 +1241,7 @@
     "profile_color": null
   },
   "1228338306631073815": {
-    "coins": 1813,
+    "coins": 1814,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [],
@@ -1250,7 +1250,7 @@
     ],
     "equipped_title": "하나코 나나",
     "profile_color": null,
-    "chat_count": 2332,
+    "chat_count": 2333,
     "best_lottery": 3,
     "got_nerfed": true
   },
@@ -1642,14 +1642,14 @@
     "got_nerfed": true
   },
   "1516396583351091320": {
-    "coins": 129,
+    "coins": 130,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [],
     "owned_titles": [],
     "equipped_title": null,
     "profile_color": null,
-    "chat_count": 129
+    "chat_count": 130
   },
   "1234567890": {
     "coins": 2500,
