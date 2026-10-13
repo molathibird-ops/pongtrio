@@ -6880,5 +6880,14 @@
     "status": "registered",
     "submitted_at": "2026-10-12T12:14:07.542066",
     "challenge_id": "1184"
+  },
+  "6bdff027": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "name": "5090",
+    "description": "fps 1000을 찍으세요!",
+    "expected_difficulty": "epic",
+    "status": "pending",
+    "submitted_at": "2026-10-13T08:22:54.585944"
   }
 }
