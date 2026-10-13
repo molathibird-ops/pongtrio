@@ -6887,7 +6887,8 @@
     "name": "5090",
     "description": "fps 1000을 찍으세요!",
     "expected_difficulty": "epic",
-    "status": "pending",
-    "submitted_at": "2026-10-13T08:22:54.585944"
+    "status": "registered",
+    "submitted_at": "2026-10-13T08:22:54.585944",
+    "challenge_id": "1185"
   }
 }
