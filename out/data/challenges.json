@@ -13526,5 +13526,16 @@
     "creator_name": "myuremi",
     "created_at": "2026-10-13T08:22:54.585944",
     "registered_at": "2026-10-13T08:23:05.979965"
+  },
+  "1186": {
+    "name": "The Least Talented",
+    "description": "[No     hold] 모드와 [All Spin] 모드를 끼고 올스핀을 하지말고 10층까지 등반하세요!(제로 스핀 허용되지 않습니다.)",
+    "expected_difficulty": "G14",
+    "actual_difficulty": "Q1",
+    "custom_pp": null,
+    "creator_id": "1269918374800916543",
+    "creator_name": "sssranker0_60429",
+    "created_at": "2026-10-14T11:15:46.901508",
+    "registered_at": "2026-10-14T16:46:52.906898"
   }
 }
