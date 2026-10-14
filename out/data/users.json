@@ -490,7 +490,7 @@
     "profile_color": null
   },
   "1269918374800916543": {
-    "coins": 5753,
+    "coins": 5763,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [],
@@ -499,7 +499,8 @@
     "profile_color": null,
     "chat_count": 102,
     "night_clears": 4,
-    "got_nerfed": true
+    "got_nerfed": true,
+    "holjjak_streak": 1
   },
   "1450130496045580390": {
     "coins": 37,
