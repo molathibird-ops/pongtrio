@@ -735,7 +735,7 @@
     "chat_count": 1171
   },
   "1485520167420297276": {
-    "coins": 2910,
+    "coins": 5588,
     "balance": 0,
     "total_spent": 0,
     "owned_colors": [
@@ -746,9 +746,9 @@
     "profile_color": "11레벨",
     "chat_count": 7216,
     "best_lottery": 25,
-    "bet_wins": 31,
+    "bet_wins": 32,
     "got_nerfed": true,
-    "holjjak_streak": 0,
+    "holjjak_streak": 1,
     "followed_creators": [
       "589099128563302483"
     ]
