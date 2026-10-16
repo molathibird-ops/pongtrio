@@ -16230,5 +16230,17 @@
     "status": "approved",
     "felt_difficulty": "G1",
     "clear_id": "0080684e-5c62-473b-ab44-ececd229a652"
+  },
+  "7e0a0b58-839e-4e1b-a72a-7e9b494be09c": {
+    "user_id": "1191187268250120253",
+    "username": "sangchu0193",
+    "challenge_id": "1105",
+    "difficulty": "U2",
+    "custom_pp": 666.0,
+    "challenge_name": "도마뱀",
+    "submitted_at": "2026-10-16T11:01:00.702639",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "7e0a0b58-839e-4e1b-a72a-7e9b494be09c"
   }
 }
