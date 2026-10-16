@@ -16254,5 +16254,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "86f5dc6f-a7c6-4b4e-a766-a7d55ef83639"
+  },
+  "e4e1524a-1120-4a3b-b6db-6ba7b313de05": {
+    "user_id": "1191187268250120253",
+    "username": "sangchu0193",
+    "challenge_id": "482",
+    "difficulty": "U5",
+    "custom_pp": null,
+    "challenge_name": "과충전 v6",
+    "submitted_at": "2026-10-16T11:05:14.902783",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "e4e1524a-1120-4a3b-b6db-6ba7b313de05"
   }
 }
