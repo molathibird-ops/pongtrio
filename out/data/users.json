@@ -1660,7 +1660,8 @@
     "owned_colors": [],
     "owned_titles": [],
     "equipped_title": null,
-    "profile_color": null
+    "profile_color": null,
+    "got_nerfed": true
   },
   "8000": {
     "coins": 1500,
@@ -1669,7 +1670,8 @@
     "owned_colors": [],
     "owned_titles": [],
     "equipped_title": null,
-    "profile_color": null
+    "profile_color": null,
+    "got_nerfed": true
   },
   "725976318646157313": {
     "coins": 1,
