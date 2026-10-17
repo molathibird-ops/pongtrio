@@ -16266,5 +16266,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "e4e1524a-1120-4a3b-b6db-6ba7b313de05"
+  },
+  "3ce873ef-2b7c-41dc-9833-04fddacebe1a": {
+    "user_id": "840063640681054228",
+    "username": "justicedragon4",
+    "challenge_id": "138",
+    "difficulty": "G6",
+    "custom_pp": null,
+    "challenge_name": "과충전 v3",
+    "submitted_at": "2026-10-17T12:31:57.656751",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "3ce873ef-2b7c-41dc-9833-04fddacebe1a"
   }
 }
