@@ -6909,5 +6909,14 @@
     "status": "registered",
     "submitted_at": "2026-10-14T11:15:46.901508",
     "challenge_id": "1186"
+  },
+  "cf7cd7c2": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "name": "폭죽",
+    "description": "한 판에 서지를 25번 이상 터뜨리세요!",
+    "expected_difficulty": "G1",
+    "status": "pending",
+    "submitted_at": "2026-10-18T03:33:42.087336"
   }
 }
