@@ -6916,8 +6916,9 @@
     "name": "폭죽",
     "description": "한 판에 서지를 25번 이상 터뜨리세요!",
     "expected_difficulty": "G1",
-    "status": "pending",
-    "submitted_at": "2026-10-18T03:33:42.087336"
+    "status": "registered",
+    "submitted_at": "2026-10-18T03:33:42.087336",
+    "challenge_id": "1187"
   },
   "51038e30": {
     "user_id": "819167210446127105",
