@@ -6926,7 +6926,8 @@
     "name": "존재",
     "description": "모든 모드를 켜고 i⁴m를 가세요!",
     "expected_difficulty": "P0",
-    "status": "pending",
-    "submitted_at": "2026-10-18T03:40:55.147055"
+    "status": "registered",
+    "submitted_at": "2026-10-18T03:40:55.147055",
+    "challenge_id": "1188"
   }
 }
