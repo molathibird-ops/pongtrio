@@ -6918,5 +6918,14 @@
     "expected_difficulty": "G1",
     "status": "pending",
     "submitted_at": "2026-10-18T03:33:42.087336"
+  },
+  "51038e30": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "name": "존재",
+    "description": "모든 모드를 켜고 i⁴m를 가세요!",
+    "expected_difficulty": "P0",
+    "status": "pending",
+    "submitted_at": "2026-10-18T03:40:55.147055"
   }
 }
