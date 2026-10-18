@@ -16278,5 +16278,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "3ce873ef-2b7c-41dc-9833-04fddacebe1a"
+  },
+  "39756514-c793-41b8-abaf-591ce7dded3d": {
+    "user_id": "840063640681054228",
+    "username": "justicedragon4",
+    "challenge_id": "128",
+    "difficulty": "G5",
+    "custom_pp": 100.0,
+    "challenge_name": "222",
+    "submitted_at": "2026-10-18T05:50:26.436806",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "39756514-c793-41b8-abaf-591ce7dded3d"
   }
 }
