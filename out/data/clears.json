@@ -16290,5 +16290,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "39756514-c793-41b8-abaf-591ce7dded3d"
+  },
+  "ac63d832-9409-4f1b-b3e7-963e7658be79": {
+    "user_id": "840063640681054228",
+    "username": "justicedragon4",
+    "challenge_id": "93",
+    "difficulty": "G1",
+    "custom_pp": null,
+    "challenge_name": "폭주기관차",
+    "submitted_at": "2026-10-20T06:57:26.015299",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "ac63d832-9409-4f1b-b3e7-963e7658be79"
   }
 }
