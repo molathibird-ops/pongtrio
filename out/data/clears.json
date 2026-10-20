@@ -16302,5 +16302,17 @@
     "status": "pending",
     "felt_difficulty": null,
     "clear_id": "ac63d832-9409-4f1b-b3e7-963e7658be79"
+  },
+  "54e3f763-3bdc-410d-acfe-4c096a139b8e": {
+    "user_id": "840063640681054228",
+    "username": "justicedragon4",
+    "challenge_id": "94",
+    "difficulty": "G3",
+    "custom_pp": null,
+    "challenge_name": "무술의 달인",
+    "submitted_at": "2026-10-20T06:57:34.293464",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "54e3f763-3bdc-410d-acfe-4c096a139b8e"
   }
 }
