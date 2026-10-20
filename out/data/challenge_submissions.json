@@ -6929,5 +6929,14 @@
     "status": "registered",
     "submitted_at": "2026-10-18T03:40:55.147055",
     "challenge_id": "1188"
+  },
+  "e3885fe9": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "name": "화약 없는 폭죽",
+    "description": "백투백 3에서 50번 끊으세요!",
+    "expected_difficulty": "G15",
+    "status": "pending",
+    "submitted_at": "2026-10-20T11:35:45.793232"
   }
 }
