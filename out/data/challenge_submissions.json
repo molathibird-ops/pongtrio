@@ -6936,7 +6936,8 @@
     "name": "화약 없는 폭죽",
     "description": "백투백 3에서 50번 끊으세요!",
     "expected_difficulty": "G15",
-    "status": "pending",
-    "submitted_at": "2026-10-20T11:35:45.793232"
+    "status": "registered",
+    "submitted_at": "2026-10-20T11:35:45.793232",
+    "challenge_id": "1189"
   }
 }
