@@ -6946,7 +6946,8 @@
     "name": "향수 속 퍼클",
     "description": "asceticism 모드에서 퍼클을 하세요!",
     "expected_difficulty": "epic",
-    "status": "pending",
-    "submitted_at": "2026-10-21T10:39:27.879323"
+    "status": "registered",
+    "submitted_at": "2026-10-21T10:39:27.879323",
+    "challenge_id": "1190"
   }
 }
