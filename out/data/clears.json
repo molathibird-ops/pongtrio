@@ -3353,12 +3353,13 @@
     "user_id": "976461145026203730",
     "username": "tremendous5273",
     "challenge_id": "12",
-    "difficulty": "marathon",
+    "difficulty": "censored",
     "challenge_name": "뉴비도 가능한 스피드런",
     "submitted_at": "2026-05-10T16:05:53.561318",
     "status": "approved",
     "felt_difficulty": null,
-    "clear_id": "bd311c46-096c-4efc-8481-dcfe4759cf59"
+    "clear_id": "bd311c46-096c-4efc-8481-dcfe4759cf59",
+    "custom_pp": null
   },
   "14a754b7-b6ab-4763-afb9-95b9edc7bb3d": {
     "user_id": "976461145026203730",
@@ -13801,7 +13802,7 @@
     "user_id": "832746057443573801",
     "username": "simple1011",
     "challenge_id": "12",
-    "difficulty": "marathon",
+    "difficulty": "censored",
     "custom_pp": null,
     "challenge_name": "뉴비도 가능한 스피드런",
     "submitted_at": "2026-08-21T16:35:54.378407",
