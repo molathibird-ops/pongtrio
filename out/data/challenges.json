@@ -125,12 +125,13 @@
     "name": "뉴비도 가능한 스피드런",
     "description": "40라인을 가장 느리게 완주하세요! (현재 1위: 13분 25초)",
     "expected_difficulty": "marathon",
-    "actual_difficulty": "marathon",
+    "actual_difficulty": "censored",
     "creator_id": "819167210446127105",
     "creator_name": "myuremi",
     "created_at": "2025-11-19T08:56:36.128796",
     "registered_at": "2025-11-19T08:56:46.867603",
-    "curation": "T2"
+    "curation": "T2",
+    "custom_pp": null
   },
   "13": {
     "name": "게임 정복",
