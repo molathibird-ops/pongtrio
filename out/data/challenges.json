@@ -13559,5 +13559,16 @@
     "creator_name": "myuremi",
     "created_at": "2026-10-18T03:40:55.147055",
     "registered_at": "2026-10-18T03:42:31.240573"
+  },
+  "1189": {
+    "name": "화약 없는 폭죽",
+    "description": "백투백 3에서 50번 끊으세요!",
+    "expected_difficulty": "G15",
+    "actual_difficulty": "R3",
+    "custom_pp": null,
+    "creator_id": "819167210446127105",
+    "creator_name": "myuremi",
+    "created_at": "2026-10-20T11:35:45.793232",
+    "registered_at": "2026-10-21T10:21:52.812242"
   }
 }
