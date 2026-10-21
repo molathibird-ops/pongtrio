@@ -6939,5 +6939,14 @@
     "status": "registered",
     "submitted_at": "2026-10-20T11:35:45.793232",
     "challenge_id": "1189"
+  },
+  "e9f21014": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "name": "향수 속 퍼클",
+    "description": "asceticism 모드에서 퍼클을 하세요!",
+    "expected_difficulty": "epic",
+    "status": "pending",
+    "submitted_at": "2026-10-21T10:39:27.879323"
   }
 }
