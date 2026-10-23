@@ -11962,7 +11962,7 @@
     "name": "흐에v3",
     "description": "올스핀 모드로 3분 50초 이내 2000m에 도달하세요!",
     "expected_difficulty": "U2",
-    "actual_difficulty": "Q0",
+    "actual_difficulty": "G20",
     "custom_pp": null,
     "creator_id": "1228338306631073815",
     "creator_name": "gim.jon",
