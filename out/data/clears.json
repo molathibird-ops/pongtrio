@@ -16315,5 +16315,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "85b3b4b3-6c9e-4b7e-9017-963263e6d24d"
+  },
+  "993fc2fd-2af0-4ed7-aa25-d46c9373ee5e": {
+    "user_id": "1191187268250120253",
+    "username": "sangchu0193",
+    "challenge_id": "1062",
+    "difficulty": "Q0",
+    "custom_pp": null,
+    "challenge_name": "흐에v3",
+    "submitted_at": "2026-10-23T09:04:20.909940",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "993fc2fd-2af0-4ed7-aa25-d46c9373ee5e"
   }
 }
