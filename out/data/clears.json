@@ -16327,5 +16327,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "993fc2fd-2af0-4ed7-aa25-d46c9373ee5e"
+  },
+  "21db58cf-922a-4e5e-a1f9-602f61d5ee81": {
+    "user_id": "1144563458268999750",
+    "username": "sihoo927",
+    "challenge_id": "377",
+    "difficulty": "Q2",
+    "custom_pp": null,
+    "challenge_name": "[포와이드: 신]",
+    "submitted_at": "2026-10-23T14:08:52.789781",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "21db58cf-922a-4e5e-a1f9-602f61d5ee81"
   }
 }
