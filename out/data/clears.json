@@ -16339,5 +16339,17 @@
     "status": "approved",
     "felt_difficulty": null,
     "clear_id": "21db58cf-922a-4e5e-a1f9-602f61d5ee81"
+  },
+  "0563b7ac-20e3-4524-af5e-a20a66c68728": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "challenge_id": "1181",
+    "difficulty": "Q0",
+    "custom_pp": null,
+    "challenge_name": "공허 추종자 (Nerfed)",
+    "submitted_at": "2026-10-24T10:07:48.490142",
+    "status": "pending",
+    "felt_difficulty": "U4",
+    "clear_id": "0563b7ac-20e3-4524-af5e-a20a66c68728"
   }
 }
