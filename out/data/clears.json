@@ -16351,5 +16351,17 @@
     "status": "approved",
     "felt_difficulty": "U4",
     "clear_id": "0563b7ac-20e3-4524-af5e-a20a66c68728"
+  },
+  "58e41321-9df8-473e-94be-4191fa62a02e": {
+    "user_id": "1218889894659625070",
+    "username": "pongiscute",
+    "challenge_id": "1074",
+    "difficulty": "R0",
+    "custom_pp": null,
+    "challenge_name": "magical, very magical world",
+    "submitted_at": "2026-10-25T06:03:25.589895",
+    "status": "pending",
+    "felt_difficulty": "P20",
+    "clear_id": "58e41321-9df8-473e-94be-4191fa62a02e"
   }
 }
