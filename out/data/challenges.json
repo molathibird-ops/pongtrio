@@ -13589,5 +13589,16 @@
     "creator_name": "myuremi",
     "created_at": "2026-10-21T10:39:27.879323",
     "registered_at": "2026-10-21T11:04:04.530273"
+  },
+  "1191": {
+    "name": "치즈 레이스 퀵플ver",
+    "description": "messier, volatile, expert 모드를 켜고 12분 이상 버티세요!",
+    "expected_difficulty": "G15",
+    "actual_difficulty": "R3",
+    "custom_pp": null,
+    "creator_id": "1218889894659625070",
+    "creator_name": "pongiscute",
+    "created_at": "2026-10-25T04:38:01.000833",
+    "registered_at": "2026-10-25T04:53:45.569387"
   }
 }
