@@ -6956,7 +6956,8 @@
     "name": "치즈 레이스 퀵플ver",
     "description": "messier, volatile, expert 모드를 켜고 12분 이상 버티세요!",
     "expected_difficulty": "G15",
-    "status": "pending",
-    "submitted_at": "2026-10-25T04:38:01.000833"
+    "status": "registered",
+    "submitted_at": "2026-10-25T04:38:01.000833",
+    "challenge_id": "1191"
   }
 }
