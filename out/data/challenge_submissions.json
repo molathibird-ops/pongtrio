@@ -6949,5 +6949,14 @@
     "status": "registered",
     "submitted_at": "2026-10-21T10:39:27.879323",
     "challenge_id": "1190"
+  },
+  "7c34423d": {
+    "user_id": "1218889894659625070",
+    "username": "pongiscute",
+    "name": "치즈 레이스 퀵플ver",
+    "description": "messier, volatile, expert 모드를 켜고 12분 이상 버티세요!",
+    "expected_difficulty": "G15",
+    "status": "pending",
+    "submitted_at": "2026-10-25T04:38:01.000833"
   }
 }
