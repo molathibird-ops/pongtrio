@@ -6959,5 +6959,14 @@
     "status": "registered",
     "submitted_at": "2026-10-25T04:38:01.000833",
     "challenge_id": "1191"
+  },
+  "9e6df9ba": {
+    "user_id": "819167210446127105",
+    "username": "myuremi",
+    "name": "미니 없는 과충전",
+    "description": "spin mini 없이 50 서지를 모으세요! (올스핀 모드 금지)",
+    "expected_difficulty": "G2",
+    "status": "pending",
+    "submitted_at": "2026-10-25T06:53:35.827400"
   }
 }
