@@ -16363,5 +16363,17 @@
     "status": "approved",
     "felt_difficulty": "P20",
     "clear_id": "58e41321-9df8-473e-94be-4191fa62a02e"
+  },
+  "09c63318-a623-4801-b841-326d5da87a08": {
+    "user_id": "1485520167420297276",
+    "username": "doyunh2011_alt",
+    "challenge_id": "1176",
+    "difficulty": "epic",
+    "custom_pp": null,
+    "challenge_name": "셀카",
+    "submitted_at": "2026-10-27T04:27:17.103101",
+    "status": "pending",
+    "felt_difficulty": null,
+    "clear_id": "09c63318-a623-4801-b841-326d5da87a08"
   }
 }
